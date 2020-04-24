@@ -1,0 +1,27 @@
+c9feb72625cc6b77ce515b5371e57add3dbe0f37;2019-07-24 21:16:46 +0000;Initial empty repository
+e8de0a7d64997247ed483f13ec0d083cc5382250;2019-07-24 15:59:00 -0700;Graphics: Adds standard open source files to repo.
+f785dae3288cef8a5e9c0175fae3b18b362c4dc1;2019-07-25 16:02:00 -0700;Adds DrawableTinting sample.
+cf7bb9f4d506c53eb936679eff2cee033fb33a74;2019-07-25 16:03:58 -0700;Adds DisplayingBitmaps sample.
+f742b11f5e221093fda666faca866fff41efaba4;2019-07-25 16:11:29 -0700;Adds PdfRendererBasic sample.
+08bf56e9dbca70e7f7bdc3302e827462d9676252;2019-07-25 16:12:55 -0700;Adds MediaEffects sample.
+bf19c5e113d06ff27da2078ff8643b83962cb43d;2019-09-09 11:38:11 -0700;PdfRendererBasic: Update dependencies
+a160b489209d6e158cdf164eba2ee2001c9322b5;2019-09-09 16:48:57 -0700;Merge pull request #27 from android/PdfRendererBasic-bump
+1785794ff85958c96912eb08907af096f47e5bf3;2019-09-11 09:16:49 -0700;Update packaging.yaml
+7a3426a08ec580e8b648eebf0105a0ffd5102c72;2019-09-11 09:17:03 -0700;Update packaging.yaml
+b530ea45ae97608ffa58b91070d6203cb7396378;2019-09-11 09:17:15 -0700;Update packaging.yaml
+41c598fc484c5d19075c4e78584cb32deb24e86c;2019-09-11 09:17:36 -0700;Update packaging.yaml
+3e99c5566d5f0f94e913ca7d05128756894a1d52;2019-09-11 09:17:50 -0700;Update packaging.yaml
+004bb46bf47c96ab53abf6b8eb1eafcfc5dbe103;2019-09-11 09:24:32 -0700;Merge pull request #28 from android/update-yaml-files
+15e1a5c09791a72c2a05bfed84fb008cd1288071;2019-09-24 09:52:21 -0700;Update LICENSE
+6dd2fa3b98fd11e4abad8c7c1a2c1b043a007a02;2019-10-01 13:44:24 +0900;MediaEffects: Update dependencies
+281c666acb71a12a16784f378d97e0751b2d4668;2019-10-01 14:59:05 +0900;DisplayingBitmaps: Several updates
+2fa21b7ac5ad9a1135bdc2d583ea9fa8d91da840;2019-10-01 08:03:18 -0700;Merge pull request #31 from android/MediaEffects-update
+7faf674eb044b2c1f6d33c2747f96796211a92bf;2019-10-01 08:05:08 -0700;Merge pull request #32 from android/DisplayingBitmaps-update
+cb375986364f079b9c49946b2b6e9845014d5734;2019-10-02 12:56:29 +0900;DrawableTinting: Update dependencies
+7e91d2add138357588c0da6f351c2f61aebc9a74;2019-10-03 10:08:29 +0900;Merge pull request #33 from android/DrawableTinting-yaraki
+03049f1414646e51fb0049f51f54269fead09a06;2019-10-15 13:31:26 +0900;MediaEffects: Fix unmatched codes and comments
+204ef0e83d871fabb21ff7460fff0f66140361d3;2019-10-16 10:25:32 +0900;Merge pull request #34 from android/yaraki-MediaEffects-fixes
+d6e44d3f0576b54e12fb4db2fc50f63580110051;2020-02-13 13:03:24 +0900;PdfRendererBasic: Update dependencies
+95e36329a32cb6f75b866b5a61e1f9647b785259;2020-02-13 17:38:28 -0800;Merge pull request #35 from android/yaraki-pdf-update
+2782fd86476b77a5b0adb6e0c95213e5c3c54d04;2020-03-13 11:17:52 +0900;DisplayingBitmaps: Fix calculation of inSampleSize
+f506627dc6548072352f8e18a4ae20d38167d6e4;2020-03-17 10:53:24 +0900;Merge pull request #36 from android/yaraki-DisplayingBitmaps-calculation

@@ -1,0 +1,148 @@
+e4370ef26c4614c0ed095ad45ca721cba493ffd9;2015-03-31 11:50:03 +0100;Initial state
+25f277e36554bb19da3efd931c7cddd99ca5f23a;2015-03-31 15:48:54 +0100;First pass tidy up
+7beb7eef0f4e8782d6a43572616bba187e40311b;2015-04-01 10:57:00 +0100;Switch project_id to the eventual real one
+2a537443f50a19210ab1e04c082bb7e2b773735c;2015-04-01 11:23:28 +0100;Switch off gradle/maven hiding (till it works)
+b80d14f476622150cdc0cca08f5b2ddc7c3c464e;2015-04-01 08:59:02 -0500;Polish
+a462a78a150c05e21500f87a22c5ff2fc964169a;2015-04-01 09:02:12 -0500;Regenrate gradle wrapper
+7c82a77d41b0acb336b5ab787172d5b38cf3b2ff;2015-04-01 09:17:17 -0500;Clarify order during maven build
+3ef8f324e89cd02f9a876baa693528449998b489;2015-04-01 09:29:45 -0500;Add link to docker installation steps
+e56bd01e3ed4ac9255ed3a33d05f31d224fd7151;2015-04-01 09:48:36 -0500;Polish docker instructions
+b8f33b7038359bf5bd326eea2302f65153d4233e;2015-04-01 09:49:47 -0500;More docker polish
+b4dfaad8a2244eead8172c9c930855b956bee88b;2015-04-01 09:55:14 -0500;Trigger another cache reset
+f406c5f435f4e2a4c10cc570a4654122d78ea25a;2015-04-01 10:47:38 -0500;More docker polish
+1bd15498540a55d021cf480489e814d24c1e0441;2015-04-01 10:52:03 -0500;Add VirtualBox steps
+e38e6bc3bf535ba6f9a6d8c9d060938f5fde8860;2015-04-01 10:53:25 -0500;Remove 'out of luck' sentence
+1a622ce8a0bb09cc9e50ed8e5aedc899de976e35;2015-04-01 11:41:42 -0500;Add public facing IP
+3778f63acc3fa7fd9e9b45c748f036dc852f6b0b;2015-04-01 11:42:43 -0500;Push
+1e2ff398dd05831b6f75c8fa4d86d7d54d6e7a6e;2015-04-01 11:46:13 -0500;Wrap part of adminition with source block
+74253102176c4716e78ab33c6966d10f165597b5;2015-04-01 11:47:19 -0500;Push
+08778d07380f06624d41b03eb62dfd80ff677033;2015-04-01 12:09:18 -0500;Wrap with source block
+f1f6ec02630bcc0fa0fc5711c282035f782e4948;2015-04-01 12:11:21 -0500;Apply source prefix
+e850949604caeec6f2473327e25358c6e619e0d2;2015-04-01 15:07:01 -0500;Fix gradle build
+231648a7e09a6565ff4f2a49a74da8bdd5039021;2015-04-02 10:25:33 +0100;Add notes about docker ps and docker stop
+1da1dbf1eaae95ce3d33f0abb91feafdb88b25b9;2015-04-02 10:26:17 +0100;Add Guardfile used for local builds to ignores
+eaaf4e381c167d2ff095078d95b28d5fe9f65c09;2015-04-02 12:18:07 +0100;Add VOLUME and RUN to Dockerfile
+0d19f23e14599ca7eec79cb594ee21642261f967;2015-04-02 14:22:36 +0100;Fix build.gradle so it does what it says it does
+32c8d0d3e6a2def4bbf389808a2e705e57c0100d;2015-04-02 14:28:00 +0100;Fix formatting of admonition
+1b55bde0c16d0e1e6b83114e1cb2cbdf1e100ecf;2015-04-02 16:53:19 -0500;Specify version of Java since Docker constraings it to run on Java 7
+5b628bca238e78d465edf79dca5ac431026e00fe;2015-04-06 12:15:40 -0500;Update to Java 7 as minimum
+f253dd76b0e099e21ab001ddb25f2400f95c7544;2015-04-07 09:42:06 -0500;Add steps to double check Docker environment
+7992d192acdce03a4141a98178cd7d7a3c2e51e1;2015-04-21 13:28:01 +0200;Make docker on a Mac easier to follow
+ab863a320ed74ca66e94dd880f0293e901528cc3;2015-04-20 18:38:05 +0200;Reduce Tomcat startup time by using a different source of entropy
+37777c0cb7d5c094f4aaa48166108bb3d67f05ad;2015-05-02 01:07:32 +0200;Remove duplicate note
+fd9421adb9c33b4f2b0551703671108e57e39161;2015-05-01 18:14:49 -0500;Merge pull request #7 from Riggs333/patch-1
+62da78f5f1975cc41be01ee8635aaeab8cb6d314;2015-06-09 09:42:10 -0400;Upgrade to Spring Boot 1.2.4
+242687ec65571c85ed78857aeb5960d87f7e59ad;2015-06-12 13:49:45 -0400;Upgrade to Java 8
+0dc92c0363c997eed7409cca4363349977663e03;2015-06-15 11:54:56 -0400;Add travis support
+ade7ce05a3234d2c3f07e1c71c97b745f1d7c91c;2015-06-15 14:05:14 -0400;Fix slack notifications
+080742761fb366a476a8f71886dd3adcfa973bc7;2015-06-30 06:58:30 +0100;Rmove .codesets.json (fixes gh-9)
+a32e9c4bee75f85cdbce893df6e104eaef41a884;2015-06-30 07:00:23 +0100;Remove unnecessary 'on a Mac'
+c5420d9fa74cd9f3c6edda7207a857425825f24e;2015-06-30 14:00:34 +0300;Upgraded Dockerfile to Java 8
+673c3fdc854da1be8f7d4768421ac6b48cc24755;2015-06-30 12:20:24 +0100;Merge pull request #10 from geoand/java-8-fix
+c049f6516c58b9fb8e77f1781ebc0645185b53df;2015-07-02 08:46:53 -0500;Upgrade to Spring Boot 1.2.5.RELEASE
+506bee48e7ba2bda9fe8b1f616ad11ad82b169dc;2015-08-13 09:33:04 -0400;Added instructions for passing Spring profile as an environment
+d7736bb9fe09e479aab4631b1ef8deea29b7b73a;2015-08-25 15:10:44 -0500;Add footer
+3b2bfb4174e801097ff6fe01c7ddb32a527b3654;2015-09-20 15:42:04 -0500;Upgrade to Spring Boot 1.2.6.RELEASE
+126b62a6d9a49adc3a09dca13f930e039e4ac5b6;2015-10-16 09:44:10 -0400;Upgraded to Spring Boot 1.2.7.RELEASE
+38251b457593c50eadbb49f14580ceb206cd1b18;2015-11-16 11:11:08 -0600;Upgrade to Spring Boot 1.3.0.RELEASE
+4f2207e547e2c9c6f60e337f7e918e9726d41869;2015-12-18 09:40:42 -0600;Upgrade to Spring Boot 1.3.1.RELEASE
+e6e709afd0bee07dbe6f3941d807a1f6a6b20ff8;2016-01-21 21:29:28 -0600;Upgrade to Spring Boot 1.3.2.RELEASE
+3f3f41ce6557c5df8f03a373baa4b9cffbd064b5;2016-02-24 10:13:43 -0600;Migrate to container-based infrastructure
+6b59dc6a8d75732bb09d889041522d65419cc4cf;2016-02-26 07:30:30 -0600;Upgrade to Spring Boot 1.3.3.RELEASE
+60d1ebafb0c611e3d8b9a0fe1a45da08a8bd1904;2016-03-08 10:57:02 +0200;Changed base to a much slimmer Alpine Linux base
+958e5966ef4ab0a423d86710e9be74c9fee21565;2016-03-21 16:31:58 +0000;Use "sh" instead of "bash" in alpine image
+6e6c3ff8e607eb97f536adbe2e5d7b73090cb5fc;2016-05-06 09:49:30 -0500;Upgrade to Spring Boot 1.3.4.RELEASE
+ac53dde241710953199e43c205c92d369acf9dd9;2016-05-10 10:27:01 -0500;Upgrade to Spring Boot 1.3.5.RELEASE
+6c7fb780a2e5ab0b2577cebf23d4168a848c8dcd;2016-06-27 15:23:44 -0500;Add CONTRIBUTING doc
+7325c762ac5ed7b1013ba032530af83e1500f45b;2016-07-02 10:10:23 +0100;Ignore Eclipse resources
+0542b1c8c103e863eddf18f7ebbb1f86a930aed8;2016-07-02 10:10:41 +0100;Add Maven wrapper
+ebc1789f8ddc5577980c73d98c293c2a5ab87d90;2016-07-05 13:52:57 -0500;Upgrade to Spring Boot 1.3.6.RELEASE
+ee55206128b0722f3eac4161bf5700cd2d4cc39b;2016-07-28 06:53:27 -0500;Upgrade to Spring Boot 1.3.7.RELEASE
+2b3ef320f4094ee172f216743d39276032579c34;2016-07-29 11:31:41 -0500;Upgrade to @SpringBoot 1.4.0.RELEASE
+ff8e762dfde44be6d59aec5c74dc50b32e606381;2016-08-25 12:44:03 +0100;Update to Spring Boot 1.4 idioms
+95d6e6cecb2410cb23ddd53ae5249c9ee460de4a;2016-08-25 12:53:29 +0100;Update to latest plugin version
+acdb17520d1378e7b484411562f4a21f9910abe6;2016-08-29 13:18:45 -0500;Upgrade to gradle 2.13
+95e7e69e6d1842bd77365844e7f6d6a07bf5fb7d;2016-09-12 14:44:24 +0200;Update plugin docker-maven-plugin to 0.4.11 (#20)
+83265f08c1acdbecf9dfe48d68a796d080edb057;2016-09-23 16:36:50 -0500;Upgrade to Spring Boot 1.4.1.RELEASE
+9f78ee9367e5d1c2477c5c85d6ec3d2cfa9a106b;2016-11-08 11:53:13 -0600;Upgrade to Spring Boot 1.4.2.RELEASE
+51fb350e5dda3a5cdec6cb4dd7caf7ad3b0d0e34;2016-11-10 14:32:55 +0200;Add debug application in a Docker container section, patched a Dockerfile
+3ceea326c0c18232b06f01b47ad742a6214b7960;2016-11-30 10:07:25 -0600;Upgrade plugin from spring-boot to o.s.boot
+e55072776503a3932c5b51f5d6e007cc0334625d;2016-12-22 22:33:50 -0600;Upgrade to Spring Boot 1.4.3.RELEASE
+57ba9d28c5e12d5f250eaa41eaabfd4b06a43067;2017-01-26 12:38:30 -0600;Upgrade to Spring Boot 1.4.4.RELEASE
+bf71f13b3bf66ee5bc10943a7de9668e91b5a14e;2017-01-26 12:48:50 -0600;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+1cec7d32ece81e94ad112b75ee0abd03a3c2341b;2017-01-30 11:39:24 -0600;Upgrade to Spring Boot 1.5.0.RELEASE
+e30f827c4da55fbe0bd29d555192c4ae8414b297;2017-01-30 23:34:56 -0600;Upgrade to Spring Boot 1.5.1.RELEASE
+ce6dc76ecead66c970dbca75d3b1e42bd1bade58;2017-03-03 11:14:04 -0600;Upgrade to Spring Boot 1.5.2.RELEASE
+ae98e78934dd02057f71eea462cacc3f23c9417d;2017-04-21 09:20:58 -0500;Upgrade to Spring Boot 1.5.3.RELEASE
+cdfa4c1095df362731782ad86cdf2ad26d4c5ae7;2017-07-18 09:35:53 +0100;Update to use most recent spotify plugin for Maven
+1d13e5143a6b688c4d50c9cabef9252d2d1c96fe;2017-07-18 09:51:02 +0100;Update Spring Boot to 1.5.4
+ce5663cfd37c01c7159495ead529aa7584757ebc;2017-07-18 11:07:45 +0100;Remove default push
+5ddc80affb670e89ffbe1d12e1f070a917df9bb7;2017-07-18 12:08:18 +0100;Revert file system layers (optimization)
+ff4c7dda5b486144e4459a639b0b56aff6177d62;2017-07-18 16:42:25 +0100;Update to latest Maven plugin
+23ba9cba8b9e24a306d13c98feb10a1a8a51da4c;2017-07-22 16:11:52 -0700;Switch to dockerfile-maven-plugin v1.3.4
+07dd2724079d30c5542c2e7aa95fe04f49ecc833;2017-07-22 16:39:41 -0700;mvn -> ./mvnw
+7f1da46f957c8beaba13bf2a42e4829dc1cad5f1;2017-07-24 08:29:43 +0100;Fix dockerfile and description
+29be5ab2f2207340540a5269af3aa5cb6247438f;2017-07-24 08:45:55 +0100;Align gradle with Maven (no push by default)
+fbe74b128432fdd3b2df65b1530dcb4ce0b14863;2017-07-26 12:31:51 -0500;Upgrade to Spring Boot 1.5.5.RELEASE
+5900c67185137e2a7b8e071ace05e3459ef53f12;2017-07-27 10:05:39 -0500;Upgrade to Spring Boot 1.5.6.RELEASE
+8c589c1fa77011903de14b9a97ed2b203ed7d99b;2017-07-30 00:42:14 -0700;dockerfile maven config has repository and tag
+5105b4e48ae2cbecdf98f69d100489572e86c4f5;2017-08-02 10:59:15 +0100;Switch to official openjdk image
+764bd227021c5198dc63aa264ba7a47e874a7a15;2017-08-11 11:01:36 -0500;Added See Also links (#35)
+549cda9ea62902c70bf59836898eb7039766893d;2017-09-13 13:16:18 -0500;Upgrade to Spring Boot 1.5.7.RELEASE
+fdf64fc78f4e6a7670d98796548872609a4b74cc;2017-09-22 17:54:26 +0200;Exec java instead of running sh in entrypoint
+f9558760d55c686c1bd21d4f0799623c818bd20f;2017-10-06 17:19:55 +0200;Fix phrasing by removal of duplicated word. (#38)
+73d2a76272d3af596f5edfe1e24369e27ff592ad;2017-10-08 23:20:48 -0500;Update dockerfile-maven repo quote
+85f7e427749e5e5c8c172e071e0a834f7c6c23fa;2017-10-08 23:27:08 -0500;Update README.adoc
+5726773cd084f6419c0ded2d558bfba7a80b6c2d;2017-10-17 15:43:12 -0500;Upgrade to Spring Boot 1.5.8.RELEASE
+044f4e82bc59e16d45952c7a11f45b1c411e20ab;2017-11-17 10:15:22 +0000;Update to latest plugins and use build arg to locate jar
+87bbb12d38cd083c94504b21bdda65c89c04a660;2017-11-30 11:07:44 -0600;Upgrade to Spring Boot 1.5.9.RELEASE
+ed22797675788fcf30f9910c3a7294c8d2433268;2018-01-31 09:16:59 -0600;Upgrade to Spring Boot 1.5.10.RELEASE
+8933f6efa9a94cf596095658dc0b81986d11a3ec;2018-03-01 09:21:47 -0600;Upgrade to Gradle 4.6
+abbda7b960b572f5a5f627a783acd5944134a808;2018-03-01 09:54:57 -0600;Upgrade to Spring Boot 2.0.0.RELEASE
+97f1542a88f8d0f669972eff44e53119460a1634;2018-03-05 23:22:49 -0600;Replace jar gradle task with bootJar task
+233e3f21fc16cd4871a98292021f1cf8e35fab3d;2018-04-02 13:04:31 -0500;Remove front matter
+31b21222af455f7cdd44ce9c06339f9fca72d8d1;2018-04-05 11:45:42 -0500;Upgrade to Spring Boot 2.0.1.RELEASE
+cc81aa921bd45a61458441ea32fd1ca7ec1966fa;2018-04-21 19:58:32 +0200;Fix `./gradlew build docker`
+5c4147afa2a850ba14755cfb70d8d5330b072a32;2018-04-21 20:16:21 +0200;Enable docker for travis-ci
+b684cda657e62fbd7bcbd15b1ad00c04f3a67cf5;2018-04-21 20:09:06 +0200;Add docker build test for maven
+1c8ad64f09ea25e5f0a38e192726b94b110fc1cd;2018-04-21 20:09:46 +0200;Fix indentation
+74b5c93d1c550c57ae0cecf1bb8627e93ca889d4;2018-04-24 15:04:59 +0200;make docker task dependent on build task (#49)
+ac422b780c97bedcb81b42d5a3ebd572302e1c77;2018-05-09 11:27:27 -0500;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+fdb2bddb124ab0d195e9574d45d322ce87516924;2018-06-07 12:06:07 -0500;Experiment
+08ba6bfbac700644ef11e9efe6f2b5b5355d0ed7;2018-06-07 12:08:15 -0500;Revert previous attempt
+833ae95541dd5b4dd924274ba00589eca40aca28;2018-06-18 16:17:42 -0500;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+5706c3f34dd26f81b6bb5b45fd6fd3538d8582ae;2018-09-17 10:51:42 -0500;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+bb927706a40f25ebc7c3da34c5a4e675bd7b417c;2018-10-05 17:27:47 +0100;Break up docker images into layers
+6ceb2c8e4b0a68aa4ddc575d9a40a36e44d2d278;2018-10-05 17:43:37 +0100;Make gradle docker work from clean checkout
+7bf090b88d72493595f7a9d1b6489fbf5c6b6d48;2018-10-05 17:48:45 +0100;Add comments on jar file format
+c116ce616251f2849493751a97b0d7164c95d528;2018-10-05 17:51:33 +0100;Avoid hard coding the jar file location
+8958ec7ba2a768d4f9e30c4a80ee3ea892414bac;2018-10-16 13:12:16 +0100;Use default unpacked dependency location in pom.xml
+3033a0c9708114b2212aacc23f677cc7723ea5d1;2018-12-13 14:43:49 +0000;Upgrade Maven plugin
+0ddb60c4be82c07a1fb68e778455efbce097582c;2019-01-31 17:19:08 +0000;Add NOTE sidebar about the topical guide
+352dbda83bf370b780434c5e65e1c4c632596c1d;2019-03-15 08:17:26 -0700;URL Cleanup (#67)
+57df80af9d1bfb9dedffa6edce6e4c1b3a687ba1;2019-03-20 06:56:59 -0700;URL Cleanup (#68)
+e19c07c3eec9b3d068db925752567882bea381be;2019-03-20 09:39:20 -0500;Upgrade to Spring Boot 2.0.8.RELEASE.
+68d6913d178d6bf9cd01a03f454ece0611261714;2019-03-20 10:02:02 -0500;Upgrade to Spring Boot 2.1.3.RELEASE
+7d403e1ed3190432675da5df01d5fc4aea1af254;2019-04-22 10:46:11 -0500;Upgrade to Spring Boot 2.1.4.RELEASE.
+431c284db83b40750e5dda799407be1f947371e4;2019-06-22 08:25:13 -0500;Upgrade to Spring Boot 2.1.6.RELEASE
+1cc4f5bee2c36093a2ce923cfe6c87dca332af50;2019-08-12 09:08:55 -0500;Updated to @OpenJDK.
+eb56f8f055bb7eaaec4231235699552410d54239;2019-10-29 08:10:28 +0000;Add content about the form of the entrypoint
+29821cd7d230bede4a334257d61169e2c666c96f;2019-11-19 09:44:49 -0600;Upgrade to Gradle 4.10.3.
+f9efa79c9ee644306810b8b999b7ba859d74b0f3;2019-11-19 12:08:48 -0600;Upgrade to Spring Boot 2.2.1.RELEASE.
+c48e33625837e85cea2c32893e41893b0fdfdab4;2019-11-22 13:28:59 +0000;Update to use Spring Boot 2.2.1 Jib
+4ed1d3ed11d279c8f74cce5e8054d826efafbd69;2019-11-22 13:48:10 +0000;Fix wrong name for Jib goal
+7f4119f9178a64f38436ee4c696d590ab9e381a8;2019-11-22 14:03:11 +0000;Fix test script
+f6d1d87f7d27a6e9370ab1adbdc181a5c960e01b;2019-11-22 14:41:04 +0000;Add explicit --build-args for Gradle users
+c424188fe2cac665c287e1bea00c87624a8d32f5;2019-11-22 15:00:51 +0000;More explicit about unpacked dependency
+b617ab6750917c725b6e076706850c0fdfdcb84d;2019-11-26 13:09:27 -0600;Switch to tabs, and adjust tabsizing in asciidoctor.
+2d3f0f1763ad362a1ff5646585cf3e7b6a64e58d;2020-01-03 19:29:38 +0100;Remove "-Djava.security.egd=file:/dev/./urandom"
+04c7c7acc18bc44d8256ff367eac400ad41b8813;2018-11-06 13:35:13 -0600;Fix typo - Dockerfile now uses COPY rather than ADD
+920a2601bdfe8646faf1f6d1f1e7b515c7adf084;2019-03-20 16:18:14 -0500;URL Cleanup
+c3a134697d18bf2ab4df536c5c0e9d8508bfbf0f;2019-03-21 13:41:41 -0500;URL Cleanup
+da6d84ac7e2d9214a6f49aaa37ff8d8def6da208;2020-01-06 10:58:09 +0000;Fix docker command line --build-arg
+e6c2811ff5532dbba4105dde90cfd70e1e82a817;2020-01-06 11:31:31 +0000;Change env var name to pick up debug flags on default image
+181a26f2b28f6c274d45af43e2655a782bfc9869;2020-01-06 11:36:05 +0000;Add note about classpath ordering in exploded jar
+d1455081bfaad93d9e1fa8988c40d4614652f2b0;2020-01-06 11:42:29 +0000;Remove VOLUME instruction from default Dockerfile
+0a2b0f0a1c3bf9b131629d14ca2f3d3b33de1fb1;2018-08-23 09:41:53 +0200;Run application with user privileges
+01ffe601219aa0172c179eea5e08cd2fe1416d1a;2020-01-06 18:00:22 +0100;Update the guide to describe how to run the application with user privileges
+2fbd26f8cb7ab3ec16098f29923547d5d8f79f80;2020-01-06 18:13:32 +0000;Polish

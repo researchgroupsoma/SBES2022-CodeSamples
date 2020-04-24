@@ -1,0 +1,30 @@
+018114e1957226f9cd3fa1780169b19ac6fd3d2d;2019-05-31 20:49:43 +0000;Initial empty repository
+364de7db4cd6aff57af8018fc44221bc9fa29f65;2019-05-31 14:35:35 -0700;Android TV: Adds required open source files for group repo.
+0e739a3a06b5d99690aa8d3e5af2b5cea04fe3b7;2019-06-03 10:33:53 -0700;Adds leanback sample to group tv repo.
+33c54e9b43fdb47f9abda1621246182fef471363;2019-06-03 10:35:25 -0700;Adds leanback-showcase to the tv group repo.
+6aaa9dda6923fb2bddad064fb3ee84b4c851ecc8;2019-06-03 11:26:03 -0700;Adds all missing open source headers to files for leanback.
+c53489dbb1e7dd4cb0d7cf3aac41d6ec357cc431;2019-06-03 11:36:27 -0700;Adds all missing open source headers to files for leanback-showcase.
+34429de2eff6da1211e01256e55f3517fb16d925;2019-06-05 09:13:50 -0700;Fixes docs for open source.
+7228bb327118ce15b2f580834275a389830d53a3;2019-06-10 15:19:07 -0700;Updates README and removes unneeded files.
+4dbcda84b1ba45200426511209c5109e86d48620;2019-06-12 15:47:28 -0700;Update Leanback Showcase to AndroidX
+4b6c16d82ba1256701574e15a9307358eea2555d;2019-06-19 23:44:22 +0000;Merge "Update Leanback Showcase to AndroidX"
+8a9d6f0cbeb3db75ca2a99f56e381edd407e5eb3;2019-07-03 16:01:36 -0700;TV samples: Updates YAML files.
+836a1b2f63792a7e5af7a62150097ec384bfdcea;2019-06-20 15:59:22 +1000;Add new Android TV sample
+b9109ee0b686c93c032da72edb41d341db3b25dd;2019-07-30 13:09:17 -0700;Removed controversial movie. More details: https://www.history.com/news/kkk-birth-of-a-nation-film, https://nypost.com/2015/02/07/why-birth-of-a-nation-is-still-the-most-controversial-movie-ever/
+d65c2a7a74d1949d23a7235b2fb897acdbf35237;2019-09-02 14:01:30 -0700;Updates leanback project to Leanback (follows style guidelines).
+1249f384c410d2435227df7c72441956caa380f2;2019-09-02 14:02:30 -0700;Updates leanback-showcase project to LeanbackShowcase (follows style guidelines).
+d5617a3cae1f9738ef150ab18ee4e123b14361e5;2019-09-02 14:04:00 -0700;Updates classic project to ClassicKotlin (follows style guidelines).
+1a4e89fd021dbdab1bc7cc56dc603380fa550497;2019-09-04 09:09:07 -0700;Merge pull request #1 from cassiozen/mediafeed
+f1021da055d67d9028c0ec1a6d1bfe10b170635c;2019-09-04 09:36:38 -0700;Resolved PR's merge conflicts ('master' into fix-project-names).
+56082403cc20f0f3af8d830689c85dd18e6cb6e8;2019-09-04 15:49:40 -0400;Merge pull request #2 from android/fix-project-names
+ede4d503ccfa03cf2d1db5320b1469849bad19e2;2019-09-19 16:06:55 +0100;Update dependency versions
+d6d57d6f1ee66dcbf6b8a5fe170e0506c972b0b2;2019-09-24 09:52:47 -0700;Update LICENSE
+c6a7cfe93a1da0aaa9fb116f07c1640b46aed608;2019-09-24 10:21:25 -0700;Merge branch 'github/master'
+40aa95f37c6345550510afe93db4270a4dd10f04;2019-10-10 16:30:07 -0400;Update Gradle plugin
+462a1f336af53891cea0c1c16961553cce37cebe;2019-10-31 13:36:51 +0500;Remove Google+ Community link from README
+0c2dc69d9b7e0be8461dceddd5d2e1af9b421cdf;2019-12-16 18:07:04 -0800;Merge pull request #11 from mashed-potatoes/patch-1
+d3c5c287f4606ef0ddd509dd6dfa7bd831d59326;2020-01-02 17:50:46 +0000;Add licence date and owner. (#17)
+d4c11e45686d42d36a99751da958e6ddd649765f;2020-01-13 13:55:08 -0800;Fixed outdated references in the READMEs (#16)
+6a2af5ec4fc1f66cc079c04c5c9dde02903b009e;2020-02-25 10:31:52 -0800;Fixed crash from issue #13 in Settings (#20)
+dbc6bdcbd3ed77415915c33dbf69997f56f8c181;2020-03-05 09:19:14 -0800;Handle media actions for captions and ratings through MediaSessionConnector (#23)
+e3eb39fbcbc217939c1b621917f850e95c75895e;2020-04-15 13:54:21 -0400;Add GitHub Actions workflow (#26)

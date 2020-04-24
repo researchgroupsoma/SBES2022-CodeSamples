@@ -1,0 +1,18 @@
+25f1029ecf4cd90f0f43d7045b6f9295ef77ec7c;2019-07-29 21:02:50 +0000;Initial empty repository
+4d8275555fdc8dc847cba26bba2d0bec5147980b;2019-07-30 12:13:20 -0700;Adds boilerplate files for repo.
+a1a60ccd938a23a304614441667637d6b5fe4935;2019-07-30 12:24:15 -0700;Adds BasicMultitouch sample.
+079c274cd0d960ed76c968c6fe143c1f0734bad6;2019-07-30 12:26:08 -0700;Adds CommitContentSampleApp sample
+05f09a240cf7f1bc3848a2c62ceb76ccc9c46c07;2019-07-30 12:27:17 -0700;Adds CommitContentSampleIME sample to repo.
+9da6461705f9938511e8e6a3a3ac040c52f88d38;2019-07-30 12:28:50 -0700;Adds BasicGestureDetect sample.
+40d912c12d53f68268c5745de34cf890649f00c5;2019-07-30 12:29:55 -0700;Adds AutofillFramework sample to repo.
+d88cadc3e1b4a4bc8079af8bbb4a3fd574048b06;2019-07-30 12:31:05 -0700;Separates Kotlin AutofillFramework sample out.
+1cb72c25f028356ca5cbbac5251d32932c75cc75;2019-09-11 10:15:03 -0700;Update packaging.yaml
+4bf975595d97a112b79327ef72894ac4254c748f;2019-09-11 10:15:16 -0700;Update packaging.yaml
+bb3e175446c0607503c39507ae068b4101f02680;2019-09-11 10:15:27 -0700;Update packaging.yaml
+9552e6c61c218469e093b1cd9e6a36820e76d330;2019-09-11 10:15:43 -0700;Update packaging.yaml
+3170d74ec9d873047e4801fdd3ed95b86bbfeccd;2019-09-11 10:15:55 -0700;Update packaging.yaml
+ce82412d88047634afb0da63036f5e8c8b07c186;2019-09-11 10:16:07 -0700;Update packaging.yaml
+6b0e09dbbe5bb778c489571c50ccdc724dad74e7;2019-09-11 10:16:46 -0700;Merge pull request #1 from android/yaml-updates
+fc5569d659037917299fce1b61a3bbb22428d6da;2019-09-17 09:34:00 -0400;Fix path to screenshot
+8468eb48a109648594ba52514fa6e23a6b21046a;2019-09-24 09:52:01 -0700;Update LICENSE
+9d8122b434367f817a45e5a8d5da22eea1d5d23e;2020-02-13 09:35:58 -0800;Merge pull request #27 from jimmithy/patch-1

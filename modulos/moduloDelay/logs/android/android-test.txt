@@ -1,0 +1,667 @@
+e6900d7e07b642e8e57df958e79f20a0714c90be;2015-08-11 10:29:28 +0000;Initial empty repository
+cd76cc7ce11434f11035ad7cdf200adb9e2e359e;2015-08-13 11:10:01 +0100;Initial commit for master with license files and a README
+4a0d1175e0995db6673ec2ab9e83d6387d964183;2015-09-15 16:31:27 -0400;Update README.md
+12d357e56267c350f328128640858341e5be85e3;2015-09-16 16:51:08 +0100;Merge pull request #1 from MichaelEvans/patch-1
+fdd05bc18dd6283f1dd67d537380f75ac66cabc8;2016-01-25 17:28:48 +0000;Adds "issues" to README
+dc78b653520f5263563bedc344f0648ea4bdf922;2016-08-23 10:06:58 +0100;Create issue template
+b9b5acddfb34ce3c73aa7db866a29a45ef6861c1;2017-03-30 19:16:23 +0000;Don't disable hwcomposer module for API 25+. Otherwise emulator can't boot up.
+37322d98e459f0f65bfff0c963bbf5d5cd2e4026;2017-03-30 15:04:06 -0700;Readd the deleted files
+79725fed7a6884074fb3647a683869e7141ecf64;2017-03-30 15:05:57 -0700;Add the default sd card image file
+b8c4e9b7adaca9bd40266337645f8c3155b8a41c;2017-03-30 17:20:04 -0700;Delete unused file
+e72af2079c207a72ae1fe5e63f3f935d5caefa9e;2017-04-03 10:19:20 -0700;Update the paths of adb.turbo
+af078a8c9d1292471cbe9cc0c5cbdaf06fdd1d87;2017-03-30 23:42:40 +0000;Include the files that are available in opensource otherwise these will be lost when we do a update next time around.
+74a78e41b2ca7cc074e9eda8a8ddfb746ccf68f8;2017-03-31 03:08:12 +0000;Release new version of bootstrap.apk to include CR/151149157
+09ed960cf38742eb4bb93f3a05abba1a34c1f861;2017-03-31 19:18:07 +0000;QEMU2 doesn't support "-gps" FLAG. Just remove it.
+0e19b791d5f890ac55238a572850a843dbd7279f;2017-04-01 04:57:11 +0000;Update adb.turbo binary.
+3dbd60c70fce85721d5e5f56ac3dac90524ad4bc;2017-04-05 18:32:51 +0000;Use the compressed sdcard image so that we don't have to checkin huge datafiles to version control. Unzip them on the fly using a genrule.
+fa8da03def4317e52807d76bb380dc237059cefe;2017-04-05 21:40:58 +0000;Add google analystic for unified_launcher. Now it's very simple. Will try do add more dimensions later.
+570bb121bd5009025af03827728a41f6f7d42596;2017-04-05 23:12:27 +0000;Fix xvfb filegroup dep on generated sdcard.
+30a0af2fd8b5cc45f05f0554b97553f520aea733;2017-04-07 01:52:48 -0400;Add NYCMR1DEV pastry.
+d4bef4a24806056b2a58a44fff3c6656d3227216;2017-04-10 14:23:37 -0400;Cleanup: Migrate references from //net/util/python:portpicker to //third_party/py/portpicker.  The former is deprecated in favor of the latter.
+1340e38da01411cd8fe6a8516dfd71061d664cc6;2017-04-11 19:26:09 -0400;Switch to new syntax for loading BZL files in BZL files that will be open sourced.
+adc5db0bafa572cee8c7289d61aa522444ac7445;2017-04-11 21:34:08 -0400;Make android_sdk_repository generate filegroups containing system image files for all android system images installed in the SDK. For system images that are not installed, create genrule "poison pills" that print a helpful error message if you attempt to build them.
+85f42e57a8c8ccd731263e7fe2dfb3a308c1ad96;2017-04-18 18:49:12 -0400;Open source emulated devices generation logic.
+5e8ea367d53d6951c9511afc37f1ce36fb4bcd79;2017-04-19 14:52:46 -0400;Remove internal reference.
+f31644b8ae2ffbcc51fba423f48aae2af808dff0;2017-04-19 16:32:27 -0400;This CL just rollback CR/148357600
+2cac6c13ca952eaeddabffb1f8fa90512ad1771a;2017-04-20 15:19:47 -0400;Move pyglib.flags users from CamelCase/legacy to PEP8(snake_case)/new methods/functions.
+82d47ae2608485a501095e94aaee6595bdf2a1b1;2017-04-24 15:13:15 -0400;Force to use swiftshader for API 25+ now.
+88d94f38258cb224cf1216f410c6a9eecefbe30c;2017-05-02 18:33:46 -0400;Select best open gl driver by default.
+f7a9d1185788ad789ca66fef277d5abb7a559eab;2017-05-02 18:57:18 -0400;Minor fix suggested by Stefan.
+ac55fc4b5568d27f1c8097747eb6ee914a0fb0ff;2017-05-02 19:11:47 -0400;Fix typo.
+4b8671c038bc9aba6fe199bf4471ab1060c92651;2017-05-08 21:59:36 -0400;Capture device data and report failures at the unified launcher level.
+050a52e40e744514bbb1ab8562df5c06618a6544;2017-05-15 13:45:43 -0400;Update bootstrap.apk to include this CL:   Add directbootAware so boostrap.apk can work in directboot Mode. CR/155933039
+d442b40c7bbc9678107e2d40db502af2b072e90c;2017-05-15 16:06:38 -0400;Add support for directboot mode in unfied_launcher.
+f42eab6152c7278d74bcafba75a9897ea720c25a;2017-05-16 18:37:18 -0400;Automated g4 rollback of changelist 152307277.
+b13f641bbc3ec97bf0ec22984281780bc8ff182b;2017-05-17 20:14:26 -0400;More reporting!
+4a72408708a743f820d4bd22e54e3a07bb0b1865;2017-05-20 19:07:10 -0400;Release daemon/x86/pipe_traversal, the old binary is built 3 years ago and it doesn't support IPv6.
+75ce9e6c5e7220d5a7110026e2dfd090e42ca522;2017-05-22 13:28:14 -0400;Add a mini boot so that when we launch the emulator we can boot it a minimalistic mode. This will help us in running dex2oat on the emulator without booting it up fully.
+a61f08eb6ddbf430636e3f3ffe5f12b0b8514d8d;2017-05-22 13:29:40 -0400;Add more time to wait system idle before shutdowning system. We've see sometimes dex2oat still running after 2 minutes and system can't shutdown cleanly because of this.
+fc71be905f4f13326731086e2da7e5a6a8c0fac4;2017-05-23 18:01:32 -0400;Fix the unified_launcher test that was broken by cl/156753728
+f7031c5e4282579d351b5fee37aba58eda2e04f8;2017-05-24 13:54:03 -0400;Don't connect to device when checking adb listening if ski_connect_device get set. Some legacy android images have a bug and only serve one adb connection. Our probing connection could make the final device is in unfixable "offline" status.
+e0334ad0b822da4b30b7528fb6758f3c0222cf34;2017-05-25 08:52:37 -0400;Add wear-testkeys emulator image type
+583fd81285421a01dc4daf8650476d7c2805578e;2017-05-25 13:46:15 -0400;Enable OpenGL for devices with high resolution screen.
+53732dc3143c9acec5f5caf612219e5e65fbc1ac;2017-05-25 18:39:44 -0400;Uncompress sd card in unfied_launcher instead of a building rule. This should decrease runfile size by 250M.
+a357c2b6c96cb78a8c5d5855a31405cdb9d37e09;2017-05-25 19:37:51 -0400;Don't require userdata.img staying in the same dir with other files.
+0446363633c2bca57573a4527f845d7d8f090742;2017-05-25 21:22:34 -0400;Setup a fixed UUID for dynamically generated sd card. We hard coded this value in our java side code. Also remove unused label flag since mksdcard actually doesn't respect this flag.
+5036d5d0f1d1c4a09f45add039b561e6c6ec3470;2017-05-26 03:52:11 -0400;Fix bug introduced by CR/157125118.
+87744e0b27fd4076c9e4fbea41b0b42f0b49cf7d;2017-05-27 01:49:19 -0400;Add a place which could set default boot property for every devices. Also set default SD card size to 512 MB.
+13bbcd93c61ed27603711b83d0268407e8973ec5;2017-06-05 16:07:38 -0400;New emulator release come with a bug which doesn't respect gpu flag set in command line for qemu1. Before my fix land in emulator release branch, just work around it by set gpu flag in config file. This still works.
+228116d8e44b243fa118bc37829f17a0e6b18ac0;2017-06-12 14:04:26 -0400;Internal change
+0d9a24a0711b75cb37a7acf0dc7e25b656e19901;2017-06-14 10:50:38 -0400;Add wear-le as a system flavor for espresso tests.
+401b8eab94ce7f80fac74d1dac9d1fac36477598;2017-06-15 14:21:44 -0400;Internal change
+6a006e2778f1edf01c27daeee8ea8b46853703b8;2017-06-15 15:33:19 -0400;Replace the dex2oat binary with our custom dex2oat script that determines if the oat file was generated on the cloud or not. If it was, instead of re-generating the oat file, it just copies the oat file to the correct location.
+a93a024bd3bac546712a795c3143d5fff3b71a42;2017-06-19 17:09:14 -0400;Set default open gl driver to swiftshader for API 24. This will make further image upgrading easier.
+ce0a397418eab9b76b8e86fa665785352a4fad15;2017-06-20 11:01:44 -0400;Report Tools Usage data if we find the oat file within the apk. This will help us track how much time are we saving by running dex2oat on the cloud.
+1adf435898bdb5b731af87a8b985d8ba73b2e3da;2017-06-23 14:24:03 -0400;Change default open gl driver to swiftshader for API 23.
+2501b6b54b834f47ae09ee613d6148eab4ddd75a;2017-06-23 15:03:54 -0400;Report tool usage data
+eb6c14c9d4a182ee23cc327bf19d0b20c5834594;2017-06-26 19:15:15 -0400;Restart Android on pre-21 devices in InstallSystemApks
+f5f1eb7af8d75c239a141bbbd13ddf541b3f99ad;2017-06-29 17:42:55 -0400;Add support for booting up api level 26 with vendor.img/encryptionkey.img file if it exists, otherwise it falls back to the older behavior. Before we can go and update api level 26 with the newer system images, we would need to update the way we boot up emulators since they now require additional files for booting up
+2b435ecdf68e420256dac4824b4990207814ac11;2017-06-29 19:07:22 -0400;Create temp directory only for start/boot actions (if necessary).
+68b6b462ebd97a84eef33e1876a292d371784fba;2017-06-30 19:28:32 -0400;Do not compress userdata.dat for qemu2 emulators.
+6f19e844d293e0569123c11a6b898d34cf5541dc;2017-07-01 00:51:47 -0400;Internal change
+2814d7b8060d1f468bb6fb34d1460cdad1811031;2017-07-05 14:27:17 -0400;Update the reporter interface to even track the total runtime
+e7033a7fbfdbec41a2cfa5db1048210fb60ccab4;2017-07-13 11:26:12 -0400;Add leakr dictionary for Android Testing Support Library export process.
+5b8db6803b14d62d1a5f463c8c3a58d6efda4048;2017-07-13 16:34:39 -0400;Setup Android Automotive Embedded emulation in crow
+3cd171ec2193cbea93935ee8e63b3249b3e505c1;2017-07-14 11:50:41 -0400;Remove config_setting references to --ios_cpu.
+f6756b2c5b545c0bc88710097ae2431b956455d3;2017-07-17 17:25:49 -0400;Internal change
+a4bee1db5bbef740b9f9c5f0da806cdcbcf892da;2017-07-21 16:52:23 -0400;Newer system images do not push default.prop in ramdisk.img anymore. They are part of vendor.img, instead of openign vendor.img, we will directly add it to init.rc
+d725b23c3f04335b2b688103bd8aa89079737832;2017-07-24 15:22:19 -0400;Internal change
+0be7ca4a476f6f51def3bb2954eaca23f55549a7;2017-09-02 19:26:22 -0400;Default emulator in make_device
+e6abe6b9e2264ae64e739e6285ea2c0263825275;2017-09-06 15:12:55 -0400;Tweak the default emulator behavior
+d16e9553ae0723f0e008eacc3714c44e1fcc819e;2017-09-11 17:23:47 -0400;Account for the newer dex2oat parser instead of the current dex2oat java parser.
+2f1735328cf9b63bddda2c395ae94a83a0125346;2017-09-12 18:38:36 -0400;set logtostderr to true. Some underlying libraries have changed causing the unified_launcher logs to not show up anymore.
+decff7498ca99a1e6a478111b0d7c3c82c016f2a;2017-09-20 05:00:46 -0400;Add pike as an emulated device.
+67388c322bb20be928764aa5fa6fde8b1edc1d1c;2017-09-20 17:08:31 -0400;Retry installing apk if adb install return code is not 0.
+9e1d0d9e6dda4df7d9cf7ecb39cb3803bfbc305c;2017-09-27 05:41:47 -0400;Internal change
+b825041f583a282ddf4467df24b11c00220fa4fe;2017-09-29 01:26:18 -0400;Fix architecture config and init properties
+757d552fbe7405760aa71266a3249f92ca9d7fa4;2017-09-29 05:33:31 -0400;Internal change
+61b94733bfaf8db6f86c060042b398058a28f17a;2017-10-02 13:41:37 -0400;Add wear-le as system image flavor in API level 26.
+0308ce6f916041613fc13dd141650745adc8763b;2017-10-03 14:37:28 -0400;Fix emulator architecture config and init properties (take two)
+3e73bf96bd84afc9225b04f7359f2c3bcfa37f17;2017-10-05 14:02:48 -0400;Internal change
+08054a8de21135e12d67de93531eded738b4de91;2017-10-05 18:08:11 -0400;Do not return stdout. adb return code might not be 0 but it still returns back success in its output.
+3d2d0ae5a029afd486e0916517cb0f5acd90af57;2017-10-09 22:04:55 -0400;Open-source updates for unified launcher.
+29a4f080023f95955cb814a5e091b8a3fa04e94c;2017-10-16 13:23:54 -0400;Release new version of Android emulator from build id 4348465.
+311a66856c4dc0024cd9414d27f4d3012480b48c;2017-10-18 14:32:40 -0400;Switch the default emulator to qemu2 for API 25 devices
+30bed5ba6743ad18eeb1d29510be6b234b4ca22f;2017-10-18 16:17:43 -0400;Add a few more projects to the qemu1 whitelist
+520664be6f5d085c52260882f28d3b4bf10a437c;2017-10-18 18:40:47 -0400;Whitelist keyboard tests for qemu1, which is the new emulator used by default.
+ac21a23540f84e72931e2a82afc57aff420a2151;2017-10-19 14:14:07 -0400;Move speech_services_speech_tests back to qemu.
+3c855a2153573ba42ea12594b06afd7d9f94ef4b;2017-10-19 15:12:00 -0400;Add missing entry in qemu1 whitelist
+834007c9e08cad9417735355cec25f810949a2aa;2017-10-19 16:06:45 -0400;Add a fingerprint to the device when it boots up.. This will guarantee that we are re-using the oat file only if the fingerprint matches with the target device while installing the apk. If the oat file is generated on a different device and test runs on a different device, we might get weird errors.
+6959fec9b822b66de4f39a818d999864bf418efb;2017-10-19 19:24:00 -0400;Use qemu1 for jtcga/apps/inputmethod/libs/lstm tests.
+330230e35fc1fed1a63a889a93988c288e12b724;2017-10-20 14:25:46 -0400;Fixed BUILD file for empty_snapshot_fs move from @androidsdk to @bazel_tools
+33185483571d99bad6ac708080385bedfc480436;2017-10-20 18:25:01 -0400;Use flags.ValidationError instead of flags_validators.Error.
+4a80422b7e8f42388d86531dc932aa0705a33346;2017-10-21 00:21:05 -0400;Force longfei ui tests to use non-qemu2 image for api 24/25 due to test flakiness. Latest changes around cl/172630636) have made qemu2 the default image to be used in android_test, while our test gets many adbcontroller timeout exceptions for that.
+ef99bf783c893280d375e20cfa5b5e4f7d060eff;2017-10-31 19:21:27 -0400;mount remount,rw /system will fail for device busy after API 24.
+d0ff0d2de9079e84c0468ac322da5fe2d4b14ea5;2017-11-01 13:44:24 -0400;Remove some code that relies on system images being ext4 formatted
+77efac08c51ca069aa49c83c72760557f5cd12b7;2017-11-02 17:31:26 -0400;Add sim_access_rules flag support to the emulator launcher.
+305ea05c2f5ef5b5c95bc68c52a298fb5ae080f1;2017-11-03 00:17:21 -0400;Remove qemu1 whitelist for //j(t)cga/apps/inputmethod/...
+a25a5ec3695b4c366b992b4280fa2eae3f14f78a;2017-11-03 14:24:46 -0400;Release emulator google 27 x86 image from build id 4387347.
+947044cdbcf34f455af65e36eb31805ebef46dca;2017-11-07 18:30:11 -0500;Embed cubervillains CA cert in the system image, as before
+baa0e7a0d22b693f3058900aaa54ef3488ec4f6b;2017-11-07 19:09:00 -0500;Add a crow emulator config for Android Auto on API 27.
+16b9eb26a15758be0ba0e0a05140dbd2e5278fd7;2017-11-08 02:25:11 -0500;Clean up rendering config
+f2faa847a0c13c885cbaf24514aa7917178b31f3;2017-11-14 13:09:34 -0500;Fixed 403 error on non-https pypi Bazel fetches.
+6a1dca4db0bd823e5b391e06dda218ba2dcfe67a;2017-11-17 15:47:38 -0500;Move sim_access_rules_file arg out of qemu section (it is not a qemu param)
+0b3b78d996692f3f7731c4fbae6730bfa80669ec;2017-11-20 13:24:57 -0500;add Andorid Thing emulator images in G3
+d08a38a74465fe03ea4bfce7914b6308d6e66966;2017-11-20 19:01:53 -0500;Fix advancedFeatures.ini paths
+62c0c20b769862ab9965aeca8ecd80d13e9538f5;2017-11-21 12:18:43 -0500;Add a Daydream Phone emulated device for daydream team tests.
+525d675e2d63dee98bfe6ee09ad5bfc8e8a8fef1;2017-11-28 18:31:47 -0500;Attempt to umount /data/var/run/netns when killing emulator
+5d989e734da4a174e04e794a76945338f53c884e;2017-12-04 16:27:58 -0500;Don't give up on installs so easily
+3bd49129a808ff822edeb9575ae1385ed0b60cb9;2017-12-06 16:51:24 -0500;Import an Android Go emulator image
+33c2312b047ca42de6ec9020328b141cef2d3049;2017-12-11 21:24:06 -0500;Delete an unused variable
+b73e63b81e0a9739653ac7153545b6423d729f28;2017-12-13 23:33:44 -0500;Branch devices with wrong dpi to wrong_dpi_* targets.
+524cbc4be55e6709f6afebaed5c65df79bff9080;2017-12-14 13:56:00 -0500;Add correct DPI targets for the Pixel and Pixel XL, and have assistant use them.
+ad622dbdfaa7fdbfe2e2188b6a55573f2fff5bc5;2017-12-14 18:37:20 -0500;Delete opengl_phone and opengl_tablet devices
+4993e0e408a0b7cf12dd330286742e374619663f;2017-12-15 18:25:48 -0500;Add an '--open_gl_driver auto' option corresponding to '-gpu auto'
+6d72eed175aa8beb31fe1a77ac87aad5b09de987;2017-12-19 16:10:49 -0500;Make qemu2 the default emulator for most devices
+56bfff9ff01aad983790ac13a48043707e3492fc;2017-12-19 17:52:36 -0500;Remove a remaining bit of code that relied on system.img being ext4
+72f570110a053158667db27776cdd8e7f2d988b5;2017-12-20 03:41:01 -0500;Run gmail (non-go) tests against qemu1 for now
+65477937c6fd5d23c5ccf69098c5df2fa2ab5274;2017-12-20 12:31:07 -0500;Set SDK23 emulator back to use qemu1 for instant app tests
+6ec4c5f7a1e1d54fceb80619b736785905fa27ab;2017-12-20 13:56:23 -0500;Switch the two broken tests back to qemu1
+0b506db80c640be4ad038bdea6a07ee467b9e8a3;2017-12-20 14:50:22 -0500;Make generic_go_device private for now
+3f2d06739fbf325344d78b5bbb110d733d5aca19;2017-12-20 21:44:12 -0500;Switch Play Games tests back to legacy qemu emulator to temporarily fix test breakage, see cl/179593952.
+25dae5353eef4b0402b5589079f63f91695f3b38;2018-01-03 15:21:14 -0500;Fix device paths in android_broker_test
+c0beb70fca9d2042c4179aba6c0f56d86701dc49;2018-01-09 13:33:23 -0500;For low mem devices, running the dex2oat process in mini_boot can cause the kernel to panic if there's not enough free memory for dex2oat process to write the output file. In mini_boot mode, always assume the RAM to be 4GB if it's lesser than that.
+78658111002ae2087e7908eb7943a04ac62a92f6;2018-01-11 10:26:05 -0500;Create a new emulator target with increased memory for SCUBA tests on Wear.
+fe5ad34d30064c0f4172eb93c7f68ad7a8dfd5e0;2018-01-11 15:51:48 -0500;Create Bazel WORKSPACE.opensource for android_test_support, along with the auto_value java_plugin and the initial top level copy.bara.sky.
+d13ae59675946ffd04705670bcbd2527fad1489d;2018-01-11 16:06:40 -0500;BUILD.bazel file for //tools/device_broker/proto
+45cbc48c07ae4e9810795d961d3e364ef3564598;2018-01-11 17:44:15 -0500;Internal change
+f88864f108126594bc58ad6f0e30cb4f8182bd5c;2018-01-17 14:15:45 -0500;BUILD.bazel files for //tools/device_broker/java/com/google/android/apps/common/testing/...
+34168e7691d9b3efae017d83862c0aebd0ba90e3;2018-01-17 17:07:18 -0500;Generate Maven Artifacts for Runner, Orchestrator, Monitor targets.
+6bc18fec47300fb540dca13a6403771df466f08e;2018-01-18 12:54:19 -0500;Automated rollback of changelist 181338957.
+23d73d3a2cee7c9734d3314427226e660e8302c0;2018-01-18 13:37:43 -0500;Update unified launcher to work with uncompressed system images
+4d6409e415a25a2fb2d73422c707d202f94354fe;2018-01-18 16:36:04 -0500;Internal change
+eb6fa74a9426280a456d1afb092677f6e70e1411;2018-01-18 16:39:41 -0500;PiperOrigin-RevId: 182430426
+5194b004a973a397c8397d7378fe8010f4f032d2;2018-01-19 15:44:30 -0500;Add espresso-core to maven artifact
+265dc40ee0ba0998f6fb8e07f3d17e09ff4a0fcf;2018-01-22 13:45:53 -0500;Add espresso extras to maven artifact
+8d432543e63de98846529449c29f6f72ebb0a53d;2018-01-22 19:48:59 -0500;Internal change
+3fdc623ba884a79b8e621a870ac37cf72c54e140;2018-01-22 23:25:46 -0500;Internal change
+07787dc994cab3d90b45bd486512509897857318;2018-01-23 13:38:41 -0500;PiperOrigin-RevId: 182956316
+22033dd70beb3915c6880fbfb5ebee514a1f02bf;2018-01-23 15:29:58 -0500;Merge unified_launcher/emulator's copybara configuration with the test runner's configuration, and create a test runner alias at the top level for android_instrumentation_test to refer to.
+a05274bdb9bc8eece4527f1efd46d3c9dd731b43;2018-01-23 19:47:12 -0500;PiperOrigin-RevId: 183014451
+ad1791e4dc858356b1d26a1dd38e65866afe99ec;2018-01-24 18:06:02 -0500;Use regex search to determine if a package is actually installed or not.
+55634403af4c66f7f3858a48c9c025f647af7245;2018-01-24 18:24:46 -0500;ATSL changes required to comply with open source policies. These changes include adding template files like README.md, and adding license headers to sources.
+830236f29ff9b0f35d5440e630d16cede6d2e73e;2018-01-24 21:16:01 -0500;Have provisioning_test use a compressed image for now
+2d0cc5ebf6586afc217edc6f92b61c38f36f9c44;2018-01-25 16:22:17 -0500;Pin android_test_cc_test to compressed images for now
+9b8b5a5a046477150c9b870708d818a9dcad0cdc;2018-01-29 09:19:19 -0500;PiperOrigin-RevId: 183656364
+e2f35260f8f9922257fee59f19c53a8d34020970;2018-01-29 14:19:47 -0500;Build and host entry_point_deploy.jar for Bazel's android_instrumentation_test
+2054673e358b2ed189a344373f64de473ffdc490;2018-01-30 15:34:26 -0500;#simulation: Build Axon android_device target from Android images.
+a2272a0214bf288433e35c37ca8280de2d223c77;2018-01-30 16:45:22 -0500;PiperOrigin-RevId: 183884773
+90f5d5a0a926a7c7c6fe69216552a920bfe0d4cc;2018-01-30 17:57:20 -0500;axon: Move system images to //third_party/java and use make_device.
+42bf22879beba875c28581ea00cf04b47b6c9db0;2018-01-31 17:14:40 -0500;Add Narwhal to crow emulated devices
+89db5e909ea1ede0ac6649f493f0a0d381c62508;2018-01-31 21:19:22 -0500;Have unified launcher log to a temp file as well as stdout
+c04aecb0af5dc3eb2c5d530f311fd67ef4536d18;2018-02-01 21:20:16 -0500;Add "ro.scuba.model" boot parameter to enable Scuba mode for Nexus 10 and Pixel (required for aGMM screenshot testing).
+b189bae02495d8e398d708b7974aa82e6b81492a;2018-02-06 13:37:06 -0500;Allow parameter overwriting in JCommander. This is the same behaviour as the flag parsing behaviour internally, allowing users to overwrite default device broker flags in the test stub script with --test_arg or android_instrumentation_test.args
+2ca4679c303ed66fff4411de0606f63ae26123dd;2018-02-06 13:43:36 -0500;Remove Campus from legacy QEMU whitelist
+88af1ff483c60dbeee36075193e74a488ec590e8;2018-02-07 15:07:33 -0500;Internal change
+4deadb96b6efd344fbdb81ab5e4aa0d2e47df910;2018-02-09 16:11:09 -0500;Add the ability to look for vendor.img or compressed vendor.img.tar.gz
+415ff04235f54bc0c5a3eede65b3f7002ca9bf96;2018-02-12 15:59:59 -0500;A reasonable compromise for the heap growth limit
+717eb50d78e0a1d0dbb5ec26f334d16eb75f65aa;2018-02-14 20:17:03 -0500;Migrate android_device to Skylark implementation.
+72d1ab6e71d1f92b827c64b1255e9efc35f67957;2018-02-15 10:26:51 -0500;Automated rollback of changelist 185770365.
+f4aadfdcaf85b71d7450f0cd4e491fd2e0fc1f35;2018-02-15 13:21:02 -0500;Adding Moto X4 (seahorse), Pixel 2, and Pixel 2 XL to emulated devices.
+b403346f9279231d806dd48c76e7c84e322c94c6;2018-02-15 17:50:54 -0500;Add retries when xserver fails to come up.
+5ec5f3bd86f5a1e5b2e90fc6c4eb902edbb81ab2;2018-02-16 12:59:05 -0500;API 15 has concurrency issues when ncores > 1.
+a546f995d193bd36b9d3dc6c8b14931a94595e36;2018-02-16 13:11:05 -0500;Allow cores to be controlled at the system image level (in the make_device macro).
+d2def7a6aa21e0a1dea0db92f7219d2d746aa711;2018-02-20 15:25:18 -0500;Update all apps to qemu2.
+20ae3120db9786088189bd3ac3efd0efdc9cc6f6;2018-02-22 17:57:48 -0500;[Google Analytics for Firebase] Visibility requests to run PEET tests with GA4F. These tests are used to check Install Referrer implementation at GA4F side. []
+7ae5448d51d1c6a4935c3d70185093409981d03e;2018-02-23 19:52:04 -0500;Automated rollback of changelist 185835448.
+7dc351b7073a479f30b55176236ddfb053c75b66;2018-02-23 23:43:10 -0500;Internal change
+06da1d1991db8a8a1f154fef9be38648a5d01b41;2018-02-27 16:07:37 -0500;Remove internal visibility that is no longer necessary as of cl/186841500
+95748a14f87a334c0718254e7747c64e364534a1;2018-02-28 14:07:14 -0500;Log open files when we fail to umount a filesystem
+a6b47412c914f24b4c004c3341ca2368f52ac5f7;2018-03-01 17:48:23 -0500;Prepare android_support_test to run tests through Bazel
+6292875581b6cbb1a2ee7d4465731401e9b11460;2018-03-02 13:34:22 -0500;Pass -timezone everywhere now that b/31431334 is fixed
+7ec709334735076fe35f54da7ebb5bec43398116;2018-03-06 18:24:36 -0500;Moving test and debug modules to javatests/ and remove some whitelisted files
+dcb595f1e4c1488be3d30f1c302a01340c3201d0;2018-03-07 12:55:31 -0500;Fix broken copybara transformation in make_device.py for OS build
+2ea4353acf1b0ea63acfb5401d4211de11498836;2018-03-08 14:02:21 -0500;Moving test and debug targets back into //java/... and using tiktok_tests exclude param instead.
+039f696f4c0f6e127adcb91aa658d80551d63493;2018-03-08 14:17:54 -0500;Add Filter support to open source version of ADTS
+21c5ee725282db990b2d0b39f6bd2c4fdc72e779;2018-03-08 16:50:46 -0500;Update test entry point deploy jar in G3
+6b157b9c49c6fb9b36ddac087d790cd19d521faa;2018-03-08 20:34:11 -0500;PiperOrigin-RevId: 188418797
+8bd3b317897c54f8a91d22065880002a0a68e70e;2018-03-12 12:35:48 -0400;New test entry deploy jar with dexdump changes from cl/188544309
+a1f45e9e2064b8fafb324773d3473b15ebdf3e2d;2018-03-13 13:03:20 -0400;Split dev repositories from the unified launcher repositories.
+ecc3a8fc236ad89fe6511feb743d1b08be1b53c9;2018-03-13 16:35:51 -0400;Rename @protobuf to @protobuf_archive to fix a common namespace conflict.
+74731b6d24d7e13f15e2d8887f312620f2ecf22c;2018-03-14 13:05:34 -0400;Release emulator tv 26 x86 image from build id 4612906. Download from branch git_oc-emu-release and target sdk_google_atv_x86-sdk. Check[]
+6d40d19e005c635891971a5e14aec5511380d52c;2018-03-15 14:00:21 -0400;BUILD.bazel files for idling concurrent tests
+5970d74ecb8c36f5da1b0932fcbd43fcb326c78a;2018-03-15 17:00:21 -0400;Enable Android TV API 27 emulator image target.
+44fc52f927bb73d2f58322ca60c2020fbfab9443;2018-03-15 23:42:58 -0400;Migrate android_device to Skylark implementation.
+c915a7d76a0fe66692a0231683d1a9c15e853701;2018-03-16 12:42:28 -0400;[ #SearchFeatureDevServer ] Rename CardDevServer to RenderingDevServer
+15c1729ceffd67a136c335cb72b6e9393e2bbe12;2018-03-16 14:26:48 -0400;Bazel still uses native.android_device.
+be7fa5191b3e3eb70411357af13f011dcfb95b50;2018-03-19 13:34:13 -0400;PiperOrigin-RevId: 189604117
+52bc11af4a0147a6b4ec9aa491ea2086e3d7c203;2018-03-19 16:59:45 -0400;Workaround non-threadsafe setenv code in android-qemu.
+b70b2a54fbb80b42cc177b9b6448862b4a6eddc0;2018-03-20 17:29:19 -0400;Run "adb root"
+409b1880202660dad2cc9bb3c7fe8e5ea863569b;2018-03-20 18:24:23 -0400;Small cleanup
+1535691e5a9e53b4b7f7b55d9e4ad93141508d13;2018-03-20 23:43:55 -0400;Chop off the 1mb partition table before running debugfs on newer images
+9c852c57060fd6037baf2372be1e963a1484ec24;2018-03-21 15:04:29 -0400;Add retries for some ADB commands
+c899fa44d7373df83b49c4bb31cfb70c49d7e8c7;2018-03-23 11:39:52 -0400;Delete the temporary x11 file if xserver fails to come up for whatever reasons.
+78621158ad3deeeac70c6d5294fc9bf240cc2fc8;2018-03-23 14:18:27 -0400;Add an enable_test_harness flag
+ac88fb1010be9bb1d9fa381f6a7a7498eecbe339;2018-03-23 16:28:29 -0400;Set our properties earlier in the init sequence
+f8e3722df1e0f74133d28a8e3ed72d944e0b821f;2018-03-23 23:49:39 -0400;Set ro.test_harness in init
+40c8b039da98af330c3f187757227a2ca217a252;2018-03-26 12:15:20 -0400;Add g3doc for Android Things Emulator
+5e52da5c888e196fc12d59f6a3bd258cf3b897f0;2018-03-28 22:52:01 -0400;Update ATSL AAR deps to use gmaven_artifact
+44822e0fcf889cdcfedb1cb2184a7ef21eeccf0c;2018-04-02 13:52:45 -0400;PiperOrigin-RevId: 191315005
+3c3a52bb7130d67fc4910d4acc53fdf18bd0f106;2018-04-02 16:01:29 -0400;Always default to swiftshader_indirect for P
+86cb9ca611d356a51fd3eed7ae12faf6c435a45b;2018-04-02 16:15:08 -0400;Move kernel to _SessionImagesDir()
+a4a451cda13210aa56b33cd26a0eb58bac8668ad;2018-04-02 17:27:21 -0400;Note to users who want to download newer P images. These steps will eventually be moved to a build action so we don't have to do these steps manually but to unblock users I am doing it manually and one of us can move this to a build action and all the manual steps happen automatically.
+307a8e55d7cf40ff9d654da12416e0cdb3366c64;2018-04-02 18:39:30 -0400;Report if emulator watchdog.out or watchdog.err cannot be logged.
+336991ff5f073ccecbb525a3efb781f8bc0f788f;2018-04-03 20:04:56 -0400;Setup Car emu from pi-car-release
+38a8aef5d1b415e4415421629e5a2b58037ff5f0;2018-04-04 20:31:26 -0400;Update default_sdcard to not include the full path in which it is contained.
+137d14b01901fe09ace6fbb02ee868edbe2a16e7;2018-04-06 19:50:46 -0400;Short-circuit _ModifySystemImage if there is no work to do.
+7b0f6de10bebbf69868d91d29592dfa2c708937f;2018-04-09 17:47:19 -0400;Set ro.test_harness in init.rc based on value passed in from kernel args
+86976d5c9d12429a2df8e6ed250bedfe9ce2a38b;2018-04-09 18:27:08 -0400;A bit more timing logs/data
+bf062364196add47c38ac5442c7a68d386611bdc;2018-04-10 17:23:19 -0400;Use mksdcard if the requested size differs from the default of 256mb
+ce2c0cebefde1019b22cf525cdf6ee40c07677ac;2018-04-11 13:36:55 -0400;Correct recommended alternative low memory emulator name
+82010a15a57ff33e9e7ed41b55efc142c6fb5fd2;2018-04-11 20:08:09 -0400;Internal change
+1a3c1dc6eba1c34e0ba2baa7e1362d0ecdbb07a2;2018-04-13 17:44:35 -0400;Release emulator go 27 x86 image from build id 4662058.
+16e1e032a8b838a4a5247620ab47288913be4841;2018-04-16 14:01:07 -0400;Make generic_go_phone public
+d270131ec5140ea1c796ab80b7ff07251f1d6166;2018-04-17 17:15:23 -0400;Symlink the system.img file instead of copying it when a readonly image file is sufficient for writable-system (qemu2 binaries).
+1f652f8a35719bd50ce41c8de61b03578f574b9d;2018-04-17 18:22:10 -0400;Fix wrong condition for modifying the system image
+8813b20d50687cf3956374e5f1de3656f50a5b2c;2018-04-19 18:11:04 -0400;Update android_test_support with changes made in androidx_test
+25bec04f7e102d4483c889554c12bafd62f4df56;2018-04-20 14:46:56 -0400;Update emulator documentation with adb connect instructions.
+31fa08fc27043f0e6349f1b8e7cb93cc2679f62a;2018-04-20 16:42:00 -0400;PiperOrigin-RevId: 193716084
+8511c9bd9bd8a41e3abb628575f38a9e89d5962c;2018-04-20 17:24:04 -0400;Some changes needed for modifying the system partition
+f614f877fc5059e5a1ac3b7e4f107f41a1df89f2;2018-04-23 15:26:09 -0400;Attempt to clean out leftover Xvfb lockfiles after spinning down displays.
+ad2fbb27a14d989858ae2b759bc10ef2ef4f9257;2018-05-16 15:09:53 -0700;Update README.md
+98c0096ad4d724546e7e0686ee2f6d853399d160;2018-04-25 15:09:25 -0400;Add a whitelist for Git commit authors in copybara configuration. This enables commits to be properly attributed to the Googler's GitHub identity.
+89ee71422ef81fe2ce30c6275296c92b11cd6c75;2018-04-30 16:15:29 -0400;Update androidx.test with latest from atsl
+bf358d54892acd7a6f0b44ac7ed9970f6c95bedb;2018-05-01 17:34:15 -0400;Create modified system image files at build time which contain the [] CA already installed.
+91928f8eebd06da635c8a1a3d4742b888b076560;2018-05-01 22:26:33 -0400;Automated rollback of changelist 194998358.
+8483c9f1eacd5cb2c3ec8b31936675e522542e96;2018-05-03 16:28:55 -0400;Un-rollback: Add logic to maintain system.img spareness when generating new archive.
+7c67afdc9681f5ae80c9dc8aa6ffbbb9284784e5;2018-05-04 17:20:10 -0400;Respin boostrap.apk from head.
+7dd9dce45c302d8344da6951062390e8e320034f;2018-05-04 17:35:14 -0400;Switch to prefix that will catch both modified and non-modified system images to support tests that provide their own system image file.
+a19d4f6d7fee83cff0ae2df549c6e5912c921381;2018-05-07 15:05:12 -0400;LSC: Migrate users of [].pyglib.app|flags|logging to absl equivalents.
+e84d2e4980a5b4a699710a42f9e02788d7f6cfab;2018-05-10 02:08:15 -0400;PiperOrigin-RevId: 196077430
+57e783c6220a080a4f7cb74d64d83dc7febedd03;2018-05-10 20:38:36 -0400;Record the stdout when "adb install" exits with nonzero status
+f0df82ae95306a34f650c98d4c68e98adaf0421a;2018-05-11 15:10:53 -0400;Use explicit package group for locked down androidx_test visibility, to make it easier to update in LSC.
+82742fde7d9334bce49edb5fabdead9d169e7aaa;2018-05-14 20:23:26 -0400;[]
+b0dcc500d8c54802f8791a1c40cd08bacc8a9848;2018-05-16 19:07:30 -0400;Update any code references to https://android.github.io/android-test
+5fa1851f545f38753030106db88379eee51af177;2018-05-17 14:02:10 -0400;[]
+7ede72865ef4d458f8a3c1b9d189cbcc318d33ef;2018-05-17 17:24:54 -0400;PiperOrigin-RevId: 197051652
+c626eb572c90a9906540b74acf1c432cb604b7e2;2018-05-22 15:08:03 -0400;PiperOrigin-RevId: 197601821
+2f7eb2c5990cd53af0cb5630c21ea18db509dc14;2018-05-29 16:10:40 -0400;Add qemu_pipe support for []
+5dc16a8f9f23ba8a0918a7f222b89b1a806273eb;2018-06-04 19:45:58 -0400;Allow passing extra **kwargs to common.Spawn.
+f8ec5a8d62c1fe2c34aba905d4dd97c2483218a9;2018-06-05 20:18:10 -0400;Rollback [] and []
+a0e6b5035b7459a6e6a930c8a12c4263362d23ab;2018-06-07 18:06:30 -0400;pass --no-same-owner when extracting tar. This way we can run in a container environment. Not sure what other effects this might have though
+ed75767bae0ece7f2b4d5ba86eb6a0324141d030;2018-06-18 13:09:02 -0400;Fix androidx.test bazel build by using public visibility in bazel and android.support library.
+ec12f93baeee52743f12a67181f29327747392aa;2018-06-19 14:26:38 -0400;PiperOrigin-RevId: 201210448
+304ff9a348c3cf8712407d778b61906d18a586fe;2018-06-22 16:05:34 -0400;Add a correct DPI version of the Pixel XL.
+5d01bce6fdf68b8b68ebe4ff548777989a13606f;2018-06-22 16:25:42 -0400;Fix typo in Pixel 2 XL name.
+e63e1aa2541dc450cc360ef67513c5e4f431f864;2018-06-25 17:32:21 -0400;PiperOrigin-RevId: 202020444
+20ff13d8af9ac5c485a57a91c2922f61968b6cf5;2018-06-29 14:07:43 -0400;Compress device images to keep them under the 10G limit.
+25be1a537ffdfc77442b3b1e0a42ef05ca86fe0f;2018-06-29 14:56:55 -0400;PiperOrigin-RevId: 202684737
+7d01c7df4a4a5bcdfd32ad96a1fe1fc5e5a3938b;2018-06-30 16:27:01 -0400;Replace references to android.support.test with androidx.test.
+d1bba6dacbf249229ea6e2cb150c0c15a75b8ce8;2018-07-02 09:49:18 -0400;Format .bzl files with buildifier
+fbb994ef153c02e07820d48da7981b8421daab0d;2018-07-05 07:11:56 -0400;Format .bzl files with buildifier
+34187e5440989a4c63347f15466dd72545b4cb28;2018-07-09 17:07:55 -0400;[android emulator] Moved several log statements from info to debug. These are very chatty and low-signal in the default Blaze configuration when building emulator tests.
+51017ba0aa132ffa91218cc302badef953c1dcd4;2018-07-09 20:35:46 -0400;Default to swiftshader_indirect for all qemu2 tests
+f77da5d0ca8d395279af29119d6aff205cf5ba10;2018-07-13 15:22:58 -0400;We don't shutdown pipe traversal binary anymore while taking snapshots, so we don't need to toggle it anymore during the restore step.
+9fc0b43345c2a7f6e2de546cc93b690c46798b59;2018-07-16 11:55:58 -0400;Enable Snapshot testing for our [] targets. This cl will be submitted once I submit the unified_launcher.par [] on Monday hopefully after TGP completes today.
+12e03454315673911e76b6ed3a1a5a1d0bf5f7ea;2018-07-17 15:39:49 -0400;Create a new arcore_phone device type
+14aed8b4b4c1c54a42cfe89b2b1da82221edf852;2018-07-23 18:29:26 -0400;fix broken [] targets since stubapp cannot be installed on api level 10 anymore.
+9f76af5193ba5a896a46dfcc9150aed9076f4fc0;2018-07-24 14:02:16 -0400;[]
+3da95cdad3d8d8aea212a47df546372564ed9afc;2018-07-30 17:01:59 -0400;PiperOrigin-RevId: 206642496
+cbd72ab95f8b35ceb6a3f132666c49cfe2331b8e;2018-07-31 18:03:25 -0400;Original bug seems to be fixed. I'm in the process of moving ramdisk stuff out of unified launcher and I would like to have the same set of prop mangling in the new version and unified_launcher version.
+779ce87f603401eb9201ae6d36459bd5a3483a98;2018-07-31 19:57:55 -0400;PiperOrigin-RevId: 206852677
+665b98f138cbdbe390ec1411000cfbe13628ec2c;2018-08-01 16:40:49 -0400;Fix breakages from internal s/android_test_support/androidx_test/ and cleanups, and release new test entry point deploy JAR.
+e39a8c7769a5c8b498d0deb0deef3a25b289d410;2018-08-01 17:03:07 -0400;PiperOrigin-RevId: 206988520
+726e18f54b9ba0047649cca6ecb0db868a29d6cb;2018-09-27 11:03:54 -0700;Project import generated by Copybara.
+461ca02299807020c0b317b1805eb709d3c25147;2018-09-27 13:19:24 -0700;Merge pull request #46 from android/F74BE8B7798D6BC201F3D089D54A386E
+017eabbbff38f84bcea6f367013e5d63cb2ba8c2;2018-09-27 13:20:47 -0700;Update README.md
+61d880d891c937f42fdd377675ca79eab3778a0e;2018-09-27 13:22:14 -0700;Update README with link to contributing.md
+682fa36d53d25e7374faf2f7c644a2a298fc5cc8;2018-09-28 09:57:53 -0700;Project import generated by Copybara.
+74d43374302cfef3358a9b6f4fca572ba5b364dc;2018-09-28 10:12:36 -0700;Merge pull request #47 from android/B69E693FB1A680CF444F60FC2EAB94CE
+d0e97ff8bf4ee9cebebfba46a128fbd39f45697d;2018-09-30 17:12:38 -0700;Add google cloud build config
+e630df84280e86d1300ffaf950c4ea8fec9d5c4c;2018-09-30 17:19:07 -0700;fix yaml syntax
+80deb6137c68a85f8ad9487ecf8c7e2245be37b6;2018-09-30 17:29:11 -0700;use 'bazel version' as cloud step for now
+960ae39fa196a23229b229c084b6de317d90f713;2018-09-30 17:34:05 -0700;build a simple non android target
+fd37ecbaa242021d8f05f6e3909f08aaea421ce9;2018-09-28 10:18:09 -0700;Internal change
+e25ed9d2984cb5590cb68de78255b7d53d05ef61;2018-09-28 11:50:52 -0700;Fix BEGIN GOOGLE-INTERNAL marker.
+5470e3f912b2d3f5544f67816bf7b95de12e0ba2;2018-10-01 10:40:11 -0700;Merge pull request #51 from android/cloud_build
+dcbd2f60681996954223aa7821ab2d2ee0fdae5f;2018-10-01 10:41:09 -0700;Merge pull request #50 from android/B69E693FB1A680CF444F60FC2EAB94CE
+b3714b7350acce720bcc76991decdf9c6e70c8dc;2018-09-28 12:48:36 -0700;Internal change
+13be3b7aa4cb883a43dd30dbf03615b37b3193b7;2018-10-02 10:11:54 -0700;Piper import of 'Use google cloud build to build maven repo': PR 48
+b4bf0ea827f4ab4e4144a94e9485bb4b5610eefd;2018-10-02 10:16:05 -0700;Piper import of 'Fix compiling against api 28': PR 48
+52da77e1448fe39ba3871b2f2eadb744b05ef6cf;2018-10-02 13:02:37 -0700;Update build tools version to 28.0.3
+89c1e6019e4d439bb8be49ae39ba1b42bcd23d9e;2018-10-02 13:03:06 -0700;Internal change
+7e2643267e6fc65d40db9072af4d04f6bbb3d248;2018-10-02 14:27:37 -0700;Update versions to beta01
+e0ebebc6737d064d67f3b8469b2e265a163a04de;2018-10-03 14:36:27 -0700;More API 28 build fixes: add junit to espresso-core and intents
+c0571b6718e18ad0b2b97bf03b6b32ebaef990bd;2018-10-03 15:58:30 -0700;Rename androidx.test.core builder methods to newBuilder
+84cd3c5c83c71d3c819e5bcd515eb748a8ca9561;2018-10-04 09:53:21 -0700;Merge pull request #53 from android/B69E693FB1A680CF444F60FC2EAB94CE
+af1ba4a459407b208d702d5043315c259046caf7;2018-10-04 14:28:19 -0700;Update README.md
+19d0075a17f836bd05d4813badc948168dc48c0b;2018-10-04 14:29:55 -0700;Update README.md
+40c2cbf5b82015223c3d64ac7fbddd97c3940aee;2018-10-08 11:41:56 -0700;Project import generated by Copybara.
+86b91e581f0cb8c39bb4c1ec4c5e18ed49353231;2018-10-08 14:15:27 -0700;Merge pull request #57 from android/B69E693FB1A680CF444F60FC2EAB94CE
+c4b59c24bd4cf9435d21213c3fef228fe71c6f50;2018-10-08 14:02:26 -0700;Don't build in legacy test support apks into bazel binaries
+78888ec43a6180f23f18b31e1e5ed351846e52af;2018-10-08 14:05:20 -0700;Use androidx.test.filters instead of android.test.suitebuilder.annotation for androidx.test unit tests.
+c413cd89737579f4cae87d5e52547fde8588285d;2018-10-08 16:26:33 -0700;Implement LocalAndroidDeviceProvider, add AdbCommandExecutor and refactor existing one to AdbDeviceCommandExecutor.
+24a8da290eaf7775a41cf48c79c13a049080dd99;2018-10-10 11:42:22 -0700;Convert espresso tests off legacy android.test APIs
+ed6eb07e46e80f008b79c773c13b94d4dbec14a7;2018-10-10 12:53:42 -0700;Fix tests under bazel compiling against android-28: Add legacy-test-support to bazel unit tests
+fa2cef16f68b715cdf41b7e7df02507772245516;2018-10-10 14:31:24 -0700;Fix androidx.test.ext.truth maven packaging.
+7e834ce37faf52f2a65a73b0a6d83ab148707cbb;2018-10-10 16:38:04 -0700;Merge pull request #58 from android/B69E693FB1A680CF444F60FC2EAB94CE
+6601b2def2e12ecf71a6b8649811485d79ab9c1f;2018-10-10 16:12:27 -0700;Add 'robolectric' tag for all android_local_tests and run them on github CI
+29bcd6963d4c886f3bd65d4e8c15bb259fff1b26;2018-10-11 12:29:31 -0700;Merge pull request #59 from android/9939E64609224875D5062FF3BF1CEE1B
+35fc09402776d433e17b9aa4d6a3a6418fbc738e;2018-10-11 15:20:33 -0700;Add additional setup instructions to androidx.test contributing section
+551a6f7f3c4f3c7d0b94464275fedf44202dd8d2;2018-10-12 10:38:12 -0700;Merge pull request #60 from android/B69E693FB1A680CF444F60FC2EAB94CE
+df59c881e0765fcb3e5e3b09f4b3e1945a89c894;2018-10-12 10:36:06 -0700;Cache docker image in google cloud build
+5d04f464e098c305fb22a5252be319010ff596ea;2018-10-12 11:50:16 -0700;Convert runner tests from deprecated android.test APIs
+3f678131de203f25ff196263b1d608f8b80cc274;2018-10-12 15:56:39 -0700;Merge pull request #61 from android/527D58D47D9465B106AFFCB4AB0F6637
+c9d2dca2cfb69d815d1d611a7fec4fc944f68032;2018-10-13 12:50:54 -0700;Remove hungarian notation prefixes from fields in runner.
+ffe3239dcdc7da4c2c3b6fe40a2504a5f30c8476;2018-10-13 12:57:36 -0700;Merge pull request #64 from android/B69E693FB1A680CF444F60FC2EAB94CE
+2fbdc803d4f16b3d7bf4521b698e088d1684b4f8;2018-10-17 13:06:28 -0700;Merge pull request #62 from android/38AB36A64FF49FC5DC0CEEB0569F7F8F
+2f3a927704a43e14e958aa8e3dd5c1996a273827;2018-10-13 13:27:35 -0700;Convert runner tests from deprecated android.test APIs
+5172ee2567d713c443b5ad2cc379dd229fba0a02;2018-10-15 09:25:58 -0700;Replace proto field null comparison with hazzer.
+1c400dac20bee7a4232fe8ec3094575e1c6ee611;2018-10-15 14:13:44 -0700;Add style guide reference to contributing doc.
+df98c2522b53927eb6814692947d16bc50cd5bb7;2018-10-16 14:12:31 -0700;Force miniboot for arm devices with apis > 19
+a5190191fa4a0f8efd093f0b301ea004cec1d7a4;2018-10-16 17:03:02 -0700;BEGIN_PUBLIC
+615de9c7199bfa8ef73ac82d5362c55e9b4ee2c6;2018-10-17 00:07:34 -0700;Release emulator android 21 arm image from build id 5056518. Download from branch git_lmp-emu-release and target sdk_phone_armv7-sdk. Check[]
+2ecc81b8f90255b863d7f0a73e556a31615eb1a8;2018-10-17 16:10:02 -0700;Add Pixel 3 and Pixel 3 XL device support
+670d75c00bfe7ab8f3cc0b7c6af0dc11337eaab1;2018-10-19 12:57:55 -0700;Stabilizes moveToState() and launch() implementation on device.
+f6a304576873d334357fbebb3ae581bdb191b7ab;2018-10-22 10:55:25 -0700;internal change
+12ac5045bf2c1851ff4dc303ecca216cbec5c1b9;2018-10-23 16:01:53 -0700;remove uma instances
+1b7478431d52773a85e738d8333ced4551c9028f;2018-10-24 09:59:00 -0700;Don't use android.util.Log when handling runner load errors.
+7a602b00f1449f636b0d1f6ac72f566dd7eb88c3;2018-10-24 13:18:18 -0700;Increment androidx.test versions to 1.0.0, 1.1.0, 3.1.0 for core, runner and espresso respectively.
+9d8f2913bee25f8d0f25dee2b601a84eaf47c7bc;2018-10-24 14:31:30 -0700;Merge pull request #65 from android/B69E693FB1A680CF444F60FC2EAB94CE
+694073b38397ed0196bece1e1e0a0f96867714af;2018-10-24 14:19:13 -0700;remove -cpu qemu option which makes the emulator hang.
+cea6996e18d1915128bba616934b7468f456cd7f;2018-10-25 14:05:07 -0700;Adding a bool, parcelable, and parcelableAsType methods to BundleSubject
+7d1677b61cac238c57b6816e6349840ad5fa2574;2018-10-26 10:56:22 -0700;Detail the required flags for enabling this LineProcessor to parse `adb am instrument` correctly.
+ebe75fcda1c9af576366e044857a9ddc5bc2c999;2018-10-29 15:42:03 -0700;Update arm 21 to qemu2
+dbefb8067362bc2eeaab58d4b7a3e0a99b16c286;2018-10-29 16:35:44 -0700;Merge pull request #66 from android/E85C6F9B8E23B69A75E50B973AFC9EAB
+7c094859b908c0557ad8118b4f4b5cd22378dc2d;2018-10-30 10:24:59 -0700;Release emulator android 22 arm image from build id 5056529.
+c5b534286203bcea8ff7359460f4f42a2f0d3e2b;2018-10-30 12:27:49 -0700;Create "androidx.test:core-ktx" maven artifact and add Kotlin extensions for ActivityScenario. This is the same extension as FragmentScenario added by https://android-review.googlesource.com/c/platform/frameworks/support/+/799574.
+0b64713a945e8e455355d827e40b9012dd40cf09;2018-10-30 13:18:05 -0700;Enable snapshot support for wear images +23
+2493e9bde8680e1f31aaaea28bfd8e91e3dc1775;2018-10-30 14:02:40 -0700;Merge pull request #69 from android/E85C6F9B8E23B69A75E50B973AFC9EAB
+16c83b5ba0b802b35aa0657e0e22a3de8b6682de;2018-10-30 15:13:27 -0700;internal change
+dc7f0434a7d4f3f180395b9507d880fbdea4d235;2018-10-31 11:14:00 -0700;Fix bazel maven repo build
+2571980397d6828278489847c263403a249ea707;2018-10-31 11:24:03 -0700;Merge pull request #70 from android/E85C6F9B8E23B69A75E50B973AFC9EAB
+ee3e3f689edd615ae202d0eabe6b10d1eeaa88a5;2018-10-31 12:55:44 -0700;Add back building of maven repo to Google Cloud CI
+599990e1f9eb723a2475cbcf8e84dfaadbba1678;2018-10-31 13:16:07 -0700;attempt to trigger build
+0f49b7057573779f777320c9f4fb49d6ee9e5789;2018-10-31 13:18:17 -0700;update back
+6149b44da5c72bb25a03cbb60fa5936c01f05564;2018-10-31 14:02:58 -0700;Internal
+979b52d76cf77c44e277c8284c86bd8ea0324b7b;2018-10-31 17:01:30 -0700;Internal
+04d0c619219d3ed0198e4af3e70f58137b533404;2018-10-31 20:47:31 -0700;Merge pull request #78 from android/E85C6F9B8E23B69A75E50B973AFC9EAB
+4a5b7cccd1a963e7eba3561716777744f8b4f779;2018-11-01 09:28:38 -0700;Project import generated by Copybara.
+9c99d9e3e9498c7c325652f23f66a32ce256b67d;2018-11-01 10:47:10 -0700;Merge pull request #79 from android/E85C6F9B8E23B69A75E50B973AFC9EAB
+d7a0ec3850e625e2076f8cc0b8ff075b6e0cbb62;2018-11-01 10:55:36 -0700;Merge pull request #75 from android/cloudbuild
+5a24ebebd8316a341957fd79a0e9895f94e83dfb;2018-11-01 12:38:30 -0700;Internal
+000c33abec8c83a3e539f65bc1b02a1df3327a50;2018-11-01 12:40:51 -0700;Merge pull request #82 from android/E85C6F9B8E23B69A75E50B973AFC9EAB
+c69935b7c09aa2074588013b2159ba1972f31952;2018-11-02 09:54:20 -0700;Update androidx.test WORKSPACE deps to use Starlark http_archive.
+3630165f20c5c2bfc6f69b40e1a933d8a5366fce;2018-11-02 13:50:33 -0700;Updating ReplaceTextAction's description to include the stringToBeSet, similar to TypeTextAction.
+f4775bca8ceb1a9cd66d44e87d59a2b955adfab8;2018-11-02 14:10:53 -0700;Make ActivityScenario closeable and auto-closeable. Add ActivityScenarioRule.
+93d3dbc52a157af68b64f81941665389ff8fb8ca;2018-11-02 15:02:00 -0700;Fix spelling error in documentation for GrantPermissionRule.
+2fc3f8ca681d1d59babdf9eb22cab654209ba22a;2018-11-02 17:01:37 -0700;Internal
+d425483473b723f2abdb065c939125d78deeb8c3;2018-11-05 10:10:32 -0800;Update to robolectric 4.0.1
+26540d8e892f68f388ae0933ec2111e8ff557f61;2018-11-05 10:56:58 -0800;Internal
+8002d60950124ceca4041be9cc1e23e4bc9eeaa5;2018-11-05 13:49:54 -0800;Migrate all native.new_http_archive callers to use Starlark `http_archive` instead, and run buildifier on the rules.
+d2f90aba48b092c9b70f30a7203f4cb18cc946d5;2018-11-05 16:30:47 -0800;Add annotations for context and instrumentation injection in Espresso.
+f2f3589c9d6e2ff5740117192cb7e13bd8873a0f;2018-11-05 16:51:45 -0800;Create a TestOutputEmitter plugin and make use of it in Espresso exceptions.
+66c68ee36b7541b0134f53d5f5ee88e13bdadc29;2018-11-06 15:56:12 -0800;Add instructions for running the local robolectric tests.
+5caf68ae0828dbb8b5cf1f2e8db4ae357f694e15;2018-11-07 13:53:12 -0800;Piper import of https://github.com/robolectric/robolectric/pull/95
+9fc3eaec522b57d25513aeb4a48acf508a401898;2018-11-07 15:53:16 -0800;Piper import of https://github.com/android/android-test/pull/98
+fdd44e89a2d368591e05d338ad52bf9d482b3401;2018-11-07 16:22:04 -0800;Remove unnecessary slash
+abf43a9d097185cba40288bdd4803888c3c74817;2018-11-07 16:30:14 -0800;Merge pull request #100 from android:prtest2
+f08e4023febb539accfaa46bdb10388d9955fdd1;2018-11-09 16:00:57 -0800;Modifying withResourceNameMatcher to be API 28 compatible. In API 28, Android now logs an error if you attempt to lookup a resource name of a generated view ID.
+8aeb7e6d0fc2faf97b31b5e154d1ba72d791773a;2018-11-13 12:29:09 -0800;Implement getResult() method in ActivityScenario where you can retrieve the target activity's result code and data.
+555f98737c43529f6580b9bf814db1811296b092;2018-11-14 09:26:49 -0800;Increment versions
+910016139a7772c52e5a7701581215ce35927db3;2018-11-15 09:18:03 -0800;Fix release build.
+a1e45fe93c31e5ce0b57b80b0095ad12e58eeac5;2018-11-15 15:17:03 -0800;Support GrantPermissionRule on Robolectric Fixes: https://github.com/robolectric/robolectric/issues/4133
+87207626b2577eb5cd865300a963ed2d2fb391fb;2018-11-16 08:25:02 -0800;Internal
+a4ab3ffbc6b848465ed98f972c49cc42ac8d1849;2018-11-16 12:05:57 -0800;Support custom start activity intent in ActivityScenario.
+4b7cf9e5149bd0408a48ab335dbc76a90a6b251d;2018-11-19 11:45:10 -0800;Officially deprecate ActivityTestRule in favor of ActivityScenario.
+361ffc051488b0a15fdf9be578aa5cbb8f7c4756;2018-11-19 12:47:55 -0800;Fix InstrumentationConnectionTest and ActivityLifecycleMonitorImplTest
+637bc9b2fc8384d2da92caa07c81a35185080e3c;2018-11-19 17:02:55 -0800;Add back test-support neverlink.
+b23dbb7bf4f41e7ce19638b4df039d3152ed427c;2018-11-20 13:59:55 -0800;Fix espresso/web and almost fix espresso/contrib tests.
+391615b98372125649b484f72ddfc477a4ccfa8a;2018-11-20 14:19:43 -0800;Merge pull request #120 from android:fixTests
+edd4a9e4a1b861e0ec3d6585eb62cb1058f19e74;2018-11-21 13:53:27 -0800;Fix espresso_contrib_tests. The tests failed because support libraries are linked in instrumentation APK which resulted in generating two different IDs for an identical resource causing a crash error.
+7a8e7b79db529f530aa340b05bddad2b688a50f0;2018-11-26 12:04:55 -0800;Convert bazel build to androidx
+31334a9e0e58a5c8eab5e4ca6e4e8affd4bfb479;2018-11-27 07:55:15 -0800;Make -e package and -e testFile consistent in behavior when receiving packages
+787015b660baafe6af060757b9884fd169e0cac7;2018-11-27 16:28:28 -0800;Fix release packaging for kotlin artifacts.
+412b86c213e95b98010ce92aa9500c238cfd5ed9;2018-11-28 11:03:00 -0800;Update README.md
+51b322f4b6ee61b92bca456971ba5a6dc19929cd;2018-11-28 11:21:23 -0800;Update README.md
+78327ee84aab821d1a1c2847fb5ed4b49f048c2f;2018-11-28 12:15:37 -0800;Merge pull request #130 from android:issue_readme
+d94be8b4fc522a9ac8102a35abbff46a32c4f022;2018-11-28 12:15:45 -0800;Internal
+2eaf765cb9ae88db8d09c909a82016f2d601ec0d;2018-11-29 13:28:40 -0800;Create issue and pull request templates.
+89e70a1f0eb3be25cb4142552f60aa25984c764f;2018-11-29 13:28:46 -0800;Internal
+9d2a57453c00aa6521a020d503f4ce9b83194aa1;2018-11-30 14:54:27 -0800;Support Espresso in Robolectric paused looper mode.
+c657c077251805146fb8d2535e30bc1973c3bccc;2018-12-04 11:01:58 -0800;Add link to runtime permission documentation for GrantPermissionRule.
+030dc74330f299828d029182c6e4c4bf9d480467;2018-12-04 11:05:19 -0800;Switch tests to use non deprecated AndroidJUnit4 and InstrumentationRegistry.
+3db802f65be9e4b8a4275b800cb0281546bdaad6;2018-12-04 13:25:56 -0800;Convert espresso tests to use the non-deprecated variants of ApplicationProvider/InstrumentationRegistry/AndroidJUnit4.
+9e991e0f503c50154d87df293c038f984e2c4fe6;2018-12-04 17:10:16 -0800;Modifying describe() in HumanReadables to be API 28 compatible. In API 28, Android now logs an error if you attempt to lookup a resource name of a generated view ID.
+7a240a4d997e431fc5822cec054c776123aefce1;2018-12-05 13:29:53 -0800;Fix bazel build by adding missing core dependency
+0986c7026740355ea0b2016304ef2a2ca0af5562;2018-12-05 13:38:33 -0800;ws
+5bc080ea6232ffd3b3ab2f23986d235138118c2f;2018-12-05 14:26:01 -0800;Migrate simple uses of ActivityTestRule in espresso tests to ActivityScenarioRule.
+235ccfba38f989a5a3607e58cc51e1acc334830f;2018-12-05 15:59:47 -0800;Merge pull request #145 from android:fixbuild
+9991addd08420930ad12f98113ebec8196bdb2d5;2018-12-05 17:04:37 -0800;Remove use of android.test APIs from testapp tests
+40aee6899da31af2e11b08c6aac521681892a0a9;2018-12-06 09:54:46 -0800;Update protobuf version in @android_test_support to be compliant with Bazel breaking changes.
+564a0f57ac8c3489022624a00f57916bf1e0a6a8;2018-12-06 12:04:51 -0800;Project import generated by Copybara.
+78a1b71e04fdc0e9be068d92d2bcffd7db07c529;2018-12-06 14:51:59 -0800;Merge pull request #151 from android/FB032EA67D58D564A0C798A68E762D7B
+10c8fdf6a1c9c48a268e2db19646732c62c1313c;2018-12-06 15:04:58 -0800;Build and deploy new AndroidDeviceTestSuite deploy jar
+2c9d4e79bf5132f0b714c2fb4cfe746733da296f;2018-12-06 16:29:58 -0800;Fix espresso intents release build.
+588afb12bf891cb651b4e6da66fa1bc713dd3a7c;2018-12-06 16:45:02 -0800;Undeprecate ActivityTestRule.
+07237c39dd498795962f6b44135647f642a5e359;2018-12-06 16:45:26 -0800;Increment version numbers to beta01.
+e9f8623e9b09417a9d4c8ea98bdc5880637275c6;2018-12-10 17:29:06 -0800;Support for activities which start another activity before it is resumed in ActivityScenario. Update moveToState javadoc for the corresponding behavior changes. (Fixes https://github.com/android/android-test/issues/143)
+b79934d59a71db1c3ca4977bbf01b984e063071c;2018-12-11 08:30:01 -0800;END_PUBLIC
+d94d98612ed06c383b6f9b1b53ccd233024624a1;2018-12-12 11:44:06 -0800;Increment versions to AndroidX Test 1.1.0 final
+e6a07a0370448fd070c37b1b5aec4dc550dacf67;2018-12-13 10:30:17 -0800;Add filtersEquallyTo() to IntentSubject for comparison of intents using Intent.filterEquals().
+ac49334ff84864c948c9a3ec2213db778aea5a57;2018-12-19 14:21:15 -0800;Added method AccessibilityChecks.disable().
+b40dda0809a8c9dcfcf4411300d0aecb6f0ab223;2018-12-21 14:58:04 -0800;Update tests to use correct manifests, so respective components will be available.
+2404b7fd4aee66f64339635753298ca264faf5cf;2019-01-10 10:42:07 -0800;Add window hierarchy dumping hook to TestOutputEmitter.
+bcaf62cfcd2968d73ea431d36b3dcaef6eafbf92;2019-01-10 13:02:10 -0800;Automated g4 rollback of changelist 228735876.
+200a6644c81deaaf8b16ed4d517a8b08fbadb3c6;2019-01-14 16:17:33 -0800;Project import generated by Copybara.
+1daba70e7b5952fc3fb46b9bd99dd2f80c2bdaa3;2019-01-15 09:57:28 -0800;Merge pull request #181 from android/FB032EA67D58D564A0C798A68E762D7B
+1dc37bd4ad1ce87b31df9ac033b257faef3b2360;2019-01-16 14:13:07 -0800;Accept comma separated class list in annotation option
+35bb830dc8206e6394c2e3947d2a8dd6db23703b;2019-01-17 16:21:16 -0800;Update androidx_test and android_test_support to work with Bazel incompatible changes around Starlark APIs
+d4ab566d6367381935a265af543fe4d8a865649b;2019-01-17 16:21:16 -0800;Project import generated by Copybara.
+964da25c7af91b2208505b81409e03b0313f328c;2019-01-17 16:34:59 -0800;Merge pull request #186 from android/FB032EA67D58D564A0C798A68E762D7B
+340a706305052d30071c6c0044e62e0488c49cf8;2019-01-22 10:04:10 -0800;Project import generated by Copybara.
+03ea6b92faf3a500e3a8beef7b544d72f7b83c37;2019-01-22 12:47:01 -0800;Merge pull request #187 from android/FB032EA67D58D564A0C798A68E762D7B
+6181037e5e89eafbe58eadcb58fa70b9af09c586;2019-01-23 16:54:19 -0800;Add window hierarchy dumping hook to TestOutputEmitter.
+808b1b7c466588f5c52b5a54f6faeb532c9884d9;2019-01-24 00:02:10 -0800;Automated g4 rollback of changelist 230629784.
+f872840e6b4665be7fb61aba6f5b0e9406e89ec6;2019-01-24 07:48:31 -0800;Use theme from Android instead of project resources.
+967c0ea2a86c35039c8d2aceac1ae044a63746aa;2019-01-28 09:26:19 -0800;Fix a bug in Intents activity lifecycle timing.
+0d179a72acb7b365304675268c0f6aaea041ca14;2019-01-28 16:42:43 -0800;Increment versions
+960dbbb9ecbd09525f86e05de73bd906c3b22f17;2019-01-29 11:55:43 -0800;Add hasDataString method to IntentMatchers
+160b0c0864f53e0fdc9ec5b91938ef962fe84af8;2019-01-31 14:08:04 -0800;Add window hierarchy dumping hook to TestOutputEmitter.
+5dbe78408b8cf91313044982a12e467c76fedc8d;2019-01-31 18:54:12 -0800;Change the "Overslept and turned a tap into a long press" log statement from an error to a warning.
+d000241fa98044182b43296ad259e50b65b6fdfe;2019-02-01 10:35:17 -0800;Add a filterEquals matcher to IntentMatchers
+e391649696de8b127bbba10c2cc6fba78806f84e;2019-02-04 10:19:36 -0800;END_PUBLIC Fix usages of any(<Primitive>.class) matchers
+75710be3fb7e2e9d74649e0bb43d2481e6236fbc;2019-02-06 18:30:20 -0800;Remove unneeded dependency from exec_client.
+08de5f8e67ff8fa35dc760d268fcec65efbba84b;2019-02-11 15:03:54 -0800;Internal change.
+020d431e40cf66ac95202610fcb822838a975588;2019-02-15 13:24:28 -0800;Throw a RuntimeException when Activity cannot be resolved.
+7c8e582d18fa446920d5a3968b80056b796ce8bd;2019-02-20 09:21:17 -0800;Use the current user for content provider.
+0388d16097183ddb4b7b987024d6f72a34842291;2019-03-05 14:24:44 -0800;Clear reference to uncaught exception handler to prevent memory leaks in Robolectric.
+56884b136ab9439bc8b4012775ee6b6c7192b4fc;2019-03-06 13:08:57 -0800;Allow specifying both package and class filtering in AJUR.
+7e7a822e7098399c32c0451873b5a5a649c3a6a0;2019-03-06 17:16:15 -0800;Use android_library rule instead of java_library for ext/junit:junit target so that merged AndroidManifest is exported properly.
+b0c918886b1ea5ca4d1f1963d623921bc752e073;2019-03-07 10:26:51 -0800;Increment versions for AndroidX Test 1.1.1-alpha02
+a5da3e998abe42bd6f9ebad19b09517c14aacead;2019-03-09 12:41:33 +0900;Change the access modifier of ParcelableSubject to public.
+e753dcb435ea8f5f3e11bf64eed58e3666c99ec5;2019-03-10 09:41:43 -0700;Merge pull request #239 from quesera2:fix/access_modifiers_parcelable_subject
+63f4d418dc91b98908bd05e3a395a2feca632053;2019-03-10 09:46:27 -0700;Attempt 2 at clearing exception handler.
+d5745c8e525ee4e1e0d3ad7f5d6e88570c13a97d;2019-03-11 15:28:27 -0400;Migrate legacy gmaven_rules to rules_jvm_external
+7f6bdd8d2789c4ced70a75c952457cb65706a96b;2019-03-11 16:16:07 -0400;Remove versions from BUILD.bazel maven artifacts
+5e9e63951c109eaca3a11c927261ab16b779bc0a;2019-03-12 09:21:48 -0700;Merge pull request #240 from jin:migrate-to-rules_jvm_external
+fe9dda6016e58467039da344dd3743ac7f6ee79e;2019-03-12 18:51:37 -0700;Add getState() API to ActivityScenario
+66e4740af2b27dedf30a145fc60653bf19586424;2019-03-14 12:46:33 -0700;Use a log tag with <=23 characters (max allowed by Android).
+b38d7e2542273da6019aee5e314e7f1fb367484f;2019-03-15 09:44:42 -0700;Convert WithTagKeyMatcher to accept Matcher<?> instead of Matcher<Object>. This will make it more flexible, allowing it to except Matcher<Foo> for any Foo type.
+53c1fb01e3a9453683f9b910e23fa3d7193fc4af;2019-03-18 15:20:25 -0400;Bump version of rules_kotlin
+10b2af528548631d616b6fba30f79578323b4639;2019-03-18 14:31:01 -0700;Add a AJUR option to run tests matching a given regular expression.
+e834d8b71fdfd782b2aa2157a54fbe4279979a59;2019-03-18 14:33:09 -0700;Merge pull request #254 from jin:bump_kotlin
+83a200e741729882b9a97c7af7684d6726e9dfde;2019-03-18 17:24:56 -0700;Improves an example code snippet in ActivityScenario javadoc.
+c71339cce96b8abb71c70fa8ae1b7bc4718ea2df;2019-03-19 10:11:01 -0700;update link to espresso setup docs
+e4c3a2984a6f2085dd6f64e576fbdda56cffc568;2019-03-19 17:39:34 -0700;Update version of rules_kotlin
+bf1fb1917250fb76d0b4a040b045245f64a4135f;2019-03-19 18:29:32 -0700;Merge pull request #259 from 10-10-11:patch-1
+f3e17e94f197cc94d1708826e8c5f63f81c4db36;2019-03-19 19:09:42 -0700;Fix build with bazel version 0.23.2 (hopefully)
+71a895b45b928b926ce46721f866a19b248cd22b;2019-03-19 19:16:00 -0700;Remove unneeded import
+50285cd5e884fbe23a4986d0cce4d5b726b46c8e;2019-03-20 10:17:04 -0700;Merge pull request #261 from android:jarjar
+6b2b15e5c87429b92e8d4725c96a98d70045f9d6;2019-03-20 15:30:25 -0700;Add long type to BundleSubject.
+dd392cd868d60495a4e3108b7fdb5e4e36275024;2019-03-24 06:23:37 -0700;Allow androidx_test to use Mockito 2
+bdf06111b761c67cfac28fd7f9ca4711b67c451d;2019-03-26 18:29:22 -0400;Pull in org.pantsbuild.jarjar and stop depending on Bazel's jarjar
+09abc12b18b906a23dd08df919477038ba1650ca;2019-03-26 15:39:23 -0700;Merge pull request #275 from android:jarjar
+3d62ac5ff0f863c9601e67053ef3c41fd3b79917;2019-03-27 10:53:52 -0700;Create build wrappers for androidx.test unit tests, and unify the core and ext tests to use it.
+a09505bc6f9ffddc64fcc3006b60cdb48be35bca;2019-03-28 11:42:30 -0700;Always use Locale.ROOT with String.format invocations.
+2f65faca60b4bc0b2679f565aec371726cf011ef;2019-03-28 12:12:09 -0700;Avoid redundant invocations of toString for %s args in String.format.
+8bdb613ae087662427f72c5be8da346045f74735;2019-03-29 13:39:57 -0700;Call static method directly rather than via instance.
+94f02813b064ef5da292b3f2e1fb11c501097afb;2019-03-29 13:42:21 -0700;Automated code style fixes
+5320ea622a4802497eea3aafdc337c4aa080dc8a;2019-03-29 18:13:20 -0700;Make value classes (ConstructorKey, MethodKey) final.
+db6b588962256de47c6321da87d4bf1919acca73;2019-04-02 20:29:19 -0700;Internal change
+aa3af5c3ee3b5d6a8980b941ef6e571188411af9;2019-04-03 16:06:06 -0700;Add hasComponent(ComponentName) to the IntentSubject
+152dd273b0e2d51a24dec9977f2acc001e0c836a;2019-04-04 09:26:10 -0700;Increment version numbers for androidx test 1.2.0-alpha03
+7efd6a9918d785f7cc6d1ccea062ec3a53fc8459;2019-04-09 13:01:36 -0700;Deflake openActionBarOverflowOrOptionsMenu by waiting for the next frame.
+5644ccab708be1591cc7c3e600ebbfabf201225d;2019-04-15 14:19:57 -0700;Update and disambiguate ActivityScenario#launch javadoc
+9814727fb0b6249ff8e7d7dc45a27e818f8843ea;2019-04-16 07:17:58 -0700;Make androidx.test work if legacy android.test classes are not present.
+a379c872755797eab6f182ec973d139514ae6b77;2019-04-16 15:09:45 -0700;Change NavigationView back to com.google.android.material
+fa82539118eecd1085f0a1ef41aa9772ea52a0f5;2019-04-18 10:02:46 -0700;Add hook in androidx.test to simulate a window focus changed for local test environments, and use it when Espresso is waiting for a root view to gain focus.
+017a186ca43c1c379d6661dabad1634baad1fbdb;2019-04-18 10:50:41 -0700;Increment versions to AndroidX Test 1.2.0-alpha04
+04445bc0086e3289da1ebbccb521754b400796ad;2019-04-19 15:16:07 -0700;Make ActivityScenario#onActivity callable from the main thread
+c369de2558ddc1bbd171a6b736aa37984cb6ce6e;2019-04-20 07:46:22 -0700;Migrate Truth subjects from the old fail(String, Object) to the new failWithActual(String, Object), tweaking verbs for the new grammar.
+07d19157de55d00fe24ed148c1f0c1445ddc53d2;2019-04-24 14:00:07 -0700;Wait Choreographer after options menu is opened
+f3dac7974b3bbbe298deba6fb3a6b8c4677c4796;2019-04-24 16:41:23 -0700;Wait two rendering frames in openActionBarOverflowOrOptionsMenu
+5a0d296ebc9a3a6a14bdc30fa03be0b1322ac3cb;2019-04-25 11:12:23 -0700;Update to Truth 0.44.
+691c9da7e31c1adea4150e2eccd748bdec587b83;2019-04-25 14:42:09 -0700;Migrate from isNotSameAs to isNotSameInstanceAs.
+191d87dc79a82f4007838d3ae84b9730e6fa9130;2019-04-25 14:44:15 -0700;Migrate from containsAllIn to containsAtLeastElementsIn.
+15f48bdd8d29eca16bd4025ce8917ff7b802e830;2019-04-29 15:58:00 -0700;Drain Robolectric main looper when waiting for frame callbacks
+08b8c89f38d55ad249287ca5aaf22e81e0b3631d;2019-04-29 16:46:55 -0700;Advance main looper in ActivityScenario.onActivity when Robolectric looper is paused.
+d329d65810d446589101dc748309e4a0bdbe7412;2019-04-30 10:31:48 -0700;Ensure ActivityScenario lifecycle events are consistent with device.
+de3cc1dbd7402f8a284a22fc0de57915d52daf25;2019-04-30 15:33:40 -0700;Bump versions for 1.2.0-alpha05
+eefad557240c3dd2ebbc7a2b8621337aed311045;2019-05-01 11:53:29 -0700;Propagate AssertionError back to instrumentation thread
+9dd6931f071437ccddb0630f0cf72ddc6eae2874;2019-05-01 23:53:51 -0700;Propagate exceptions back to instrumentation from the main thread
+cba38f5ee553974a970de0d6e30c016351d2581e;2019-05-02 12:52:44 -0700;Make activityInvoker member variable a non static field
+e953f7f873bbd70860bf4fc945720dab940a35a3;2019-05-02 12:58:34 -0700;Remove usages of Widget.NavigationView
+78dc2c4a08422baa7db43d38db60370f14c749c0;2019-05-03 15:50:24 -0700;...Androidx Migration...
+10374923cbaacc2121fca34500df1dac6a6c642b;2019-05-06 10:13:59 -0700;Increment versions for 1.2.0_beta01
+0650c3d4c06ecebede1e7c125b433624c8e0b92d;2019-05-09 11:12:52 -0700;Instead of calling Subject.actual(), store the actual value in a field, and read that.
+08632757db2dff6808c3079f23dac2ef8ebea34a;2019-05-09 13:01:15 -0700;Add build kite config
+b1bebea6e4f82109626f01467e92446d04b15167;2019-05-09 13:21:50 -0700;ws
+fc906cc49373339c21f5f1f57ed129c1cc1100d5;2019-05-09 14:41:07 -0700;...Androidx Migration...
+fd81d3c526fc3623aa0c5ef91ecf461c245d2599;2019-05-09 15:28:09 -0700;Allow subclasses to override default timeout.
+de41a282082182052fa18a7504723c9883e7a332;2019-05-10 10:55:45 -0700;Internal
+8656460c1e76b19ac708ad000a25e59a75a4859f;2019-05-13 10:02:06 -0700;If the script string is a Javascript function, pass it in as is to the EXECUTE_SCRIPT_ANDROID atom. This will work with servers that have strict CSP (e.g. 'script-src' directive set to 'self'), and not trigger the "unsafe_eval" error.
+06ffe165aec95723da722e0adb6ac3bd19c1d70e;2019-05-13 10:55:31 -0700;Internal
+be88e72b84b44f31d071886da5dd395991326ddf;2019-05-13 11:23:57 -0700;Don't print a log message if we're not actually changing the classloader, which is the typical case for robolectric tests.
+e8b6f1e7e91f540459b963229e685f1c512d16ea;2019-05-13 14:57:15 -0700;...Androidx Migration...
+eb3b20162b910693968f82793fcc7d990c25849c;2019-05-14 09:48:36 -0700;Merge pull request #341 from android:buildkite2
+a9e77d1d132118833d3f3fb0d4749cb3c3baba63;2019-05-14 10:56:23 -0700;Internal
+85294e6760b74932696f85e69bf2c64ff4c3432a;2019-05-14 13:37:46 -0700;Add logcat messages in ActivityScenario for easier debugging
+d4696d2a9bd3c02843c929c4099d13582a8244d8;2019-05-13 18:54:23 -0400;Migrate from manual maven_jar to rules_jvm_external
+d0774fe4f4276ac4f48be069be0d6f747c032b0b;2019-05-14 11:13:25 -0400;Update all deps
+f50fa4722623f92c5adbfad0ae94c08ac3612ec1;2019-05-15 12:13:51 -0700;To avoid unsafe_eval error when running against servers with strict CSP, updated built-in Atom scripts (webContent, getCurrentUrl, and getTitle) to use Javascript function().
+e6e4f47be3f8b70fccf905e09f13b93dcd942a45;2019-05-16 17:12:11 -0400;fix typo in com_google_code_gson_gson
+aefdfc792ca402707e27e70c85d77003176d29fe;2019-05-17 09:50:27 -0700;Merge pull request #346 from jin:rules_jvm_external
+3357417c4dfe06d10a29e305698405971695bd8e;2019-05-17 11:17:10 -0700;Reduce logcat level to verbose in ActivityScenario. Remove redundant logging.
+68f9d9008e6d57c5aaa65ce09a408e0d683b50f2;2019-05-17 16:45:46 -0400;Update protobuf version
+ad7a2a9877920782c4056ab2528452851ab15bcb;2019-05-17 16:49:41 -0400;fix
+b8468aa3750e14bbe53a27c2918ec2a63b750397;2019-05-17 17:06:38 -0400;inline protobuf_deps into android_test_repositories
+fd6cc03b58987bf778af8a5d042f6e1681028b2a;2019-05-17 17:08:34 -0400;organize
+370115ff01bb16f70ebf3a7659a2f39e41358c18;2019-05-17 17:18:27 -0400;remove maybe pattern
+a3f5104bba60b6918d87ac7d38a951ed048917bf;2019-05-21 16:53:16 -0400;Update README.md
+318c77ec111bcb9828b58053a035842eb65053e0;2019-05-21 17:12:50 -0700;...Androidx Migration...
+bfa8ae5b0ef2aa8a28a702e805ad045908d66a53;2019-05-22 10:35:36 -0700;Merge pull request #353 from jin:bump-protobuf-2
+61938345eb6e392bc02ccb689db40efabec67b7f;2019-05-22 13:40:37 -0400;Revert deleted bind for six
+e627068961a51019f84129daf77c47e6fea614be;2019-05-22 12:21:52 -0700;Internal
+977deb987fff72a88170a33f2618621e1cc5ff8e;2019-05-22 13:25:44 -0700;JavaDoc fix for ActivityScenario and ActivityScenarioRule.
+2e990782519786bca2f8bf23b2c5933f0d69da8d;2019-05-22 14:02:43 -0700;Merge pull request #358 from jin:fix-protobuf-again
+3bfc8c6241abc29b811cb1724fb7a22861144f9e;2019-05-23 15:37:13 -0700;Internal
+601f767c4b482842eaf0e6125217ca9773a7ef9e;2019-05-24 12:06:09 -0700;Migrate Correspondence subclasses to instead call Correspondence.from.
+76167dede15075a4619e691be363707c2033b2e6;2019-05-26 14:23:19 -0700;Add truth subjects for Location to androidx.test.
+6fc0cc1bc3ae332c83cb4ae6e9f1dfaed6dd5a33;2019-05-29 11:56:28 -0700;Removing method body of waitForActivitiesToComplete()
+f6b176b4815292414845c7685d623fc3e9dc26bd;2019-05-29 12:16:43 -0700;Downgrade KeyEventActionBase's waitForStageChangeInitialActivity() error log to an info log. This method is exclusively used to handle pressing back, and is based on the assumption that pressing back should trigger an activity stage transition. However, that assumption is not valid, because the activity may handle the back behavior in any number of other ways internally, such as popping the fragment back stack, dismissing a dialog, etc.
+4fbb9c9975e5f1ee30f22cd1fa032d4d3d040b4a;2019-05-29 12:44:15 -0700;Increment versions to 1.2.0 stable.
+3597c5c92b191f09935fe6a144254284075a38a9;2019-05-30 12:40:21 -0700;Rollback of: Removing method body of waitForActivitiesToComplete()
+19ad87463550b2c4594573f75f2c675fbcf29109;2019-06-03 03:39:37 -0700;Migrate org.mockito.Matchers#any* to org.mockito.ArgumentMatchers
+b095ef779f18470b9c1c23ee781f37e86f0b86ee;2019-06-03 09:12:25 -0700;Replaced the deprecated #findViewHolderForPosition method with its replacement #findViewHolderForAdapterPosition.
+daf2db024fc249cc0b14b0553f0673416a877792;2019-06-03 18:58:00 -0400;Set unified_launcher_head to PY2 to be compatible with --incompatible_use_python_toolchains
+1edfdab3134a7f01b37afabd3eebfd2c5bb05151;2019-06-03 19:09:54 -0400;Merge pull request #378 from jin/python-toolchains
+78385a95d651d69151ccfcc8145125bec7a784a5;2019-06-04 16:03:29 -0700;Update to Truth 0.45, and address deprecations.
+9f059d364bfed8aaa11ffd8c09f1bb27201ce01b;2019-06-05 14:06:32 -0700;Updated TypeTextAction to accept custom GeneralClickAction for tapping to focus.
+1b61d57827f5c55bcbadbf375a71ab206e122e97;2019-06-14 10:42:47 -0700;Update versions for 1.2.1-alpha01
+f81e00a6b3672e45207ac0cf46c019f9a201d248;2019-06-14 11:14:09 -0700;Update espresso and runner to 3.3.0-alpha01 and 1.3.0-alpha01 respectively, since there are new APIs relative to 3.2.0/1.2.0.
+7d28590b0575bb6be19c458b5b7a2373aa1deca7;2019-06-14 15:50:08 -0700;Add javadoc generation for new API androidx.test.ext.truth.location
+ef59895f4132aa13f01b263e5342d5cbb73b37a9;2019-06-20 14:16:54 -0700;Make activity lifecycle transition timeout configurable by instrumentation parameter
+4e6736e9c0949fb4f89e3baad61c99deef644777;2019-06-20 17:32:22 -0700;Internal Cleanup
+284a786929d53fea11951f029a57a2293e3e8f73;2019-06-25 08:13:00 -0700;Stem superfluous logging of 'Activities that are still in CREATED to STOPPED'
+d707d4ea999704e6b2ec03235a983ae31b4db355;2019-06-25 13:57:37 -0700;Add a BundleMatchers.isEmpty() and isEmptyOrNull() methods
+c155ace6ef91c57cdb62551b7d9ab7fbc91a804e;2019-07-08 10:44:09 -0700;Convert one of KeyEventActionBase's error logs to a warning log.
+24a7e5f950730a8dcff1f0fbdf47d89fa5047e4c;2019-07-09 09:05:20 -0700;Update versions for 1.2.1 alpha02
+133950785aed8d44e9cf04cd0a2a787a41f20e0d;2019-08-06 10:32:59 -0700;New discovery service for AJUR. Placed in test services.
+10a6400cd55b2a53982b862db10bb875766d9c7b;2019-08-15 16:51:59 -0700;Test Discovery service implementation
+484f303616510d166e66d888108dec2ca895106e;2019-08-20 00:51:52 -0700;Test RUnevent service for an instrumentation runner / Test runner to communicate.
+216728a560ea14d99b12d8d672fdee37d58ea9ac;2019-08-21 10:34:08 -0700;Made AccessibilityChecks.enable() idempotent.
+804534290a7854566855029a1cf905b246dc350f;2019-08-21 15:48:53 -0700;Refactor TestDiscoveryService
+d107c5f217b9d8763f8d761a264c590a55804a1d;2019-08-22 15:25:35 -0700;Test event client for new orchestrator
+d47e64635312e5956e3c8372a38e923fe7f3faf9;2019-09-09 17:17:10 -0700;Enable manual setting "custom_package" for "android_foo_tests" bazel rules.
+79427163fa91bbfc6e93c6f63e500736d79764e5;2019-09-18 10:53:06 -0700;Support ActivityOptions in ActivityScenario
+4abe89b71ae24593bac97b7d884040eb17e2255e;2019-10-01 10:16:23 -0700;Changes an error log to have the correct units for what is displaying.
+f4d8611bce27e85198aba47d289c77119e56c9ff;2019-10-10 10:57:01 -0700;Update Location extensions to behave better with nulls.
+4d7b6eb4db4f6e3b47acc3d4c8cf09deeb9a6bae;2019-10-14 13:24:59 -0700;Catch NoClassDefFoundError to mimic chrome friendly loader runner.
+86f432ea77cce427388704f60e8b7ce6c408d5cc;2019-10-22 16:40:20 -0700;Add stringArrayList and parcelableArrayList methods to BundleSubject
+f5a7240e8f9e475d4e49f14820e4af28342b1118;2019-11-01 13:49:17 -0700;Update versions for 1.3.0 alpha03
+092ba8fed4b6f480aa755bcdfe06e9bc4a019073;2019-11-07 13:42:26 -0800;internal
+2a89c034f6d4627c71852c99dd5fe4385007d10f;2019-11-21 13:07:31 -0800;Add logging to make it easier to debug issues where there is unmonitored work that Espresso isn't aware of.
+d615ec4bc39d7bfa3480b1dccb1931ab5a84e7b4;2019-11-21 15:06:20 -0800;When an unhandled exception is thrown by the application in an Instrumentation test, waits until the test orchestrator properly handles the test results before bringing down the entire Instrumentation process.
+f431c3a2dfded7ca33567d3979a2dd1a468dc998;2019-11-26 10:57:49 -0800;Add isFaraway() to LocationSubject.
+d547448d5e7f6b0f7d6c8858da125e97b195acea;2019-11-26 14:44:47 -0800;Created a 3rd-party version of the storage testing service.
+73c0c15f9b0795548d999a82a1ac408786645eff;2019-11-26 14:55:23 -0800;Make ActivityScenario.launch compatible with released Robolectric 4.3.1
+9c481584e1a87fceadb992b162c4304f8705e3d1;2019-12-02 03:57:32 -0800;Add nocompress_extension option to android_library_instrumentation_tests target.
+6f4d494f25807c5bfff9cb9cab15ff5228c08707;2019-12-02 11:15:14 -0800;Updated AccessibilityChecksTest to use AccessibilityChecks from espresso/accessibility instead of espresso/contrib.
+2f9e54a188545c861c9e91880f00f03ec214ba9b;2019-12-02 12:31:01 -0800;Updated build dependency for AccessibilityChecks.
+a6828348f7e512408613a42cddac739f19a085a9;2019-12-02 14:35:24 -0800;Allow opting out of waitForActivitiesToComplete via a 'waitForActivitiesToComplete' bundle argument.
+dd9580d833a526799931bbff8d194b72dd05b08f;2019-12-03 10:24:52 -0800;Fix the error message when Espresso is busy due to processing messages (rather than idling resources).
+909c84f293ef74a9190050a2f5e1461e560a8155;2019-12-03 18:07:57 -0800;Fix the error message when Espresso is busy due to processing messages (rather than idling resources).
+229a41cd3a53e9b5aa29b9a6d8f706aa10459a0b;2019-12-05 11:31:11 -0800;Replace the native bazel Android rules with the Android skylark rules.
+8991c3166fe18bf58bb5a37fc6676d08b12fcd70;2019-12-05 14:43:06 -0800;Fix AndroidJUnitRunner to send the correct test description on "Test mechanism" failure
+3b6ccd367f828023c8b525e5298de95ed1eb3e76;2019-12-09 14:37:58 -0800;Fix the error message when Espresso is busy due to processing messages (rather than idling resources). (Suppressed possible NPE exceptions.)
+188895b26b0dcc98b8a7f8af3ec44b420dc78898;2019-12-11 13:54:50 -0800;Includes the storage service in the test_services.apk.
+5b05bd1a647717d27603e11a93784082505c5fa5;2019-12-18 13:00:22 -0800;1) TestStorage now supports passing in a custom ContentResolver other than the the content resolver of the app under test in Instrumentation. 2) Uses the AndroidX Experimental annotation to annotate the TestStorage APIs; 3) Adds comments to explain the pathname argument, and also includes naming conventions for argument names.
+8545f1231094043ef387a921cabc6b5442331231;2019-12-18 15:40:06 -0800;Lower the logging level to `debug` when all idling resources are idling, as this method can be called for multiple times and it appears noisy in the logs.
+c9995bbe0114665ad277ca35ce8f3e6a9ab72087;2019-12-20 09:42:43 -0800;Uses buffered I/O when writing test properties to file.
+8f13c8e7d4c903623a81b5ea026f189ace671e94;2020-01-06 13:05:18 -0800;Includes the provider authorities as public constants so that test infrastructures can use them to push files onto the device for Q+ devices.
+4acdc7aaa836540abd3f935078ef4e2830afdcb2;2020-01-08 10:57:14 -0800;Dependency update for the test storage service.
+563c76ff9e76703fec7adbdf79dd30c95dbb5b06;2020-01-10 10:43:31 -0800;...updating proguard for google3...
+2a7336d7a5776eed865011c5e61a055c05d68974;2020-01-15 10:51:08 -0800;Added usage tracking for the TestStorage APIs.
+ddca716ec5f283b13423b2aff364f9d91cd44878;2020-01-27 09:56:53 -0800;Ensures closing the Cursor instance (in the finally block) in the TestStorage implementation.
+9a9822aed4cdf1812e536e6fb21649e0380337de;2020-01-27 15:10:06 -0800;Added additional info when JUnit4 test class is malformed for easier diagnostics
+d8f65b561d04f7d0d63fbab84aa257c9bd7c6d89;2020-01-31 08:35:35 -0800;Migrate org.mockito.Matchers#any to org.mockito.ArgumentMatchers
+c77bfef7f0835301a3ed82e5a73053d9d5512c03;2020-02-03 12:36:57 -0800;Add optional manifest_values param to android_{app,library}_instrumentation_tests
+08adbbf3cf2116687f371250c744d48369c9c221;2020-02-04 11:40:31 -0800;Migrate static imports of org.mockito.Matchers to org.mockito.ArgumentMatchers
+f4d544942537e58d7393bc1ebbb19608af3f332e;2020-02-10 09:31:30 -0800;Fixed the test storage service's bazel tests.
+83a1d7e80ce3b02f66e7f96b06911865a3f87c7c;2020-02-10 09:34:11 -0800;Update versions for 1.3.0 alpha04.
+beb13b74596ea37321b2acaf3d8053fca5de1418;2020-02-13 12:00:51 -0800;Add multidex option to android_library_instrumentation_tests
+b578fb07be19cb6b99cd8e6e2d7e780432898d48;2020-02-14 14:01:54 -0800;Included the storage APIs in the maven artifacts.
+306bac1170e071f3dbd2cbe3d6c7ce0abb465500;2020-02-14 16:18:29 -0800;Fixed the storage maven artifact name.
+030d188d93333fe6800dbfd8961b312a5a942213;2020-02-18 16:03:43 -0800;Clarify ActivityScenario javadoc
+cc4eaf6bb86b4fded6d9397fb8982e0bb076725d;2020-02-18 23:06:14 -0800;Fix potential resource conflict in AppCompat test app.
+fce074d5aa7b2f17b430a82e3ec1a63d900a71c8;2020-02-19 12:09:10 -0800;...no-op #cleanup...
+e50fde003e6eadaf40e00897e9a6534e316d388d;2020-02-20 08:03:20 -0800;Remove unnecessary kxml dependency.
+1f8310fc8e59d6f34126045e066816ea240c5f56;2020-02-20 16:19:46 -0800;Fix ActivityScenarioRule javadoc formatting.
+60c7fc7ac4c21aeafc34f4134e13466bddd7e370;2020-02-20 21:41:49 -0800;Link to Accessibility-Test-Framework-for-Android for github in Espresso's AccessibilityChecks javadoc.
+d03ae8b5a1ac0773dd91f0d9afb38b5e8a5fc5b9;2020-02-21 10:02:04 -0800;Switch reference from about-to-be-deprecated ActivityTestRule to Instrumentation#runOnMainSync, and fix formatting.
+602c1d6a0423e9c76848b20a581ff47b4ef69951;2020-02-21 11:16:28 -0800;Fix: ViewMatchers.isDisplayingAtLeast() works for views with negative scale.
+7fef3fbd8f4a68a2cf584721930c276eb49b16ee;2020-02-21 15:44:57 -0800;Fix issue in infer_android_package_name with tests in //javatests
+b4ecdca5e243417dc0b03877eef6acf52fcf50b6;2020-02-24 08:33:25 -0800;Rename a method to look less like a mistaken test method.
+92fbfcba123ff4e94c2bcdeea34c57be233b289b;2020-02-24 11:16:19 -0800;Ignore all LinkageError exceptions when scanning classpath for tests.
+d0598bdc51c32fc59ddd957642245f12eef69414;2020-02-24 13:10:49 -0800;Skip launching an empty activity on ActivityScenario#finish for API >= 27
+00b5e0e9dbe84d58533cdb77ba5624d82922ac75;2020-02-24 15:48:26 -0800;Skip starting and finish animations for the empty activity used in ActivityScenario.
+fad1ed5296455bd6ac307dc39c61e20473393976;2020-02-24 16:24:28 -0800;Remove spurious wait in waitForAtLeastOneActivityToBeResumed.
+ce49216ba7a5862b33599862d515b3e4fb2c6e09;2020-02-26 12:59:53 -0800;Attempt to reduce the log noise in AXT Google Cloud Build
+15f5bd0af82a5a96200e1542c1b905a2a8f0050e;2020-02-26 14:04:11 -0800;Attempt to fix AXT Google Cloud Build by downgrading bazel
+8bcd3580cfc097f7108fb2e4770be25c9574f7a0;2020-02-26 17:20:41 -0800;Fix Android SDK download in AXT Dockerfile
+3daef2b189cd69d7b4f93b1961ee66daf34d649a;2020-02-26 20:41:52 -0800;Handle Activities launched via implicit intents.
+2b716a151aff9cf8b14d0b93a5b44a299515616c;2020-02-27 14:48:22 -0800;Skip launching an empty activity on ActivityScenario#finish for API >= 27
+d113300e3043d41f1308d2a2df2c10cd81632976;2020-02-27 15:25:23 -0800;Initialize InstrumentationRegistry before creating RunListeners from RunnerArgs
+f86c0432606e8aa41722227408da44b23ed1eb6b;2020-02-27 16:26:15 -0800;Internal
+d38972eebcbe5d340f1c2404326dc20abf555208;2020-02-27 18:03:20 -0800;Set correct meta state for ACTION_UP
+210d6de78a699b22249724c5f21a9e1804d6e8e1;2020-02-27 18:49:49 -0800;Update AXT bazel build to use SDK 29
+702b7ab60e102ce8fd3e0a81d0e1eaacb15fe194;2020-02-27 18:59:24 -0800;Internal
+f1172a4e0d2ce5ad1171ef3768e0ab3e4564ef92;2020-02-28 10:29:25 -0800;Internal
+a179eb99f302e036837985aa8d9c2d5befc5e9ab;2020-02-28 11:49:04 -0800;Update Kotlin bazel rules and GCB bazel version to 1.2.1
+88ba78269aa9796720092d7efec30cf8b2995cd8;2020-03-02 15:18:19 -0800;Fix 'depset is not iterable' error in maven_repo.bzl
+844ff4a1e17f93f1633891bf4df2eed1a1f43219;2020-03-03 10:28:47 -0800;Update protobuf_javalite dependency
+2e0efe7aa8852c5e4667dfb55ce640bc601855c3;2020-03-03 11:09:40 -0800;Update maven_repo.bzl to use ctx.actions
+c2b701713f30ac7477d9c58664e885353f5e59b3;2020-03-03 12:49:41 -0800;Update robolectric-bazel to 4.1
+7b161a7446f747b3fbca6a787fa29e49837753ae;2020-03-03 15:01:04 -0800;Remove aapt_version attribute from AXT bazel files
+c245a952efdc70f83dce59509a03d5310de402dd;2020-03-03 16:42:32 -0800;Fix AdbController's instrumentation class name enforcement.
+3f1d6620c214b5a5b2556b986a9cf0df4405699b;2020-03-06 09:22:54 -0800;Fix core bazel build.
+2b0ff6e0555834c7a6b5533edfcf67de9162a9a3;2020-03-06 10:01:30 -0800;Refactor out a common macro for android_*_instrumentation_tests for reuse.
+92b1c68fc83d1ecd5d2b8b6bbafbc37bcd303ead;2020-03-06 10:08:33 -0800;Fix typo
+52d70cfd716cea2496d35315f966ac6dd8865f1b;2020-03-06 11:16:45 -0800;Merge branch 'master' into fullclassname
+12cfe4bd422733b650342e9122bdc36f1e8c796e;2020-03-06 12:02:22 -0800;Move back to supporting custom runner.
+6d7f7bbd912c4df919011140f9c1ea8407758146;2020-03-06 11:17:03 -0800;internal change
+7422eb91c2df54e0cf006bb2ffe42599538dbea3;2020-03-06 14:29:03 -0800;Refactor out a common macro for android_*_instrumentation_tests for reuse.
+16eb3aadb3cacadf0933ec70572d2afdb20cab33;2020-03-07 19:14:12 -0800;Add bzl_library targets for a few android test bzl files.
+0ef66c344c3cae205886b74c524f31908e06a27a;2020-03-09 10:42:39 -0700;Temporarily ignore broken idling resource tests on GCB
+6d673bab254bd81ca4ef10e484d8bab91fc67861;2020-03-09 11:17:40 -0700;Pass along javacopts to generated android_library target
+c2e30f960902e594e9b541f5ef2aa4e1e32f6eed;2020-03-11 10:49:05 -0700;Update axt_versions.bzl and UsageTrackerRegistry for 1.3.0-alpha05
+2569ae6a36a448549b0909c48b430f588c1bbe7b;2020-03-11 15:48:13 -0700;Take 2 of refactor out a common macro for android_*_instrumentation_tests for reuse.
+c4fb9e5167dc7c18e409f53bfc76928866ff58fb;2020-03-11 16:24:11 -0700;Add README describing how to rebuild entry_point_deploy.jar
+b48aa59d13bbe0a47451bf7e3df17a1e106f355e;2020-03-12 10:09:37 -0700;Convert rules tests to android_library_instrumentation_tests
+b2e72bdc82fbaf6091a0f863a74dbc8785421e08;2020-03-12 10:14:39 -0700;Update entry_point_depoy and fix README formatting
+f4031124d31c2628e659f9d5ae22666475c4d986;2020-03-12 10:16:09 -0700;Merge branch 'master' into fullclassname
+d2791043e19429dcf9a861000bfc8a203f1544ed;2020-03-12 11:57:59 -0700;Convert runner/android_junit_runner tests robolectric tests to unified API,  so they can be run on emulator/device.
+4ae837070dc6186c0b3e3f98c608c3fa60587d9f;2020-03-12 11:59:37 -0700;Move runner/android_junit_runner fixture classes to their own package.
+1b04ec58eefd76b9d6b4991d2601c3bdef5ed189;2020-03-12 12:27:26 -0700;Merge pull request #554 from android/fullclassname
+b7df94594a1dcee5f463e10d036e650180a16977;2020-03-12 12:40:59 -0700;Fix GCB.
+559eec2e3974c823df505b9b9932798b30b0706e;2020-03-12 15:38:11 -0700;ws
+162f13c385e46e1c70aa5501603313eaef808e40;2020-03-12 15:45:50 -0700;Merge pull request #580 from android:fixbazel
+a0594d8185f0a1626c15a623c557a7edc1366832;2020-03-12 16:24:16 -0700;Convert runner/android_junit_runner tests to android_library_instrumentation_tests
+1023633d958e8145ccc2f5fd4f59822b1a1629ef;2020-03-12 16:46:19 -0700;Runner test cleanup.
+c7eef4c86bb09931f21c5b5cb1c09034f0e2ec94;2020-03-13 10:13:13 -0700;Fix bazel build error in ViewMatchersTest.
+739faab19c26727f31a0d110b4c864acc3f987c5;2020-03-16 12:51:29 -0700;Convert runner/monitor tests to android_library_instrumentation_tests
+f4c6403fe2aeccb98f25fcc863b39aa68dc05d6c;2020-03-16 13:05:08 -0700;Convert espresso/accessibility to android_app_instrumentation_tests.
+117afe60236fd9850f0a6df73f909eaa3ea797e4;2020-03-16 13:09:15 -0700;Convert espresso/idling_resource tests to android_library_instrumentation_tests.
+46b9a3b400b8c7b29292a389a16a438ff874e194;2020-03-16 13:28:27 -0700;Convert espresso/intent tests to android_app_instrumentation_tests
+78a13e4258dd1106e07575d2c35acff0ee37d10b;2020-03-16 15:46:43 -0700;Convert espresso/core/action tests to android_app_instrumentation_tests.
+86ed3e6b90fba2c445c1514d7538e6e807b75700;2020-03-16 16:00:42 -0700;Convert espresso/core/assertion tests to android_app_instrumentation_tests.
+03535401014b100cbc93611caf41cf3dc688e438;2020-03-16 16:16:43 -0700;Convert espresso/core/base tests to android_app_instrumentation_tests.
+45e361a6f4c4706dcdacef4fc7aa5cfe4cf06f21;2020-03-16 19:30:09 -0700;Deprecate ActivityTestRule in favor of ActivityScenario.
+2b19cae531540601709f72a0a2ab38d4993934f0;2020-03-17 09:41:59 -0700;Convert espresso/core/matchers to android_app_instrumentation_tests.
+95cb1c9e4ed3792a48080001ec87b6b84d4ffd87;2020-03-17 12:55:55 -0700;Convert espresso/core/util tests to android_app_instrumentation_tests.
+5fcd768455a969a70625ac14c34159bd96ff4789;2020-03-17 13:17:22 -0700;Convert espresso/core/remote tests to android_app_instrumentation_tests.
+5d9b217fb74ac61206d9ee27a52ce32eae3e0ac1;2020-03-18 11:27:46 -0700;Convert espresso/core tests to android_app_instrumentation_tests.
+f8f7d2680d82f4821bacc025aa9f9bdcd9148fb4;2020-03-18 11:32:41 -0700;Add a kt_android_library_instrumentation_tests macro
+b199e77e9f32b8cc897ecb5759f5ec1c7e37c2c6;2020-03-18 12:28:49 -0700;Convert espresso/web to android_app_instrumentation_tests
+95e9f544922aab95f9d6b89c6279a9bcd8369269;2020-03-18 18:49:41 -0700;Convert android_test_orchestrator tests to android_library_instrumentation_tests
+38687352d633273a6551ae81dd5144160672ac46;2020-03-18 19:38:48 -0700;Internal
+e8fe2e6d89f7ddce9225e96b70e6bb3fb25b1092;2020-03-20 11:07:00 -0700;Convert espresso/contrib to android_app_instrumentation_tests.
+9958e875f5269dcd5638f3422e6eff14edf83645;2020-03-23 19:31:33 -0700;Convert uses of test_devices.bzl:DEVICES to devices() macro.
+66f52df210afb90dad07534cc2d4606a1b6dfb7d;2020-03-25 10:47:20 -0700;Restore neverlink targets.
+a7a3ee9bee1de76fea76ffda8855678a40694e42;2020-04-01 00:45:18 -0700;Add codeName() to @SdkSuppress to support running/skipping tests that use unreleased SDK.
+1b227c80ce82fc75f539e88d5c09ca609b27479a;2020-04-06 15:11:53 -0700;AndroidJUnit4: Only delegate to RobolectricTestRunner if its on the classpath.
+5ff108cfa2d2e6327d4094704f5912b6d84de14f;2020-04-09 17:53:44 -0700;Removed unnecessary licenses attributes.
+5489ad44b2deb90ba3f3c074cd1aa79eb6b73b6a;2020-04-13 16:31:30 -0700;Improve debugging when ActivityScenario#getState fails
+bc17e912e3ef9284a5ecef8ebe1eaaeb03b79349;2020-04-14 08:33:04 -0700;Make LocationSubject override isEqualTo
+03cc09b6b1be6f7ada62c603aa75d8a12638314d;2020-04-15 14:17:58 -0700;Create a more descriptive and less error-prone description of WithIdMatcher

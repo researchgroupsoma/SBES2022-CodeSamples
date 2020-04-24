@@ -1,0 +1,31 @@
+9e67b35871455c85f53e39184c62d7fe1ca70d3d;2019-07-24 21:10:50 +0000;Initial empty repository
+9d306539330d94f94178b22ab2a65d4242645b76;2019-07-24 15:58:20 -0700;Enterprise: Adds standard open source files to repo.
+f5acdf6dbcb1fddc07adcc69137ebcb02ac9450e;2019-07-25 14:49:02 -0700;Adds DeviceOwner example.
+d6dd5a554718a1b2abfbc97aae1b771bfab271b8;2019-07-25 14:51:43 -0700;Adds AppRestrictions sample to repo.
+3401526a53883cc4ae4f4647c5bae3cbdf2f9982;2019-07-25 14:53:36 -0700;Adds BasicManagedProfile sample to repo.
+cf5b0d0b3dacbc7d3c6cf6f6686be73e4ad92183;2019-07-25 14:55:05 -0700;Adds NfcProvisioning sample to repo.
+3941fec32399a535fd38bb941dc5e9b608df5203;2019-07-25 14:56:54 -0700;Adds AppRestrictionEnforcer sample to repo.
+9c0300705b259ca0c0c754ec4d8309c09050b0ba;2019-07-25 14:58:29 -0700;Adds AppRestrictionSchema sample to repo.
+04e731f2614b196fec868beaa1ae749a977c1fc4;2019-09-11 09:51:45 -0700;Update packaging.yaml
+8341033fa66be20f352b63734feb015e856cb3d2;2019-09-11 09:52:02 -0700;Update packaging.yaml
+a5cfc34d6619d76f46a463b3ce71203ecb28c670;2019-09-11 09:52:14 -0700;Update packaging.yaml
+7d34935e5b609c37438f6673a6acaa059b8b7fb6;2019-09-11 09:55:29 -0700;Update packaging.yaml
+4b5ed1610568c7f70125fd5d93cfa4ba2feaca83;2019-09-11 09:55:51 -0700;Update packaging.yaml
+3ba83ab81d2a30b93e5034601dd83ae57d3c72fa;2019-09-11 09:56:09 -0700;Update packaging.yaml
+f022dfc9267173988c2acc4d2f9007d03e18e176;2019-09-11 09:57:34 -0700;Merge pull request #18 from android/update-yaml-files
+a2a3cf72e51119434fae1aa7df09ee3bdfc7d0ab;2019-09-24 14:38:58 +0900;BasicManagedProfile: Bump SDK version to 29
+652ce65b7bee97e8ebba78ac497e07ebd69b42d4;2019-09-24 15:07:20 +0900;AppRestrictionEnforcer: Several updates
+9b27a7241c8ce862dd1c3010517d8660b92dcd4b;2019-09-24 15:29:47 +0900;AppRestrictionSchema: Bump up dependencies
+0d580d3241e649fed2c309d7ebe9dd6fff4e0556;2019-09-24 16:44:07 +0900;DeviceOwner: Bump dependencies
+9b2cdc731f2a78481030d56fbfd73cbd59d47bc6;2019-09-24 16:55:45 +0900;NfcProvisioning: Bump dependencies
+b42201405c75f67c6bc2334f849043da0d4da325;2019-09-24 09:50:15 -0700;Update LICENSE
+303e290e2d7c4f172c53390ed74230c50cb7103f;2019-09-25 05:39:14 +0900;Merge pull request #20 from android/BasicManagedProfile-bump
+f7cf15737081a1accb468a09e058e8ab1366b679;2019-09-25 05:39:49 +0900;Merge pull request #21 from android/AppRestrictionEnforcer-bump
+a59a5527d375b0c66f6e9e6c7a4719771ea532a5;2019-09-25 05:40:16 +0900;Merge pull request #23 from android/DeviceOwner-bump
+3a216b4fd1a09553dcea6a1dcfe80b67736bc87b;2019-09-25 05:40:30 +0900;Merge pull request #24 from android/NfcProvisioning-bump
+4d06ce961de7cfdfcb584495f846c22c844eee74;2019-09-25 05:45:36 +0900;AppRestrictionSchema: Fix copyright notices
+a6a6a718ce90b6fdab3fc8cd2bff636ef44fb64a;2019-09-25 05:47:56 +0900;Merge pull request #22 from android/AppRestrictionSchema-bump
+de474490042a52a2b6074072412b9ccfeef07e18;2019-10-02 13:07:29 +0900;AppRestrictions: Update dependencies
+d431c9612c78b2869c51659e19e8f89386a137ce;2019-10-03 10:15:23 +0900;Merge pull request #25 from android/AppRestrictions-yaraki
+918f427ef40190d4d5b99488c8d50d0349f37df6;2020-02-14 15:30:21 +0900;BasicManagedProfile: Fix for Android 10
+7cfa33b057d4d5ece1856efb4ebd714d488b7959;2020-02-20 12:55:20 +0900;Merge pull request #29 from android/yaraki-BasicManagedProfile

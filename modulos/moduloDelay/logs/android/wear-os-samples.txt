@@ -1,0 +1,65 @@
+f99a83bbf34e8783135b8de0d943878fdaa85ad9;2019-02-10 21:06:04 +0000;Initial empty repository
+175e305f7214dcc9ac00189c9b5d534bca2f7f7e;2019-02-11 15:20:52 -0800;Add standard repo stuff (README, gitignore, etc.).
+3b3569c4b4a01f404e46db6094a32b046f73fe7f;2019-03-18 11:54:21 -0700;Fixes Wear OS License.
+2c25776d86e758970b1a17caa5b7baf18c4586ba;2019-03-25 16:25:48 -0700;Small nit fix to README.
+48e646a09dbd0444e5a6365dfa9522e8b115ef6b;2019-04-03 11:35:35 -0700;Adds AlwaysOn sample to WearOS repo.
+81c387353e80325719640fb9a02a89865cc67f29;2019-04-03 11:46:32 -0700;Adds DataLayer sample to WearOS repo.
+58aec698e547479150a79a78ba7ca314ed478fa0;2019-04-03 12:58:45 -0700;Adds JumpingJack sample to WearOS repo.
+1e3cbd0590b10cd4cae8e0a7a37c11fb037d8472;2019-04-03 13:21:00 -0700;Adds RuntimePermissionsWear sample to WearOS repo.
+37d7cd63a7425081ff8f309fda8c5f24403981b5;2019-04-03 13:22:39 -0700;Adds Speedtracker sample to WearOS repo.
+8a796cffcda4d495d9c8918969144edeaf8e3e15;2019-04-03 13:23:29 -0700;Adds WatchFace sample to WearOS repo.
+383801e15221ad396473309856363dd95ba89f9a;2019-04-03 13:53:04 -0700;Adds WearAccessibility sample to WearOS repo.
+c065d69b05af5a92f35e3318ddc3ff8a5c0245db;2019-04-03 13:55:00 -0700;Adds Complication data provider test suite sample to WearOS repo.
+a214540b8ec4ee762cd64f6e033c86927b0ac133;2019-04-03 13:55:44 -0700;Adds WearDrawers sample to WearOS repo.
+9ef7b892010ff8bf07954005a43b37acf34533ec;2019-04-03 14:10:09 -0700;Adds WearHighBandwidthNetworking sample to WearOS repo.
+c618e4612bcae400348c527cc39b097b404781de;2019-04-03 14:10:54 -0700;Adds WearSpeakerSample sample to WearOS repo.
+b2238c1771123d137c782f852d383e545cccb9ed;2019-04-03 14:11:23 -0700;Adds WearVerifyRemoteApp sample to WearOS repo.
+367fb48f66f25268c8b43419b976df9f224e956c;2019-04-05 10:24:02 -0700;Adds XYZ Tourist Attraction sample to WearOS repo.
+824c804dad6e1f1962026bffe39a41c88a5b82f8;2019-06-04 13:24:13 -0700;Fixes JumpingJack sample and updates Always build files.
+2590a3243a2eced5b4c6efe36528837c593086f7;2019-06-04 14:29:43 -0700;Adds all missing open source headers to yaml files to pass go/cross.
+d3b16416d41c0b3f16b151cde556777e8028dd61;2019-06-04 16:23:17 -0700;Add missing header plus update build files for XYZ.
+bdc5967425992b09a94ab3d6adf4253aa22338c8;2019-06-05 09:12:00 -0700;Fixes minor doc issues for open-source.
+78852df15d89b963507bda638de13a1632e6a634;2019-06-10 14:00:50 -0700;Revises README and removes unneeded files.
+4de818a1a043f78da0fa3fd1770c1b3ccd33b1cf;2019-07-03 11:14:27 -0700;Revises repo location for yaml files.
+8ef533d82aa19f0fc96130d008e171c15378dc57;2019-07-03 18:39:21 -0400;Add screenshots to Speedtracker sample
+2014374af7befa1f485bf39875239357c8c195e7;2019-07-31 15:34:08 -0700;Merge pull request #1 from bupont/doc-add-screenshots
+a2e57c765fd9d3ba6e5e3d18fa9ebf3d0b0a4d45;2019-07-31 15:46:03 -0700;Merge branch 'github/master'
+72d3211a509103126266643935e0655c4205fe76;2019-08-02 15:01:04 -0700;Removes incorrect comments from yaml files.
+669a3be561d9b6a578ec1c6fd116da0903f0f891;2019-08-02 15:58:16 -0700;Adds WearOAuth sample to repo.
+ff34814718baf7320d8d1d983025a987cd762493;2019-08-02 16:05:23 -0700;Adds Google Sign-in sample.
+1a4389945a62fc6f899fb0fffe9f0dd0ea0a4192;2019-08-27 22:36:42 +0300;Use new GoogleSignInClient instead of GoogleApiClient
+b1de9b43344e306e9b6f87ab1fd34f2fed30bf53;2019-08-27 22:45:48 +0300;Removed unnecessary file
+4a1e78b05d19d1f6d33f83f877f1f457ba2b09df;2019-08-27 22:51:30 +0300;Removed unnecessary steps in README.md and special notes
+7eed24c6995377d3593fa653262437abd77a6866;2019-08-28 08:51:13 +0300;Removed references to ApiClient and other old code
+306ccfa3832dec8cb3c31277e2e0c56b7762a6a5;2019-09-02 12:31:44 -0700;Update packaging.yaml
+8818e070470f5d0269086d6f3978a6b0334fdbb4;2019-09-02 12:35:48 -0700;Update packaging.yaml
+1684bed08015b463901be3a2f74656aa4f453cb6;2019-09-02 12:37:35 -0700;Create packaging.yaml
+d71f31f4a79764628fb8617c9ffcc9f3c67ce13f;2019-09-02 12:42:17 -0700;Create packaging.yaml
+0733348ac8a8282cd8a87e3ee63032c54b703d0c;2019-09-02 12:45:36 -0700;Update packaging.yaml
+06425d9924a788209c9674888c6ca7038671849a;2019-09-02 12:47:11 -0700;Update packaging.yaml
+6bacedaeac32d70f7e0731933463d38bf3b2ba28;2019-09-13 11:28:22 -0700;Update WearDrawers to use AppCompat
+d4fb7f38b935ecf9a7eab21174dc58d30ea0ab36;2019-09-17 15:32:50 -0700;Merge pull request #29 from android/app-compat-update
+5c2e3407c2092933e3563884ea3ac6588919c0d5;2019-09-18 21:21:19 +0300;Target Android SDK version 28
+358adca5539966064296d43cb664f4699f956b21;2019-09-18 21:22:08 +0300;Remove UserIdToken since it's not available
+7864e3559d62b391526419635db023847f3ef88c;2019-09-18 23:38:30 +0300;Upgrade Wearable libraries to 2.5.0
+7796784b232f728e9abe7e38f655817fb9e45430;2019-09-18 13:44:54 -0700;Merge pull request #9 from jush/useGoogleSignInClient
+b4069a7c230d0ca826bf3f9eff8fed52fb297bec;2019-09-24 09:51:40 -0700;Update LICENSE
+ddd7fec08d41c48b264eb1398c20cc8f00e37808;2020-03-04 09:32:33 -0800;Updates JumpingJack to latest libraries.
+ef6d898ca649dc00d1119d0c345534f260f0b790;2020-03-04 09:49:35 -0800;Updates SpeedTracker to latest libraries, best practices.
+814b083ed71a34ee32ff73aa5c0e38440c19add9;2020-03-05 11:17:58 -0800;Minor cleanup of JumpingJack.
+6d73503c5cecddecebef4567ff281bbdb59b0c13;2020-03-05 11:25:53 -0800;Merge pull request #35 from android/update-versions
+c8bfd817b21adb678de451ab8c512fd61416fabd;2020-03-05 12:37:01 -0800;Updates RuntimePermissionsWear to latest libraries.
+e2b8a90dd11b869425d630b37e74bbc44e299d1d;2020-03-05 12:41:27 -0800;Updates AlwaysOn to latest libraries.
+6c87a3bae23e36d868d485b8652d5ea85ac3ae15;2020-03-05 12:44:58 -0800;Updates DataLayer to latest libraries.
+33d7cbd20dc72df75d47e7b97e3c02e491e067ba;2020-03-05 12:52:57 -0800;Updates WearAccessibilityApp sample to latest libraries.
+6dc7eb10923727f5d52c130baaa65e7cafb3cda6;2020-03-05 12:56:22 -0800;Updates WearComplicationProvidersTestSuite to latest libs.
+11d70e7cb07c58630f3ca8305ffd977cb233bfd7;2020-03-05 13:04:24 -0800;Updates WearDrawers to latest libs.
+a144a087c17a7843d6ee60f7c5504dd011c155ff;2020-03-05 13:13:18 -0800;Updates WearHighBandwidthNetworking to latest libs.
+006d7eeb0fc00842f68e8a81adf81d0f768a336b;2020-03-05 13:24:37 -0800;Updates WearOAuth libs.
+a06056c9320c8dccb885b8fd5ce53f8979b4806a;2020-03-05 13:39:53 -0800;Updates WearSpeakerSample libs.
+a9ba749d547ae21fe43ee4b53424dfe772c700e8;2020-03-05 13:41:41 -0800;Updates sign-in sample libs.
+dcebb8e10237a6ae24f006665f2374c7c8b646de;2020-03-05 13:45:19 -0800;Updates Verify Remote libs.
+ac31552574791da195296f66350ee7f5d27e9c14;2020-03-05 13:51:13 -0800;Updates xyz sample libs.
+0b7c9f22bf7ff14e60df385da9ca79790d92f8d5;2020-03-05 13:55:42 -0800;Updates gradle stuff for studio 3.6.
+70ddcaefdff8064665e8afcde804ee442b7dd8c8;2020-03-05 13:57:39 -0800;Updates WatchFace sample to lastest libs.
+e46bca1b640dc1ebfc30e8080079a9f25cebc0dc;2020-03-05 16:17:05 -0800;Merge pull request #36 from android/update-versions-2

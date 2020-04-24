@@ -1,0 +1,40 @@
+fecf8503a98bf607371f46e4c7348b44e966941c;2019-09-23 21:47:31 +0000;Initial empty repository
+7b45073c1e63d82479da43a5d4914d656b3db442;2019-09-23 15:00:00 -0700;Adds default required files.
+5f5b16b69f8c6e80ff8edad7b2ebc113490e5c20;2019-09-23 16:14:09 -0700;Adds BasicMediaRouter sample.
+0eeaa77551973b8a16eb9e92a01cdff3e19dec31;2019-09-23 16:15:41 -0700;Adds MediaRouter sample.
+2b7c06b867fab60a9e9e5fc5ae34814e4eadfc4e;2019-09-23 16:17:00 -0700;Adds MidiScope sample to media repo.
+c79a3e5a6c3b5fc89cb8d2c7a379db6a7dc03549;2019-09-23 16:18:18 -0700;Adds MidiSynth sample to media repo.
+4a9939eb623f8c103641ba34b896ec35787ed258;2019-09-23 16:19:33 -0700;Adds BasicMediaDecoder sample to media repo.
+a297652a0c09812d8f5335134aedf1610f724faa;2019-09-23 16:21:15 -0700;Adds PictureInPicture sample to media repo.
+372fec3f17f7d97290252f886558c6bce18e6441;2019-09-23 16:23:12 -0700;Fixes yaml file.
+6e6f0dfb8cf283ad0ed7c7030e749f4203048828;2019-09-23 16:24:16 -0700;Adds MediaRecorder sample to media group repo.
+3d5e6acc8a181d29edf355749a8bd4d2798bf7e5;2019-09-23 16:25:25 -0700;Adds ScreenCapture to media sample group repo.
+2056d867900cd951e234685fefd78389cd5d9d17;2019-09-24 10:16:03 -0700;Fixes Apache header.
+a233ca08d72634850c57a0b6b95005ce0e9b7fda;2019-09-24 10:25:37 -0700;Adds VideoPlayer sample to media group repo.
+be78b70130deb7adeca0bb5d5b0de948a5b93f64;2019-09-24 11:09:42 -0700;Moves PictureInPicture Kotlin sample to top-level.
+3a0fc6f351e1f8e9c21a3979ff1f30f95ba08225;2019-09-24 13:35:47 -0700;Merge pull request #1 from android/separate-kotlin-sample
+d4e82f689d0050d51b2dfbf35512b9eb17b8397b;2019-09-27 16:01:39 -0700;Build with AS 3.5
+923d98e84fa9a1fc0f1cf42fb444357d84bb7de7;2019-09-30 15:07:05 +0900;PictureInPicture: Update dependencies
+eb8cc72a77a1c9c7d0b10a968f243ef1ecf32ff2;2019-09-30 15:36:40 +0900;PictureInPictureKotlin: Update dependencies
+e1431fd186e171b1a51ebf28323836c913053205;2019-09-30 11:09:40 +0100;Update gradle versions
+17a1323920bfe57aa1c6f0e579310819c70d32df;2019-09-30 10:38:19 -0700;Merge pull request #46 from chickenbane/build-pls
+8088280c2833152d72be7a4882336fb4dd946677;2019-09-30 10:41:24 -0700;Merge pull request #48 from android/PictureInPictureKotlin-update
+99974c92090767f9a6f6f935289b24d9bdb85e15;2019-09-30 10:41:38 -0700;Merge pull request #47 from android/PictureInPicture-update
+95016bd6121da4c94cf1e4046821faeca56327cd;2019-10-01 19:43:06 +0900;MediaRouter: Update dependencies
+2cff573ac4a1d2c6199ec8454e87a1dbd5c4f780;2019-10-01 08:06:25 -0700;Merge pull request #50 from android/MediaRouter-update
+a6b7aa17e75fa6f075aaeb1d856074bef62cb36a;2019-10-02 09:09:46 +0900;BasicMediaRouter: Update dependencies
+708f63c9ebc2a53eab381d7b04b204efd101d7b7;2019-10-02 09:26:54 +0900;MediaRecorder: Update dependencies
+1f226422727c7817f35260c037b07f3e9b5baa04;2019-10-02 11:07:28 -0700;Merge pull request #52 from android/MediaRecorder-update
+1b12681266d8e9cdc0fbc043d1763b135e588704;2019-10-02 11:07:59 -0700;Merge pull request #51 from android/BasicMediaRouter-update
+73fee6c4412fe1e7d8fe11c91eedbff1f7f24f27;2019-11-08 11:46:43 +0530;Fixes typo in screenshot file names so that README.md file maps correctly
+1aa6ebfda2bb7072399fcb158b03cdad065388a4;2019-11-17 11:57:37 +0100;fixed links in README
+90c7ae71f2c74c75e21cb6cc55a3e409bb9e55c5;2019-11-19 23:48:45 +0900;Merge pull request #54 from jrtberlin/patch-1
+712b12e372399f353adbc7766a385c6d1eaf946a;2020-03-20 22:18:20 +0300;use list directly to decrease code complexity
+1c82b3dd21ffa3eebc7eca13fe1377aecc8d119c;2020-03-24 07:17:57 -0700;Merge pull request #56 from Liverm0r/master
+a1513318d09916902b6bd2919c94b6d6a3f10fbd;2020-03-24 07:18:53 -0700;Merge pull request #53 from wQuasar/MediaRecorder-typo-fix
+eae290821e362bcd3e172b1a17567beb12e99b51;2020-04-01 13:45:33 +0200;new kotlin version, new gradle plugin version
+206b3358107eb447286dd254e12472fabb89e908;2020-04-01 13:46:41 +0200;new gradle version
+709040d29a2ddcb9ace6647e92552b26c277a746;2020-04-01 13:47:57 +0200;new targetSdkVersion and compileSdkVersion, fix kotlin-stdlib dependency
+905e44bfcf41d73a5c5daa7356896e48bd499063;2020-04-01 13:48:59 +0200;fix AudioAttributes type
+59d55db71bd6c3177f9b46e57d0c753913e599f9;2020-04-01 13:49:37 +0200;always use https not http
+1870eb9ef3e266eedebf1587c39ae4fd61b705cd;2020-04-02 07:31:37 -0700;Merge pull request #60 from AxelNennker/master

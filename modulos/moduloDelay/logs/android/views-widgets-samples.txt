@@ -1,0 +1,63 @@
+0aef9d060ab68e43156322c1b3098a41ccf905be;2019-07-26 21:00:41 +0000;Initial empty repository
+d9965d09fce19b186f39b4ca744e6dfb94c25f19;2019-07-26 15:33:56 -0700;Views-Widgets: Adds initial boilerplate code.
+13da7d79eedab832b0727f5b67f7d121f8d3a0a0;2019-07-29 17:13:43 -0700;Adds MultiWindowPlayground sample.
+53c91a3decaf3cabf4b08e7d0416f8f741c4b816;2019-07-29 17:15:11 -0700;Separates Kotlin version of MultiWindowPlayground.
+a22251569496e995a55482a54b495181f72b163a;2019-07-29 17:16:17 -0700;Fixes README.
+ddca68d9197ac003a13b51eb63006a072e05077d;2019-07-29 17:17:45 -0700;Adds SwipeRefreshLayoutBasic sample.
+dbb66ef84fbb1107ef9eb746e2dbc7ece18a43c5;2019-07-29 17:18:53 -0700;Adds SwipeRefreshMultipleViews sample to repo.
+693bde1fd9a0b2a9aac65f7bfbbb42cb6c55e0c6;2019-07-29 17:20:02 -0700;Adds CardView sample to repo.
+f601b9448ad40c1c264abf227e69d42fc44e3ff9;2019-07-29 17:21:39 -0700;Separates Kotlin version of CardView into top level sample.
+aea13d5dbb4b5f1844bcb7f1b330b93f90750052;2019-07-30 09:51:06 -0700;Adds RecyclerView sample.
+b70b035bdcf0dc79ba809c9627b88a6aee86ba60;2019-07-30 09:54:27 -0700;Moves Kotlin RecyclerView sample to its own folder.
+51ce67daed95222fcefdc48de499d292fa9d687d;2019-08-01 11:58:44 -0700;Adds ConstraintLayoutExamples samples.
+25e21e4b30aeb661a336ded439391daff4559b8a;2019-08-01 15:36:21 -0700;Adds AnimationsInterpolatorPlayground sample.
+91fcac720fe75ea6dd396c1ec29c1f0f643eb353;2019-08-01 15:37:27 -0700;Adds DataBindingDataBoundList sample.
+60d1ac2e884ec3bc738bafd6e410550dfac55aec;2019-08-01 15:38:05 -0700;Adds DataBindingDataBoundRecyclerView sample.
+bde8ff8cfc6fd89301d37c3eee14296389f7a3a3;2019-08-01 15:38:51 -0700;Adds RecyclerViewAnimations sample.
+2779f4ecb944b692172415598283f0327f530fd3;2019-08-01 15:39:54 -0700;Adds SimpleTransition sample.
+3ad64187e7ad5d194a21578559cbf04a6342000f;2019-09-11 10:29:37 -0700;Update packaging.yaml
+1e83468724794c9d170a959939fa3355cc10e0ab;2019-09-11 10:29:50 -0700;Update packaging.yaml
+22ad504312c636015c562ff88408b9c14a3c44b1;2019-09-11 10:30:02 -0700;Update packaging.yaml
+48d55b5e4bc8b992f8de1f058478fa09854fcf85;2019-09-11 10:30:12 -0700;Update packaging.yaml
+a0186da7541ee758d7f6fc3ae71aa8311b342d5e;2019-09-11 10:30:24 -0700;Update packaging.yaml
+27f9b71c56179dd54bf1b14904d0c10eb323e784;2019-09-11 10:30:37 -0700;Update packaging.yaml
+7a6b4a7f2c6c120635d0b71c68ea10c74e59fdf4;2019-09-11 10:30:49 -0700;Update packaging.yaml
+0a456ffb296896d5885f63bbf3ad499f394206d6;2019-09-11 10:31:01 -0700;Update packaging.yaml
+48db4c4fa32a1c79dee7d5b9fe0b75d39aa4247f;2019-09-11 10:31:15 -0700;Update packaging.yaml
+14758027b50e544bf08878b5b30bc6f7baa2562a;2019-09-11 10:31:28 -0700;Update packaging.yaml
+60b36789b6b1cba4acf19f7fe868706c765ca332;2019-09-11 10:31:41 -0700;Update packaging.yaml
+d7d722edf953d72dc4934f7d7024271a962d55e1;2019-09-11 10:31:59 -0700;Update packaging.yaml
+cbe1e1e8ae1d042f82249380fbd41fc589ad76de;2019-09-11 10:32:13 -0700;Update packaging.yaml
+6071f864aac3bee36549039733f4db9e8cd14a29;2019-09-11 10:32:23 -0700;Update packaging.yaml
+2d304ad3ad43509b2318d20fa362dbd6368ddc30;2019-09-11 10:33:07 -0700;Merge pull request #1 from android/update-yaml-files
+b2ba7c65ea463a1d6a11901df704a5f7144a7eea;2019-09-18 10:31:40 +1000;Fix AnimationsInterpolatorPlayground building
+7e200a79ea70cb8fe19c5313834bd3e752010cf9;2019-09-18 10:41:34 +1000;Update DataBindingDataBoundRecyclerView
+195244299da1e30736697e07824594e340a1794a;2019-09-18 10:45:48 +1000;Update dependencies for RecyclerViewAnimation
+3dd05f957eae768ba08d5dbd41df77a341e79171;2019-09-18 10:46:54 +1000;Migrate RecyclerViewAnimation to AndroidX
+6c5c88ce4227d70785e0ce9799aa8680eb329e68;2019-09-18 10:51:03 +1000;Update dependencies for SimpleTransition
+a559150a42e1bd3d168e3030278bab8355a5be83;2019-09-18 10:52:21 +1000;Migrate SimpleTransition to AndroidX
+2cc5de32d2983c131d4be6274a3e5354c2f34aa9;2019-09-18 12:15:28 +1000;Update transition to 1.1.0
+5a544c4b2d868d360cfc0d451ca87289c714a079;2019-09-18 12:15:45 +1000;Update SimpleTransition (#84)
+413661898cee6016e9668b85dcb8e8248be9ccc1;2019-09-18 12:15:58 +1000;Update AnimationsInterpolatorPlayground (#81)
+51fe617043c7d93c653aeb71487ee3f7261ff56f;2019-09-18 12:16:08 +1000;Update RecyclerViewAnimations (#82)
+d4084b9d8abe3e95693adc9a4d6f68e138e45728;2019-09-18 12:16:16 +1000;Update DataBindingDataBoundRecyclerView (#83)
+d8f8dbd765d0d05d3582c17864c4bc4a756deac7;2019-09-24 09:51:52 -0700;Update LICENSE
+0d3a989097053b9b223e3efe3673a4d00e53d4ad;2019-10-09 15:59:18 -0700;Adds ViewPager2 sample.
+cb85031228cc296348ac370fe4a35ebee5b38892;2019-10-10 09:15:23 -0700;Fix category in YAML file.
+01a738ed9000a72d8aca031675adf8723fef9ccb;2019-10-21 15:24:20 +0100;Bumped ViewPager2 to 1.0.0-beta05
+87e58d1c6d0c832c5b362d33390148679182d314;2019-10-22 19:09:21 +0100;Updated ViewPager2 sample
+717897324e9cc11b9122b1f49976aa5d4170d535;2019-10-23 18:31:17 +0100;Updated ViewPager2 sample to 1.0.0-rc01
+a0942d809764b1dffa2dd41287efcc5b4109f850;2019-11-04 18:43:06 -0800;Update constraint layout version to 2.0 beta 3.
+ff22c8f99482d20f85d7bd67eb59d988318a26eb;2019-11-04 18:43:06 -0800;Update constraint layout version to 2.0 beta 3.
+7dbbca02a0eea4e9dc99d41810f0d99cd660d68f;2019-11-05 17:44:31 -0800;Merge branch 'master' of github.com:aquagray/views-widgets-samples
+5d83927ed60a54f85a9d7fad9774faaf8f746e50;2019-11-06 21:30:54 +0900;Merge pull request #88 from aquagray/master
+8ebf6e3cb582da69fa037bb8d62a7762dbbae490;2019-11-19 18:45:18 +0900;Fix the syntax for motion scene files to adopt to constraintlayout-2.0-beta03
+5646518e15c54150b84eef5dc3d8116541498f13;2019-11-20 23:16:44 +0900;Merge pull request #90 from android/fix_syntax_motion_scene_2.0_beta3
+0f57a715902f7455bffd8b443723e365d5ad1001;2019-11-20 11:11:33 -0800;Update ViewPager2 to 1.0.0 stable
+56b71442cc3553e09c73732f150f93b63ca7d5bd;2019-11-20 19:24:33 +0000;Merge pull request #91 from android/ts/viewpager2_stable
+35edc286e7556310704ed3dc8b46b827017d7f43;2020-01-09 15:35:28 -0800;Add interruptible animation feature to the Histogram example
+79ad94de91c008556d36513c89a3ee50dbb5b7af;2020-01-14 15:10:09 +0900;Merge pull request #102 from aquagray/master
+007445e2213557f601033a7f7221461122123263;2020-01-16 16:31:00 -0800;Fixing comments from previous pull requests
+af0c2844d0e82a14d5ea348207f9e8dba621eda5;2020-01-27 16:00:24 +0000;Update README.md
+b8b06b3a63b6d831b1e40e75fd28ad3186a55244;2020-01-28 13:36:25 +0900;Merge pull request #104 from aquagray/master
+ed020934136076d7f5a025d4618760a22893bd76;2020-01-28 10:28:15 +0000;Merge pull request #108 from Kisty/patch-1

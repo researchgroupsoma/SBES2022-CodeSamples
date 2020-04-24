@@ -1,0 +1,129 @@
+49c0a4f5b2ccb614ce13f449d1a6e792237b06f0;2019-07-26 17:52:19 +0000;Initial empty repository
+7e2205286959cce2cbaa2ad39626e7b4ada790c0;2019-07-26 15:32:45 -0700;User-Inteface: Adds initial boilerplate files.
+4d0d1a0bcba46e561966d2a4a482d12ecaf26b99;2019-07-28 14:32:30 -0700;Adds AdvancedImmersiveMode sample.
+b154eb05141153778cd5bec66c2ffe92d8d6c798;2019-07-28 14:33:42 -0700;Adds Appshortcuts sample.
+aee324cac39acc8cdd0bf8501c0a14469b9fe3cc;2019-07-28 14:34:52 -0700;Adds BasicImmersiveMode sample.
+487ee85c9708709f9dd915601317f3baee8c7609;2019-07-28 14:35:54 -0700;Adds ClippingBasic sample.
+e7bfdf108a93b5f9d03aa5544938f37682aa9b3f;2019-07-28 14:36:52 -0700;Adds DownloadableFonts sample.
+aa9594b103746d474f9038a5c59d824ae3f7c56c;2019-07-28 14:39:36 -0700;Add DragAndDropAcrossApps Samples
+3a19a9784bbdd25b5e6056647f3e2c90e00f1682;2019-07-28 14:40:09 -0700;Adds ElevationBasic sample.
+b4abb7a7d62ba5ce49757ac4dfb792eb614c1af2;2019-07-28 14:40:31 -0700;Adds ElevationDrag sample.
+9f1d2a243df2d76ae702c930c727a5fb15854c0e;2019-07-28 14:41:32 -0700;Adds EmojiCompat sample.
+037f311963dd36388487d531c9f427af07250e1c;2019-07-28 14:42:32 -0700;Adds ImmersiveMode sample.
+eba27bf34cd2379cac2f421d7274851b836e51a9;2019-07-28 14:50:34 -0700;Adds PreferencesKotlin sample.
+62f5047a81a2a5896d50376ffc407164dae6928c;2019-07-28 14:50:52 -0700;Adds TextLinkify sample.
+d7950bb127ccdae191944af75c880f0f915745db;2019-07-28 14:53:19 -0700;Separates out Kotlin version of EmojiCompat sample.
+23c6db851b7af5ed2e270b48668cb67c67a75dcd;2019-07-28 14:57:48 -0700;Adds Android on ChromeOS Drag and Drop sample.
+78ec4375611ac9f38cac0f2a3d6d095c95176ad3;2019-07-28 14:58:16 -0700;Separates out Kotlin version of DownloadableFonts sample.
+e55f7a721cd53e24bf40eb0b6bbd2575c48951fd;2019-07-28 15:03:44 -0700;Adds TextRoundedBackgroundKotlin sample.
+f764bb072abbd255f49d4ba315975dc2f7f44373;2019-07-28 15:07:51 -0700;Adds TextStyling sample in Java.
+a19be7d7c2264ebbdb6ca8bc72e1061f31475462;2019-07-28 15:09:26 -0700;Adds TextStyling in Kotlin sample.
+b9424129918f516f2f029296c4f3960ccf47325c;2019-07-28 15:15:14 -0700;Adds SliceViewer sample in Kotlin.
+277b4eda600ddbc7beca340e93121e80157b671c;2019-07-28 15:18:29 -0700;Adds InteractiveSliceProvider sample.
+e93148698550dee6518d05d8f90c783855b063f7;2019-09-11 10:03:13 -0700;Update packaging.yaml
+b4223200ce79a07f9a5601f886d609cddf4caa1f;2019-09-11 10:06:49 -0700;Update packaging.yaml
+34ae7b6af5be62d8c8babe216d3b13d4fede269d;2019-09-11 10:07:09 -0700;Update packaging.yaml
+7f0a18909f7564217162a2c57616006a2d5d6484;2019-09-11 10:07:27 -0700;Update packaging.yaml
+8397c57ba4f48f12f7087a46bcb213826051b6c6;2019-09-11 10:07:43 -0700;Update packaging.yaml
+28be3f43de0b1fcd8d2ac9754d88f465bdc3cbf5;2019-09-11 10:07:57 -0700;Update packaging.yaml
+10b2e3ff6375195fde054c5890319c92ce84c6d4;2019-09-11 10:08:12 -0700;Update packaging.yaml
+8c1c84b3414dba3fe3dcae716ea3c23a658c57ed;2019-09-11 10:08:26 -0700;Update packaging.yaml
+2c97341abf8a2132fac6f6f8dc55a19044f0d9b9;2019-09-11 10:08:40 -0700;Update packaging.yaml
+dfc35190745a471227dab6b3d062fc53d5e6209f;2019-09-11 10:08:58 -0700;Update packaging.yaml
+32a6ff2267b7dadfcdd67e0b9afb0092af7f178a;2019-09-11 10:09:45 -0700;Update packaging.yaml
+4c658b7de550072e11d692013251a2c1104acb06;2019-09-11 10:09:58 -0700;Update packaging.yaml
+560b2acd4d0975d9cb149352cf2ea6f6b7ec7afd;2019-09-11 10:10:12 -0700;Update packaging.yaml
+27297099a6cda68a4c4a7b1dacb28d8dc2ecd0fb;2019-09-11 10:10:25 -0700;Update packaging.yaml
+e14b4ec65f9f8f6fcf6fbb3b9fb4674b978f7231;2019-09-11 10:10:36 -0700;Update packaging.yaml
+6568902460ec1821537404b2030463162e6f89a0;2019-09-11 10:10:50 -0700;Update packaging.yaml
+eca3fc8d7bfc7ae07e4fdca7ba381749978e8c7f;2019-09-11 10:11:03 -0700;Update packaging.yaml
+836c03a8d5a4391679f93ebefc4bbdf481bea488;2019-09-11 10:11:17 -0700;Update packaging.yaml
+04a35d088ab8f23cf6ff599b62c6d8afe67823bc;2019-09-11 10:12:40 -0700;Update packaging.yaml
+6781ce8a1804a8de5644cab70268886a00b4d3a5;2019-09-11 10:13:15 -0700;Update packaging.yaml
+ff0ac332e98b9b97ef83155ef7a9c348cf379fda;2019-09-11 10:13:44 -0700;Update packaging.yaml
+32e75d3e3dce4de509c561707c9e31064124c112;2019-09-11 10:14:05 -0700;Merge pull request #1 from android/update-yaml
+f80619d065b50f9cc7b5fa9336c5a61de284bac8;2019-09-16 13:09:06 -0700;Adds DocumentCentricApps sample from previous GitHub location.
+3d30640254067e0fdad9ae363163da93ae84b9af;2019-09-16 14:24:21 -0700;Merge pull request #64 from android/add-doc-centric-sample
+281bf76623426f61c48c63e3867280643a7cc27a;2019-09-17 09:09:15 -0700;Fixing the compile errors due to changes in core-ktx APIs
+d9bee36412a4f401e5eeb395df34da50c6cf3c8f;2019-09-17 09:34:02 -0700;Fixing the project dependencies
+dad143f9b658dc29f7e37c0849c825d50026d6f3;2019-09-17 09:41:16 -0700;Merge pull request #67 from android/fm/fix_textstyling_kt
+5662ddc8f05a0c5aa92650bf457b75fe4d5724a6;2019-09-17 09:41:27 -0700;Merge pull request #68 from android/fm/fix_rounded_corners
+66cb9cefcb973eb99ceb65fb19966ccfceb9368e;2019-09-24 09:50:53 -0700;Update LICENSE
+13bc313079e65db9d16dce997ec285bbc4d1301c;2019-09-25 14:47:15 +0100;Version bump
+2735d0b660d8285a8ea966b89104fe03cf964b5b;2019-09-27 15:19:34 -0700;Adds Notification sample to repo.
+6bbcfd7f0d57716a63110e96f4f0589690b6cb46;2019-09-27 15:45:47 -0700;Bumps up versions in Notification sample (minor text edit as well).
+d7c1d98406d1c010a8a8bb867d4dc70e542f8aff;2019-09-29 19:43:56 +0530;Slice View 1.1.0-alpha01
+83d49080c397ea89a64fbfb0fcad077bce5497d8;2019-10-08 09:53:38 -0700;Adds DarkTheme sample.
+b25ba8e644a3c8f68bd25568805a7e91e91bb14e;2019-10-10 11:20:26 +0300;Fix Broken Image in README.md in AppShortCuts Sample
+89e673bc375e30795356173762080a4cde354d4a;2019-10-11 16:25:23 +0200;fix and update project
+528d37f9bd85820d2c108d7956a18917ecd108cd;2019-10-14 14:41:37 -0700;Update README.md
+e8f1aec203bd8f19a92b9e21213c579a42adface;2019-10-15 12:41:00 +0900;Merge pull request #120 from android/codingjeremy-notifications-mobile-focus-updates
+df39ca80c1746ec7f9b49b1d104c9b23b8846fc5;2019-10-18 15:47:16 -0700;Updates samples so they build.
+cb3e0197a22cda5876d2aadc73e22be983a2cfe5;2019-10-18 15:54:30 -0700;Merge pull request #118 from cmoijulien/master
+9ea60757dd635c1a2b1d5696b0c3a314078009f5;2019-10-18 15:56:18 -0700;Merge branch 'master' into update-libs
+2b7ec2c773f141e2655b886e5d7e5aa802e37bf3;2019-10-20 09:29:51 -0700;Merge pull request #121 from android/update-libs
+31fd0723042de1bb841b3b364d1d9d7412af363f;2019-10-29 13:53:53 -0700;Merge pull request #100 from pranavpandey/master
+51702adda75347d719f406fc3dceea44dd9c613b;2019-10-29 13:54:12 -0700;Merge pull request #116 from eugeneogongo/master
+6bc5d0fe0822992753f5633ec7e3068c00d0a77b;2019-10-29 14:00:21 -0700;Adds bubble sample.
+758fc84f86df0beb5587f1dbbdcdaf64d7b35bc8;2019-10-31 09:06:20 -0700;Merge pull request #123 from android/add-bubbles
+f2ccaf13cd7908adf34998876ebc3abe2eab9fea;2019-11-21 15:14:47 +0900;BubblesKotlin: Fix the build
+44ae5daca420f9f3013facb5032a22f29da0e900;2019-11-22 15:44:52 +0900;Merge pull request #125 from android/yaraki-bubbles
+6e23fb002762d51b2a4f03568280213172447d05;2020-01-28 15:02:59 -0500;add bubbbles readme file
+87b007bbffa34a7d33beda9cd97278e95c399f06;2020-01-29 12:33:58 +0000;Images fixed
+7caa359604850ea4ff9c485009541012f5439795;2020-01-29 14:26:59 +0000;Merge pull request #131 from android/fm/readme_images
+b8e2ed6d7293f278359288d7aea8a563ff3ebfad;2020-01-29 09:22:57 -0800;Fix broken image link
+9fec01786ff4c58435f0187363727688d32efcf8;2020-01-29 19:32:45 +0000;Merge pull request #132 from siyamed/patch-1
+dbf5ae9b4f2ea6ed2cd9397682e3472065e2acd3;2020-01-30 15:03:20 +0900;Merge pull request #130 from alabiaga/bubbles-readme
+9f3f7755d62492e5e7df8de5565bc54dbe6e64b9;2020-02-12 11:20:07 +0900;Bubbles: Update for DP1
+944fea4502f753f8d54dae72e70ff14ae849ff1b;2020-03-02 10:32:22 +0900;Merge pull request #136 from android/bubbles-r-dp1
+0950c7e54641fd6ca61e56c135fc0d64bdb5e696;2020-03-11 11:36:26 -0700;Initial Commit for new Window Manager Sample
+9f5a51b36c515979b3ee31a50b3f93592a845792;2020-03-13 15:35:52 -0700;Updated gradle plugin version to 3.6.1 and kotlin version 1.3.61
+4e751de6d2e1967abed6011ed88e631bbfc15065;2020-03-16 11:48:19 -0700;Add yaml for bubbles and fix other (studio import).
+ce8e9c852e8ac780ddbbe631dc502fc19a4c3887;2020-03-16 12:42:20 -0700;Moving SplitLayout custom view logic into the activity to remove the need for the custom view
+720b0bc1a615b2939a9bb0f7a50571c5f7cab56a;2020-03-13 10:52:30 +0900;Bubbles: Update for R DP2
+6e089bec604f9157a89044459e51aa80138e2dc7;2020-03-17 10:07:20 -0700;Changes yaml files to PUBLISHED.
+f074a666b09cac74f43220df9ee53288649646a5;2020-03-17 10:08:34 -0700;Merge pull request #145 from android/add-bubbles-yaml
+733716a99f1ad6f95aa99a0104a5968a49840d32;2020-03-17 18:38:20 -0700;Moved code to handle splitting content/controls across the hinge from custom SplitLayout view to the activity
+f69bd0cccbeb72fce1160b9d284971cc726bc25f;2020-03-19 19:38:50 +0900;Bubbles: Fix some issues
+daaa1e454e8308033d467338ae2a6badd488740a;2020-03-19 20:01:54 +0900;Bubbles: make 2 vals immediate values
+4943ab2de476a95a7d9c66a38079eda322832816;2020-03-19 20:06:54 +0900;Bubbles: Remove an unnecessary import
+1cb1749c7b6d2431c0d2a1eb97f531925351b568;2020-03-20 11:34:02 -0700;Bug fixes around the test backend
+6da338b0f4b1a9527cdc4c08830447d48ad21c50;2020-03-20 15:50:12 -0700;Removed the custom Split Layout view and moved display feature logic to the activity
+fa37d8e626260225d73d7ada56dedb5661e4ac52;2020-03-20 16:03:29 -0700;formatter changes
+920104a7e54993b46855715e8ddff8a26d011765;2020-03-23 10:37:19 -0700;Adds README
+cd0454d656104d774784638426de24b592cf507c;2020-03-23 11:03:14 -0700;Removed presentation usage for now
+90bacc70a1e2d162ae4e069df47fa5f9d5e98475;2020-03-23 12:18:47 -0700;Fixes bugs in the DisplayFeatures activity
+670135c2fdebb80e867323c5de792a66c0e06622;2020-03-23 17:31:19 -0700;Refactored Display Feature Activity layout
+1a84e9d383a511044d7c70cea49803bb632f7b39;2020-03-23 17:45:43 -0700;Removed presentation strings
+886426e24bcdc85e649b3f68dac894fb0660f729;2020-03-23 17:54:16 -0700;Small layout refactors
+6856e31adfafcd69f5358446290d8cc2ec38a9b0;2020-03-23 17:59:34 -0700;Wired display feature toggle up
+ac2104497ab316b98daeec9642ee8bc9e068dd68;2020-03-23 18:03:07 -0700;Min target to 23 to remove lint warnings
+85d9aa796dc09bcee2d933b44ff6477fbbf95675;2020-03-23 18:07:40 -0700;Fixed lint errors
+531059fc86c1aeaa48105847da9c338d256c23ab;2020-03-23 18:08:14 -0700;removed test directories
+3fb049639f088787d0d8dabe652c486cb262ad6d;2020-03-17 11:48:30 +0000;WindowInsetsAnimation sample
+049991c7f70fabac348331e30a68bac1ed290129;2020-03-26 14:16:13 +0000;Merge pull request #147 from android/cb/windowinsetsanimation
+de1986efe86b2dabc1274fb80f4415f6977c0025;2020-03-27 10:51:54 -0700;Adds missing copyrights
+a38ae6b82efa92db15d24ae2b7303a7bc0623dab;2020-03-27 11:07:30 -0700;Removed unused attrs file
+a3ef403675ef55cc4d130f64e0bfab242eae3b25;2020-03-27 11:14:10 -0700;Add java tag for better syntax highlighting
+65d407e50e1d0fd209ded1ddfab1804a57ee9368;2020-03-27 11:16:03 -0700;removed sample level gitignore
+3a1c3354009807aa163440ab647747c40927fe04;2020-03-27 11:16:58 -0700;Remove buildTypes and unused dependencies
+0b7e770e4c2fa01f72fe36c8e038e19a335ecb0c;2020-03-27 11:19:08 -0700;Remove proguard rules file
+f54eae3d8b39c435976379026e1d4b77b226f113;2020-03-27 11:37:49 -0700;Address PR comments
+34458528c543b2c1f43b266a05d579e6e3c98ae4;2020-03-28 21:39:11 -0700;Fixed paddings and margins to fit material spec
+2a290c617f0915fc96093db6f7b4e0dcc4230370;2020-03-28 23:36:08 -0700;Moved all the view logic in SplitLayoutActivity back to a custom SplitLayout class
+a087047a10e7c8ca9911550d41aae4db1b7769db;2020-03-28 23:37:22 -0700;removed unused import
+cf6fdfe8c4c77020c5a2d6077bcc4b5d7c8a4bb3;2020-03-30 16:47:40 -0700;Switched to view binding in SplitLayout
+b0e476cdc2461049fc4a31a88063505adf8be3a5;2020-03-31 09:40:07 -0700;Fix view binding crash in SplitLayout
+3f187bcc9f0f890c1d555dd06c5e65626cf4ef1d;2020-03-31 10:14:55 -0700;Adds a few inline comments and small cleanup around now unused variabls
+33beb01162ed342b492b8d1dfc86c8548af0c05e;2020-04-01 10:49:24 -0700;Move the fold feature layout params checks and modifications into our helper method
+b7b79c3ecca2211d44518316a1364d9be377d8c4;2020-04-01 10:57:01 -0700;Modify our layout params method to check the rect returned instead of the lp object
+61b8d4e5fe3d5913f8f1417c8f6b2b167fa08144;2020-04-06 07:57:10 +0100;Merge pull request #139 from kford55/window-manager-sample-creation
+ae76bbe486f7ecfe067ddba5964d2e94ad542312;2020-04-06 09:47:20 -0400;Add GitHub Actions workflow
+495cd6ef0178b04b96b6feed3605a3aefbaf6a8a;2020-04-06 15:45:54 +0100;Use DayNight theme to support dark theme
+04e3921ff656c7fe6ffb19f7b2f8d2d8dff00e19;2020-04-07 10:13:28 +0100;Merge pull request #151 from android/cb/darktheme
+5aadcdad06a44479a8184f3ef04ea5681703f08b;2020-04-07 14:28:46 +0000;Merge "Add GitHub Actions workflow"
+d36394eb5867a4c1eea7619dc01949887d722043;2020-04-07 16:11:34 +0100;Install local Android SDK on GitHub Actions
+463e98d8330462de6aa229384209596a3774b1d4;2020-04-07 16:22:00 +0100;Update gradlew recursive runner
+744cf4510b90be88c90312f1a6f7492c46491c49;2020-04-07 17:10:31 +0100;Merge pull request #153 from android/cb/actions-android-R
+295240dddce553d0bff6478ab233c0e5c8a6dbfc;2020-04-09 15:56:40 +0900;Make shortcuts long-lived
+9f5eae932c3bd1855b5eb8b8d141aa70cec3a624;2020-04-09 20:32:06 +0900;Merge pull request #146 from android/yaraki-Bubbles-dp2

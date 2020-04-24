@@ -1,0 +1,15 @@
+85cc7050eb526a1b2ef215273437ae2dca17b141;2019-07-24 21:19:25 +0000;Initial empty repository
+e5f19ec0a00d7996d3fc97a4191cc18c4544f5f9;2019-07-24 15:59:23 -0700;Identity: Adds standard open source files to repo.
+83bf42a5ce417a16b17622421c3e697c6e5adb8a;2019-07-25 16:53:07 -0700;Adds quickstart sample.
+32fc4b4210b62bbca1686ef289be52fcb997071a;2019-07-25 16:54:01 -0700;Adds sign-in sample.
+8739f7fdde016184f1fd335385a9788b046fde71;2019-07-25 16:56:19 -0700;Adds sms-verification sample.
+53469c812ec8650a1d65ab5f6947a9a8d55f0c70;2019-07-25 17:00:06 -0700;Adds account-transfer-api sample.
+cc74f73965d058843e3b383603216bdca7f4e5ee;2019-09-06 13:42:49 -0700;Renames account-transfer-api sample to proper naming standard.
+1769dae8fd46c6a22f9a6780f6174f1cd166a9e4;2019-09-06 13:43:35 -0700;Renames credentials-quickstart to proper naming style.
+00724f8bd539a917cdd251e782d6a4420510a980;2019-09-06 13:44:09 -0700;Renames credentials-signin to proper naming style.
+f12046610f013bd0d10f792aa6a1c3b5550d5873;2019-09-06 13:44:52 -0700;Renames sms-verification to proper naming style.
+b3c49b44734ece58e096cd866e29dd78ce5c5602;2019-09-20 09:54:45 -0700;ss-fix-build
+a4d283ac3d2f98603fe35e95e897fcd37dda0374;2019-09-20 10:16:27 -0700;Merge pull request #18 from samtstern/ss-fix-build
+5fcc0361ab979da97b7be154a9a2d75c50ce79c1;2019-09-24 09:51:06 -0700;Update LICENSE
+ce38deceb5a1096684d0c6f4d7811a0c87a7ae84;2019-09-25 14:43:21 +0900;Fix the build
+c1d1ffc24792498976acd079ede4e7ef68c52e23;2019-09-25 10:34:37 -0700;Merge pull request #19 from android/fix_build

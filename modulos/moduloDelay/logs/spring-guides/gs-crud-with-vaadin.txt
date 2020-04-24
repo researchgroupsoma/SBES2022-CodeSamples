@@ -1,0 +1,116 @@
+ae4962e3f3deff31dec860220c646c2786084108;2015-07-14 14:08:44 +0300;initial commit
+7e91df8f4d04e69002a97b99e6ee6cd2ac8fd592;2015-07-14 17:13:23 +0300;Some fine tuning
+d44f36b747902a37d04dd36755c8d449c117913b;2015-08-11 20:32:05 +0300;Update README.adoc
+0dc92dd860a8e9a06551e802349f69a4131af197;2015-08-12 13:39:30 +0300;Merge pull request #1 from freducom/patch-1
+cb76ca9b3c6a66768e4326316d458f291c61b2a7;2015-09-28 11:23:03 +0300;updated versions
+ed6bd8b427e8513df5170510f4dafb07eb678edd;2015-09-28 10:24:01 -0500;Polish
+13045520afe033c0d6d673ac146df73de2bde1f2;2015-09-28 10:25:51 -0500;Add footer
+3ade7148055cbd5dc61405c58fb1e79c9c3f5d86;2015-09-28 10:56:16 -0500;Enable slack notifications from travis
+44a3d650d86c079e37435d1ff43fce66e6cb62bb;2015-09-28 12:51:51 -0500;Polish
+fea50a91281dee30ee94127e81476eabe68ebaf9;2015-09-28 13:01:07 -0500;Polish
+693e6dff4439602926389ad9219df020a3206760;2015-10-16 09:43:35 -0400;Upgraded to Spring Boot 1.2.7.RELEASE
+5c5fd3aa35f25a1295b2631745c58cecdfba4469;2015-11-16 11:10:35 -0600;Upgrade to Spring Boot 1.3.0.RELEASE
+87594484d3d29c9a2de90d8dea7d53891905a06e;2015-12-18 09:40:11 -0600;Upgrade to Spring Boot 1.3.1.RELEASE
+4c128547681121d2893015bfbd75b5153e8ba37c;2016-01-21 21:28:49 -0600;Upgrade to Spring Boot 1.3.2.RELEASE
+6f7ec72b981bcd6f88702dea4ccd51dc6c623dca;2016-02-24 10:10:32 -0600;Migrate to container-based infrastructure
+9c7daa3a9bb31c09570380fc932300b97ceff32e;2016-02-26 07:29:53 -0600;Upgrade to Spring Boot 1.3.3.RELEASE
+5a0e26efceba912cc7450d3fd30a18fde58d3e10;2016-03-10 15:29:20 +0200;Updated Vaadin version
+cef09897c7ebc58b8c993fc16afe2df28fd6d335;2016-03-10 15:29:48 +0200;sligthly cleaner way to get a selected row in grid's single select mode
+424bff4bc40ec45c31fa0f93264e9e0d6a4bc2dc;2016-03-11 19:34:17 +0200;Made defining BOM a "required step", closes #2
+12ee9352501e360857754676f627fd0ce7a389ff;2016-03-11 11:51:22 -0600;Add link to completed build.gradle
+cba65ec7d78d50a4869345b2fa97366f26049e2d;2016-03-11 20:20:04 +0200;Updated versions in gradle build
+bafcf24903c3f67df637fa52eca0f24c9bc8d545;2016-05-06 09:48:48 -0500;Upgrade to Spring Boot 1.3.4.RELEASE
+6974b0af6967280afeb1c22137462e3cea9606d5;2016-05-10 10:26:25 -0500;Upgrade to Spring Boot 1.3.5.RELEASE
+c58303c5cab67fb6f9cc4fb24df26e0ced096bb8;2016-06-27 15:22:58 -0500;Add CONTRIBUTING doc
+e7f09bac513c49981dfa3cb012a1868eabd5cf3b;2016-07-02 10:10:41 +0100;Add Maven wrapper
+44bde2833f9af2c0ceef13f5b0b57c4f524f1941;2016-07-05 13:52:20 -0500;Upgrade to Spring Boot 1.3.6.RELEASE
+eed62a1a8b05709c8a509ad9c5c071cbcb7ac335;2016-07-28 06:52:48 -0500;Upgrade to Spring Boot 1.3.7.RELEASE
+6a3a2f74b7516ec9e89781b4ae33ff05589a1d22;2016-07-29 11:27:15 -0500;Upgrade to @SpringBoot 1.4.0.RELEASE
+42ea6adf43fe27a807f75ff8edb721d5e97b567c;2016-08-29 13:17:49 -0500;Upgrade to gradle 2.13
+9a857931cb4a9b77f9490858cf91db85bff8ae1b;2016-08-31 16:00:06 +0200;Added tests
+979d4653428838b9d4ad2d19b802c48be220af99;2016-08-31 16:30:24 +0200;Merge pull request #4 from spring-guides/rewriting_tests
+84f709f70a78bcc27bfe4705fd5d5b069a337eba;2016-09-23 16:35:59 -0500;Upgrade to Spring Boot 1.4.1.RELEASE
+8507c80347dde4a2d3794e30a0f4b1f551a2d5f6;2016-11-08 11:52:25 -0600;Upgrade to Spring Boot 1.4.2.RELEASE
+408e8b9542a5afbef99cfcfbda53d9b7f5f90b9f;2016-11-30 10:06:25 -0600;Upgrade plugin from spring-boot to o.s.boot
+72bed356c53b59f6d82f43efff11247f093f9999;2016-12-22 22:32:31 -0600;Upgrade to Spring Boot 1.4.3.RELEASE
+93df5fe4e4358598db2e505ec6157c7852f93bd3;2017-01-07 16:16:33 +0100;Fix small typo (#5)
+40350fc7c0c29ff14fc521c7e313d4f749729f0b;2017-01-26 12:37:12 -0600;Upgrade to Spring Boot 1.4.4.RELEASE
+d6e120d85977f88e801f2ca0a8d29768623c0703;2017-01-26 12:47:38 -0600;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+d9d146ec345c12434380039d49de73daf39636da;2017-01-30 11:38:07 -0600;Upgrade to Spring Boot 1.5.0.RELEASE
+36e5a6efbd8943458d19b5bdf5f909b9d7f18230;2017-01-30 13:35:55 -0600;Rollback to 1.4.4.RELEASE pending Vaadin's 1.5 support
+b1ab0d7af7bd5df17449ac53ce0434c661526410;2017-01-31 20:51:25 +0200;Updated versions to Vaadin Spring 1.2.0 and Spring Boot 1.5.1 (#7)
+a99a7f3e38af2075b908df72634635fb11f53af9;2017-02-21 18:37:28 +0200;Upgrade to Vaadin 8 (#8)
+c54a5a8d19463937dbb0ea97f8bb32af6578d448;2017-02-21 10:53:14 -0600;Polish
+5c07b58094a6785f8a19062181a155770abd8f2b;2017-03-03 11:12:58 -0600;Upgrade to Spring Boot 1.5.2.RELEASE
+2ace33a212d4cdbed9d9a5fd2c98ca2a0e1e6663;2017-04-21 09:20:08 -0500;Upgrade to Spring Boot 1.5.3.RELEASE
+aa1ef241c68733439e7a613bd9f67f2ee3cca7c5;2017-07-26 12:23:04 -0500;Upgrade to Spring Boot 1.5.5.RELEASE
+cd9d18ecc701c3cadacd89e35983cc8243310657;2017-07-27 10:04:25 -0500;Upgrade to Spring Boot 1.5.6.RELEASE
+a4fa818bc4e7750925dc48c890827bb76f6abbea;2017-08-11 11:16:04 -0500;Added See Also links (#11)
+eaa4bfb9f03c4286b112d857e63faace88b38004;2017-09-13 13:15:18 -0500;Upgrade to Spring Boot 1.5.7.RELEASE
+4dd82b2d23024471131cc9b75cf7ff7515969f2a;2017-10-17 15:42:16 -0500;Upgrade to Spring Boot 1.5.8.RELEASE
+42cf7ec2b2ebebfa6811e68be887d83094e4bc36;2017-11-30 11:06:32 -0600;Upgrade to Spring Boot 1.5.9.RELEASE
+50bea195585207680b9c60fe22cca63b319045a9;2018-01-31 09:15:55 -0600;Upgrade to Spring Boot 1.5.10.RELEASE
+ee22d7edb12ff239c548a7106e6636ae801c5d0b;2018-03-01 09:20:37 -0600;Upgrade to Gradle 4.6
+39c7065a3f4f2b4c0921f93ed307b90c07738300;2018-03-01 09:52:48 -0600;Upgrade to Spring Boot 2.0.0.RELEASE
+82c0ec4f91a8ee6d527132caf4d1b85a8212c91e;2018-03-05 23:21:42 -0600;Replace jar gradle task with bootJar task
+35ab7e2f0b74e4b9ef51151385ad3c772c01c066;2018-03-06 13:35:23 +0200;Upgrade to Vaadin 8
+58746400b6ab4e298caec2908e2fe2980e67940c;2018-03-06 13:28:03 +0100;Polish contribution
+6c0e8818a87b7761fcc9b13ed0e528dae78ad918;2018-03-06 13:31:27 +0100;Merge pull request #13 from upgrade-to-boot-2
+3d2a7f52aeafd469140b8374c627f70c5ecdd4a3;2018-03-06 14:39:55 +0100;Polish
+d5018448079e2c84e241d55e3b8dc47ce033f42d;2018-03-06 15:05:32 +0200;fixed cancel button functionality
+8d3e3fdcf2361ce58580ba9805b7cd519d34fcee;2018-03-06 15:16:45 +0200;Use VaadinIcons instead of FontAwesome icon set
+393ef5cab00f132d2b10dd0c8a76a8e4969b7eeb;2018-03-06 14:41:55 +0100;Merge pull request #14 from mstahv:master
+ed2bc851d4b893361f1461d606bc8b5579be3a71;2018-04-02 13:03:28 -0500;Remove front matter
+518ed9542f4c690baeca7d933698572d5115a648;2018-04-05 11:44:39 -0500;Upgrade to Spring Boot 2.0.1.RELEASE
+09b58cb79337d0cf8fbda66221be1c545d128df1;2018-05-09 11:26:16 -0500;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+9ad0285d137719dc011ffda118caf157a2b9ad2c;2018-06-18 16:16:29 -0500;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+55d6f638a956aa44cf30e3442e2cb136b61826f0;2018-06-26 15:09:36 +0300;updated code to Vaadin 10
+ea14ef7e9fd5f43586ef94ff5edf743f70709a06;2018-06-26 15:48:52 +0300;updated the text part to Vaadin 10
+0e47db9f1f26c71c45676bd8743a9e7932a3e09d;2018-06-26 16:15:39 +0300;fixed gradle build and removed obsolete repositories
+7c3f7705e87d2fca51d46e0db77aa1b9c336cdf8;2018-06-26 17:21:44 +0300;Merge pull request #15 from mstahv/feature/v10-version
+3c723984b5b492570ffe3c8e3fed60b2e187d51b;2018-09-17 10:50:25 -0500;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+851643493dffc071c3c5181d6566c3d44eb89452;2018-09-28 07:18:26 -0400;Upgrade Vaadin version to restore compatibility with Spring Boot 2.0.x
+f30aa477b9bba4c57c82e4ac055b389f5676eb03;2018-11-14 17:11:04 +0200; Update Vaadin version to 10.0.7 (#18)
+9213a75382beb3d9d9a603abc7fdd3341b84b004;2018-11-28 15:55:27 +0200;Update Vaadin 10.0.8 (#20)
+844491013f3c3e696bba7755cc6f790c9d438be1;2018-12-03 16:42:38 +0200;Update Vaadin 10.0.9 (#21)
+d97760b88fae573af6b8b209022c741d565efe86;2019-01-11 16:47:04 +0200;Update Vaadin version to 10.0.10 (#22)
+6e29034f4af20a39c86a905dd0748c168d3cc866;2019-02-20 18:07:52 +0200;Upgrade to Vaadin 10.0.11 (#23)
+31fac7577963aaabef6ecaba6d6896a65a939994;2019-03-11 12:02:28 -0700;URL Cleanup (#24)
+3026953245fa5dfad212dd2be663cfee17b44453;2019-03-19 21:30:54 -0500;URL Cleanup
+b93613d0d94f35b0159b903a14a79cce4d3396f4;2019-03-20 13:33:46 +0100;Merge pull request #26 from spring-operator/polish-urls-xml-master
+3bcdddaba305fbf9060dc82d174b111cda7ffca7;2019-03-20 09:38:14 -0500;Upgrade to Spring Boot 2.0.8.RELEASE.
+642936f666401ef1d4516dc98d5f97d0e935dfac;2019-03-20 10:00:53 -0500;Upgrade to Spring Boot 2.1.3.RELEASE
+314fe2b4453d4d7714ab434112ca5272b743e19e;2019-03-20 16:15:20 -0500;URL Cleanup
+2fd98f7f295fbcaba1b556569ca3df3928a39a43;2019-03-21 13:37:57 -0500;URL Cleanup
+26b0bf56f3ae65d877359fcdb544286b92ece17b;2019-04-08 15:37:07 +0300;Update to Vaadin 10.0.13 (#33)
+051b12e97c549c66cf1bc34263c1438dd90ce45c;2019-04-22 10:41:31 -0500;Upgrade to Spring Boot 2.1.4.RELEASE.
+e3b80624d287fe4ee95c60cd046f82a2c3a06bab;2019-05-27 16:23:16 +0300;Upgrade to Vaadin 10.0.16
+9ee3a9365f99929d64d5b3ad57243051980eb8cc;2019-06-17 16:07:44 +0300;Merge pull request #36 from tulioag/update-vaadin-10.0.16
+27e902540e0f476a1dbf23de7732784aa745228b;2019-06-17 16:09:56 +0300;Merge pull request #27 from spring-operator/polish-urls-remaining-master
+d6620be48c0ff0f45f7e0f28d617becd3127280b;2019-06-17 16:10:29 +0300;Merge pull request #28 from spring-operator/polish-urls-apache-license-master
+247ad462ddce37e72d6eb31a9b05dd0b9da5d880;2019-06-22 08:24:12 -0500;Upgrade to Spring Boot 2.1.6.RELEASE
+210caba8b66e3d4323e81a8fcb9a9b64b5301c10;2019-08-12 09:07:39 -0500;Updated to @OpenJDK.
+c47f12d4b3329457e9bbf707700176ff9bc9ec89;2019-08-14 09:31:47 +0300;Upgrade to Vaadin 14.0.0
+2d024c7da37208346931ca104d760a6d52d17c7c;2019-08-14 09:35:18 +0300;Upgrade to Vaadin 14.0.0
+1e4fb149316b780a7d169a1d351d94710e2aae39;2019-09-05 20:18:29 +0300;Upgrade to Vaadin 14.0.3 (#41)
+c3d674170331b09daa0a3427243f7e78d04f8e4d;2019-09-10 10:17:28 +0300;Upgrade to Vaadin 14.0.4
+e63614da1af7f7bd78d7ca8c42e43a54b72991b9;2019-09-10 10:19:28 +0300;Upgrade to Vaadin 14.0.4
+a726faee3eb61f740ce9144dc044f1f68c9c7fdc;2019-10-07 13:04:04 +0300;Upgrade to Vaadin 14.0.9
+3fbcae0785842afffad48d64347069f637b068d8;2019-10-14 15:53:14 +0200;Merge pull request #48 from ZheSun88
+228d851584b56f49adfdbbec03acfd9827c77922;2019-11-19 09:43:34 -0600;Upgrade to Gradle 4.10.3.
+1c9dd7209450368fda1ce14d4ccc3042bbef8f4e;2019-11-19 12:07:55 -0600;Upgrade to Spring Boot 2.2.1.RELEASE.
+3dd769305039ba575cbd9c8fef6b443ba7a7a13e;2019-11-25 13:04:18 +0200;Upgrade to Vaadin 14.0.13 (#49)
+258c8952e27b132c9f4509e42e9bb27b88029fd8;2019-11-26 13:08:12 -0600;Switch to tabs, and adjust tabsizing in asciidoctor.
+c149dd7021601eee82ff8367512b23b6bbc9d84d;2019-12-17 20:28:37 +0200;Upgrade to Vaadin 14.1.3 (#50)
+93f409d2188e56a14a0796d0de5d667f5a57deea;2019-09-17 12:38:29 -0500;Use the Spring Initializr
+7e2758d4b8d7e523387841a590dc215b4f57a0f8;2019-09-20 14:58:15 -0500;Fixing broken links
+5d26450f7c567a878f8fcb5d2cd5b8693dd8b6dc;2019-10-22 15:04:11 -0500;Upgraded to Spring Boot 2.2
+ab284f2a962f6af5803f751c435c388760cdae38;2020-01-28 09:11:13 +0200;Upgrade Vaadin to 14.1.16
+5c4af54ee801c157a81697bcb8c11f1fa6b8a4c9;2020-01-28 09:12:09 +0200;Upgrade to Vaadin 14.1.16
+56c469f3761904bf8376bf93247643469d771fb5;2020-02-10 14:50:20 +0200;Upgrade to Vaadin 14.1.17
+2ac6d95dd6c09e528aa96dc3778af42b70507124;2020-02-10 14:52:31 +0200;Upgrade to Vaadin 14.1.17
+6d2e0200deeb0be1c8f652b88d5bd023fd5e8fbc;2020-03-19 14:35:30 -0500;Fixed a broken link
+29f45589cd53a67162c97a41a571f13d7e3b6bb6;2020-04-07 09:59:56 +0300;Upgrade to Vaadin 14.1.24
+3f9ac99f7e31aca18f6e07155f2c1f554dcf8ac2;2020-04-07 10:02:16 +0300;Upgrade to Vaadin 14.1.24
+0a9c8c23f928ff52c0d9034c6da26a5716de6f78;2020-04-08 08:29:53 +0300;Upgrade to Vaadin 14.1.25
+dba8d214176972cacec78763b342cca0767b2ad0;2020-04-08 08:30:47 +0300;Upgrade to Vaadin 14.1.25

@@ -1,0 +1,116 @@
+febb3110a3627c7b42343f3bd98b139be116fa16;2013-10-28 22:22:38 -0500;Initial commit of guide template
+f0ded7829919ba461310d5e8a381485b6c7bfbb0;2013-11-25 14:08:01 -0600;Convert to asciidoctor
+86f7c77a41ccbd879b75c9e488debf47f579c8fd;2014-01-15 10:43:00 -0600;Initial cut of tag and project metadata
+6a95e9d59e1227131a5b9feb71f7a7dd10f9b999;2014-01-16 14:35:59 -0600;Remove old SIDEBAR files
+c08465780aaa68135629e7e73a6172d4c02ed66a;2014-01-22 12:20:59 -0600;Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+f13af5e6c11761daf3940f70e171682714e38e53;2014-02-12 09:17:09 -0600;Upgrade to gradle 1.11
+bff01b24f02a944c7337290450cc2a9f0468d445;2014-02-13 12:37:56 -0600;Upgrade to Spring Boot 1.0.0.RC2
+e87d20ee0fabf23520d256a859b95844b9491489;2014-02-14 11:23:16 -0600;Upgrade to Spring Boot 1.0.0.RC3
+18024babd42676b338b7d420e7625071f599e699;2014-02-14 14:53:19 -0600;Clean up guides to link to proper javadoc pages and include code instead of use pasted copies
+842b7680631b2f41876678dad2c5b9fc3c477c91;2014-02-14 15:05:54 -0600;Upgrade from 3.2.4.RELEASE to current for Spring javadocs
+687f8a6d3db1956ed5bbbaaedbd1fffb72f181cf;2014-02-17 15:50:38 -0600;Remove version number from Spring Boot starters
+a20b8d4ce7629f3224342b175549cab0adcd9bb2;2014-02-18 16:29:17 -0600;Make initial file the final one
+d508a9fb65b113c25b8b78bf42b3bb4ceb162022;2014-02-19 09:27:20 -0600;Replace initial gradle build with compileJava
+17adf3050e0db5f79f65cf163136b695b72990fe;2014-02-19 09:49:15 -0600;Convert to mvn compile for initial codeset
+7165587df387bc6b1bd5deb636778854138d12fb;2014-03-04 15:08:34 -0500;Upgrade to Spring Boot 1.0.0.RC4
+777511d1b47ffb6cd3b9a418f878b56e44350d27;2014-03-22 07:17:24 -0500;Upgrade to Spring Boot 1.0.0.RC5
+5d45dd7ba88adf3a29bd9d8f0c02cb04026bc1a4;2014-04-01 15:10:36 -0500;Upgrade to Spring Boot 1.0.0.RELEASE
+abe07b23f9f20e508e1ba85c0b053eb670b4c6a6;2014-04-07 10:08:59 -0500;Upgrade to Spring Boot 1.0.1.RELEASE
+e4fed08e4c83a97f36f348330b8a466f4586da76;2014-04-24 09:36:30 -0500;Upgrade to Spring Boot 1.0.2.RELEASE
+d24c9ad2f6f35624efbc1b4126b69cae5302f359;2014-05-05 10:13:45 -0400;Update path to macro content
+d2da936473305f45482cf789d87b1a2213e6f075;2014-06-02 12:00:15 +0200;Getting started with caching
+b30143c4c361c094809f5f3388accf3ac4d0451d;2014-06-05 12:21:01 -0500;Apply some edits and fine tuning of code
+55e4a37f31bf95a750ecf42a6b59cc8e11151b0b;2014-06-05 12:23:21 -0500;Polish up guide
+138df62c7aefaaa5a301ea9a6268ff083f30ff64;2014-06-10 19:16:16 -0500;Upgrade to Spring Boot 1.1.0.RELEASE
+0c7d7231b9d258348e430c4492ca8df17bc102f8;2014-06-11 09:08:51 -0500;Replace repo.spring.io/release with repo.spring.io/libs-release
+85aafb421376bea492cb896321c7cb2cf9a91236;2014-06-11 16:48:01 -0500;Upgrade to Spring Boot 1.1.1.RELEASE
+459fe7351adde96ebc99369cac676f66f394e1e5;2014-06-24 19:55:15 -0400;Upgrade to Spring Boot 1.1.2.RELEASE
+e29321f1ae6ce3fa5dba7b0d3dcc69e44e53f46d;2014-06-27 22:55:02 -0400;Update to Spring Boot 1.1.3.RELEASE
+0bc2dc79de29bdd9e70e5a2cfa05c9209685d5ca;2014-07-08 15:41:36 -0500;Update to Spring Boot 1.1.4.RELEASE
+1c244b6fc8c0a296b98163d163b6e44afd0e54b9;2014-08-08 22:12:18 -0500;Update to Spring Boot 1.1.5.RELEASE
+a820d8eb14f94dbe45658c589e0c48d400447174;2014-09-02 10:56:01 -0500;Enable hiding/showing build steps
+1400ebb5b9e4cff53039c6f51f1bbe1d8b8305a7;2014-09-05 11:13:43 -0500;Upgrade to Spring Boot 1.1.6.RELEASE
+836a203584b932cc7c87851e57d92b24be2ab269;2014-09-29 12:42:20 -0500;Upgrade to Spring Boot 1.1.7.RELEASE
+af88a1c2f8b09d78d6e83f743a9f99f346bc5e7a;2014-09-29 12:54:49 -0500;Remove redudant 'run the service' macro
+c78a53260b36a6fd5c9083c4864e8270c255d4ce;2014-10-10 22:04:59 -0500;Upgrade to Spring Boot 1.1.8.RELEASE
+91a306dd9bc5443cbcf4cba6953db55ed228a13a;2014-11-12 13:07:58 -0600;Upgrade to Spring Boot 1.1.9.RELEASE
+121bc3b6330dbc5c3ece31c65e20a813a387f6f7;2014-11-20 10:14:58 -0600;Convert to use https for repositories
+fa8d6015c3cfa6283bc08187acd55f6e689a2a9c;2014-12-11 11:07:40 -0600;Upgrade to Spring Boot 1.1.10.RELEASE
+820a68ca6a1a3843b7d20f1c4f0f4a8cd947b157;2015-01-14 12:33:50 -0600;Remove legacy start-class property from maven builds
+a3431c2317dc0dc9905355dab31068be5c325170;2015-02-18 11:07:45 -0600;Upgrade to Spring Boot 1.2.1.RELEASE
+40cae41ef12d0ae3347f21a77b5a03eb6355e207;2015-02-24 15:24:30 -0600;Upgrade to @SpringBootApplication
+b9f5c353028a68e1eafd898fff64ad7f0d3ff0c6;2015-02-25 09:39:58 -0600;Remove mavenLocal and libs-release from gradle build
+01c739a9855023817166f1d7674ba355d5ffe291;2015-02-26 22:39:27 -0600;Upgrade to Spring Boot 1.2.2.RELEASE
+212d18b4ae712527abf727f7a79c285f1a6ff5f2;2015-02-27 10:12:03 +0100;Harmonize structure
+922b6ed0ea615360b39525df99372d80e7c3ee52;2015-03-05 10:12:50 +0100;Merge pull request #1 from snicoll/boot-1.2
+86a13bb22be01d7ad29ad805058fc9fc135100dc;2015-03-15 14:33:54 -0400;Upgrade to Gradle 2.3
+2deae0b351b79044723964a252cd7c6aa5f93688;2015-03-31 16:55:58 -0500;Upgrade to Spring Boot 1.2.3.RELEASE
+6c1b8140818153f684329991d53ad29c8f83db19;2015-06-09 09:41:37 -0400;Upgrade to Spring Boot 1.2.4
+44718b7a112433f6eddfd59b0119a9af5225cbcf;2015-06-12 14:03:27 -0400;Upgrade non-specific guides to Java 8
+dfe29a2c61522867e9dd09ff1d8296adba7f75b1;2015-06-15 11:52:57 -0400;Add travis support
+44b00c3402c9e60703152327a68d727b67a607a2;2015-06-15 14:02:32 -0400;Fix slack notifications
+8e143968cf18fba27bd3a5e7b639c434cdd89ba9;2015-07-02 08:45:42 -0500;Upgrade to Spring Boot 1.2.5.RELEASE
+15913f0e119757e3e17dcbaabb91f3547184c5f4;2015-08-25 15:10:05 -0500;Add footer
+8955a8bac4f5c720fbf5f533b94f3e1ca19190e3;2015-09-20 15:41:22 -0500;Upgrade to Spring Boot 1.2.6.RELEASE
+d73d9b787a890251fa693d7953af19ca1fb2482f;2015-10-16 09:43:22 -0400;Upgraded to Spring Boot 1.2.7.RELEASE
+5f2ad559163079f2f832ee5e9b8fb74a743e398b;2015-11-16 11:10:23 -0600;Upgrade to Spring Boot 1.3.0.RELEASE
+497ea17a9296463c264cbd8dcd559ba7717d9842;2015-12-18 09:39:55 -0600;Upgrade to Spring Boot 1.3.1.RELEASE
+6affd8ef95b9dc32ff60847323597935e73c0d9a;2015-12-24 17:18:29 +0100;Updated for cache auto-configuration
+e1f1e3ef42b48ebb9e5414d7788b8343c26a53fe;2015-12-24 12:22:33 -0600;Merge pull request #2 from Bert-R/autoconfiguration-support
+1a724e7ad1ec1fe7b91951e49ea1bcb3a4d9a1a8;2016-01-21 21:28:33 -0600;Upgrade to Spring Boot 1.3.2.RELEASE
+66f99497498036923630b87d7387d7a076e3b448;2016-02-24 10:09:03 -0600;Migrate to container-based infrastructure
+bf6a99ea661ffe8fa4be814858af50c1c3277e55;2016-02-26 07:29:32 -0600;Upgrade to Spring Boot 1.3.3.RELEASE
+97458fe8222882ae79e8b858ad90a04b47da4712;2016-05-06 09:48:33 -0500;Upgrade to Spring Boot 1.3.4.RELEASE
+861ee7bb348c2ac41f4d2bfc0eddc0ad19a9940b;2016-05-10 10:26:09 -0500;Upgrade to Spring Boot 1.3.5.RELEASE
+318394baef3e6da18f53f4c2142e416ed30b72e3;2016-06-27 15:22:39 -0500;Add CONTRIBUTING doc
+a1f0d9be84caec84a995bd23844df7c9c29eac75;2016-07-02 10:10:41 +0100;Add Maven wrapper
+4af7c7548c20ffbe267e3d0862e0400b73afd9e3;2016-07-05 13:51:59 -0500;Upgrade to Spring Boot 1.3.6.RELEASE
+f05cdb75c185beb9e5ce33d06ef3315b377cf288;2016-07-28 06:52:33 -0500;Upgrade to Spring Boot 1.3.7.RELEASE
+f9a1781c6d95b4d3289c03c82a04a35361b92980;2016-07-29 11:26:22 -0500;Upgrade to @SpringBoot 1.4.0.RELEASE
+08b25c9d17866be7b77643d7fa6fe60d80d8a601;2016-08-26 16:45:27 +0100;Add macro for @SpringBootApplication
+9ed3982d391892ed247f859d1657014bff11242d;2016-08-29 13:17:35 -0500;Upgrade to gradle 2.13
+9e60be822e5c0e45c24d37e69ff6fa8a86473905;2016-09-01 11:15:57 +0200;Polish
+932a046a99506851aad7234fb5b1514b38aa6b92;2016-09-23 16:35:35 -0500;Upgrade to Spring Boot 1.4.1.RELEASE
+273f71f6619f9681bc78def9c9b219dfd6e35890;2016-11-08 11:52:02 -0600;Upgrade to Spring Boot 1.4.2.RELEASE
+aec252471f6e9254f0902ca62ea3ebf9e454894a;2016-11-30 10:06:06 -0600;Upgrade plugin from spring-boot to o.s.boot
+e02e054a452aa77f13be8a8da0275efdedd59a57;2016-12-22 22:31:51 -0600;Upgrade to Spring Boot 1.4.3.RELEASE
+0f3f9611ddcc854676e4eb6061fea22ebab1cbd3;2017-01-26 12:36:34 -0600;Upgrade to Spring Boot 1.4.4.RELEASE
+0cad034d5d08afa14326381dc98d313491a8cca0;2017-01-26 12:47:09 -0600;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+21ca7d32affd7d628a10b266033ec759c5a2a13f;2017-01-30 11:36:47 -0600;Upgrade to Spring Boot 1.5.0.RELEASE
+31fe3c7fc05ab272565202667347cf6ae38556f5;2017-01-30 23:28:20 -0600;Upgrade to Spring Boot 1.5.1.RELEASE
+1975cb36e4cf481cc1996087bd3d49b779365b70;2017-03-03 11:12:40 -0600;Upgrade to Spring Boot 1.5.2.RELEASE
+5c5eac3387fd3cd298361aaa9e4445c06fa1417b;2017-04-21 09:19:46 -0500;Upgrade to Spring Boot 1.5.3.RELEASE
+665e32970433edcc649ba8bec2d4b54922b82468;2017-07-26 12:22:44 -0500;Upgrade to Spring Boot 1.5.5.RELEASE
+4c4af969a077af506874bb027306e9ca631e5f63;2017-07-27 10:04:06 -0500;Upgrade to Spring Boot 1.5.6.RELEASE
+3a7020f17b7ea62d9f696d4aca1bb0c66faccc49;2017-09-13 13:14:58 -0500;Upgrade to Spring Boot 1.5.7.RELEASE
+e96553ec92a7a12f76bd3cc3557545b454f77077;2017-10-17 15:41:56 -0500;Upgrade to Spring Boot 1.5.8.RELEASE
+abf8f318eb5a8a4b8dbc534d629693983df3680c;2017-11-30 11:06:07 -0600;Upgrade to Spring Boot 1.5.9.RELEASE
+5868e0ee87d4b27074cb575c9d3c76c94c438ff6;2018-01-31 09:15:29 -0600;Upgrade to Spring Boot 1.5.10.RELEASE
+a58f4aa39e4f194bc1d21afec3f134a78ddf4432;2018-03-01 09:20:24 -0600;Upgrade to Gradle 4.6
+4ae6faaed4526abc2bd5a45d80bf0cc4e5bafc15;2018-03-01 09:50:43 -0600;Upgrade to Spring Boot 2.0.0.RELEASE
+7f905944692aa88ef1530841942f9a33fc55f665;2018-03-05 22:45:15 -0600;Polish guide to reference 2.0.0.RELEASE
+8cd8fd0e7288a37533e33b4703dad3bcb4e50604;2018-03-05 23:21:20 -0600;Replace jar gradle task with bootJar task
+e2c4e9e9af355989b6aa6a55be5b95e7b517e37d;2018-04-02 13:02:46 -0500;Remove front matter
+3e87d637e2bab90baf2de97d32fec41e168698b9;2018-04-05 11:44:10 -0500;Upgrade to Spring Boot 2.0.1.RELEASE
+0a971a8f3adbefe7fb1b99fc25d48afea21747af;2018-05-09 11:25:41 -0500;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+549f76b0ceff289328fe38f64e95dc87c58dab19;2018-06-18 16:15:54 -0500;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+45c880d498492ab8d63a3db74ca1a6757c7c043b;2018-09-17 10:49:44 -0500;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+e384d3b6ff55a85174cbcd24e54cea88fdfc1ed4;2019-03-15 08:17:51 -0700;URL Cleanup (#6)
+68169901a0ed187aee673b5d5f80f94174a1e975;2019-03-20 06:56:51 -0700;URL Cleanup (#7)
+0c1f35e9661fcea35297658dc9331a1cccd6017b;2019-03-20 09:36:17 -0500;Upgrade to Spring Boot 2.0.8.RELEASE.
+1865d4b9d14ee1b315b6200e57719f3e1a0b9874;2019-03-20 10:00:22 -0500;Upgrade to Spring Boot 2.1.3.RELEASE
+d29cbd5091f6a485f21d51271cca1f0f0bd5daf7;2019-04-22 10:39:13 -0500;Upgrade to Spring Boot 2.1.4.RELEASE.
+9b2d803893465dbcaffdd1a7404bc0bf2ebfd35f;2019-06-22 08:23:44 -0500;Upgrade to Spring Boot 2.1.6.RELEASE
+b28632a1d3df0d54809969970cc399569d8d5b7d;2019-08-12 09:06:58 -0500;Updated to @OpenJDK.
+d3de7c9c9ee4780dde905a47ddf7a625f8a1b224;2019-09-12 13:30:39 -0500;Use the Spring Initializr
+112b5a4be32c49105b5800e07a5e39b54322a239;2019-09-13 16:48:38 -0500;Fixing the image format in the README file
+e2e8086e7f1f4d3884e33892db95d93040f5f858;2019-09-16 11:20:17 -0500;Fixed bad paths
+52e59c6b18b78c111e1abb7e9fd06593fe48a7db;2019-11-08 14:52:19 +0800;fix typo (handlesthe -> handles the)
+6da5b51eb924cf17e13ee8ba4e790e195b42876e;2019-11-19 09:43:07 -0600;Upgrade to Gradle 4.10.3.
+818aa94e3163dd7a98c044e62cdf7c34d63a41f6;2019-11-19 12:07:21 -0600;Upgrade to Spring Boot 2.2.1.RELEASE.
+845c08911271e02086df8051c57fe407b29aa1d3;2019-11-26 13:07:46 -0600;Switch to tabs, and adjust tabsizing in asciidoctor.
+8748ee9303462c30f06d99c825569ef38e932e90;2020-01-21 13:29:20 -0600;Added See Also links
+1c36e56eb8544e92c2dd16cf3d0b87de8641c448;2019-03-20 16:13:38 -0500;URL Cleanup
+3783395b1f4891f89136b231dd473823c9a8e462;2019-03-21 13:36:35 -0500;URL Cleanup
+adfca9f4339d113fc8b3fa651008bad27ca74dcd;2019-09-20 14:48:17 -0500;Fixing broken links
+f07bdb46ae96bd97770e7352974ecdf92f47ed2a;2019-10-22 11:15:59 -0500;Upgraded to Spring Boot 2.2
