@@ -62,7 +62,7 @@ def buscar_versao_do_framework(framework, caminho):
 def buscar_dados_de_lancamento_de_versoes(framework):
     versoes = {}
     if framework == 'spring':
-        g = Github("gabrielsmenezes", "g33860398")
+        g = Github('4e29ab283b107b0c09d7724da2c97391cffd1a4c')
         repo = g.get_repo("spring-projects/spring-boot")
         tags = repo.get_tags()
         for tag in enumerate(tags):
