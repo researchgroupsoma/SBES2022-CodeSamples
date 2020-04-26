@@ -9,8 +9,8 @@ def repositoriesdownload(framework, projects):
             sample = remove_especial_caracters(sample)
             git_url = criate_url_from_github(sample)
             print("Downloading %s" % sample)
-            repo_dir = "repositories/" + sample
-            isdir = os.path.isdir(repo_dir)
+            repo_dir = "repositories/"
+            isdir = os.path.isdir(repo_dir+sample)
             if isdir:
                 print("Project " + sample + " downloaded")
                 continue
