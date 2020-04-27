@@ -1,9 +1,13 @@
 import argparse
 import repositoriesdownload
+import delay
 
 
 def main(args):
-    repositoriesdownload.repositoriesdownload(args.framework, args.projects)
+    if args.download:
+        repositoriesdownload.repositoriesdownload(args.framework, args.projects)
+    if args.delay:
+        delay.delay(args.framework, args.projects)
 
 
 if __name__ == '__main__':
@@ -14,7 +18,8 @@ if __name__ == '__main__':
                         help="Do you want to download the repositories?")
     parser.add_argument("-projects", "-p", type=str, required=True,
                         help="File's path that's contains the list of projects to analyze")
-
+    parser.add_argument("-delay", "-e", action="store_true", required=False,
+                        help="Do you want to computed the delay?")
     args = parser.parse_args()
 
     main(args)
