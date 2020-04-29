@@ -141,7 +141,7 @@ def delay(framework, projects):
                     delay_in_days = sample_update_date - framework_release_date
                     delay_in_days = delay_in_days.days
                     if delay_in_days < 0:
-                        break
+                        delay_in_days = 0
                     output_write(
                         framework,
                         framework + "," + path + "," + current_version + "," + next_version + "," +
