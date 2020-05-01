@@ -3,6 +3,7 @@ import repositoriesdownload
 import delay
 import githubmetadata
 import numberofextensionfile
+import currentframeworkversion
 
 def main(args):
     if args.download:
@@ -13,6 +14,8 @@ def main(args):
         githubmetadata.githubmetadata(args.framework, args.projects)
     if args.numberofextensionfile:
         numberofextensionfile.numberofextensionfile(args.framework, args.projects)
+    if args.currentframeworkversion:
+        currentframeworkversion.currentframeworkversion(args.framework, args.projects)
 
 
 if __name__ == '__main__':
@@ -29,6 +32,8 @@ if __name__ == '__main__':
                         help="Do you want to computed github metadata?")
     parser.add_argument("-numberofextensionfile", "-x", action="store_true", required=False,
                         help="Do you want to computed the number of files by extensions?")
+    parser.add_argument("-currentframeworkversion", "-v", action="store_true", required=False,
+                        help="Do you want to get the current version of framework?")
     args = parser.parse_args()
 
     main(args)

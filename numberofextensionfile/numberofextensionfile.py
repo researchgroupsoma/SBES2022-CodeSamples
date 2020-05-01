@@ -1,5 +1,4 @@
 import fnmatch
-import io
 import os
 
 
@@ -22,7 +21,6 @@ def output_write(framework, text):
     with open("numberofextensionfile/" + framework + "_numberofextensionfile_output.csv", "a") as f:
         f.write(text + "\n")
         f.close()
-
 
 
 def create_extension_files():
