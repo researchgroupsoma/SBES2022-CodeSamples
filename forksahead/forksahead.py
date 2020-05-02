@@ -9,6 +9,7 @@ def remove_next_line(sample):
 def manage_limit_rate(g, repository):
     if g.rate_limiting[0] < repository.forks_count:
         sleep_time = int((g.rate_limiting_resettime - time.time()))
+        sleep_time = sleep_time * 1.05
         print("Sleeping for: " + str(sleep_time / 60) + " minutes")
         time.sleep(sleep_time)
 
