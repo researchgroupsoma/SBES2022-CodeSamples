@@ -4,6 +4,8 @@ import delay
 import githubmetadata
 import numberofextensionfile
 import currentframeworkversion
+import forksahead
+
 
 def main(args):
     if args.download:
@@ -16,6 +18,8 @@ def main(args):
         numberofextensionfile.numberofextensionfile(args.framework, args.projects)
     if args.currentframeworkversion:
         currentframeworkversion.currentframeworkversion(args.framework, args.projects)
+    if args.forksahead:
+        forksahead.forksahead(args.framework, args.projects)
 
 
 if __name__ == '__main__':
@@ -34,6 +38,8 @@ if __name__ == '__main__':
                         help="Do you want to computed the number of files by extensions?")
     parser.add_argument("-currentframeworkversion", "-v", action="store_true", required=False,
                         help="Do you want to get the current version of framework?")
+    parser.add_argument("-forksahead", "-k", action="store_true", required=False,
+                        help="Do you want to get the number of forks and forks ahead?")
     args = parser.parse_args()
 
     main(args)

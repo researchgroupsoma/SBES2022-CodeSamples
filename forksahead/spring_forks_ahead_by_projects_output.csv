@@ -1,0 +1,4 @@
+framework,path,number_of_forks,forks_ahead,ratio
+spring,spring-guides/tut-rest,218,16,0.07339449541284404
+spring,spring-guides/gs-vault-config,8,1,0.125
+spring,spring-guides/gs-spring-boot,1517,242,0.15952537903757416
