@@ -11,15 +11,15 @@ def main(args):
     if args.download:
         repositoriesdownload.repositoriesdownload(args.framework, args.projects)
     if args.delay:
-        delay.delay(args.framework, args.projects)
+        delay.delay(args.framework, args.projects, args.githubtoken)
     if args.githubmetadata:
-        githubmetadata.githubmetadata(args.framework, args.projects)
+        githubmetadata.githubmetadata(args.framework, args.projects, args.githubtoken)
     if args.numberofextensionfile:
         numberofextensionfile.numberofextensionfile(args.framework, args.projects)
     if args.currentframeworkversion:
         currentframeworkversion.currentframeworkversion(args.framework, args.projects)
     if args.forksahead:
-        forksahead.forksahead(args.framework, args.projects)
+        forksahead.forksahead(args.framework, args.projects, args.githubtoken)
 
 
 if __name__ == '__main__':
@@ -28,6 +28,7 @@ if __name__ == '__main__':
     parser.add_argument("-framework", "-f", type=str, required=True, help="framework")
     parser.add_argument("-projects", "-p", type=str, required=True,
                         help="File's path that's contains the list of projects to analyze")
+    parser.add_argument("-githubtoken", "-t", type=str, required=True, help="https://github.com/settings/tokens")
     parser.add_argument("-download", "-d", action="store_true", required=False,
                         help="Do you want to download the repositories?")
     parser.add_argument("-delay", "-e", action="store_true", required=False,

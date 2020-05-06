@@ -55,11 +55,11 @@ def get_stars_count(repo):
     return repo.stargazers_count
 
 
-def githubmetadata(framework, projects):
+def githubmetadata(framework, projects, githubtoken):
     output_write(framework,
                  "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,"
                  "openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit")
-    g = Github("4e7f552ac4b6ade859bc51befc6841e2cebc14b1")
+    g = Github(githubtoken)
     with open(projects) as samples:
         for sample in samples:
             sample = remove_next_line(sample)

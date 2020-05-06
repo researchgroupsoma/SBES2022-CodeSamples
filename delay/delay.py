@@ -68,10 +68,10 @@ def buscar_versao_do_framework(framework, caminho):
         return buscar_versao_do_andorid(caminho)
 
 
-def buscar_dados_de_lancamento_de_versoes(framework):
+def buscar_dados_de_lancamento_de_versoes(framework, githubtoken):
     versoes = {}
     if framework == 'spring':
-        g = Github("4e7f552ac4b6ade859bc51befc6841e2cebc14b1")
+        g = Github(githubtoken)
         repo = g.get_repo("spring-projects/spring-boot")
         tags = repo.get_tags()
         for tag in enumerate(tags):
@@ -110,10 +110,10 @@ def get_commits(repository):
     return list(reversed(list(repository.iter_commits())))
 
 
-def delay(framework, projects):
+def delay(framework, projects, githubtoken):
     path_dos_repositorios = 'repositories'
     output_write(framework, "framework,path,current_version,next_version,framework_release_date (YYYY-DD-MM),sample_update_date (YYYY-DD-MM) ,delay_in_days")
-    framework_release_data = buscar_dados_de_lancamento_de_versoes(framework)
+    framework_release_data = buscar_dados_de_lancamento_de_versoes(framework, githubtoken)
     configuration_file = define_arquivo_de_configuracao(framework)
     for sample in open(projects):
         sample = remove_next_line(sample)

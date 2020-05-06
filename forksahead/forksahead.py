@@ -41,8 +41,8 @@ def count_forks_ahead(framework, forks, repository):
     return forks_ahead
 
 
-def forksahead(framework, projects):
-    g = Github("4e7f552ac4b6ade859bc51befc6841e2cebc14b1")
+def forksahead(framework, projects, githubtoken):
+    g = Github(githubtoken)
     output_forks_by_sample_write(framework, "framework,path,number_of_forks,forks_ahead,ratio")
     output_forks_write(framework, "framework,path,commits_ahead")
     with open(projects) as samples:
