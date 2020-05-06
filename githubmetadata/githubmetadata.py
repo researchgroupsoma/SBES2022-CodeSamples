@@ -1,5 +1,5 @@
 from github import Github, GithubException
-
+import datetime
 
 def remove_next_line(sample):
     return sample.replace('\n', '')
@@ -58,18 +58,35 @@ def get_stars_count(repo):
 def githubmetadata(framework, projects):
     output_write(framework,
                  "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,"
-                 "openedPullRequests,closedPullRequests,updatedAt,projects")
-    g = Github("gabrielsmenezes", "g33860398")
+                 "openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit")
+    g = Github("4e7f552ac4b6ade859bc51befc6841e2cebc14b1")
     with open(projects) as samples:
         for sample in samples:
             sample = remove_next_line(sample)
             repo = g.get_repo(sample)
-            output_write(framework,
-                         framework + "," + sample + "," + str(get_forks_count(repo)) + "," + str(get_stars_count(
-                             repo)) + "," + str(get_watchers_count(repo)) + "," + str(
-                             get_opened_issues_count(repo)) + "," +
-                         str(get_closed_issues_count(repo)) + "," +
-                         str(get_commits_count(repo)) + "," + str(get_opened_pull_requests_count(
-                             repo)) + "," + str(get_closed_pull_requests_count(repo)) + "," + str(
-                             get_update_at(repo)) + "," +
-                         str(get_projects_count(repo)))
+            output = build_output(framework, repo, sample)
+            output_write(framework, output)
+
+
+def get_lifetime(repo):
+    first_commit = repo.get_commits().reversed[0]
+    first_commit_date = first_commit.commit.author.date
+    now = datetime.datetime.now()
+    lifetime = now - first_commit_date
+    return lifetime.days
+
+
+def get_lifetime_per_commit(repo):
+    lifetime = get_lifetime(repo)
+    commits_count = get_commits_count(repo)
+    lifetime_per_commit = lifetime / commits_count
+    return lifetime_per_commit
+
+
+def build_output(framework, repo, sample):
+    return framework + "," + sample + "," + str(get_forks_count(repo)) + "," + str(get_stars_count(repo)) + "," + \
+           str(get_watchers_count(repo)) + "," + str(get_opened_issues_count(repo)) + "," + \
+           str(get_closed_issues_count(repo)) + "," + str(get_commits_count(repo)) + "," + \
+           str(get_opened_pull_requests_count(repo)) + "," + str(get_closed_pull_requests_count(repo)) + "," + \
+           str(get_update_at(repo)) + "," + str(get_projects_count(repo)) + "," + str(get_lifetime(repo)) + "," + \
+           str(get_lifetime_per_commit(repo))

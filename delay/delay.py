@@ -112,8 +112,7 @@ def get_commits(repository):
 
 def delay(framework, projects):
     path_dos_repositorios = 'repositories'
-    output_write(framework,
-                 "framework,path,current_version,next_version,framework_release_date (YYYY-DD-MM),sample_update_date (YYYY-DD-MM) ,delay_in_days")
+    output_write(framework, "framework,path,current_version,next_version,framework_release_date (YYYY-DD-MM),sample_update_date (YYYY-DD-MM) ,delay_in_days")
     framework_release_data = buscar_dados_de_lancamento_de_versoes(framework)
     configuration_file = define_arquivo_de_configuracao(framework)
     for sample in open(projects):
