@@ -2,6 +2,18 @@ import os
 from git import Repo
 
 
+def download(git_url, repo_dir, sample):
+    Repo.clone_from(git_url, repo_dir + sample)
+
+
+def criate_url_from_github(sample):
+    return "https://github.com/" + sample + ".git"
+
+
+def remove_especial_caracters(sample):
+    return sample.replace('\n', '')
+
+
 def repositoriesdownload(framework, projects):
     print('framework: ' + framework)
     with open(projects) as samples:
@@ -16,15 +28,3 @@ def repositoriesdownload(framework, projects):
                 continue
             download(git_url, repo_dir, sample)
             print("%s downloaded" % sample)
-
-
-def download(git_url, repo_dir, sample):
-    Repo.clone_from(git_url, repo_dir + sample)
-
-
-def criate_url_from_github(sample):
-    return "https://github.com/" + sample + ".git"
-
-
-def remove_especial_caracters(sample):
-    return sample.replace('\n', '')

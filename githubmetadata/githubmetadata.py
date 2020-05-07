@@ -56,19 +56,6 @@ def get_stars_count(repo):
     return repo.stargazers_count
 
 
-def githubmetadata(framework, projects, githubtoken):
-    output_write(framework,
-                 "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,"
-                 "openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit")
-    g = Github(githubtoken)
-    with open(projects) as samples:
-        for sample in samples:
-            sample = remove_next_line(sample)
-            repo = g.get_repo(sample)
-            output = build_output(framework, repo, sample)
-            output_write(framework, output)
-
-
 def get_lifetime(repo):
     first_commit = repo.get_commits().reversed[0]
     first_commit_date = first_commit.commit.author.date
@@ -91,3 +78,16 @@ def build_output(framework, repo, sample):
            str(get_opened_pull_requests_count(repo)) + "," + str(get_closed_pull_requests_count(repo)) + "," + \
            str(get_update_at(repo)) + "," + str(get_projects_count(repo)) + "," + str(get_lifetime(repo)) + "," + \
            str(get_lifetime_per_commit(repo))
+
+
+def githubmetadata(framework, projects, githubtoken):
+    output_write(framework,
+                 "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,"
+                 "openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit")
+    g = Github(githubtoken)
+    with open(projects) as samples:
+        for sample in samples:
+            sample = remove_next_line(sample)
+            repo = g.get_repo(sample)
+            output = build_output(framework, repo, sample)
+            output_write(framework, output)

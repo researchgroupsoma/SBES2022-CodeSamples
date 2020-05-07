@@ -110,6 +110,35 @@ def get_commits(repository):
     return list(reversed(list(repository.iter_commits())))
 
 
+def calculate_delay(framework_release_date, sample_update_date):
+    delay_in_days = sample_update_date - framework_release_date
+    delay_in_days = delay_in_days.days
+    if delay_in_days < 0:
+        delay_in_days = 0
+    return delay_in_days
+
+
+def get_commit_date(commit):
+    return datetime.datetime.fromtimestamp(commit.authored_date)
+
+
+def get_first_version(framework, path, repository, reversed_commits):
+    current_version = {}
+    for index, commit in enumerate(reversed_commits):
+        repository.git.checkout(commit, '-f')
+        if os.path.exists(path):
+            current_version = buscar_versao_do_framework(framework, path)
+            reversed_commits = reversed_commits[index:]
+            break
+    return current_version, reversed_commits
+
+
+def create_output(current_version, delay_in_days, framework, framework_release_date, next_version, path,
+                  sample_update_date):
+    return framework + "," + path + "," + current_version + "," + next_version + "," + framework_release_date.strftime(
+        "%Y/%d/%m") + "," + sample_update_date.strftime("%Y/%d/%m") + "," + str(delay_in_days)
+
+
 def delay(framework, projects, githubtoken):
     path_dos_repositorios = 'repositories'
     output_write(framework, "framework,path,current_version,next_version,framework_release_date (YYYY-DD-MM),sample_update_date (YYYY-DD-MM) ,delay_in_days")
@@ -122,29 +151,16 @@ def delay(framework, projects, githubtoken):
         repository = Repo(sample_path)
         reversed_commits = get_commits(repository)
         for path in paths_configuration_file:
-            current_version = {}
-            for index, commit in enumerate(reversed_commits):
-                repository.git.checkout(commit, '-f')
-                if os.path.exists(path):
-                    current_version = buscar_versao_do_framework(framework, path)
-                    reversed_commits = reversed_commits[index:]
-                    break
+            current_version, reversed_commits = get_first_version(framework, path, repository, reversed_commits)
             if current_version == {}:
                 continue
             for commit in reversed_commits:
                 repository.git.checkout(commit, '-f')
                 next_version = buscar_versao_do_framework(framework, path)
                 if current_version != next_version and next_version != '' and current_version != '' and current_version != None and next_version != None:
-                    sample_update_date = datetime.datetime.fromtimestamp(commit.authored_date)
+                    sample_update_date = get_commit_date(commit)
                     framework_release_date = framework_release_data[next_version]
-                    delay_in_days = sample_update_date - framework_release_date
-                    delay_in_days = delay_in_days.days
-                    if delay_in_days < 0:
-                        delay_in_days = 0
-                    output_write(
-                        framework,
-                        framework + "," + path + "," + current_version + "," + next_version + "," +
-                        framework_release_date.strftime("%Y/%d/%m") + "," + sample_update_date.strftime(
-                            "%Y/%d/%m") + "," + str(delay_in_days))
+                    delay_in_days = calculate_delay(framework_release_date, sample_update_date)
+                    output_write(framework, create_output(current_version, delay_in_days, framework, framework_release_date, next_version, path, sample_update_date))
                     current_version = next_version
         repository.git.checkout('master', '-f')
