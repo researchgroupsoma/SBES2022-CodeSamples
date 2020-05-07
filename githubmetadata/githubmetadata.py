@@ -1,6 +1,7 @@
 from github import Github, GithubException
 import datetime
 
+
 def remove_next_line(sample):
     return sample.replace('\n', '')
 

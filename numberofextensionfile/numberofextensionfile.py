@@ -62,7 +62,7 @@ def count_others(extensions):
 def count_extension_files(extensions, sample):
     for extension in extensions:
         extensions[extension] = len(
-            find(extension, "/home/gabriel.menezes/Documentos/gabriel/pesquisa-mestrado/repositories/" + sample))
+            find(extension, "/home/gabriel.menezes/Documentos/gabriel/pesquisamestrado/repositories/" + sample))
 
 
 def numberofextensionfile(framework, projects):
@@ -76,7 +76,3 @@ def numberofextensionfile(framework, projects):
             others = count_others(extensions)
             output = concat_output(extensions) + str(others)
             output_write(framework, framework+","+sample+","+output)
-
-
-numberofextensionfile("spring",
-                      "/home/gabriel.menezes/Documentos/gabriel/pesquisa-mestrado/list-of-samples/springsamples.txt")
