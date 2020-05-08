@@ -4,7 +4,7 @@ import xml.etree.ElementTree
 from git import Repo
 import re
 from github import Github
-from utils import remove_next_line, output_write, find_paths
+from utils import remove_next_line, output_write, find_paths, get_samples
 
 
 def define_arquivo_de_configuracao(framework):
@@ -126,8 +126,8 @@ def delay(framework, projects, githubtoken):
     output_write(framework, measure, "framework,path,current_version,next_version,framework_release_date (YYYY-DD-MM),sample_update_date (YYYY-DD-MM) ,delay_in_days", True)
     framework_release_data = buscar_dados_de_lancamento_de_versoes(framework, githubtoken)
     configuration_file = define_arquivo_de_configuracao(framework)
-    for sample in open(projects):
-        sample = remove_next_line(sample)
+    samples = get_samples(projects)
+    for sample in samples:
         sample_path = path_dos_repositorios + "/" + sample
         paths_configuration_file = find_paths(configuration_file, sample_path)
         repository = Repo(sample_path)

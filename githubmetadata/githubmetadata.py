@@ -1,7 +1,7 @@
 from github import Github, GithubException
 import datetime
 
-from utils import output_write, remove_next_line
+from utils import output_write, remove_next_line, get_samples
 
 
 def get_projects_count(repo):
@@ -63,7 +63,7 @@ def get_lifetime_per_commit(repo):
     return lifetime_per_commit
 
 
-def build_output(framework, repo, sample):
+def create_output(framework, repo, sample):
     return framework + "," + sample + "," + str(get_forks_count(repo)) + "," + str(get_stars_count(repo)) + "," + \
            str(get_watchers_count(repo)) + "," + str(get_opened_issues_count(repo)) + "," + \
            str(get_closed_issues_count(repo)) + "," + str(get_commits_count(repo)) + "," + \
@@ -76,9 +76,8 @@ def githubmetadata(framework, projects, githubtoken):
     measure = "githubmetadata"
     output_write(framework, measure, "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit", True)
     g = Github(githubtoken)
-    with open(projects) as samples:
-        for sample in samples:
-            sample = remove_next_line(sample)
-            repo = g.get_repo(sample)
-            output = build_output(framework, repo, sample)
-            output_write(framework, measure, output, False)
+    samples = get_samples(projects)
+    for sample in samples:
+        repo = g.get_repo(sample)
+        output = create_output(framework, repo, sample)
+        output_write(framework, measure, output, False)

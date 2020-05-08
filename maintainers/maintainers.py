@@ -1,5 +1,5 @@
 from github import Github
-from utils import remove_next_line
+from utils import remove_next_line, get_samples
 from utils import output_write
 
 
@@ -34,9 +34,8 @@ def mainteiners(framework, projects, githubtoken):
     output_write(framework, "maintainers", "framework,path,framework_contributors,sample_contributors,commom_contributors,commom/framework,commom/sample", True)
     framework_repository = get_repository_name(framework)
     framework_contributors = get_contributors(framework_repository, githubtoken)
-    with open(projects) as samples:
-        for sample in samples:
-            sample = remove_next_line(sample)
-            sample_contributors = get_contributors(sample, githubtoken)
-            commmom_contributors = get_commom_contributors(framework_contributors, sample_contributors)
-            output_write(framework, "maintainers", create_output(framework, sample, framework_contributors, sample_contributors, commmom_contributors), False)
+    samples = get_samples(projects)
+    for sample in samples:
+        sample_contributors = get_contributors(sample, githubtoken)
+        commmom_contributors = get_commom_contributors(framework_contributors, sample_contributors)
+        output_write(framework, "maintainers", create_output(framework, sample, framework_contributors, sample_contributors, commmom_contributors), False)

@@ -1,4 +1,4 @@
-from utils import remove_next_line, output_write, find_paths
+from utils import remove_next_line, output_write, find_paths, get_samples
 
 
 def create_extension_files():
@@ -49,10 +49,9 @@ def numberofextensionfile(framework, projects):
     output_write(framework, measure,
                  'framework,project,java,properties,jar,build.gradle,pom.xml,manifest.xml,xml,bat,md,adoc,README,yaml,txt,sh,travis.yml,yml,cmd,kt,json,numberOfFiles,others',
                  True)
-    with open(projects) as samples:
-        for sample in samples:
-            sample = remove_next_line(sample)
-            count_extension_files(extensions, sample)
-            others = count_others(extensions)
-            output = concat_output(extensions) + str(others)
-            output_write(framework, measure, framework+","+sample+","+output, False)
+    samples = get_samples(projects)
+    for sample in samples:
+        count_extension_files(extensions, sample)
+        others = count_others(extensions)
+        output = concat_output(extensions) + str(others)
+        output_write(framework, measure, framework+","+sample+","+output, False)

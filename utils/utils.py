@@ -24,3 +24,12 @@ def find_paths(pattern, path):
             if fnmatch.fnmatch(name, pattern):
                 result.append(os.path.join(root, name))
     return result
+
+
+def get_samples(projects):
+    samples_output = []
+    with open(projects) as samples:
+        for sample in samples:
+            sample = remove_next_line(sample)
+            samples_output.append(sample)
+    return samples_output
