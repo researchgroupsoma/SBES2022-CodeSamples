@@ -1,18 +1,4 @@
-import fnmatch
-import os
-
-from utils import remove_next_line, output_write
-
-
-def find(pattern, path):
-    result = []
-    for root, dirs, files in os.walk(path):
-        if '.git' in root:
-            continue
-        for name in files:
-            if fnmatch.fnmatch(name, pattern):
-                result.append(os.path.join(root, name))
-    return result
+from utils import remove_next_line, output_write, find_paths
 
 
 def create_extension_files():
@@ -54,7 +40,7 @@ def count_others(extensions):
 def count_extension_files(extensions, sample):
     for extension in extensions:
         extensions[extension] = len(
-            find(extension, "/home/gabriel.menezes/Documentos/gabriel/pesquisamestrado/repositories/" + sample))
+            find_paths(extension, "/home/gabriel.menezes/Documentos/gabriel/pesquisamestrado/repositories/" + sample))
 
 
 def numberofextensionfile(framework, projects):

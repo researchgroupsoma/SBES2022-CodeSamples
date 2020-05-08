@@ -1,21 +1,10 @@
 import datetime
-import fnmatch
 import os
 import xml.etree.ElementTree
 from git import Repo
 import re
 from github import Github
-
-from utils import remove_next_line, output_write
-
-
-def find(pattern, path):
-    result = []
-    for root, dirs, files in os.walk(path):
-        for name in files:
-            if fnmatch.fnmatch(name, pattern):
-                result.append(os.path.join(root, name))
-    return result
+from utils import remove_next_line, output_write, find_paths
 
 
 def define_arquivo_de_configuracao(framework):
@@ -140,7 +129,7 @@ def delay(framework, projects, githubtoken):
     for sample in open(projects):
         sample = remove_next_line(sample)
         sample_path = path_dos_repositorios + "/" + sample
-        paths_configuration_file = find(configuration_file, sample_path)
+        paths_configuration_file = find_paths(configuration_file, sample_path)
         repository = Repo(sample_path)
         reversed_commits = get_commits(repository)
         for path in paths_configuration_file:

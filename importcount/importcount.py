@@ -1,16 +1,4 @@
-import os
-import fnmatch
-
-from utils import remove_next_line, output_write
-
-
-def find(pattern, path):
-    result = []
-    for root, dirs, files in os.walk(path):
-        for name in files:
-            if fnmatch.fnmatch(name, pattern):
-                result.append(os.path.join(root, name))
-    return result
+from utils import remove_next_line, output_write, find_paths
 
 
 def create_output(framework, imports, java_files_path, relative, sample):
@@ -66,7 +54,7 @@ def importcount(framework, projects):
     with open(projects) as samples:
         for sample in samples:
             sample = remove_next_line(sample)
-            java_files_path = find("*.java", "repositories/" + sample)
+            java_files_path = find_paths("*.java", "repositories/" + sample)
             imports = get_imports(framework, java_files_path)
             relative = calculate_relative(imports, java_files_path)
             output_write(framework, measure, create_output(framework, imports, java_files_path, relative, sample), False)
