@@ -6,6 +6,8 @@ from git import Repo
 import re
 from github import Github
 
+from utils import remove_next_line, output_write
+
 
 def find(pattern, path):
     result = []
@@ -96,16 +98,6 @@ def buscar_dados_de_lancamento_de_versoes(framework, githubtoken):
     return versoes
 
 
-def remove_next_line(sample):
-    return sample.replace('\n', '')
-
-
-def output_write(framework, text):
-    with open("delay/" + framework + "_delay_output.csv", "a") as f:
-        f.write(text + "\n")
-        f.close()
-
-
 def get_commits(repository):
     return list(reversed(list(repository.iter_commits())))
 
@@ -141,7 +133,8 @@ def create_output(current_version, delay_in_days, framework, framework_release_d
 
 def delay(framework, projects, githubtoken):
     path_dos_repositorios = 'repositories'
-    output_write(framework, "framework,path,current_version,next_version,framework_release_date (YYYY-DD-MM),sample_update_date (YYYY-DD-MM) ,delay_in_days")
+    measure = "delay"
+    output_write(framework, measure, "framework,path,current_version,next_version,framework_release_date (YYYY-DD-MM),sample_update_date (YYYY-DD-MM) ,delay_in_days", True)
     framework_release_data = buscar_dados_de_lancamento_de_versoes(framework, githubtoken)
     configuration_file = define_arquivo_de_configuracao(framework)
     for sample in open(projects):
@@ -161,6 +154,6 @@ def delay(framework, projects, githubtoken):
                     sample_update_date = get_commit_date(commit)
                     framework_release_date = framework_release_data[next_version]
                     delay_in_days = calculate_delay(framework_release_date, sample_update_date)
-                    output_write(framework, create_output(current_version, delay_in_days, framework, framework_release_date, next_version, path, sample_update_date))
+                    output_write(framework, measure, create_output(current_version, delay_in_days, framework, framework_release_date, next_version, path, sample_update_date), False)
                     current_version = next_version
         repository.git.checkout('master', '-f')

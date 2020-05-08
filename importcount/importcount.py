@@ -1,6 +1,8 @@
 import os
 import fnmatch
 
+from utils import remove_next_line, output_write
+
 
 def find(pattern, path):
     result = []
@@ -9,16 +11,6 @@ def find(pattern, path):
             if fnmatch.fnmatch(name, pattern):
                 result.append(os.path.join(root, name))
     return result
-
-
-def output_write(framework, text):
-    with open("importcount/" + framework + "_importcount_output.csv", "a") as f:
-        f.write(text + "\n")
-        f.close()
-
-
-def remove_next_line(sample):
-    return sample.replace('\n', '')
 
 
 def create_output(framework, imports, java_files_path, relative, sample):
@@ -69,11 +61,12 @@ def get_imports(framework, java_files_path):
 
 
 def importcount(framework, projects):
-    output_write(framework, 'framework,path,imports,javaFiles,imports/java_files')
+    measure = "importcount"
+    output_write(framework, measure, "framework,path,imports,javaFiles,imports/java_files", True)
     with open(projects) as samples:
         for sample in samples:
             sample = remove_next_line(sample)
             java_files_path = find("*.java", "repositories/" + sample)
             imports = get_imports(framework, java_files_path)
             relative = calculate_relative(imports, java_files_path)
-            output_write(framework, create_output(framework, imports, java_files_path, relative, sample))
+            output_write(framework, measure, create_output(framework, imports, java_files_path, relative, sample), False)

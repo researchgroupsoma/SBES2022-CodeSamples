@@ -1,15 +1,7 @@
 from github import Github, GithubException
 import datetime
 
-
-def remove_next_line(sample):
-    return sample.replace('\n', '')
-
-
-def output_write(framework, text):
-    with open("githubmetadata/" + framework + "_metadata_output.csv", "a") as f:
-        f.write(text + "\n")
-        f.close()
+from utils import output_write, remove_next_line
 
 
 def get_projects_count(repo):
@@ -81,13 +73,12 @@ def build_output(framework, repo, sample):
 
 
 def githubmetadata(framework, projects, githubtoken):
-    output_write(framework,
-                 "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,"
-                 "openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit")
+    measure = "githubmetadata"
+    output_write(framework, measure, "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit", True)
     g = Github(githubtoken)
     with open(projects) as samples:
         for sample in samples:
             sample = remove_next_line(sample)
             repo = g.get_repo(sample)
             output = build_output(framework, repo, sample)
-            output_write(framework, output)
+            output_write(framework, measure, output, False)

@@ -1,4 +1,6 @@
 from github import Github
+from utils import remove_next_line
+from utils import output_write
 
 
 def get_contributors(repository, githubtoken):
@@ -15,10 +17,6 @@ def get_repository_name(framework):
         return "aosp-mirror/platform_frameworks_base"
 
 
-def remove_next_line(sample):
-    return sample.replace('\n', '')
-
-
 def get_commom_contributors(framework_contributors, sample_contributors):
     commom = set()
     for framework_contributor in framework_contributors:
@@ -28,18 +26,12 @@ def get_commom_contributors(framework_contributors, sample_contributors):
     return commom
 
 
-def output_write(framework, text):
-    with open("maintainers/" + framework + "_maintainers_output.csv", "a") as f:
-        f.write(text + "\n")
-        f.close()
-
-
 def create_output(framework, path, framework_contributors, sample_contributors, commmom_contributors):
     return framework + "," + path + "," + str(framework_contributors.totalCount) + "," + str(sample_contributors.totalCount) + "," + str(len(commmom_contributors)) + "," + str(len(commmom_contributors) / framework_contributors.totalCount) + "," + str(len(commmom_contributors) / sample_contributors.totalCount)
 
 
 def mainteiners(framework, projects, githubtoken):
-    output_write(framework, "framework,path,framework_contributors,sample_contributors,commom_contributors,commom/framework,commom/sample")
+    output_write(framework, "maintainers", "framework,path,framework_contributors,sample_contributors,commom_contributors,commom/framework,commom/sample", True)
     framework_repository = get_repository_name(framework)
     framework_contributors = get_contributors(framework_repository, githubtoken)
     with open(projects) as samples:
@@ -47,4 +39,4 @@ def mainteiners(framework, projects, githubtoken):
             sample = remove_next_line(sample)
             sample_contributors = get_contributors(sample, githubtoken)
             commmom_contributors = get_commom_contributors(framework_contributors, sample_contributors)
-            output_write(framework, create_output(framework, sample, framework_contributors, sample_contributors, commmom_contributors))
+            output_write(framework, "maintainers", create_output(framework, sample, framework_contributors, sample_contributors, commmom_contributors), False)

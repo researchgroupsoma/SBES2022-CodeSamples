@@ -4,6 +4,8 @@ from git import Repo
 import xml.etree.ElementTree
 import re
 
+from utils import remove_next_line, output_write
+
 
 def find(pattern, path):
     result = []
@@ -14,16 +16,6 @@ def find(pattern, path):
             if fnmatch.fnmatch(name, pattern):
                 result.append(os.path.join(root, name))
     return result
-
-
-def remove_next_line(sample):
-    return sample.replace('\n', '')
-
-
-def output_write(framework, text):
-    with open("numberofextensionfile/" + framework + "_numberofextensionfile_output.csv", "a") as f:
-        f.write(text + "\n")
-        f.close()
 
 
 def find_config_file(framework):
@@ -79,17 +71,11 @@ def get_framework_version(framework, path, key):
         return get_android_version(path, key)
 
 
-def output_write(framework, text):
-    with open("currentframeworkversion/" + framework + "_current_version_output.csv", "a") as f:
-        f.write(text + "\n")
-        f.close()
-
-
 def write_output_header(configuration_file_key_words, framework):
     header = "framework,path"
     for config in configuration_file_key_words:
         header = header + "," + config
-    output_write(framework, header)
+    output_write(framework, "currentframeworkversion", header, True)
 
 
 def get_key_words(framework):
@@ -119,4 +105,4 @@ def currentframeworkversion(framework, projects):
                 for key, value in configuration_file_key_words.items():
                     version = get_framework_version(framework, path, key)
                     output = output + "," + version
-                output_write(framework, output)
+                output_write(framework, "currentframeworkversion", output, False)

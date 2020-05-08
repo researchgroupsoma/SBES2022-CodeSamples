@@ -1,9 +1,7 @@
 from github import Github
 import time
 
-
-def remove_next_line(sample):
-    return sample.replace('\n', '')
+from utils import remove_next_line
 
 
 def manage_limit_rate(g, repository):

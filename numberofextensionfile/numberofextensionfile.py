@@ -1,6 +1,8 @@
 import fnmatch
 import os
 
+from utils import remove_next_line, output_write
+
 
 def find(pattern, path):
     result = []
@@ -11,16 +13,6 @@ def find(pattern, path):
             if fnmatch.fnmatch(name, pattern):
                 result.append(os.path.join(root, name))
     return result
-
-
-def remove_next_line(sample):
-    return sample.replace('\n', '')
-
-
-def output_write(framework, text):
-    with open("numberofextensionfile/" + framework + "_numberofextensionfile_output.csv", "a") as f:
-        f.write(text + "\n")
-        f.close()
 
 
 def create_extension_files():
@@ -67,12 +59,14 @@ def count_extension_files(extensions, sample):
 
 def numberofextensionfile(framework, projects):
     extensions = create_extension_files()
-    output_write(framework,
-                 'framework,project,java,properties,jar,build.gradle,pom.xml,manifest.xml,xml,bat,md,adoc,README,yaml,txt,sh,travis.yml,yml,cmd,kt,json,numberOfFiles,others')
+    measure = "numberofextensionfile"
+    output_write(framework, measure,
+                 'framework,project,java,properties,jar,build.gradle,pom.xml,manifest.xml,xml,bat,md,adoc,README,yaml,txt,sh,travis.yml,yml,cmd,kt,json,numberOfFiles,others',
+                 True)
     with open(projects) as samples:
         for sample in samples:
             sample = remove_next_line(sample)
             count_extension_files(extensions, sample)
             others = count_others(extensions)
             output = concat_output(extensions) + str(others)
-            output_write(framework, framework+","+sample+","+output)
+            output_write(framework, measure, framework+","+sample+","+output, False)
