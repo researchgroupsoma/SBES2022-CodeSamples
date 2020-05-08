@@ -10,28 +10,30 @@ import maintainers
 
 
 def main(args):
-    if args.download:
+    if args.download or args.all:
         repositoriesdownload.repositoriesdownload(args.framework, args.projects)
-    if args.delay:
+    if args.delay or args.all:
         delay.delay(args.framework, args.projects, args.githubtoken)
-    if args.githubmetadata:
+    if args.githubmetadata or args.all:
         githubmetadata.githubmetadata(args.framework, args.projects, args.githubtoken)
-    if args.numberofextensionfile:
+    if args.numberofextensionfile or args.all:
         numberofextensionfile.numberofextensionfile(args.framework, args.projects)
-    if args.currentframeworkversion:
+    if args.currentframeworkversion or args.all:
         currentframeworkversion.currentframeworkversion(args.framework, args.projects)
-    if args.forksahead:
+    if args.forksahead or args.all:
         forksahead.forksahead(args.framework, args.projects, args.githubtoken)
-    if args.importcount:
+    if args.importcount or args.all:
         importcount.importcount(args.framework, args.projects)
-    if args.maintainers:
+    if args.maintainers or args.all:
         maintainers.mainteiners(args.framework, args.projects, args.githubtoken)
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
     parser.add_argument("-framework", "-f", type=str, required=True, help="framework")
     parser.add_argument("-projects", "-p", type=str, required=True, help="File's path that's contains the list of projects to analyze")
+    parser.add_argument("-all", "-a", action="store_true", required=False, help="Do you want to get all?")
     parser.add_argument("-githubtoken", "-t", type=str, required=True, help="https://github.com/settings/tokens")
     parser.add_argument("-download", "-d", action="store_true", required=False, help="Do you want to download the repositories?")
     parser.add_argument("-delay", "-e", action="store_true", required=False, help="Do you want to computed the delay?")
