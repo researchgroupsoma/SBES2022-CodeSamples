@@ -1,12 +1,14 @@
 from github import Github
-from utils import remove_next_line, get_samples
+from github.GithubException import IncompletableObject
+
+from utils import get_samples
 from utils import output_write
 
 
 def get_contributors(repository, githubtoken):
     g = Github(githubtoken)
     repo = g.get_repo(repository)
-    contributors = repo.get_contributors()
+    contributors = repo.get_contributors(anon="1")
     return contributors
 
 
@@ -21,8 +23,15 @@ def get_commom_contributors(framework_contributors, sample_contributors):
     commom = set()
     for framework_contributor in framework_contributors:
         for sample_contributor in sample_contributors:
-            if framework_contributor.login == sample_contributor.login or framework_contributor.name == sample_contributor.name or framework_contributor.email == sample_contributor.email:
-                commom.add(sample_contributor)
+            try:
+                if framework_contributor.name == sample_contributor.name:
+                    commom.add(sample_contributor)
+                elif framework_contributor.login == sample_contributor.login:
+                    commom.add(sample_contributor)
+                elif framework_contributor.email == sample_contributor.email:
+                    commom.add(sample_contributor)
+            except Exception:
+                continue
     return commom
 
 
@@ -34,6 +43,7 @@ def mainteiners(framework, projects, githubtoken):
     output_write(framework, "maintainers", "framework,path,framework_contributors,sample_contributors,commom_contributors,commom/framework,commom/sample", True)
     framework_repository = get_repository_name(framework)
     framework_contributors = get_contributors(framework_repository, githubtoken)
+    framework_contributors.totalCount
     samples = get_samples(projects)
     for sample in samples:
         sample_contributors = get_contributors(sample, githubtoken)
