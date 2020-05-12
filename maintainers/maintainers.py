@@ -24,11 +24,7 @@ def get_commom_contributors(framework_contributors, sample_contributors):
     for framework_contributor in framework_contributors:
         for sample_contributor in sample_contributors:
             try:
-                if framework_contributor.name == sample_contributor.name:
-                    commom.add(sample_contributor)
-                elif framework_contributor.login == sample_contributor.login:
-                    commom.add(sample_contributor)
-                elif framework_contributor.email == sample_contributor.email:
+                if framework_contributor.login == sample_contributor.login and framework_contributor.name == sample_contributor.name and framework_contributor.email == sample_contributor.email:
                     commom.add(sample_contributor)
             except Exception:
                 continue
