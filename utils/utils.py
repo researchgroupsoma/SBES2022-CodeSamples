@@ -1,5 +1,6 @@
 import fnmatch
 import os
+from github import Github
 
 
 def remove_next_line(sample):
@@ -33,3 +34,7 @@ def get_samples(projects):
             sample = remove_next_line(sample)
             samples_output.append(sample)
     return samples_output
+
+
+def get_py_github_instance(githubtoken):
+    return Github(githubtoken)

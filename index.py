@@ -7,6 +7,7 @@ import currentframeworkversion
 import forksahead
 import importcount
 import maintainers
+import file_extension_changes
 
 
 def main(args):
@@ -26,7 +27,8 @@ def main(args):
         importcount.importcount(args.framework, args.projects)
     if args.maintainers or args.all:
         maintainers.mainteiners(args.framework, args.projects, args.githubtoken)
-
+    if args.file_extension_changes or args.all:
+        file_extension_changes.file_extension_changes(args.framework, args.projects, args.githubtoken)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -43,6 +45,7 @@ if __name__ == '__main__':
     parser.add_argument("-forksahead", "-k", action="store_true", required=False, help="Do you want to get the number of forks and forks ahead?")
     parser.add_argument("-importcount", "-i", action="store_true", required=False, help="Do you want to get the number imports of the framework into sample?")
     parser.add_argument("-maintainers", "-m", action="store_true", required=False, help="Do you want to get maintainers stats?")
+    parser.add_argument("-file_extension_changes", "-o", action="store_true", required=False, help="Do you want to get metrics over the time?")
     args = parser.parse_args()
 
     main(args)
