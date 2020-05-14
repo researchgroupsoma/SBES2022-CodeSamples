@@ -29,6 +29,8 @@ def main(args):
         maintainers.mainteiners(args.framework, args.projects, args.githubtoken)
     if args.file_extension_changes or args.all:
         file_extension_changes.file_extension_changes(args.framework, args.projects, args.githubtoken)
+    if args.file_extension_changes_forks or args.all:
+        file_extension_changes.file_extension_changes_forks(args.framework, args.projects, args.githubtoken)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -46,6 +48,7 @@ if __name__ == '__main__':
     parser.add_argument("-importcount", "-i", action="store_true", required=False, help="Do you want to get the number imports of the framework into sample?")
     parser.add_argument("-maintainers", "-m", action="store_true", required=False, help="Do you want to get maintainers stats?")
     parser.add_argument("-file_extension_changes", "-o", action="store_true", required=False, help="Do you want to get metrics over the time?")
+    parser.add_argument("-file_extension_changes_forks", action="store_true", required=False, help="Do you want to get metrics of forks over the time?")
     args = parser.parse_args()
 
     main(args)
