@@ -1,6 +1,4 @@
 from github import Github
-from github.GithubException import IncompletableObject
-
 from utils import get_samples
 from utils import output_write
 

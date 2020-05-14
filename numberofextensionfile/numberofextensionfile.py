@@ -1,4 +1,4 @@
-from utils import remove_next_line, output_write, find_paths, get_samples
+from utils import output_write, find_paths, get_samples
 
 
 def create_extension_files():

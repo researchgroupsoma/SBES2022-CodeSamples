@@ -1,6 +1,7 @@
 import fnmatch
 import os
 from github import Github
+import time
 
 
 def remove_next_line(sample):
@@ -37,4 +38,14 @@ def get_samples(projects):
 
 
 def get_py_github_instance(githubtoken):
-    return Github(githubtoken)
+    global g
+    g = Github(githubtoken)
+    return g
+
+
+def manage_limit_rate():
+    if g.rate_limiting[0] < 10:
+        sleep_time = int((g.rate_limiting_resettime - time.time()))
+        sleep_time = sleep_time * 1.05
+        print("Sleeping for: " + str(sleep_time / 60) + " minutes")
+        time.sleep(sleep_time)

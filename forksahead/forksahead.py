@@ -1,21 +1,14 @@
-import time
 
 from github import Github
 
 from utils import get_samples, output_write
-
-
-def manage_limit_rate(g, repository):
-    if g.rate_limiting[0] < repository.forks_count:
-        sleep_time = int((g.rate_limiting_resettime - time.time()))
-        sleep_time = sleep_time * 1.05
-        print("Sleeping for: " + str(sleep_time / 60) + " minutes")
-        time.sleep(sleep_time)
+from utils.utils import manage_limit_rate
 
 
 def count_forks_ahead(framework, forks, repository):
     forks_ahead = 0
     for fork in forks:
+        manage_limit_rate()
         try:
             comparation = repository.compare(repository.default_branch, fork.owner.login + ":" + fork.default_branch)
             if comparation.ahead_by > 0:
@@ -39,7 +32,6 @@ def forksahead(framework, projects, githubtoken):
         print(sample)
         repository = g.get_repo(sample)
         print("Rate limiting: " + str(g.rate_limiting[0]))
-        manage_limit_rate(g, repository)
         forks = repository.get_forks()
         forks_ahead = count_forks_ahead(framework, forks, repository)
         number_of_forks = repository.forks_count
