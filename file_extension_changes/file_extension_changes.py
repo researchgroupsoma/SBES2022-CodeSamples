@@ -1,3 +1,5 @@
+from github import UnknownObjectException
+
 from utils import get_py_github_instance, output_write, get_samples
 
 
@@ -52,38 +54,58 @@ def write_header(configuration_files, extension_files, framework, measure):
     output_write(framework, "file_extension_changes", measure, output, True)
 
 
+def print_status_commit(commits, j, sample):
+    print("{0}% Completed commits from samples {1}".format((((j + 1) / commits.totalCount) * 100), sample))
+
+
+def print_status_samples(i, samples):
+    print("{0}% Completed samples".format(((i + 1) / len(samples)) * 100))
+
+
 def file_extension_changes(framework, projects, githubtoken):
+    print("Computing file extension changes")
     samples = get_samples(projects)
     g = get_py_github_instance(githubtoken)
-    for sample in samples:
-        configuration_files = create_configuration_dict()
-        extension_files = create_extension_dict()
+    configuration_files = create_configuration_dict()
+    extension_files = create_extension_dict()
+    write_header(configuration_files, extension_files, framework, "file_extension_changes")
+    for i, sample in enumerate(samples):
+        print_status_samples(i, samples)
         r = g.get_repo(sample)
         commits = r.get_commits()
-        for commit in commits:
+        for j, commit in enumerate(commits):
+            print_status_commit(commits, j, sample)
             for file in commit.files:
                 filename = get_file_name(file.filename)
                 calculate_configuration_files(configuration_files, filename)
                 calculate_extension_files(filename, extension_files)
-        write_header(configuration_files, extension_files, framework, "file_extension_changes")
         write_content(configuration_files, extension_files, framework, sample, "file_extension_changes")
 
 
 def file_extension_changes_forks(framework, projects, githubtoken):
     samples = get_samples(projects)
     g = get_py_github_instance(githubtoken)
-    for sample in samples:
-        configuration_files = create_configuration_dict()
-        extension_files = create_extension_dict()
+    configuration_files = create_configuration_dict()
+    extension_files = create_extension_dict()
+    write_header(configuration_files, extension_files, framework, "file_extension_changes_forks")
+    for i, sample in enumerate(samples):
+        print_status_samples(i, samples)
         r = g.get_repo(sample)
         forks = r.get_forks()
-        for fork in forks:
-            comparation = r.compare(r.default_branch, fork.owner.login + ":" + fork.default_branch)
+        for f, fork in enumerate(forks):
+            print("{0}% forks completed from sample {1}".format(((f+1)/forks.totalCount), sample))
+            try:
+                comparation = r.compare(r.default_branch, fork.owner.login + ":" + fork.default_branch)
+                if comparation.ahead_by < 1:
+                    print("Polou o " + fork.full_name)
+                    continue
+            except UnknownObjectException:
+                print("Deu ruim")
+                continue
             commits = comparation.commits
             for commit in commits:
                 for file in commit.files:
                     filename = get_file_name(file.filename)
                     calculate_configuration_files(configuration_files, filename)
                     calculate_extension_files(filename, extension_files)
-            write_header(configuration_files, extension_files, framework, "file_extension_changes_forks")
             write_content(configuration_files, extension_files, framework, fork.full_name, "file_extension_changes_forks")
