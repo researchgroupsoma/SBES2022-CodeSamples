@@ -1,6 +1,6 @@
 from github import UnknownObjectException
-
 from utils import get_py_github_instance, output_write, get_samples
+from utils.utils import manage_limit_rate
 
 
 def get_file_name(filename):
@@ -70,12 +70,15 @@ def file_extension_changes(framework, projects, githubtoken):
     extension_files = create_extension_dict()
     write_header(configuration_files, extension_files, framework, "file_extension_changes")
     for i, sample in enumerate(samples):
+        manage_limit_rate()
         print_status_samples(i, samples)
         r = g.get_repo(sample)
         commits = r.get_commits()
         for j, commit in enumerate(commits):
+            manage_limit_rate()
             print_status_commit(commits, j, sample)
             for file in commit.files:
+                manage_limit_rate()
                 filename = get_file_name(file.filename)
                 calculate_configuration_files(configuration_files, filename)
                 calculate_extension_files(filename, extension_files)
@@ -89,10 +92,12 @@ def file_extension_changes_forks(framework, projects, githubtoken):
     extension_files = create_extension_dict()
     write_header(configuration_files, extension_files, framework, "file_extension_changes_forks")
     for i, sample in enumerate(samples):
+        manage_limit_rate()
         print_status_samples(i, samples)
         r = g.get_repo(sample)
         forks = r.get_forks()
         for f, fork in enumerate(forks):
+            manage_limit_rate()
             print("{0}% forks completed from sample {1}".format(((f+1)/forks.totalCount), sample))
             try:
                 comparation = r.compare(r.default_branch, fork.owner.login + ":" + fork.default_branch)
@@ -104,7 +109,9 @@ def file_extension_changes_forks(framework, projects, githubtoken):
                 continue
             commits = comparation.commits
             for commit in commits:
+                manage_limit_rate()
                 for file in commit.files:
+                    manage_limit_rate()
                     filename = get_file_name(file.filename)
                     calculate_configuration_files(configuration_files, filename)
                     calculate_extension_files(filename, extension_files)
