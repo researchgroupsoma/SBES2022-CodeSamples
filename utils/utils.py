@@ -49,3 +49,7 @@ def manage_limit_rate():
         sleep_time = sleep_time * 1.05
         print("Sleeping for: " + str(sleep_time / 60) + " minutes")
         time.sleep(sleep_time)
+
+
+def print_status_samples(index, size):
+    print("{0}% Completed samples".format((index / size) * 100))

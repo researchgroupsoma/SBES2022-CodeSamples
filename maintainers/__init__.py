@@ -1,1 +1,1 @@
-from .maintainers import mainteiners
+from .maintainers import maintainers

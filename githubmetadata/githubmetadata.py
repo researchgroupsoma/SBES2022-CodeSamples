@@ -2,6 +2,7 @@ from github import Github, GithubException
 import datetime
 
 from utils import output_write, remove_next_line, get_samples
+from utils.utils import print_status_samples
 
 
 def get_projects_count(repo):
@@ -73,11 +74,13 @@ def create_output(framework, repo, sample):
 
 
 def githubmetadata(framework, projects, githubtoken):
+    print("Computing github metadata")
     measure = "githubmetadata"
     output_write(framework, measure, measure, "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit", True)
     g = Github(githubtoken)
     samples = get_samples(projects)
-    for sample in samples:
+    for index, sample in enumerate(samples):
+        print_status_samples(index+1, len(samples))
         repo = g.get_repo(sample)
         output = create_output(framework, repo, sample)
         output_write(framework, measure, measure, output, False)

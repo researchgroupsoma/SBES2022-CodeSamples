@@ -1,6 +1,7 @@
 from github import Github
 from utils import get_samples
 from utils import output_write
+from utils.utils import print_status_samples
 
 
 def get_contributors(repository, githubtoken):
@@ -33,13 +34,15 @@ def create_output(framework, path, framework_contributors, sample_contributors, 
     return framework + "," + path + "," + str(framework_contributors.totalCount) + "," + str(sample_contributors.totalCount) + "," + str(len(commmom_contributors)) + "," + str(len(commmom_contributors) / framework_contributors.totalCount) + "," + str(len(commmom_contributors) / sample_contributors.totalCount)
 
 
-def mainteiners(framework, projects, githubtoken):
+def maintainers(framework, projects, githubtoken):
+    print("Computing maintainers data")
     output_write(framework, "maintainers", "maintainers", "framework,path,framework_contributors,sample_contributors,commom_contributors,commom/framework,commom/sample", True)
     framework_repository = get_repository_name(framework)
     framework_contributors = get_contributors(framework_repository, githubtoken)
     framework_contributors.totalCount
     samples = get_samples(projects)
-    for sample in samples:
+    for index, sample in enumerate(samples):
+        print_status_samples(index+1, len(samples))
         sample_contributors = get_contributors(sample, githubtoken)
         commmom_contributors = get_commom_contributors(framework_contributors, sample_contributors)
         output_write(framework, "maintainers", "maintainers", create_output(framework, sample, framework_contributors, sample_contributors, commmom_contributors), False)

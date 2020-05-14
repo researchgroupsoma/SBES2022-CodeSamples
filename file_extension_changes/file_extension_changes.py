@@ -1,6 +1,6 @@
 from github import UnknownObjectException
 from utils import get_py_github_instance, output_write, get_samples
-from utils.utils import manage_limit_rate
+from utils.utils import manage_limit_rate, print_status_samples
 
 
 def get_file_name(filename):
@@ -58,10 +58,6 @@ def print_status_commit(commits, j, sample):
     print("{0}% Completed commits from samples {1}".format((((j + 1) / commits.totalCount) * 100), sample))
 
 
-def print_status_samples(i, samples):
-    print("{0}% Completed samples".format(((i + 1) / len(samples)) * 100))
-
-
 def file_extension_changes(framework, projects, githubtoken):
     print("Computing file extension changes")
     samples = get_samples(projects)
@@ -71,7 +67,7 @@ def file_extension_changes(framework, projects, githubtoken):
     write_header(configuration_files, extension_files, framework, "file_extension_changes")
     for i, sample in enumerate(samples):
         manage_limit_rate()
-        print_status_samples(i, samples)
+        print_status_samples(i+1, len(samples))
         r = g.get_repo(sample)
         commits = r.get_commits()
         for j, commit in enumerate(commits):

@@ -26,7 +26,7 @@ def main(args):
     if args.importcount or args.all:
         importcount.importcount(args.framework, args.projects)
     if args.maintainers or args.all:
-        maintainers.mainteiners(args.framework, args.projects, args.githubtoken)
+        maintainers.maintainers(args.framework, args.projects, args.githubtoken)
     if args.file_extension_changes or args.all:
         file_extension_changes.file_extension_changes(args.framework, args.projects, args.githubtoken)
     if args.file_extension_changes_forks or args.all:

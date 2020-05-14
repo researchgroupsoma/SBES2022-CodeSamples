@@ -2,6 +2,7 @@ from git import Repo
 import xml.etree.ElementTree
 import re
 from utils import remove_next_line, output_write, find_paths, get_samples
+from utils.utils import print_status_samples
 
 
 def find_config_file(framework):
@@ -77,11 +78,13 @@ def checkout_default_branch_repository(sample):
 
 
 def currentframeworkversion(framework, projects):
+    print("Computing current framework version")
     configuration_file = find_config_file(framework)
     configuration_file_key_words = get_key_words(framework)
     write_output_header(configuration_file_key_words, framework)
     samples = get_samples(projects)
-    for sample in samples:
+    for index, sample in enumerate(samples):
+        print_status_samples(index+1, len(samples))
         checkout_default_branch_repository(sample)
         configuration_files_paths = find_paths(configuration_file, "repositories/" + sample)
         for path in configuration_files_paths:

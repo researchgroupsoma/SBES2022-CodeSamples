@@ -5,6 +5,7 @@ from git import Repo
 import re
 from github import Github
 from utils import remove_next_line, output_write, find_paths, get_samples
+from utils.utils import print_status_samples
 
 
 def define_arquivo_de_configuracao(framework):
@@ -121,13 +122,15 @@ def create_output(current_version, delay_in_days, framework, framework_release_d
 
 
 def delay(framework, projects, githubtoken):
+    print("Computing delay to update")
     path_dos_repositorios = 'repositories'
     measure = "delay"
     output_write(framework, measure, measure, "framework,path,current_version,next_version,framework_release_date (YYYY-DD-MM),sample_update_date (YYYY-DD-MM) ,delay_in_days", True)
     framework_release_data = buscar_dados_de_lancamento_de_versoes(framework, githubtoken)
     configuration_file = define_arquivo_de_configuracao(framework)
     samples = get_samples(projects)
-    for sample in samples:
+    for index, sample in enumerate(samples):
+        print_status_samples(index+1, len(samples))
         sample_path = path_dos_repositorios + "/" + sample
         paths_configuration_file = find_paths(configuration_file, sample_path)
         repository = Repo(sample_path)
