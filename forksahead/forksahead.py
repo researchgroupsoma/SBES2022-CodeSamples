@@ -8,7 +8,7 @@ from utils.utils import manage_limit_rate, print_status_samples
 def count_forks_ahead(framework, forks, repository):
     forks_ahead = 0
     for fork in forks:
-        manage_limit_rate()
+        manage_limit_rate(forks.totalCount)
         try:
             comparation = repository.compare(repository.default_branch, fork.owner.login + ":" + fork.default_branch)
             if comparation.ahead_by > 0:
@@ -30,6 +30,7 @@ def forksahead(framework, projects, githubtoken):
     output_write(framework, "forksahead", "forks_ahead", "framework,path,number_of_forks,forks_ahead,ratio", True)
     samples = get_samples(projects)
     for index, sample in enumerate(samples):
+        manage_limit_rate(len(samples))
         print_status_samples(index+1, len(samples))
         repository = g.get_repo(sample)
         forks = repository.get_forks()
