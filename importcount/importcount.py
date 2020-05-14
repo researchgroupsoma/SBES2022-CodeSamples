@@ -50,10 +50,10 @@ def get_imports(framework, java_files_path):
 
 def importcount(framework, projects):
     measure = "importcount"
-    output_write(framework, measure, "framework,path,imports,javaFiles,imports/java_files", True)
+    output_write(framework, measure, measure, "framework,path,imports,javaFiles,imports/java_files", True)
     samples = get_samples(projects)
     for sample in samples:
         java_files_path = find_paths("*.java", "repositories/" + sample)
         imports = get_imports(framework, java_files_path)
         relative = calculate_relative(imports, java_files_path)
-        output_write(framework, measure, create_output(framework, imports, java_files_path, relative, sample), False)
+        output_write(framework, measure, measure, create_output(framework, imports, java_files_path, relative, sample), False)

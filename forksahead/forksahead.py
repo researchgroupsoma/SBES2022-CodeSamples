@@ -2,7 +2,7 @@ import time
 
 from github import Github
 
-from utils import get_samples
+from utils import get_samples, output_write
 
 
 def manage_limit_rate(g, repository):
@@ -13,37 +13,27 @@ def manage_limit_rate(g, repository):
         time.sleep(sleep_time)
 
 
-def output_write(framework, text, output_type):
-    with open("forksahead/" + framework + output_type + ".csv", "a") as f:
-        f.write(text + "\n")
-        f.close()
-
-
-def output_forks_by_sample_write(framework, text):
-    output_write(framework, text, "_forks_ahead_by_projects_output")
-
-
-def output_forks_write(framework, text):
-    output_write(framework, text, "_forks_ahead_output")
-
-
 def count_forks_ahead(framework, forks, repository):
     forks_ahead = 0
     for fork in forks:
         try:
             comparation = repository.compare(repository.default_branch, fork.owner.login + ":" + fork.default_branch)
             if comparation.ahead_by > 0:
-                output_forks_write(framework, framework+","+fork.full_name+","+str(comparation.ahead_by))
+                output_write(framework, "forksahead", "forks_ahead", framework+","+fork.full_name+","+str(comparation.ahead_by), False)
                 forks_ahead = forks_ahead + 1
         except:
             continue
     return forks_ahead
 
 
+def create_output(sample, framework, number_of_forks, forks_ahead, ratio_forks_ahead):
+    return framework + "," + sample + "," + str(number_of_forks) + "," + str(forks_ahead) + "," + str(ratio_forks_ahead)
+
+
 def forksahead(framework, projects, githubtoken):
     g = Github(githubtoken)
-    output_forks_by_sample_write(framework, "framework,path,number_of_forks,forks_ahead,ratio")
-    output_forks_write(framework, "framework,path,commits_ahead")
+    output_write(framework, "forksahead", "forks_ahead_by_projects", "framework,path,number_of_forks,forks_ahead,ratio", True)
+    output_write(framework, "forksahead", "forks_ahead", "framework,path,number_of_forks,forks_ahead,ratio", True)
     samples = get_samples(projects)
     for sample in samples:
         print(sample)
@@ -55,8 +45,4 @@ def forksahead(framework, projects, githubtoken):
         number_of_forks = repository.forks_count
         ratio_forks_ahead = forks_ahead / number_of_forks
         output = create_output(sample, framework, number_of_forks, forks_ahead, ratio_forks_ahead)
-        output_forks_by_sample_write(framework, output)
-
-
-def create_output(sample, framework, number_of_forks, forks_ahead, ratio_forks_ahead):
-    return framework + "," + sample + "," + str(number_of_forks) + "," + str(forks_ahead) + "," + str(ratio_forks_ahead)
+        output_write(framework, "forksahead", "forks_ahead_by_projects", output, False)

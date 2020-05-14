@@ -36,7 +36,7 @@ def create_output(framework, path, framework_contributors, sample_contributors, 
 
 
 def mainteiners(framework, projects, githubtoken):
-    output_write(framework, "maintainers", "framework,path,framework_contributors,sample_contributors,commom_contributors,commom/framework,commom/sample", True)
+    output_write(framework, "maintainers", "maintainers", "framework,path,framework_contributors,sample_contributors,commom_contributors,commom/framework,commom/sample", True)
     framework_repository = get_repository_name(framework)
     framework_contributors = get_contributors(framework_repository, githubtoken)
     framework_contributors.totalCount
@@ -44,4 +44,4 @@ def mainteiners(framework, projects, githubtoken):
     for sample in samples:
         sample_contributors = get_contributors(sample, githubtoken)
         commmom_contributors = get_commom_contributors(framework_contributors, sample_contributors)
-        output_write(framework, "maintainers", create_output(framework, sample, framework_contributors, sample_contributors, commmom_contributors), False)
+        output_write(framework, "maintainers", "maintainers", create_output(framework, sample, framework_contributors, sample_contributors, commmom_contributors), False)

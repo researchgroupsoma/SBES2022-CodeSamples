@@ -46,7 +46,7 @@ def count_extension_files(extensions, sample):
 def numberofextensionfile(framework, projects):
     extensions = create_extension_files()
     measure = "numberofextensionfile"
-    output_write(framework, measure,
+    output_write(framework, measure, measure,
                  'framework,project,java,properties,jar,build.gradle,pom.xml,manifest.xml,xml,bat,md,adoc,README,yaml,txt,sh,travis.yml,yml,cmd,kt,json,numberOfFiles,others',
                  True)
     samples = get_samples(projects)
@@ -54,4 +54,4 @@ def numberofextensionfile(framework, projects):
         count_extension_files(extensions, sample)
         others = count_others(extensions)
         output = concat_output(extensions) + str(others)
-        output_write(framework, measure, framework+","+sample+","+output, False)
+        output_write(framework, measure, measure, framework+","+sample+","+output, False)

@@ -74,10 +74,10 @@ def create_output(framework, repo, sample):
 
 def githubmetadata(framework, projects, githubtoken):
     measure = "githubmetadata"
-    output_write(framework, measure, "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit", True)
+    output_write(framework, measure, measure, "framework,repository,forks,stargazers,watchers,openedIssues,closedIssues,commits,openedPullRequests,closedPullRequests,updatedAt,projects,lifetime,lifetime per commit", True)
     g = Github(githubtoken)
     samples = get_samples(projects)
     for sample in samples:
         repo = g.get_repo(sample)
         output = create_output(framework, repo, sample)
-        output_write(framework, measure, output, False)
+        output_write(framework, measure, measure, output, False)
