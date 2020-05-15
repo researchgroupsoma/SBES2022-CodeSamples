@@ -89,7 +89,7 @@ def file_extension_changes_forks(framework, projects, githubtoken):
     write_header(configuration_files, extension_files, framework, "file_extension_changes_forks")
     for i, sample in enumerate(samples):
         manage_limit_rate(len(samples))
-        print_status_samples(i, samples)
+        print_status_samples(i, len(samples))
         r = g.get_repo(sample)
         forks = r.get_forks()
         for f, fork in enumerate(forks):
@@ -98,14 +98,12 @@ def file_extension_changes_forks(framework, projects, githubtoken):
             try:
                 comparation = r.compare(r.default_branch, fork.owner.login + ":" + fork.default_branch)
                 if comparation.ahead_by < 1:
-                    print("Polou o " + fork.full_name)
                     continue
-            except UnknownObjectException:
-                print("Deu ruim")
+            except:
                 continue
             commits = comparation.commits
             for commit in commits:
-                manage_limit_rate(commits.totalCount)
+                manage_limit_rate(len(commits))
                 for file in commit.files:
                     manage_limit_rate(len(commit.files))
                     filename = get_file_name(file.filename)
