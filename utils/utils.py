@@ -43,12 +43,13 @@ def get_py_github_instance(githubtoken):
     return g
 
 
-def manage_limit_rate():
-    if g.rate_limiting[0] < 10:
+def manage_limit_rate(value):
+    if g.rate_limiting[0] < value:
         sleep_time = int((g.rate_limiting_resettime - time.time()))
         sleep_time = sleep_time * 1.05
-        print("Sleeping for: " + str(sleep_time / 60) + " minutes")
-        time.sleep(sleep_time)
+        if sleep_time > 0:
+            print("Sleeping for: " + str(sleep_time / 60) + " minutes")
+            time.sleep(sleep_time)
 
 
 def print_status_samples(index, size):
