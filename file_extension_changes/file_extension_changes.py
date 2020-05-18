@@ -66,6 +66,8 @@ def file_extension_changes(framework, projects, githubtoken):
     extension_files = create_extension_dict()
     write_header(configuration_files, extension_files, framework, "file_extension_changes")
     for i, sample in enumerate(samples):
+        configuration_files = create_configuration_dict()
+        extension_files = create_extension_dict()
         manage_limit_rate(len(samples))
         print_status_samples(i+1, len(samples))
         r = g.get_repo(sample)
@@ -88,6 +90,8 @@ def file_extension_changes_forks(framework, projects, githubtoken):
     extension_files = create_extension_dict()
     write_header(configuration_files, extension_files, framework, "file_extension_changes_forks")
     for i, sample in enumerate(samples):
+        configuration_files = create_configuration_dict()
+        extension_files = create_extension_dict()
         manage_limit_rate(len(samples))
         print_status_samples(i, len(samples))
         r = g.get_repo(sample)
