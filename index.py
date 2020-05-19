@@ -29,7 +29,7 @@ def main(args):
     if args.maintainers or args.all:
         maintainers.maintainers(args.framework, args.projects, args.githubtoken)
     if args.file_extension_changes or args.all:
-        file_extension_changes.file_extension_changes(args.framework, args.projects, args.githubtoken)
+        file_extension_changes.file_extension_changes(args.framework, args.projects)
     if args.file_extension_changes_forks or args.all:
         file_extension_changes.file_extension_changes_forks(args.framework, args.projects, args.githubtoken)
     if args.understandmetrics or args.all:
