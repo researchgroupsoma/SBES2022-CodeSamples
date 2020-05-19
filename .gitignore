@@ -201,3 +201,5 @@ repositories
 
 /venv
 understandmetrics/understand
+/understandmetrics/spring-guides/
+/understandmetrics/googlesamples/
