@@ -1,0 +1,216 @@
+e303d1c;Merge pull request #7 from googlesamples/remove-content
+00e88e7;Removes all content (migrated to new repo). Check README.
+D	.google/packaging.yaml
+D	Application/build.gradle
+D	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+D	Application/src/main/java/com/example/android/interpolator/InterpolatorFragment.java
+D	Application/src/main/java/com/example/android/interpolator/MainActivity.java
+D	Application/src/main/res/drawable-hdpi/ic_launcher.png
+D	Application/src/main/res/drawable-hdpi/tile.9.png
+D	Application/src/main/res/drawable-mdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+D	Application/src/main/res/layout-w720dp/activity_main.xml
+D	Application/src/main/res/layout/activity_main.xml
+D	Application/src/main/res/layout/interpolator_fragment.xml
+D	Application/src/main/res/menu/main.xml
+D	Application/src/main/res/values-sw600dp/template-dimens.xml
+D	Application/src/main/res/values-sw600dp/template-styles.xml
+D	Application/src/main/res/values-v11/template-styles.xml
+D	Application/src/main/res/values-v21/base-colors.xml
+D	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values/base-strings.xml
+D	Application/src/main/res/values/color.xml
+D	Application/src/main/res/values/fragmentview_strings.xml
+D	Application/src/main/res/values/strings.xml
+D	Application/src/main/res/values/template-dimens.xml
+D	Application/src/main/res/values/template-styles.xml
+D	Application/tests/AndroidManifest.xml
+D	Application/tests/src/com/example/android/interpolator/tests/SampleTests.java
+D	CONTRIB.md
+D	CONTRIBUTING.md
+D	LICENSE
+D	build.gradle
+D	gradle/wrapper/gradle-wrapper.jar
+D	gradle/wrapper/gradle-wrapper.properties
+D	gradlew
+D	gradlew.bat
+D	packaging.yaml
+D	screenshots/after.png
+D	screenshots/before.png
+D	screenshots/icon-web.png
+D	settings.gradle
+
+06643f7;Update README.md
+M	README.md
+
+fb4adc7;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9bb2734;Auto-update
+M	Application/build.gradle
+M	README.md
+
+5f9337a;Auto-update
+M	Application/build.gradle
+
+dc5c0b3;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/interpolator/InterpolatorFragment.java
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+R100	after.png	screenshots/after.png
+R100	before.png	screenshots/before.png
+
+cbaf0a2;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+4915d48;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b685421;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+93a7f17;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a422dc0;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+d00f3b7;Auto-update
+M	Application/build.gradle
+M	README.md
+
+495a4a9;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+90b1988;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+b741195;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+e5dc8b0;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+bf8c223;Auto-update
+M	LICENSE
+D	NOTICE
+
+d76f919;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/interpolator/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+046c1eb;Auto-update
+M	Application/build.gradle
+M	README.md
+
+c9fb88d;Auto-update
+M	Application/build.gradle
+M	Application/tests/AndroidManifest.xml
+R097	Application/tests/src/com/example/android/interpolatorplayground/tests/SampleTests.java	Application/tests/src/com/example/android/interpolator/tests/SampleTests.java
+M	README.md
+
+a001031;Auto-update
+M	.google/packaging.yaml
+M	NOTICE
+M	README.md
+A	after.png
+A	before.png
+A	screenshots/icon-web.png
+
+605f1c3;Auto-update
+M	Application/build.gradle
+
+7e6cf8e;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+81007e7;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+dd6f36c;Initial Commit
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/interpolator/InterpolatorFragment.java
+A	Application/src/main/java/com/example/android/interpolator/MainActivity.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout-w720dp/activity_main.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/interpolator_fragment.xml
+A	Application/src/main/res/menu/main.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/color.xml
+A	Application/src/main/res/values/fragmentview_strings.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/tests/AndroidManifest.xml
+A	Application/tests/src/com/example/android/interpolatorplayground/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

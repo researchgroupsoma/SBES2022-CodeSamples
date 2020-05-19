@@ -1,0 +1,66 @@
+69d2215;Update README.md
+M	README.md
+
+c8772f5;Auto-update
+M	LICENSE
+M	NOTICE
+M	README.md
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+c4a1099;Auto-update
+M	README.md
+
+ab1491e;Auto-update
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ec2363a;Auto-update
+M	NOTICE
+
+2db1bc9;Auto-update
+M	README.md
+D	app/app.iml
+M	build.gradle
+
+c4a13ef;Auto-update
+M	app/build.gradle
+
+3a78cfc;Auto-update
+A	.google/packaging.yaml
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+A	README.md
+A	app/app.iml
+A	app/build.gradle
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/example/android/appshortcuts/Main.java
+A	app/src/main/java/com/example/android/appshortcuts/MyReceiver.java
+A	app/src/main/java/com/example/android/appshortcuts/ShortcutHelper.java
+A	app/src/main/java/com/example/android/appshortcuts/Utils.java
+A	app/src/main/res/drawable-nodpi/add.png
+A	app/src/main/res/drawable-nodpi/link.png
+A	app/src/main/res/layout/list_item.xml
+A	app/src/main/res/layout/main.xml
+A	app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+A	app/src/main/res/values-ja/strings.xml
+A	app/src/main/res/values/strings.xml
+A	app/src/main/res/xml/shortcuts.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/icon-web.png
+A	screenshots/screenshot1.png
+A	settings.gradle

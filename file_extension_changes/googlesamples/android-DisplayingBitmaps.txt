@@ -1,0 +1,239 @@
+9ab7808;Update README.md
+M	README.md
+
+2d93afd;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ff14c7e;Auto-update
+M	Application/build.gradle
+M	README.md
+
+5d75d88;Auto-update
+M	Application/build.gradle
+
+aaf6715;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+f345165;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+40cdd42;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a52c01a;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b947679;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9276038;Auto-update
+M	Application/src/main/java/com/example/android/displayingbitmaps/ui/ImageDetailFragment.java
+M	Application/src/main/java/com/example/android/displayingbitmaps/util/ImageWorker.java
+M	Application/src/main/res/layout/image_detail_fragment.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+b96b275;Auto-update
+M	Application/build.gradle
+M	README.md
+
+9e9a333;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+321ccc3;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+b678794;Auto-update
+M	Application/build.gradle
+
+795097a;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+0288206;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+3e57b82;Auto-update
+M	LICENSE
+D	NOTICE
+
+e0a96c7;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+5ef35d9;Auto-update
+M	Application/build.gradle
+M	README.md
+
+4d81323;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/AndroidManifest.xml
+M	Application/tests/src/com/example/android/displayingbitmaps/tests/SampleTests.java
+M	README.md
+
+36e7046;Auto-update
+M	NOTICE
+
+7dbbfd1;Auto-update
+M	Application/build.gradle
+
+660f603;Auto-update
+M	.google/packaging.yaml
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+A	screenshots/1-gridview.png
+A	screenshots/2-detail.png
+A	screenshots/icon-web.png
+
+4e48679;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+fb9af0d;Auto-update
+R072	DisplayingBitmapsSample/build.gradle	Application/build.gradle
+R096	DisplayingBitmapsSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/provider/Images.java	Application/src/main/java/com/example/android/displayingbitmaps/provider/Images.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/ImageDetailActivity.java	Application/src/main/java/com/example/android/displayingbitmaps/ui/ImageDetailActivity.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/ImageDetailFragment.java	Application/src/main/java/com/example/android/displayingbitmaps/ui/ImageDetailFragment.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/ImageGridActivity.java	Application/src/main/java/com/example/android/displayingbitmaps/ui/ImageGridActivity.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/ImageGridFragment.java	Application/src/main/java/com/example/android/displayingbitmaps/ui/ImageGridFragment.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/RecyclingImageView.java	Application/src/main/java/com/example/android/displayingbitmaps/ui/RecyclingImageView.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/AsyncTask.java	Application/src/main/java/com/example/android/displayingbitmaps/util/AsyncTask.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/DiskLruCache.java	Application/src/main/java/com/example/android/displayingbitmaps/util/DiskLruCache.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/ImageCache.java	Application/src/main/java/com/example/android/displayingbitmaps/util/ImageCache.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/ImageFetcher.java	Application/src/main/java/com/example/android/displayingbitmaps/util/ImageFetcher.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/ImageResizer.java	Application/src/main/java/com/example/android/displayingbitmaps/util/ImageResizer.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/ImageWorker.java	Application/src/main/java/com/example/android/displayingbitmaps/util/ImageWorker.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/RecyclingBitmapDrawable.java	Application/src/main/java/com/example/android/displayingbitmaps/util/RecyclingBitmapDrawable.java
+R100	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/Utils.java	Application/src/main/java/com/example/android/displayingbitmaps/util/Utils.java
+R100	DisplayingBitmapsSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	DisplayingBitmapsSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	DisplayingBitmapsSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	DisplayingBitmapsSample/src/main/res/drawable-nodpi/empty_photo.png	Application/src/main/res/drawable-nodpi/empty_photo.png
+R100	DisplayingBitmapsSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	DisplayingBitmapsSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	DisplayingBitmapsSample/src/main/res/drawable/photogrid_list_selector.xml	Application/src/main/res/drawable/photogrid_list_selector.xml
+R100	DisplayingBitmapsSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	DisplayingBitmapsSample/src/main/res/layout/image_detail_fragment.xml	Application/src/main/res/layout/image_detail_fragment.xml
+R100	DisplayingBitmapsSample/src/main/res/layout/image_detail_pager.xml	Application/src/main/res/layout/image_detail_pager.xml
+R100	DisplayingBitmapsSample/src/main/res/layout/image_grid_fragment.xml	Application/src/main/res/layout/image_grid_fragment.xml
+R100	DisplayingBitmapsSample/src/main/res/menu/main_menu.xml	Application/src/main/res/menu/main_menu.xml
+R100	DisplayingBitmapsSample/src/main/res/values-large/dimens.xml	Application/src/main/res/values-large/dimens.xml
+R100	DisplayingBitmapsSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	DisplayingBitmapsSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	DisplayingBitmapsSample/src/main/res/values-v11/styles.xml	Application/src/main/res/values-v11/styles.xml
+R100	DisplayingBitmapsSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	DisplayingBitmapsSample/src/main/res/values-xlarge/dimens.xml	Application/src/main/res/values-xlarge/dimens.xml
+R100	DisplayingBitmapsSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	DisplayingBitmapsSample/src/main/res/values/colors.xml	Application/src/main/res/values/colors.xml
+R100	DisplayingBitmapsSample/src/main/res/values/dimens.xml	Application/src/main/res/values/dimens.xml
+R100	DisplayingBitmapsSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	DisplayingBitmapsSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	DisplayingBitmapsSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	DisplayingBitmapsSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R095	DisplayingBitmapsSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	DisplayingBitmapsSample/tests/src/com/example/android/displayingbitmaps/tests/SampleTests.java	Application/tests/src/com/example/android/displayingbitmaps/tests/SampleTests.java
+M	settings.gradle
+
+65e38f0;Initial Commit
+A	ABOUT.txt
+A	CONTRIB.md
+A	DisplayingBitmapsSample/build.gradle
+A	DisplayingBitmapsSample/src/main/AndroidManifest.xml
+A	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/Log.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/LogView.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/provider/Images.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/ImageDetailActivity.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/ImageDetailFragment.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/ImageGridActivity.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/ImageGridFragment.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/ui/RecyclingImageView.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/AsyncTask.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/DiskLruCache.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/ImageCache.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/ImageFetcher.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/ImageResizer.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/ImageWorker.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/RecyclingBitmapDrawable.java
+A	DisplayingBitmapsSample/src/main/java/com/example/android/displayingbitmaps/util/Utils.java
+A	DisplayingBitmapsSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	DisplayingBitmapsSample/src/main/res/drawable-hdpi/tile.9.png
+A	DisplayingBitmapsSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	DisplayingBitmapsSample/src/main/res/drawable-nodpi/empty_photo.png
+A	DisplayingBitmapsSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	DisplayingBitmapsSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	DisplayingBitmapsSample/src/main/res/drawable/photogrid_list_selector.xml
+A	DisplayingBitmapsSample/src/main/res/layout/activity_main.xml
+A	DisplayingBitmapsSample/src/main/res/layout/image_detail_fragment.xml
+A	DisplayingBitmapsSample/src/main/res/layout/image_detail_pager.xml
+A	DisplayingBitmapsSample/src/main/res/layout/image_grid_fragment.xml
+A	DisplayingBitmapsSample/src/main/res/menu/main_menu.xml
+A	DisplayingBitmapsSample/src/main/res/values-large/dimens.xml
+A	DisplayingBitmapsSample/src/main/res/values-sw600dp/template-dimens.xml
+A	DisplayingBitmapsSample/src/main/res/values-sw600dp/template-styles.xml
+A	DisplayingBitmapsSample/src/main/res/values-v11/styles.xml
+A	DisplayingBitmapsSample/src/main/res/values-v11/template-styles.xml
+A	DisplayingBitmapsSample/src/main/res/values-xlarge/dimens.xml
+A	DisplayingBitmapsSample/src/main/res/values/base-strings.xml
+A	DisplayingBitmapsSample/src/main/res/values/colors.xml
+A	DisplayingBitmapsSample/src/main/res/values/dimens.xml
+A	DisplayingBitmapsSample/src/main/res/values/strings.xml
+A	DisplayingBitmapsSample/src/main/res/values/styles.xml
+A	DisplayingBitmapsSample/src/main/res/values/template-dimens.xml
+A	DisplayingBitmapsSample/src/main/res/values/template-styles.xml
+A	DisplayingBitmapsSample/tests/AndroidManifest.xml
+A	DisplayingBitmapsSample/tests/src/com/example/android/displayingbitmaps/tests/SampleTests.java
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

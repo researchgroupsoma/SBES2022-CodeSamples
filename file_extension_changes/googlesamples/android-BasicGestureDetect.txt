@@ -1,0 +1,197 @@
+0e60d5d;Update README.md
+M	README.md
+
+b740126;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+3d342c0;Auto-update
+M	Application/build.gradle
+M	README.md
+
+bf5d2a4;Auto-update
+M	Application/build.gradle
+
+ca2e98d;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+f19d4b3;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+14f9548;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+3c6473b;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+bb8a69a;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+069d9e7;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+efbe93d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+a47ccac;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+e61c753;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+
+19c4a35;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/basicgesturedetect/GestureListener.java
+M	Application/src/main/res/drawable-hdpi/ic_launcher.png
+M	Application/src/main/res/drawable-mdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+D	NOTICE
+M	README.md
+M	screenshots/icon-web.png
+
+e5d9fe4;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+970e2a2;Auto-update
+M	LICENSE
+D	NOTICE
+
+5214b90;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/basicgesturedetect/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	Application/src/main/res/values/strings.xml
+M	NOTICE
+M	README.md
+
+bc2205b;Auto-update
+M	Application/build.gradle
+M	README.md
+
+a088b18;Auto-update
+M	Application/build.gradle
+M	README.md
+
+c80daf3;Auto-update
+M	NOTICE
+
+42ba964;Auto-update
+M	Application/build.gradle
+
+e16eeb2;Auto-update
+M	.google/packaging.yaml
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+A	screenshots/1-main.png
+A	screenshots/icon-web.png
+
+4422445;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+268341d;Auto-update
+R072	BasicGestureDetectSample/build.gradle	Application/build.gradle
+R095	BasicGestureDetectSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	BasicGestureDetectSample/src/main/java/com/example/android/basicgesturedetect/BasicGestureDetectFragment.java	Application/src/main/java/com/example/android/basicgesturedetect/BasicGestureDetectFragment.java
+R100	BasicGestureDetectSample/src/main/java/com/example/android/basicgesturedetect/GestureListener.java	Application/src/main/java/com/example/android/basicgesturedetect/GestureListener.java
+R100	BasicGestureDetectSample/src/main/java/com/example/android/basicgesturedetect/MainActivity.java	Application/src/main/java/com/example/android/basicgesturedetect/MainActivity.java
+R100	BasicGestureDetectSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+R100	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	BasicGestureDetectSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	BasicGestureDetectSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	BasicGestureDetectSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	BasicGestureDetectSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	BasicGestureDetectSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	BasicGestureDetectSample/src/main/res/layout-sw600dp-land/activity_main.xml	Application/src/main/res/layout-sw600dp-land/activity_main.xml
+R100	BasicGestureDetectSample/src/main/res/layout-sw600dp/activity_main.xml	Application/src/main/res/layout-sw600dp/activity_main.xml
+R100	BasicGestureDetectSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	BasicGestureDetectSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	BasicGestureDetectSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	BasicGestureDetectSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	BasicGestureDetectSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	BasicGestureDetectSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	BasicGestureDetectSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	BasicGestureDetectSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	BasicGestureDetectSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R093	BasicGestureDetectSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	BasicGestureDetectSample/tests/src/com/example/android/basicgesturedetect/tests/SampleTests.java	Application/tests/src/com/example/android/basicgesturedetect/tests/SampleTests.java
+M	settings.gradle
+
+54d8772;Initial Commit
+A	BasicGestureDetectSample/build.gradle
+A	BasicGestureDetectSample/src/main/AndroidManifest.xml
+A	BasicGestureDetectSample/src/main/java/com/example/android/basicgesturedetect/BasicGestureDetectFragment.java
+A	BasicGestureDetectSample/src/main/java/com/example/android/basicgesturedetect/GestureListener.java
+A	BasicGestureDetectSample/src/main/java/com/example/android/basicgesturedetect/MainActivity.java
+A	BasicGestureDetectSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/Log.java
+A	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/LogView.java
+A	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	BasicGestureDetectSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	BasicGestureDetectSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicGestureDetectSample/src/main/res/drawable-hdpi/tile.9.png
+A	BasicGestureDetectSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicGestureDetectSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicGestureDetectSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicGestureDetectSample/src/main/res/layout-sw600dp-land/activity_main.xml
+A	BasicGestureDetectSample/src/main/res/layout-sw600dp/activity_main.xml
+A	BasicGestureDetectSample/src/main/res/layout/activity_main.xml
+A	BasicGestureDetectSample/src/main/res/menu/main.xml
+A	BasicGestureDetectSample/src/main/res/values-sw600dp/template-dimens.xml
+A	BasicGestureDetectSample/src/main/res/values-sw600dp/template-styles.xml
+A	BasicGestureDetectSample/src/main/res/values-v11/template-styles.xml
+A	BasicGestureDetectSample/src/main/res/values/base-strings.xml
+A	BasicGestureDetectSample/src/main/res/values/strings.xml
+A	BasicGestureDetectSample/src/main/res/values/template-dimens.xml
+A	BasicGestureDetectSample/src/main/res/values/template-styles.xml
+A	BasicGestureDetectSample/tests/AndroidManifest.xml
+A	BasicGestureDetectSample/tests/src/com/example/android/basicgesturedetect/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

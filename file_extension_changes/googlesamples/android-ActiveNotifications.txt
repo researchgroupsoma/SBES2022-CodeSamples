@@ -1,0 +1,148 @@
+8fc2376;Update README.md
+M	README.md
+
+487c327;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d36593a;Auto-update
+M	Application/build.gradle
+M	README.md
+
+056df5d;Auto-update
+M	Application/build.gradle
+
+2d13dcb;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+c64148d;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/activenotifications/ActiveNotificationsFragment.java
+M	Application/src/main/res/values/strings.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+12cee82;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values/base-strings.xml
+M	README.md
+
+dd4f681;Auto-update
+M	Application/build.gradle
+
+1e8d084;Auto-update
+M	Application/build.gradle
+
+b5c2895;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+R090	Application/src/main/java/com/example/android/activenotifications/ActiveNotificationActivity.java	Application/src/main/java/com/example/android/activenotifications/ActiveNotificationsActivity.java
+R097	Application/src/main/java/com/example/android/activenotifications/ActiveNotificationFragment.java	Application/src/main/java/com/example/android/activenotifications/ActiveNotificationsFragment.java
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+409557b;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/activenotifications/MainActivity.java
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	Application/src/main/res/values/template-styles.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+117705b;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/activenotifications/ActiveNotificationFragment.java
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	Application/src/main/res/values/strings.xml
+M	Application/src/main/res/values/template-styles.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+e97b32c;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+11f3881;Auto-update
+M	Application/build.gradle
+M	README.md
+
+51db96a;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a9c448f;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+3e688ac;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+M	README.md
+
+6ef4d3d;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/activenotifications/ActiveNotificationActivity.java
+A	Application/src/main/java/com/example/android/activenotifications/ActiveNotificationFragment.java
+A	Application/src/main/java/com/example/android/activenotifications/MainActivity.java
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/layout-w720dp/activity_main.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/fragment_notification_builder.xml
+A	Application/src/main/res/menu/main.xml
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-hdpi/ic_notification.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/ic_notification.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/ic_notification.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_notification.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_notification.png
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/fragmentview_strings.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/icon_web.png
+A	screenshots/screenshot01.png
+A	screenshots/screenshot02.png
+A	screenshots/screenshot03.png
+A	settings.gradle

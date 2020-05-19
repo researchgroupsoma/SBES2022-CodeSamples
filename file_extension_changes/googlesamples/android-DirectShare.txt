@@ -1,0 +1,103 @@
+1dadeba;Update README.md
+M	README.md
+
+dbfa336;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a8d526d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+896eca9;Auto-update
+M	Application/build.gradle
+
+7f7cf90;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+09d9adc;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+47673a2;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+7751efa;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+16571ef;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b3f4fd8;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+9fa9c49;Auto-update
+M	Application/build.gradle
+M	README.md
+
+b40a720;Auto-update
+M	Application/build.gradle
+A	Application/src/main/res/layout/select_contact.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+aff779a;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/directshare/Contact.java
+A	Application/src/main/java/com/example/android/directshare/ContactViewBinder.java
+A	Application/src/main/java/com/example/android/directshare/MainActivity.java
+A	Application/src/main/java/com/example/android/directshare/SampleChooserTargetService.java
+A	Application/src/main/java/com/example/android/directshare/SelectContactActivity.java
+A	Application/src/main/java/com/example/android/directshare/SendMessageActivity.java
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/layout/contact.xml
+A	Application/src/main/res/layout/main.xml
+A	Application/src/main/res/layout/send_message.xml
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-hdpi/logo_avatar.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/logo_avatar.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/logo_avatar.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/logo_avatar.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/logo_avatar.png
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/colors.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/styles.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/1-main.png
+A	screenshots/2-intent.png
+A	screenshots/3-message.png
+A	screenshots/icon-web.png
+A	settings.gradle

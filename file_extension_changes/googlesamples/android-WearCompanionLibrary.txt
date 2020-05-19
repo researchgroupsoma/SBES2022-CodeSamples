@@ -1,0 +1,91 @@
+b97c36b;Update README.md
+M	README.md
+
+a636b52;Fixing a typo
+M	WCL/src/main/java/com/google/devrel/wcl/WearManager.java
+
+3a095f0;Merge pull request #6 from BoD/pr/issue/5
+e0bd4ef;Resolves issue #5 by using a ChannelListener.
+M	WCL/src/main/java/com/google/devrel/wcl/WearManager.java
+
+9b6da8a;Merge pull request #1 from ursimon/initial-callbacks
+654ad27;Merge pull request #4 from BoD/pr/upgrade-play-services-8.4
+98a2004;Upgraded Google Play Services to 8.4.
+M	WCL/build.gradle
+
+bfb058d;added two callbacks onConnectedInitialCapabilitiesReceived() and onConnectedInitialNodesReceived() for receiving callback after onWearableApiConnected()
+M	WCL/src/main/java/com/google/devrel/wcl/WearManager.java
+M	WCL/src/main/java/com/google/devrel/wcl/callbacks/AbstractWearConsumer.java
+M	WCL/src/main/java/com/google/devrel/wcl/callbacks/WearConsumer.java
+
+086b0fd;- Updating to Play Services 8.3 - Updating a method to take a parameter for urgency
+M	README.md
+M	WCL/build.gradle
+M	WCL/src/main/java/com/google/devrel/wcl/WearManager.java
+M	WCL/src/main/res/values/strings.xml
+
+be1697f;Update README.md
+M	README.md
+
+097455a;Update LICENSE
+M	LICENSE
+
+099ac76;Initial Import
+A	CONTRIBUTING
+A	LICENSE
+A	README.md
+A	WCL/.gitignore
+A	WCL/build.gradle
+A	WCL/proguard-rules.pro
+A	WCL/src/main/AndroidManifest.xml
+A	WCL/src/main/java/com/google/devrel/wcl/ApplicationVisibilityDetector.java
+A	WCL/src/main/java/com/google/devrel/wcl/Constants.java
+A	WCL/src/main/java/com/google/devrel/wcl/Utils.java
+A	WCL/src/main/java/com/google/devrel/wcl/WclWearableListenerService.java
+A	WCL/src/main/java/com/google/devrel/wcl/WearManager.java
+A	WCL/src/main/java/com/google/devrel/wcl/callbacks/AbstractWearConsumer.java
+A	WCL/src/main/java/com/google/devrel/wcl/callbacks/WearConsumer.java
+A	WCL/src/main/java/com/google/devrel/wcl/connectivity/WearFileTransfer.java
+A	WCL/src/main/java/com/google/devrel/wcl/connectivity/WearHttpHelper.java
+A	WCL/src/main/java/com/google/devrel/wcl/filters/NearbyFilter.java
+A	WCL/src/main/java/com/google/devrel/wcl/filters/NodeSelectionFilter.java
+A	WCL/src/main/java/com/google/devrel/wcl/filters/SingleNodeFilter.java
+A	WCL/src/main/java/com/google/devrel/wcl/widgets/list/AbstractListViewActivityInternal.java
+A	WCL/src/main/java/com/google/devrel/wcl/widgets/list/AbstractWearableListViewActivity.java
+A	WCL/src/main/java/com/google/devrel/wcl/widgets/list/SelectableWearableListAdapter.java
+A	WCL/src/main/java/com/google/devrel/wcl/widgets/list/WclWearableListViewActivity.java
+A	WCL/src/main/java/com/google/devrel/wcl/widgets/list/WearableListConfig.java
+A	WCL/src/main/java/com/google/devrel/wcl/widgets/list/WearableListItemLayout.java
+A	WCL/src/main/java/com/google/devrel/wcl/widgets/recording/WclRecorderActivity.java
+A	WCL/src/main/java/com/google/devrel/wcl/widgets/recording/WclSoundManager.java
+A	WCL/src/main/res/drawable-hdpi/ic_check_white_18dp.png
+A	WCL/src/main/res/drawable-hdpi/ic_mic_white_96dp.png
+A	WCL/src/main/res/drawable-mdpi/ic_check_white_18dp.png
+A	WCL/src/main/res/drawable-mdpi/ic_mic_white_96dp.png
+A	WCL/src/main/res/drawable-xhdpi/ic_check_white_18dp.png
+A	WCL/src/main/res/drawable-xhdpi/ic_mic_white_96dp.png
+A	WCL/src/main/res/drawable-xxhdpi/ic_check_white_18dp.png
+A	WCL/src/main/res/drawable-xxhdpi/ic_mic_white_96dp.png
+A	WCL/src/main/res/drawable-xxxhdpi/ic_mic_white_96dp.png
+A	WCL/src/main/res/drawable/wcl_list_default_checked_icon.xml
+A	WCL/src/main/res/drawable/wcl_voice_recorder_mic.xml
+A	WCL/src/main/res/layout/wcl_list_item.xml
+A	WCL/src/main/res/layout/wcl_recorder.xml
+A	WCL/src/main/res/layout/wcl_wearable_list_activity.xml
+A	WCL/src/main/res/layout/wcl_wearable_list_rect_activity.xml
+A	WCL/src/main/res/layout/wcl_wearable_list_round_activity.xml
+A	WCL/src/main/res/mipmap-hdpi/ic_launcher.png
+A	WCL/src/main/res/mipmap-mdpi/ic_launcher.png
+A	WCL/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	WCL/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	WCL/src/main/res/values/colors.xml
+A	WCL/src/main/res/values/strings.xml
+A	WCL/src/main/res/values/wcl_list.xml
+A	WearCompanionLibrary.pdf
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

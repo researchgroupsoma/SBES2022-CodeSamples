@@ -1,0 +1,237 @@
+e761e19;Merge pull request #13 from googlesamples/remove-content
+34ac098;Removes all content (migrated to new repo). Check README.
+D	.google/packaging.yaml
+D	Application/build.gradle
+D	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/activityscenetransitionbasic/DetailActivity.java
+D	Application/src/main/java/com/example/android/activityscenetransitionbasic/Item.java
+D	Application/src/main/java/com/example/android/activityscenetransitionbasic/MainActivity.java
+D	Application/src/main/java/com/example/android/activityscenetransitionbasic/SquareFrameLayout.java
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+D	Application/src/main/res/drawable-hdpi/ic_launcher.png
+D	Application/src/main/res/drawable-hdpi/tile.9.png
+D	Application/src/main/res/drawable-mdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+D	Application/src/main/res/layout/details.xml
+D	Application/src/main/res/layout/grid.xml
+D	Application/src/main/res/layout/grid_item.xml
+D	Application/src/main/res/transition/grid_detail_transition.xml
+D	Application/src/main/res/values-sw600dp/template-dimens.xml
+D	Application/src/main/res/values-sw600dp/template-styles.xml
+D	Application/src/main/res/values-v11/template-styles.xml
+D	Application/src/main/res/values-v21/base-colors.xml
+D	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/styles.xml
+D	Application/src/main/res/values/base-strings.xml
+D	Application/src/main/res/values/dimens.xml
+D	Application/src/main/res/values/strings.xml
+D	Application/src/main/res/values/template-dimens.xml
+D	Application/src/main/res/values/template-styles.xml
+D	Application/tests/AndroidManifest.xml
+D	Application/tests/src/com/example/android/activityscenetransitionbasic/tests/SampleTests.java
+D	CONTRIB.md
+D	CONTRIBUTING.md
+D	LICENSE
+D	build.gradle
+D	gradle/wrapper/gradle-wrapper.jar
+D	gradle/wrapper/gradle-wrapper.properties
+D	gradlew
+D	gradlew.bat
+D	packaging.yaml
+D	screenshots/1-main.png
+D	screenshots/2-transition.png
+D	screenshots/3-transition.png
+D	screenshots/4-detail.png
+D	screenshots/icon-web.png
+D	settings.gradle
+
+4296ab5;Update README.md
+M	README.md
+
+3aef70f;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1cbffed;Auto-update
+M	Application/build.gradle
+M	README.md
+
+6bc3dd2;Auto-update
+M	Application/build.gradle
+
+a7b7124;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+c5a7906;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+062b18f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+56cea95;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+483e62f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+52ba147;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+a45b89a;Auto-update
+M	Application/build.gradle
+M	README.md
+
+7d5ce28;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+e5275c6;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+9f6f1f2;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+cf9cd4a;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+f4d3bde;Auto-update
+M	LICENSE
+D	NOTICE
+
+532369e;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+ccfe84d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+58d0b4f;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/src/com/example/android/activityscenetransitionbasic/tests/SampleTests.java
+M	README.md
+
+78fa83b;Auto-update
+M	NOTICE
+
+8004776;Auto-update
+M	Application/build.gradle
+
+0ae6a39;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values/base-strings.xml
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+
+03463a0;Auto-update
+M	.google/packaging.yaml
+
+a8e9c44;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+D	Application/libs/volley.jar
+M	Application/src/main/java/com/example/android/activityscenetransitionbasic/DetailActivity.java
+D	Application/src/main/java/com/example/android/activityscenetransitionbasic/ImageMemoryCache.java
+M	Application/src/main/java/com/example/android/activityscenetransitionbasic/MainActivity.java
+M	Application/src/main/res/layout/details.xml
+M	Application/src/main/res/layout/grid_item.xml
+M	Application/src/main/res/transition/grid_detail_transition.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values-v21/styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+M	Application/src/main/res/values/strings.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+A	screenshots/1-main.png
+A	screenshots/2-transition.png
+A	screenshots/3-transition.png
+A	screenshots/4-detail.png
+A	screenshots/icon-web.png
+
+d67a19f;Auto-update
+M	Application/src/main/java/com/example/android/activityscenetransitionbasic/DetailActivity.java
+M	Application/src/main/java/com/example/android/activityscenetransitionbasic/MainActivity.java
+
+495da5f;Initial Commit
+A	Application/build.gradle
+A	Application/libs/volley.jar
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/activityscenetransitionbasic/DetailActivity.java
+A	Application/src/main/java/com/example/android/activityscenetransitionbasic/ImageMemoryCache.java
+A	Application/src/main/java/com/example/android/activityscenetransitionbasic/Item.java
+A	Application/src/main/java/com/example/android/activityscenetransitionbasic/MainActivity.java
+A	Application/src/main/java/com/example/android/activityscenetransitionbasic/SquareFrameLayout.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/details.xml
+A	Application/src/main/res/layout/grid.xml
+A	Application/src/main/res/layout/grid_item.xml
+A	Application/src/main/res/transition/grid_detail_transition.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/tests/AndroidManifest.xml
+A	Application/tests/src/com/example/android/activityscenetransitionbasic/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

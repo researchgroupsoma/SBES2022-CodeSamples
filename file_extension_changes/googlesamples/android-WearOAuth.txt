@@ -1,0 +1,58 @@
+96b2f2e;Merge pull request #5 from googlesamples/remove-content
+e44e641;"Removes all content (migrated to new repo). Check README."
+D	.gitignore
+
+149222a;Merge pull request #4 from googlesamples/remove
+a8b9a90;Removes all files for migration to github.com/android/wear-os.
+D	CONTRIBUTING.md
+D	LICENSE
+D	app/build.gradle
+D	app/proguard-rules.pro
+D	app/src/main/AndroidManifest.xml
+D	app/src/main/java/com/example/android/wearable/wear/wearoauth/WearOAuthActivity.java
+D	app/src/main/res/layout/layout.xml
+D	app/src/main/res/mipmap-hdpi/ic_launcher.png
+D	app/src/main/res/mipmap-mdpi/ic_launcher.png
+D	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+D	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+D	app/src/main/res/values/strings.xml
+D	build.gradle
+D	gradle.properties
+D	gradle/wrapper/gradle-wrapper.jar
+D	gradle/wrapper/gradle-wrapper.properties
+D	gradlew
+D	gradlew.bat
+D	settings.gradle
+
+2d83769;Update README.md
+M	README.md
+
+a010ab4;Updates WearOAuth sample to handle production wear 2.0.0 support library.
+M	app/build.gradle
+M	app/src/main/AndroidManifest.xml
+M	app/src/main/java/com/example/android/wearable/wear/wearoauth/WearOAuthActivity.java
+
+6249cfe;Adds Sumit's oauth sample to devrel repo for push live with FDP 4 preview.
+A	.gitignore
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	app/build.gradle
+A	app/proguard-rules.pro
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/example/android/wearable/wear/wearoauth/WearOAuthActivity.java
+A	app/src/main/res/layout/layout.xml
+A	app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle
+
+58c5853;Initial empty repository

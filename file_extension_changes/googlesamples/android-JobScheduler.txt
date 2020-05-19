@@ -1,0 +1,624 @@
+217d6a4;Update README.md
+M	README.md
+
+dcbd16f;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+A	kotlinApp/.google/packaging.yaml
+
+b7c726e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/CONTRIB.md
+A	kotlinApp/README.md
+A	kotlinApp/app/build.gradle
+A	kotlinApp/app/src/main/AndroidManifest.xml
+A	kotlinApp/app/src/main/java/com/example/android/jobscheduler/ActivityExtensions.kt
+A	kotlinApp/app/src/main/java/com/example/android/jobscheduler/Constants.kt
+A	kotlinApp/app/src/main/java/com/example/android/jobscheduler/IncomingMessageHandler.kt
+A	kotlinApp/app/src/main/java/com/example/android/jobscheduler/MainActivity.kt
+A	kotlinApp/app/src/main/java/com/example/android/jobscheduler/MyJobService.kt
+A	kotlinApp/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	kotlinApp/app/src/main/res/drawable-hdpi/tile.9.png
+A	kotlinApp/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	kotlinApp/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	kotlinApp/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	kotlinApp/app/src/main/res/layout/sample_main.xml
+A	kotlinApp/app/src/main/res/values-sw600dp/template-dimens.xml
+A	kotlinApp/app/src/main/res/values-sw600dp/template-styles.xml
+A	kotlinApp/app/src/main/res/values-v11/styles.xml
+A	kotlinApp/app/src/main/res/values-v11/template-styles.xml
+A	kotlinApp/app/src/main/res/values-v14/styles.xml
+A	kotlinApp/app/src/main/res/values-v21/base-template-styles.xml
+A	kotlinApp/app/src/main/res/values/base-strings.xml
+A	kotlinApp/app/src/main/res/values/color.xml
+A	kotlinApp/app/src/main/res/values/dimens.xml
+A	kotlinApp/app/src/main/res/values/strings.xml
+A	kotlinApp/app/src/main/res/values/styles.xml
+A	kotlinApp/app/src/main/res/values/template-dimens.xml
+A	kotlinApp/app/src/main/res/values/template-styles.xml
+A	kotlinApp/build.gradle
+A	kotlinApp/gradle/wrapper/gradle-wrapper.jar
+A	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/gradlew
+A	kotlinApp/gradlew.bat
+A	kotlinApp/packaging.yaml
+A	kotlinApp/settings.gradle
+
+6874e92;Auto-update
+M	Application/build.gradle
+M	README.md
+
+9ad44f8;Auto-update
+M	Application/build.gradle
+
+6318199;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+c2b3cb3;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/jobscheduler/MainActivity.java
+A	Application/src/main/java/com/example/android/jobscheduler/service/MyJobService.java
+D	Application/src/main/java/com/example/android/jobscheduler/service/TestJobService.java
+M	Application/src/main/res/layout/sample_main.xml
+M	Application/src/main/res/values/strings.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+43e55e0;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9032bc4;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+6543058;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+95277c5;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+dcb065a;Auto-update
+M	Application/build.gradle
+M	README.md
+
+8458e10;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+952489d;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+c90a889;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+1c58ca6;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+455ceb2;Auto-update
+M	LICENSE
+D	NOTICE
+
+698480a;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+c425fd5;Auto-update
+M	Application/build.gradle
+M	README.md
+
+817d4e7;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/AndroidManifest.xml
+M	Application/tests/src/com/example/android/jobscheduler/tests/SampleTests.java
+M	README.md
+
+239cb18;Auto-update
+M	NOTICE
+
+df648e1;Auto-update
+M	Application/build.gradle
+
+0b1eba1;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+c37579b;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1a6e0d4;Auto-update
+R072	JobSchedulerSample/build.gradle	Application/build.gradle
+R094	JobSchedulerSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	JobSchedulerSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	JobSchedulerSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	JobSchedulerSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	JobSchedulerSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	JobSchedulerSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	JobSchedulerSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R097	JobSchedulerSample/src/main/java/com/example/android/jobscheduler/MainActivity.java	Application/src/main/java/com/example/android/jobscheduler/MainActivity.java
+R100	JobSchedulerSample/src/main/java/com/example/android/jobscheduler/service/TestJobService.java	Application/src/main/java/com/example/android/jobscheduler/service/TestJobService.java
+R100	JobSchedulerSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	JobSchedulerSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	JobSchedulerSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	JobSchedulerSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	JobSchedulerSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	JobSchedulerSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	JobSchedulerSample/src/main/res/layout/sample_main.xml	Application/src/main/res/layout/sample_main.xml
+R100	JobSchedulerSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	JobSchedulerSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	JobSchedulerSample/src/main/res/values-v11/styles.xml	Application/src/main/res/values-v11/styles.xml
+R100	JobSchedulerSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+R100	JobSchedulerSample/src/main/res/values-v14/styles.xml	Application/src/main/res/values-v14/styles.xml
+R100	JobSchedulerSample/src/main/res/values-v21/template-styles.xml	Application/src/main/res/values-v21/template-styles.xml
+R099	JobSchedulerSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	JobSchedulerSample/src/main/res/values/color.xml	Application/src/main/res/values/color.xml
+R100	JobSchedulerSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	JobSchedulerSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	JobSchedulerSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	JobSchedulerSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R095	JobSchedulerSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	JobSchedulerSample/tests/src/com/example/android/jobscheduler/tests/SampleTests.java	Application/tests/src/com/example/android/jobscheduler/tests/SampleTests.java
+M	README.md
+A	README.txt
+M	settings.gradle
+
+53986bd;Update sample with latest changes from Android SDK
+D	.idea/.name
+D	.idea/compiler.xml
+D	.idea/copyright/profiles_settings.xml
+D	.idea/encodings.xml
+D	.idea/gradle.xml
+D	.idea/libraries/ant_1_9_2.xml
+D	.idea/libraries/ant_antlr_1_9_2.xml
+D	.idea/libraries/ant_launcher_1_9_2.xml
+D	.idea/libraries/antlr_2_7_7.xml
+D	.idea/libraries/asm_4_0.xml
+D	.idea/libraries/asm_all_5_0_BETA.xml
+D	.idea/libraries/bcpg_jdk15_1_46.xml
+D	.idea/libraries/bcprov_jdk15_1_46.xml
+D	.idea/libraries/bndlib_2_1_0.xml
+D	.idea/libraries/bsh_2_0b4.xml
+D	.idea/libraries/commons_cli_1_2.xml
+D	.idea/libraries/commons_codec_1_6.xml
+D	.idea/libraries/commons_collections_3_2_1.xml
+D	.idea/libraries/commons_io_1_4.xml
+D	.idea/libraries/commons_lang_2_6.xml
+D	.idea/libraries/core_3_1_1.xml
+D	.idea/libraries/freemarker_2_3_20.xml
+D	.idea/libraries/geronimo_annotation_1_0_spec_1_0.xml
+D	.idea/libraries/gradle_announce_1_10.xml
+D	.idea/libraries/gradle_antlr_1_10.xml
+D	.idea/libraries/gradle_base_services_1_10.xml
+D	.idea/libraries/gradle_base_services_groovy_1_10.xml
+D	.idea/libraries/gradle_build_comparison_1_10.xml
+D	.idea/libraries/gradle_build_init_1_10.xml
+D	.idea/libraries/gradle_cli_1_10.xml
+D	.idea/libraries/gradle_code_quality_1_10.xml
+D	.idea/libraries/gradle_core_1_10.xml
+D	.idea/libraries/gradle_core_impl_1_10.xml
+D	.idea/libraries/gradle_cpp_1_10.xml
+D	.idea/libraries/gradle_diagnostics_1_10.xml
+D	.idea/libraries/gradle_docs_1_10.xml
+D	.idea/libraries/gradle_ear_1_10.xml
+D	.idea/libraries/gradle_ide_1_10.xml
+D	.idea/libraries/gradle_ivy_1_10.xml
+D	.idea/libraries/gradle_jacoco_1_10.xml
+D	.idea/libraries/gradle_javascript_1_10.xml
+D	.idea/libraries/gradle_jetty_1_10.xml
+D	.idea/libraries/gradle_language_base_1_10.xml
+D	.idea/libraries/gradle_language_jvm_1_10.xml
+D	.idea/libraries/gradle_maven_1_10.xml
+D	.idea/libraries/gradle_messaging_1_10.xml
+D	.idea/libraries/gradle_native_1_10.xml
+D	.idea/libraries/gradle_osgi_1_10.xml
+D	.idea/libraries/gradle_plugins_1_10.xml
+D	.idea/libraries/gradle_publish_1_10.xml
+D	.idea/libraries/gradle_reporting_1_10.xml
+D	.idea/libraries/gradle_resources_1_10.xml
+D	.idea/libraries/gradle_scala_1_10.xml
+D	.idea/libraries/gradle_signing_1_10.xml
+D	.idea/libraries/gradle_sonar_1_10.xml
+D	.idea/libraries/gradle_tooling_api_1_10.xml
+D	.idea/libraries/gradle_wrapper_1_10.xml
+D	.idea/libraries/groovy_all_1_8_6.xml
+D	.idea/libraries/gson_2_2_1.xml
+D	.idea/libraries/guava_jdk5_14_0_1.xml
+D	.idea/libraries/hamcrest_core_1_3.xml
+D	.idea/libraries/httpclient_4_2_2.xml
+D	.idea/libraries/httpcore_4_2_2.xml
+D	.idea/libraries/ivy_2_2_0.xml
+D	.idea/libraries/jansi_1_2_1.xml
+D	.idea/libraries/jarjar_1_3.xml
+D	.idea/libraries/jarjar_aether_api_1_13_1.xml
+D	.idea/libraries/jarjar_aether_connector_wagon_1_13_1.xml
+D	.idea/libraries/jarjar_aether_impl_1_13_1.xml
+D	.idea/libraries/jarjar_aether_spi_1_13_1.xml
+D	.idea/libraries/jarjar_aether_util_1_13_1.xml
+D	.idea/libraries/jarjar_maven_aether_provider_3_0_4.xml
+D	.idea/libraries/jarjar_maven_artifact_3_0_4.xml
+D	.idea/libraries/jarjar_maven_compat_3_0_4.xml
+D	.idea/libraries/jarjar_maven_core_3_0_4.xml
+D	.idea/libraries/jarjar_maven_model_3_0_4.xml
+D	.idea/libraries/jarjar_maven_model_builder_3_0_4.xml
+D	.idea/libraries/jarjar_maven_plugin_api_3_0_4.xml
+D	.idea/libraries/jarjar_maven_repository_metadata_3_0_4.xml
+D	.idea/libraries/jarjar_maven_settings_3_0_4.xml
+D	.idea/libraries/jarjar_maven_settings_builder_3_0_4.xml
+D	.idea/libraries/jarjar_plexus_cipher_1_7.xml
+D	.idea/libraries/jarjar_plexus_classworlds_2_4.xml
+D	.idea/libraries/jarjar_plexus_component_annotations_1_5_5.xml
+D	.idea/libraries/jarjar_plexus_container_default_1_5_5.xml
+D	.idea/libraries/jarjar_plexus_interpolation_1_14.xml
+D	.idea/libraries/jarjar_plexus_sec_dispatcher_1_3.xml
+D	.idea/libraries/jarjar_plexus_utils_2_0_6.xml
+D	.idea/libraries/jarjar_wagon_http_2_4.xml
+D	.idea/libraries/jarjar_wagon_http_shared4_2_4.xml
+D	.idea/libraries/jarjar_wagon_provider_api_2_4.xml
+D	.idea/libraries/jatl_0_2_2.xml
+D	.idea/libraries/javax_inject_1.xml
+D	.idea/libraries/jcifs_1_3_17.xml
+D	.idea/libraries/jcip_annotations_1_0.xml
+D	.idea/libraries/jcl_over_slf4j_1_7_5.xml
+D	.idea/libraries/jcommander_1_12.xml
+D	.idea/libraries/jetty_6_1_25.xml
+D	.idea/libraries/jetty_annotations_6_1_25.xml
+D	.idea/libraries/jetty_naming_6_1_25.xml
+D	.idea/libraries/jetty_plus_6_1_25.xml
+D	.idea/libraries/jetty_util_6_1_25.xml
+D	.idea/libraries/jna_3_2_7.xml
+D	.idea/libraries/jna_posix_1_0_3.xml
+D	.idea/libraries/jsch_0_1_46.xml
+D	.idea/libraries/jsp_2_1_6_1_14.xml
+D	.idea/libraries/jsp_api_2_1_6_1_14.xml
+D	.idea/libraries/jul_to_slf4j_1_7_5.xml
+D	.idea/libraries/junit_4_11.xml
+D	.idea/libraries/kryo_2_20.xml
+D	.idea/libraries/log4j_over_slf4j_1_7_5.xml
+D	.idea/libraries/logback_classic_1_0_13.xml
+D	.idea/libraries/logback_core_1_0_13.xml
+D	.idea/libraries/maven_ant_tasks_2_1_3.xml
+D	.idea/libraries/minlog_1_2.xml
+D	.idea/libraries/native_platform_0_3_rc_2.xml
+D	.idea/libraries/native_platform_linux_amd64_0_3_rc_2.xml
+D	.idea/libraries/native_platform_linux_i386_0_3_rc_2.xml
+D	.idea/libraries/native_platform_osx_universal_0_3_rc_2.xml
+D	.idea/libraries/native_platform_windows_amd64_0_3_rc_2.xml
+D	.idea/libraries/native_platform_windows_i386_0_3_rc_2.xml
+D	.idea/libraries/nekohtml_1_9_14.xml
+D	.idea/libraries/objenesis_1_2.xml
+D	.idea/libraries/plexus_component_annotations_1_5_2.xml
+D	.idea/libraries/pmaven_common_0_8_20100325.xml
+D	.idea/libraries/pmaven_groovy_0_8_20100325.xml
+D	.idea/libraries/reflectasm_1_07_shaded.xml
+D	.idea/libraries/rhino_1_7R3.xml
+D	.idea/libraries/servlet_api_2_5_20081211.xml
+D	.idea/libraries/simple_4_1_21.xml
+D	.idea/libraries/slf4j_api_1_7_5.xml
+D	.idea/libraries/snakeyaml_1_6.xml
+D	.idea/libraries/sonar_batch_bootstrapper_2_9.xml
+D	.idea/libraries/sonar_runner_2_0.xml
+D	.idea/libraries/testng_6_3_1.xml
+D	.idea/libraries/xbean_reflect_3_4.xml
+D	.idea/libraries/xercesImpl_2_9_1.xml
+D	.idea/libraries/xml_apis_1_3_04.xml
+D	.idea/misc.xml
+D	.idea/modules.xml
+D	.idea/scopes/scope_settings.xml
+D	.idea/vcs.xml
+D	.idea/workspace.xml
+A	CONTRIB.md
+D	JobSchedulerSample/JobSchedulerSample.iml
+M	JobSchedulerSample/build.gradle
+D	JobSchedulerSample/build/generated/source/buildConfig/debug/com/example/android/jobscheduler/BuildConfig.java
+D	JobSchedulerSample/build/generated/source/r/debug/com/example/android/jobscheduler/R.java
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/Log.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogFragment$1.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogFragment.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogNode.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogView$1.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogView.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogWrapper.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/MessageOnlyLogFilter.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/BuildConfig.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/MainActivity$1.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/MainActivity.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$attr.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$color.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$dimen.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$drawable.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$id.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$layout.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$string.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$style.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R.class
+D	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/service/TestJobService.class
+D	JobSchedulerSample/build/intermediates/dex/debug/classes.dex
+D	JobSchedulerSample/build/intermediates/incremental/aidl/debug/dependency.store
+D	JobSchedulerSample/build/intermediates/incremental/mergeAssets/debug/merger.xml
+D	JobSchedulerSample/build/intermediates/incremental/mergeResources/debug/merger.xml
+D	JobSchedulerSample/build/intermediates/libs/JobSchedulerSample-debug.ap_
+D	JobSchedulerSample/build/intermediates/manifests/debug/AndroidManifest.xml
+D	JobSchedulerSample/build/intermediates/pre-dexed/debug/support-v13-19.1.0-8bb550a1ea8426f24c63a6254eb56dc4611a86d8.jar
+D	JobSchedulerSample/build/intermediates/pre-dexed/debug/support-v4-19.1.0-1bd09adae01d10f8f097a7c54535018843cfa550.jar
+D	JobSchedulerSample/build/intermediates/res/debug/drawable-hdpi-v4/ic_launcher.png
+D	JobSchedulerSample/build/intermediates/res/debug/drawable-hdpi-v4/tile.9.png
+D	JobSchedulerSample/build/intermediates/res/debug/drawable-mdpi-v4/ic_launcher.png
+D	JobSchedulerSample/build/intermediates/res/debug/drawable-xhdpi-v4/ic_launcher.png
+D	JobSchedulerSample/build/intermediates/res/debug/drawable-xxhdpi-v4/ic_launcher.png
+D	JobSchedulerSample/build/intermediates/res/debug/layout/activity_main.xml
+D	JobSchedulerSample/build/intermediates/res/debug/layout/sample_main.xml
+D	JobSchedulerSample/build/intermediates/res/debug/values-sw600dp-v13/values.xml
+D	JobSchedulerSample/build/intermediates/res/debug/values-v11/values.xml
+D	JobSchedulerSample/build/intermediates/res/debug/values-v14/values.xml
+D	JobSchedulerSample/build/intermediates/res/debug/values-v21/values.xml
+D	JobSchedulerSample/build/intermediates/res/debug/values/values.xml
+D	JobSchedulerSample/build/outputs/apk/JobSchedulerSample-debug-unaligned.apk
+D	JobSchedulerSample/build/outputs/apk/JobSchedulerSample-debug.apk
+A	LICENSE
+A	README.md
+D	README.txt
+D	build/intermediates/dex-cache/cache.xml
+M	gradle/wrapper/gradle-wrapper.properties
+A	packaging.yaml
+
+22b5dd7;Initial commit
+A	.idea/.name
+A	.idea/compiler.xml
+A	.idea/copyright/profiles_settings.xml
+A	.idea/encodings.xml
+A	.idea/gradle.xml
+A	.idea/libraries/ant_1_9_2.xml
+A	.idea/libraries/ant_antlr_1_9_2.xml
+A	.idea/libraries/ant_launcher_1_9_2.xml
+A	.idea/libraries/antlr_2_7_7.xml
+A	.idea/libraries/asm_4_0.xml
+A	.idea/libraries/asm_all_5_0_BETA.xml
+A	.idea/libraries/bcpg_jdk15_1_46.xml
+A	.idea/libraries/bcprov_jdk15_1_46.xml
+A	.idea/libraries/bndlib_2_1_0.xml
+A	.idea/libraries/bsh_2_0b4.xml
+A	.idea/libraries/commons_cli_1_2.xml
+A	.idea/libraries/commons_codec_1_6.xml
+A	.idea/libraries/commons_collections_3_2_1.xml
+A	.idea/libraries/commons_io_1_4.xml
+A	.idea/libraries/commons_lang_2_6.xml
+A	.idea/libraries/core_3_1_1.xml
+A	.idea/libraries/freemarker_2_3_20.xml
+A	.idea/libraries/geronimo_annotation_1_0_spec_1_0.xml
+A	.idea/libraries/gradle_announce_1_10.xml
+A	.idea/libraries/gradle_antlr_1_10.xml
+A	.idea/libraries/gradle_base_services_1_10.xml
+A	.idea/libraries/gradle_base_services_groovy_1_10.xml
+A	.idea/libraries/gradle_build_comparison_1_10.xml
+A	.idea/libraries/gradle_build_init_1_10.xml
+A	.idea/libraries/gradle_cli_1_10.xml
+A	.idea/libraries/gradle_code_quality_1_10.xml
+A	.idea/libraries/gradle_core_1_10.xml
+A	.idea/libraries/gradle_core_impl_1_10.xml
+A	.idea/libraries/gradle_cpp_1_10.xml
+A	.idea/libraries/gradle_diagnostics_1_10.xml
+A	.idea/libraries/gradle_docs_1_10.xml
+A	.idea/libraries/gradle_ear_1_10.xml
+A	.idea/libraries/gradle_ide_1_10.xml
+A	.idea/libraries/gradle_ivy_1_10.xml
+A	.idea/libraries/gradle_jacoco_1_10.xml
+A	.idea/libraries/gradle_javascript_1_10.xml
+A	.idea/libraries/gradle_jetty_1_10.xml
+A	.idea/libraries/gradle_language_base_1_10.xml
+A	.idea/libraries/gradle_language_jvm_1_10.xml
+A	.idea/libraries/gradle_maven_1_10.xml
+A	.idea/libraries/gradle_messaging_1_10.xml
+A	.idea/libraries/gradle_native_1_10.xml
+A	.idea/libraries/gradle_osgi_1_10.xml
+A	.idea/libraries/gradle_plugins_1_10.xml
+A	.idea/libraries/gradle_publish_1_10.xml
+A	.idea/libraries/gradle_reporting_1_10.xml
+A	.idea/libraries/gradle_resources_1_10.xml
+A	.idea/libraries/gradle_scala_1_10.xml
+A	.idea/libraries/gradle_signing_1_10.xml
+A	.idea/libraries/gradle_sonar_1_10.xml
+A	.idea/libraries/gradle_tooling_api_1_10.xml
+A	.idea/libraries/gradle_wrapper_1_10.xml
+A	.idea/libraries/groovy_all_1_8_6.xml
+A	.idea/libraries/gson_2_2_1.xml
+A	.idea/libraries/guava_jdk5_14_0_1.xml
+A	.idea/libraries/hamcrest_core_1_3.xml
+A	.idea/libraries/httpclient_4_2_2.xml
+A	.idea/libraries/httpcore_4_2_2.xml
+A	.idea/libraries/ivy_2_2_0.xml
+A	.idea/libraries/jansi_1_2_1.xml
+A	.idea/libraries/jarjar_1_3.xml
+A	.idea/libraries/jarjar_aether_api_1_13_1.xml
+A	.idea/libraries/jarjar_aether_connector_wagon_1_13_1.xml
+A	.idea/libraries/jarjar_aether_impl_1_13_1.xml
+A	.idea/libraries/jarjar_aether_spi_1_13_1.xml
+A	.idea/libraries/jarjar_aether_util_1_13_1.xml
+A	.idea/libraries/jarjar_maven_aether_provider_3_0_4.xml
+A	.idea/libraries/jarjar_maven_artifact_3_0_4.xml
+A	.idea/libraries/jarjar_maven_compat_3_0_4.xml
+A	.idea/libraries/jarjar_maven_core_3_0_4.xml
+A	.idea/libraries/jarjar_maven_model_3_0_4.xml
+A	.idea/libraries/jarjar_maven_model_builder_3_0_4.xml
+A	.idea/libraries/jarjar_maven_plugin_api_3_0_4.xml
+A	.idea/libraries/jarjar_maven_repository_metadata_3_0_4.xml
+A	.idea/libraries/jarjar_maven_settings_3_0_4.xml
+A	.idea/libraries/jarjar_maven_settings_builder_3_0_4.xml
+A	.idea/libraries/jarjar_plexus_cipher_1_7.xml
+A	.idea/libraries/jarjar_plexus_classworlds_2_4.xml
+A	.idea/libraries/jarjar_plexus_component_annotations_1_5_5.xml
+A	.idea/libraries/jarjar_plexus_container_default_1_5_5.xml
+A	.idea/libraries/jarjar_plexus_interpolation_1_14.xml
+A	.idea/libraries/jarjar_plexus_sec_dispatcher_1_3.xml
+A	.idea/libraries/jarjar_plexus_utils_2_0_6.xml
+A	.idea/libraries/jarjar_wagon_http_2_4.xml
+A	.idea/libraries/jarjar_wagon_http_shared4_2_4.xml
+A	.idea/libraries/jarjar_wagon_provider_api_2_4.xml
+A	.idea/libraries/jatl_0_2_2.xml
+A	.idea/libraries/javax_inject_1.xml
+A	.idea/libraries/jcifs_1_3_17.xml
+A	.idea/libraries/jcip_annotations_1_0.xml
+A	.idea/libraries/jcl_over_slf4j_1_7_5.xml
+A	.idea/libraries/jcommander_1_12.xml
+A	.idea/libraries/jetty_6_1_25.xml
+A	.idea/libraries/jetty_annotations_6_1_25.xml
+A	.idea/libraries/jetty_naming_6_1_25.xml
+A	.idea/libraries/jetty_plus_6_1_25.xml
+A	.idea/libraries/jetty_util_6_1_25.xml
+A	.idea/libraries/jna_3_2_7.xml
+A	.idea/libraries/jna_posix_1_0_3.xml
+A	.idea/libraries/jsch_0_1_46.xml
+A	.idea/libraries/jsp_2_1_6_1_14.xml
+A	.idea/libraries/jsp_api_2_1_6_1_14.xml
+A	.idea/libraries/jul_to_slf4j_1_7_5.xml
+A	.idea/libraries/junit_4_11.xml
+A	.idea/libraries/kryo_2_20.xml
+A	.idea/libraries/log4j_over_slf4j_1_7_5.xml
+A	.idea/libraries/logback_classic_1_0_13.xml
+A	.idea/libraries/logback_core_1_0_13.xml
+A	.idea/libraries/maven_ant_tasks_2_1_3.xml
+A	.idea/libraries/minlog_1_2.xml
+A	.idea/libraries/native_platform_0_3_rc_2.xml
+A	.idea/libraries/native_platform_linux_amd64_0_3_rc_2.xml
+A	.idea/libraries/native_platform_linux_i386_0_3_rc_2.xml
+A	.idea/libraries/native_platform_osx_universal_0_3_rc_2.xml
+A	.idea/libraries/native_platform_windows_amd64_0_3_rc_2.xml
+A	.idea/libraries/native_platform_windows_i386_0_3_rc_2.xml
+A	.idea/libraries/nekohtml_1_9_14.xml
+A	.idea/libraries/objenesis_1_2.xml
+A	.idea/libraries/plexus_component_annotations_1_5_2.xml
+A	.idea/libraries/pmaven_common_0_8_20100325.xml
+A	.idea/libraries/pmaven_groovy_0_8_20100325.xml
+A	.idea/libraries/reflectasm_1_07_shaded.xml
+A	.idea/libraries/rhino_1_7R3.xml
+A	.idea/libraries/servlet_api_2_5_20081211.xml
+A	.idea/libraries/simple_4_1_21.xml
+A	.idea/libraries/slf4j_api_1_7_5.xml
+A	.idea/libraries/snakeyaml_1_6.xml
+A	.idea/libraries/sonar_batch_bootstrapper_2_9.xml
+A	.idea/libraries/sonar_runner_2_0.xml
+A	.idea/libraries/testng_6_3_1.xml
+A	.idea/libraries/xbean_reflect_3_4.xml
+A	.idea/libraries/xercesImpl_2_9_1.xml
+A	.idea/libraries/xml_apis_1_3_04.xml
+A	.idea/misc.xml
+A	.idea/modules.xml
+A	.idea/scopes/scope_settings.xml
+A	.idea/vcs.xml
+A	.idea/workspace.xml
+A	JobSchedulerSample/JobSchedulerSample.iml
+A	JobSchedulerSample/build.gradle
+A	JobSchedulerSample/build/generated/source/buildConfig/debug/com/example/android/jobscheduler/BuildConfig.java
+A	JobSchedulerSample/build/generated/source/r/debug/com/example/android/jobscheduler/R.java
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/Log.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogFragment$1.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogFragment.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogNode.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogView$1.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogView.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/LogWrapper.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/common/logger/MessageOnlyLogFilter.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/BuildConfig.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/MainActivity$1.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/MainActivity.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$attr.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$color.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$dimen.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$drawable.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$id.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$layout.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$string.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R$style.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/R.class
+A	JobSchedulerSample/build/intermediates/classes/debug/com/example/android/jobscheduler/service/TestJobService.class
+A	JobSchedulerSample/build/intermediates/dex/debug/classes.dex
+A	JobSchedulerSample/build/intermediates/incremental/aidl/debug/dependency.store
+A	JobSchedulerSample/build/intermediates/incremental/mergeAssets/debug/merger.xml
+A	JobSchedulerSample/build/intermediates/incremental/mergeResources/debug/merger.xml
+A	JobSchedulerSample/build/intermediates/libs/JobSchedulerSample-debug.ap_
+A	JobSchedulerSample/build/intermediates/manifests/debug/AndroidManifest.xml
+A	JobSchedulerSample/build/intermediates/pre-dexed/debug/support-v13-19.1.0-8bb550a1ea8426f24c63a6254eb56dc4611a86d8.jar
+A	JobSchedulerSample/build/intermediates/pre-dexed/debug/support-v4-19.1.0-1bd09adae01d10f8f097a7c54535018843cfa550.jar
+A	JobSchedulerSample/build/intermediates/res/debug/drawable-hdpi-v4/ic_launcher.png
+A	JobSchedulerSample/build/intermediates/res/debug/drawable-hdpi-v4/tile.9.png
+A	JobSchedulerSample/build/intermediates/res/debug/drawable-mdpi-v4/ic_launcher.png
+A	JobSchedulerSample/build/intermediates/res/debug/drawable-xhdpi-v4/ic_launcher.png
+A	JobSchedulerSample/build/intermediates/res/debug/drawable-xxhdpi-v4/ic_launcher.png
+A	JobSchedulerSample/build/intermediates/res/debug/layout/activity_main.xml
+A	JobSchedulerSample/build/intermediates/res/debug/layout/sample_main.xml
+A	JobSchedulerSample/build/intermediates/res/debug/values-sw600dp-v13/values.xml
+A	JobSchedulerSample/build/intermediates/res/debug/values-v11/values.xml
+A	JobSchedulerSample/build/intermediates/res/debug/values-v14/values.xml
+A	JobSchedulerSample/build/intermediates/res/debug/values-v21/values.xml
+A	JobSchedulerSample/build/intermediates/res/debug/values/values.xml
+A	JobSchedulerSample/build/outputs/apk/JobSchedulerSample-debug-unaligned.apk
+A	JobSchedulerSample/build/outputs/apk/JobSchedulerSample-debug.apk
+A	JobSchedulerSample/src/main/AndroidManifest.xml
+A	JobSchedulerSample/src/main/java/com/example/android/common/logger/Log.java
+A	JobSchedulerSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	JobSchedulerSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	JobSchedulerSample/src/main/java/com/example/android/common/logger/LogView.java
+A	JobSchedulerSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	JobSchedulerSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	JobSchedulerSample/src/main/java/com/example/android/jobscheduler/MainActivity.java
+A	JobSchedulerSample/src/main/java/com/example/android/jobscheduler/service/TestJobService.java
+A	JobSchedulerSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	JobSchedulerSample/src/main/res/drawable-hdpi/tile.9.png
+A	JobSchedulerSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	JobSchedulerSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	JobSchedulerSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	JobSchedulerSample/src/main/res/layout/activity_main.xml
+A	JobSchedulerSample/src/main/res/layout/sample_main.xml
+A	JobSchedulerSample/src/main/res/values-sw600dp/template-dimens.xml
+A	JobSchedulerSample/src/main/res/values-sw600dp/template-styles.xml
+A	JobSchedulerSample/src/main/res/values-v11/styles.xml
+A	JobSchedulerSample/src/main/res/values-v11/template-styles.xml
+A	JobSchedulerSample/src/main/res/values-v14/styles.xml
+A	JobSchedulerSample/src/main/res/values-v21/template-styles.xml
+A	JobSchedulerSample/src/main/res/values/base-strings.xml
+A	JobSchedulerSample/src/main/res/values/color.xml
+A	JobSchedulerSample/src/main/res/values/strings.xml
+A	JobSchedulerSample/src/main/res/values/styles.xml
+A	JobSchedulerSample/src/main/res/values/template-dimens.xml
+A	JobSchedulerSample/src/main/res/values/template-styles.xml
+A	JobSchedulerSample/tests/AndroidManifest.xml
+A	JobSchedulerSample/tests/src/com/example/android/jobscheduler/tests/SampleTests.java
+A	README.txt
+A	build.gradle
+A	build/intermediates/dex-cache/cache.xml
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

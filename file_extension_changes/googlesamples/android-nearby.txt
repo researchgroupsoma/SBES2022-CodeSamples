@@ -1,0 +1,466 @@
+850c428;Create README.md
+A	README.md
+
+593d918;Merge pull request #76 from knjk04/refactor
+d5d7fc8;Merge branch 'master' into refactor
+0968900;undo @NonNull annotation additions
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/ConnectionsActivity.java
+
+bd80597;undo @NonNull annotation additions
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/ConnectionsActivity.java
+M	connections/walkietalkie/build.gradle
+
+3f40c36;undo formatting changes
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioPlayer.java
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioRecorder.java
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/ConnectionsActivity.java
+
+aecbbb6;fix permissions error & refactor
+M	connections/walkietalkie/app/build.gradle
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioPlayer.java
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioRecorder.java
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/ConnectionsActivity.java
+
+0bab74a;update gradle
+M	connections/walkietalkie/app/build.gradle
+M	connections/walkietalkie/build.gradle
+
+f93d65c;Add .gitignore, remove .DS_Store file
+A	.gitignore
+D	connections/.DS_Store
+
+168ad18;Fix compilation issues due to flavors and repository settings in gradle.
+A	connections/.DS_Store
+M	connections/walkietalkie/app/build.gradle
+M	connections/walkietalkie/build.gradle
+
+22a3e1a;Merge pull request #69 from knjk04/compile-to-implementation
+f0486d8;Update compile to implementation
+M	connections/README.md
+
+469882c;Merge pull request #67 from carlrobert-sonymobile/new-Pie
+456d88d;Migrate rockpaperscissors to Android Pie, androidx
+M	connections/rockpaperscissors/app/build.gradle
+M	connections/rockpaperscissors/app/src/main/java/com/google/location/nearby/apps/rockpaperscissors/CodenameGenerator.java
+M	connections/rockpaperscissors/app/src/main/java/com/google/location/nearby/apps/rockpaperscissors/MainActivity.java
+M	connections/rockpaperscissors/build.gradle
+M	connections/rockpaperscissors/gradle.properties
+M	connections/rockpaperscissors/gradle/wrapper/gradle-wrapper.properties
+
+31dfcd2;Update "status_connected" instructions to be more accurate (#57)
+9c82b47;Update "status_connected" instructions to be more accurate
+M	connections/walkietalkie/app/src/main/res/values/strings.xml
+
+e4ca2a2;Fix Error (#55)
+M	connections/walkietalkie/app/build.gradle
+
+2c35c6a;Fix build, add gitignore (#54)
+M	connections/rockpaperscissors/.gitignore
+D	connections/rockpaperscissors/.idea/compiler.xml
+D	connections/rockpaperscissors/.idea/copyright/profiles_settings.xml
+D	connections/rockpaperscissors/.idea/gradle.xml
+D	connections/rockpaperscissors/.idea/misc.xml
+D	connections/rockpaperscissors/.idea/modules.xml
+D	connections/rockpaperscissors/.idea/runConfigurations.xml
+D	connections/rockpaperscissors/.idea/vcs.xml
+M	connections/rockpaperscissors/app/build.gradle
+A	connections/walkietalkie/.gitignore
+M	connections/walkietalkie/app/build.gradle
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/ConnectionsActivity.java
+M	connections/walkietalkie/build.gradle
+
+e225a43;Update README.md
+M	connections/README.md
+
+ee7e0c9;Merge branch 'master' of https://github.com/googlesamples/android-nearby
+9213b35;Merge "Add rock paper scissors sample app for Nearby Connections"
+e80155e;Add rock paper scissors sample app for Nearby Connections
+A	connections/rockpaperscissors/.gitignore
+A	connections/rockpaperscissors/.idea/compiler.xml
+A	connections/rockpaperscissors/.idea/copyright/profiles_settings.xml
+A	connections/rockpaperscissors/.idea/gradle.xml
+A	connections/rockpaperscissors/.idea/misc.xml
+A	connections/rockpaperscissors/.idea/modules.xml
+A	connections/rockpaperscissors/.idea/runConfigurations.xml
+A	connections/rockpaperscissors/.idea/vcs.xml
+A	connections/rockpaperscissors/CONTRIBUTING.md
+A	connections/rockpaperscissors/LICENSE
+A	connections/rockpaperscissors/README.md
+A	connections/rockpaperscissors/app/.gitignore
+A	connections/rockpaperscissors/app/build.gradle
+A	connections/rockpaperscissors/app/proguard-rules.pro
+A	connections/rockpaperscissors/app/src/main/AndroidManifest.xml
+A	connections/rockpaperscissors/app/src/main/java/com/google/location/nearby/apps/rockpaperscissors/CodenameGenerator.java
+A	connections/rockpaperscissors/app/src/main/java/com/google/location/nearby/apps/rockpaperscissors/MainActivity.java
+A	connections/rockpaperscissors/app/src/main/res/color/toggle_tint.xml
+A	connections/rockpaperscissors/app/src/main/res/drawable/paper.xml
+A	connections/rockpaperscissors/app/src/main/res/drawable/rock.xml
+A	connections/rockpaperscissors/app/src/main/res/drawable/scissors.xml
+A	connections/rockpaperscissors/app/src/main/res/layout/activity_main.xml
+A	connections/rockpaperscissors/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	connections/rockpaperscissors/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	connections/rockpaperscissors/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	connections/rockpaperscissors/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	connections/rockpaperscissors/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	connections/rockpaperscissors/app/src/main/res/values/colors.xml
+A	connections/rockpaperscissors/app/src/main/res/values/strings.xml
+A	connections/rockpaperscissors/app/src/main/res/values/styles.xml
+A	connections/rockpaperscissors/build.gradle
+A	connections/rockpaperscissors/gradle.properties
+A	connections/rockpaperscissors/gradle/wrapper/gradle-wrapper.jar
+A	connections/rockpaperscissors/gradle/wrapper/gradle-wrapper.properties
+A	connections/rockpaperscissors/gradlew
+A	connections/rockpaperscissors/gradlew.bat
+A	connections/rockpaperscissors/settings.gradle
+
+d179893;Update the sample to get rid of GoogleApiClient
+A	connections/README.md
+M	connections/walkietalkie/app/build.gradle
+M	connections/walkietalkie/app/src/automatic/java/com/google/location/nearby/apps/walkietalkie/MainActivity.java
+M	connections/walkietalkie/app/src/automatic/res/mipmap-hdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/automatic/res/mipmap-mdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/automatic/res/mipmap-xhdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/automatic/res/mipmap-xxhdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/automatic/res/mipmap-xxxhdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/automatic/res/values/colors.xml
+M	connections/walkietalkie/app/src/automatic/res/values/strings.xml
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioBuffer.java
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioPlayer.java
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioRecorder.java
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/ConnectionsActivity.java
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/Constants.java
+M	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/GestureDetector.java
+M	connections/walkietalkie/app/src/main/res/layout/activity_main.xml
+M	connections/walkietalkie/app/src/main/res/values/colors.xml
+M	connections/walkietalkie/app/src/main/res/values/drawables.xml
+M	connections/walkietalkie/app/src/main/res/values/strings.xml
+M	connections/walkietalkie/app/src/main/res/values/styles.xml
+M	connections/walkietalkie/app/src/manual/java/com/google/location/nearby/apps/walkietalkie/MainActivity.java
+M	connections/walkietalkie/app/src/manual/res/mipmap-hdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/manual/res/mipmap-mdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/manual/res/mipmap-xhdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/manual/res/mipmap-xxhdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/manual/res/mipmap-xxxhdpi/ic_launcher.png
+M	connections/walkietalkie/app/src/manual/res/values/colors.xml
+M	connections/walkietalkie/app/src/manual/res/values/strings.xml
+
+877239d;Merge branch 'master' of https://github.com/googlesamples/android-nearby
+f82ae7e;Remove ConnectionsQuickstart. Move WalkieTalkie into /connections
+D	connections-quickstart/.gitignore
+D	connections-quickstart/LICENSE
+D	connections-quickstart/README.md
+D	connections-quickstart/app/build.gradle
+D	connections-quickstart/app/proguard-rules.pro
+D	connections-quickstart/app/src/main/AndroidManifest.xml
+D	connections-quickstart/app/src/main/java/com/google/example/connectionsquickstart/MainActivity.java
+D	connections-quickstart/app/src/main/java/com/google/example/connectionsquickstart/MyListDialog.java
+D	connections-quickstart/app/src/main/res/drawable-hdpi/ic_launcher.png
+D	connections-quickstart/app/src/main/res/drawable-mdpi/ic_launcher.png
+D	connections-quickstart/app/src/main/res/drawable-xhdpi/ic_launcher.png
+D	connections-quickstart/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+D	connections-quickstart/app/src/main/res/layout/activity_main.xml
+D	connections-quickstart/app/src/main/res/values-v21/styles.xml
+D	connections-quickstart/app/src/main/res/values-w820dp/dimens.xml
+D	connections-quickstart/app/src/main/res/values/dimens.xml
+D	connections-quickstart/app/src/main/res/values/strings.xml
+D	connections-quickstart/app/src/main/res/values/styles.xml
+D	connections-quickstart/build.gradle
+D	connections-quickstart/gradle.properties
+D	connections-quickstart/gradle/wrapper/gradle-wrapper.jar
+D	connections-quickstart/gradle/wrapper/gradle-wrapper.properties
+D	connections-quickstart/gradlew
+D	connections-quickstart/gradlew.bat
+R100	walkietalkie/CONTRIBUTING.md	connections/walkietalkie/CONTRIBUTING.md
+R100	walkietalkie/LICENSE	connections/walkietalkie/LICENSE
+R100	walkietalkie/README.md	connections/walkietalkie/README.md
+R100	connections-quickstart/app/.gitignore	connections/walkietalkie/app/.gitignore
+R100	walkietalkie/app/build.gradle	connections/walkietalkie/app/build.gradle
+R100	walkietalkie/app/src/automatic/java/com/google/location/nearby/apps/walkietalkie/MainActivity.java	connections/walkietalkie/app/src/automatic/java/com/google/location/nearby/apps/walkietalkie/MainActivity.java
+R100	walkietalkie/app/src/automatic/res/mipmap-hdpi/ic_launcher.png	connections/walkietalkie/app/src/automatic/res/mipmap-hdpi/ic_launcher.png
+R100	walkietalkie/app/src/automatic/res/mipmap-mdpi/ic_launcher.png	connections/walkietalkie/app/src/automatic/res/mipmap-mdpi/ic_launcher.png
+R100	walkietalkie/app/src/automatic/res/mipmap-xhdpi/ic_launcher.png	connections/walkietalkie/app/src/automatic/res/mipmap-xhdpi/ic_launcher.png
+R100	walkietalkie/app/src/automatic/res/mipmap-xxhdpi/ic_launcher.png	connections/walkietalkie/app/src/automatic/res/mipmap-xxhdpi/ic_launcher.png
+R100	walkietalkie/app/src/automatic/res/mipmap-xxxhdpi/ic_launcher.png	connections/walkietalkie/app/src/automatic/res/mipmap-xxxhdpi/ic_launcher.png
+R100	walkietalkie/app/src/automatic/res/values/colors.xml	connections/walkietalkie/app/src/automatic/res/values/colors.xml
+R100	walkietalkie/app/src/automatic/res/values/strings.xml	connections/walkietalkie/app/src/automatic/res/values/strings.xml
+R100	walkietalkie/app/src/main/AndroidManifest.xml	connections/walkietalkie/app/src/main/AndroidManifest.xml
+R100	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioBuffer.java	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioBuffer.java
+R100	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioPlayer.java	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioPlayer.java
+R100	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioRecorder.java	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioRecorder.java
+R100	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/ConnectionsActivity.java	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/ConnectionsActivity.java
+R100	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/Constants.java	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/Constants.java
+R100	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/GestureDetector.java	connections/walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/GestureDetector.java
+R100	walkietalkie/app/src/main/res/layout/activity_main.xml	connections/walkietalkie/app/src/main/res/layout/activity_main.xml
+R100	walkietalkie/app/src/main/res/values/colors.xml	connections/walkietalkie/app/src/main/res/values/colors.xml
+R100	walkietalkie/app/src/main/res/values/drawables.xml	connections/walkietalkie/app/src/main/res/values/drawables.xml
+R100	walkietalkie/app/src/main/res/values/strings.xml	connections/walkietalkie/app/src/main/res/values/strings.xml
+R100	walkietalkie/app/src/main/res/values/styles.xml	connections/walkietalkie/app/src/main/res/values/styles.xml
+R100	walkietalkie/app/src/manual/java/com/google/location/nearby/apps/walkietalkie/MainActivity.java	connections/walkietalkie/app/src/manual/java/com/google/location/nearby/apps/walkietalkie/MainActivity.java
+R100	walkietalkie/app/src/manual/res/mipmap-hdpi/ic_launcher.png	connections/walkietalkie/app/src/manual/res/mipmap-hdpi/ic_launcher.png
+R100	walkietalkie/app/src/manual/res/mipmap-mdpi/ic_launcher.png	connections/walkietalkie/app/src/manual/res/mipmap-mdpi/ic_launcher.png
+R100	walkietalkie/app/src/manual/res/mipmap-xhdpi/ic_launcher.png	connections/walkietalkie/app/src/manual/res/mipmap-xhdpi/ic_launcher.png
+R100	walkietalkie/app/src/manual/res/mipmap-xxhdpi/ic_launcher.png	connections/walkietalkie/app/src/manual/res/mipmap-xxhdpi/ic_launcher.png
+R100	walkietalkie/app/src/manual/res/mipmap-xxxhdpi/ic_launcher.png	connections/walkietalkie/app/src/manual/res/mipmap-xxxhdpi/ic_launcher.png
+R100	walkietalkie/app/src/manual/res/values/colors.xml	connections/walkietalkie/app/src/manual/res/values/colors.xml
+R100	walkietalkie/app/src/manual/res/values/strings.xml	connections/walkietalkie/app/src/manual/res/values/strings.xml
+R100	walkietalkie/build.gradle	connections/walkietalkie/build.gradle
+R100	walkietalkie/gradle.properties	connections/walkietalkie/gradle.properties
+R100	walkietalkie/gradle/wrapper/gradle-wrapper.jar	connections/walkietalkie/gradle/wrapper/gradle-wrapper.jar
+R100	walkietalkie/gradle/wrapper/gradle-wrapper.properties	connections/walkietalkie/gradle/wrapper/gradle-wrapper.properties
+R100	walkietalkie/gradlew	connections/walkietalkie/gradlew
+R100	walkietalkie/gradlew.bat	connections/walkietalkie/gradlew.bat
+R100	connections-quickstart/settings.gradle	connections/walkietalkie/settings.gradle
+D	walkietalkie/app/.gitignore
+D	walkietalkie/settings.gradle
+
+dd47b58;Merge remote-tracking branch 'goog/master' into github_master
+275d093;Add WalkieTalkie sample app for Nearby Connections
+A	walkietalkie/CONTRIBUTING.md
+A	walkietalkie/LICENSE
+A	walkietalkie/README.md
+A	walkietalkie/app/.gitignore
+A	walkietalkie/app/build.gradle
+A	walkietalkie/app/src/automatic/java/com/google/location/nearby/apps/walkietalkie/MainActivity.java
+A	walkietalkie/app/src/automatic/res/mipmap-hdpi/ic_launcher.png
+A	walkietalkie/app/src/automatic/res/mipmap-mdpi/ic_launcher.png
+A	walkietalkie/app/src/automatic/res/mipmap-xhdpi/ic_launcher.png
+A	walkietalkie/app/src/automatic/res/mipmap-xxhdpi/ic_launcher.png
+A	walkietalkie/app/src/automatic/res/mipmap-xxxhdpi/ic_launcher.png
+A	walkietalkie/app/src/automatic/res/values/colors.xml
+A	walkietalkie/app/src/automatic/res/values/strings.xml
+A	walkietalkie/app/src/main/AndroidManifest.xml
+A	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioBuffer.java
+A	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioPlayer.java
+A	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/AudioRecorder.java
+A	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/ConnectionsActivity.java
+A	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/Constants.java
+A	walkietalkie/app/src/main/java/com/google/location/nearby/apps/walkietalkie/GestureDetector.java
+A	walkietalkie/app/src/main/res/layout/activity_main.xml
+A	walkietalkie/app/src/main/res/values/colors.xml
+A	walkietalkie/app/src/main/res/values/drawables.xml
+A	walkietalkie/app/src/main/res/values/strings.xml
+A	walkietalkie/app/src/main/res/values/styles.xml
+A	walkietalkie/app/src/manual/java/com/google/location/nearby/apps/walkietalkie/MainActivity.java
+A	walkietalkie/app/src/manual/res/mipmap-hdpi/ic_launcher.png
+A	walkietalkie/app/src/manual/res/mipmap-mdpi/ic_launcher.png
+A	walkietalkie/app/src/manual/res/mipmap-xhdpi/ic_launcher.png
+A	walkietalkie/app/src/manual/res/mipmap-xxhdpi/ic_launcher.png
+A	walkietalkie/app/src/manual/res/mipmap-xxxhdpi/ic_launcher.png
+A	walkietalkie/app/src/manual/res/values/colors.xml
+A	walkietalkie/app/src/manual/res/values/strings.xml
+A	walkietalkie/build.gradle
+A	walkietalkie/gradle.properties
+A	walkietalkie/gradle/wrapper/gradle-wrapper.jar
+A	walkietalkie/gradle/wrapper/gradle-wrapper.properties
+A	walkietalkie/gradlew
+A	walkietalkie/gradlew.bat
+A	walkietalkie/settings.gradle
+
+ca226bd;Merge branch 'master' of https://github.com/googlesamples/android-nearby
+a1c019f;Updated foreground pub sub sample to 9.0.0
+M	messages/NearbyDevices/.gitignore
+M	messages/NearbyDevices/app/build.gradle
+D	messages/NearbyDevices/app/src/androidTest/java/com/google/android/gms/nearby/messages/samples/nearbydevices/ApplicationTest.java
+M	messages/NearbyDevices/app/src/main/AndroidManifest.xml
+D	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/Constants.java
+M	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/DeviceMessage.java
+M	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/MainActivity.java
+D	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/MainFragment.java
+D	messages/NearbyDevices/app/src/main/res/drawable-hdpi/ic_cancel.png
+D	messages/NearbyDevices/app/src/main/res/drawable-hdpi/ic_nearby.png
+D	messages/NearbyDevices/app/src/main/res/drawable-hdpi/ic_share.png
+D	messages/NearbyDevices/app/src/main/res/drawable-mdpi/ic_cancel.png
+D	messages/NearbyDevices/app/src/main/res/drawable-mdpi/ic_nearby.png
+D	messages/NearbyDevices/app/src/main/res/drawable-mdpi/ic_share.png
+D	messages/NearbyDevices/app/src/main/res/drawable-xhdpi/ic_cancel.png
+D	messages/NearbyDevices/app/src/main/res/drawable-xhdpi/ic_nearby.png
+D	messages/NearbyDevices/app/src/main/res/drawable-xhdpi/ic_share.png
+D	messages/NearbyDevices/app/src/main/res/drawable-xxhdpi/ic_cancel.png
+D	messages/NearbyDevices/app/src/main/res/drawable-xxhdpi/ic_nearby.png
+D	messages/NearbyDevices/app/src/main/res/drawable-xxhdpi/ic_share.png
+M	messages/NearbyDevices/app/src/main/res/layout/activity_main.xml
+D	messages/NearbyDevices/app/src/main/res/layout/fragment_main.xml
+D	messages/NearbyDevices/app/src/main/res/menu/menu_main.xml
+A	messages/NearbyDevices/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+M	messages/NearbyDevices/app/src/main/res/values-w820dp/dimens.xml
+M	messages/NearbyDevices/app/src/main/res/values/colors.xml
+M	messages/NearbyDevices/app/src/main/res/values/dimens.xml
+M	messages/NearbyDevices/app/src/main/res/values/strings.xml
+M	messages/NearbyDevices/app/src/main/res/values/styles.xml
+M	messages/NearbyDevices/build.gradle
+M	messages/NearbyDevices/gradle/wrapper/gradle-wrapper.jar
+M	messages/NearbyDevices/gradle/wrapper/gradle-wrapper.properties
+M	messages/NearbyDevices/gradlew
+
+5590a66;Merge branch 'master' of https://github.com/googlesamples/android-nearby
+49418dd;Added Nearby permission when building GoogleApiClient
+M	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/MainActivity.java
+
+b278b1e;Update Nearby + Beacons background subscribe sample.
+M	messages/NearbyBackgroundBeacons/README.md
+M	messages/NearbyBackgroundBeacons/app/build.gradle
+M	messages/NearbyBackgroundBeacons/app/src/main/AndroidManifest.xml
+M	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/BackgroundSubscribeIntentService.java
+D	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/Constants.java
+M	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/MainActivity.java
+D	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/MainActivityFragment.java
+M	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/Utils.java
+M	messages/NearbyBackgroundBeacons/app/src/main/res/layout/content_main.xml
+D	messages/NearbyBackgroundBeacons/app/src/main/res/layout/fragment_main.xml
+M	messages/NearbyBackgroundBeacons/app/src/main/res/values-v21/styles.xml
+M	messages/NearbyBackgroundBeacons/app/src/main/res/values-w820dp/dimens.xml
+M	messages/NearbyBackgroundBeacons/app/src/main/res/values/dimens.xml
+M	messages/NearbyBackgroundBeacons/app/src/main/res/values/strings.xml
+M	messages/NearbyBackgroundBeacons/app/src/main/res/values/styles.xml
+M	messages/NearbyBackgroundBeacons/build.gradle
+M	messages/NearbyBackgroundBeacons/gradle/wrapper/gradle-wrapper.properties
+
+d5c4f4b;Merge pull request #19 from flavius-mester/master
+6c77d2d;update google play services to 8.4 and fix the error: Attempting to perform a high-power operation from a non-Activity Context
+M	messages/NearbyDevices/app/build.gradle
+M	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/MainFragment.java
+
+265b11f;Merge branch 'master' of https://github.com/googlesamples/android-nearby
+721960b;Sample showing background scanning for beacons using Nearby.Messages.
+A	messages/NearbyBackgroundBeacons/.gitignore
+A	messages/NearbyBackgroundBeacons/CONTRIBUTING.md
+A	messages/NearbyBackgroundBeacons/LICENSE
+A	messages/NearbyBackgroundBeacons/README.md
+A	messages/NearbyBackgroundBeacons/app/.gitignore
+A	messages/NearbyBackgroundBeacons/app/build.gradle
+A	messages/NearbyBackgroundBeacons/app/proguard-rules.pro
+A	messages/NearbyBackgroundBeacons/app/src/main/AndroidManifest.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/BackgroundSubscribeIntentService.java
+A	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/Constants.java
+A	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/MainActivity.java
+A	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/MainActivityFragment.java
+A	messages/NearbyBackgroundBeacons/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbybackgroundbeacons/Utils.java
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-hdpi/ic_cancel.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-hdpi/ic_nearby.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-mdpi/ic_cancel.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-mdpi/ic_nearby.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-xhdpi/ic_cancel.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-xhdpi/ic_nearby.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-xxhdpi/ic_cancel.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-xxhdpi/ic_nearby.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-xxxhdpi/ic_cancel.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/drawable-xxxhdpi/ic_nearby.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/layout/activity_main.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/res/layout/content_main.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/res/layout/fragment_main.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/res/menu/menu_main.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	messages/NearbyBackgroundBeacons/app/src/main/res/values-v21/styles.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/res/values-w820dp/dimens.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/res/values/colors.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/res/values/dimens.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/res/values/strings.xml
+A	messages/NearbyBackgroundBeacons/app/src/main/res/values/styles.xml
+A	messages/NearbyBackgroundBeacons/build.gradle
+A	messages/NearbyBackgroundBeacons/gradle.properties
+A	messages/NearbyBackgroundBeacons/gradle/wrapper/gradle-wrapper.jar
+A	messages/NearbyBackgroundBeacons/gradle/wrapper/gradle-wrapper.properties
+A	messages/NearbyBackgroundBeacons/gradlew
+A	messages/NearbyBackgroundBeacons/gradlew.bat
+A	messages/NearbyBackgroundBeacons/settings.gradle
+
+48f6d0f;Merge branch 'master' of https://github.com/googlesamples/android-nearby
+f33530b;Using PublishCallback and SubscribeCallback.
+M	messages/NearbyDevices/app/build.gradle
+M	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/Constants.java
+M	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/MainFragment.java
+
+bd8d01a;Merge branch 'master' of https://github.com/googlesamples/android-nearby
+008bf68;Fixed ordered list in README
+M	messages/NearbyDevices/README.md
+
+610ca71;Merge pull request #1 from shailen/master
+5f59485;Adding Nearby.Message sample.
+A	messages/NearbyDevices/.gitignore
+A	messages/NearbyDevices/CONTRIBUTING.md
+A	messages/NearbyDevices/LICENSE
+A	messages/NearbyDevices/README.md
+A	messages/NearbyDevices/app/.gitignore
+A	messages/NearbyDevices/app/build.gradle
+A	messages/NearbyDevices/app/proguard-rules.pro
+A	messages/NearbyDevices/app/src/androidTest/java/com/google/android/gms/nearby/messages/samples/nearbydevices/ApplicationTest.java
+A	messages/NearbyDevices/app/src/main/AndroidManifest.xml
+A	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/Constants.java
+A	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/DeviceMessage.java
+A	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/MainActivity.java
+A	messages/NearbyDevices/app/src/main/java/com/google/android/gms/nearby/messages/samples/nearbydevices/MainFragment.java
+A	messages/NearbyDevices/app/src/main/res/drawable-hdpi/ic_cancel.png
+A	messages/NearbyDevices/app/src/main/res/drawable-hdpi/ic_nearby.png
+A	messages/NearbyDevices/app/src/main/res/drawable-hdpi/ic_share.png
+A	messages/NearbyDevices/app/src/main/res/drawable-mdpi/ic_cancel.png
+A	messages/NearbyDevices/app/src/main/res/drawable-mdpi/ic_nearby.png
+A	messages/NearbyDevices/app/src/main/res/drawable-mdpi/ic_share.png
+A	messages/NearbyDevices/app/src/main/res/drawable-xhdpi/ic_cancel.png
+A	messages/NearbyDevices/app/src/main/res/drawable-xhdpi/ic_nearby.png
+A	messages/NearbyDevices/app/src/main/res/drawable-xhdpi/ic_share.png
+A	messages/NearbyDevices/app/src/main/res/drawable-xxhdpi/ic_cancel.png
+A	messages/NearbyDevices/app/src/main/res/drawable-xxhdpi/ic_nearby.png
+A	messages/NearbyDevices/app/src/main/res/drawable-xxhdpi/ic_share.png
+A	messages/NearbyDevices/app/src/main/res/layout/activity_main.xml
+A	messages/NearbyDevices/app/src/main/res/layout/fragment_main.xml
+A	messages/NearbyDevices/app/src/main/res/menu/menu_main.xml
+A	messages/NearbyDevices/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	messages/NearbyDevices/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	messages/NearbyDevices/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	messages/NearbyDevices/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	messages/NearbyDevices/app/src/main/res/values-w820dp/dimens.xml
+A	messages/NearbyDevices/app/src/main/res/values/colors.xml
+A	messages/NearbyDevices/app/src/main/res/values/dimens.xml
+A	messages/NearbyDevices/app/src/main/res/values/strings.xml
+A	messages/NearbyDevices/app/src/main/res/values/styles.xml
+A	messages/NearbyDevices/build.gradle
+A	messages/NearbyDevices/gradle.properties
+A	messages/NearbyDevices/gradle/wrapper/gradle-wrapper.jar
+A	messages/NearbyDevices/gradle/wrapper/gradle-wrapper.properties
+A	messages/NearbyDevices/gradlew
+A	messages/NearbyDevices/gradlew.bat
+A	messages/NearbyDevices/settings.gradle
+
+0ed8d27;Fix list modification error
+M	connections-quickstart/app/src/main/java/com/google/example/connectionsquickstart/MyListDialog.java
+
+fe88e5b;Updating to 7.0.0 SDK
+M	connections-quickstart/app/build.gradle
+
+87df7b2;Google Play Services version update, comment fixes
+M	connections-quickstart/app/build.gradle
+M	connections-quickstart/app/src/main/java/com/google/example/connectionsquickstart/MainActivity.java
+
+ad1aab2;Initial Commit
+A	connections-quickstart/.gitignore
+A	connections-quickstart/LICENSE
+A	connections-quickstart/README.md
+A	connections-quickstart/app/.gitignore
+A	connections-quickstart/app/build.gradle
+A	connections-quickstart/app/proguard-rules.pro
+A	connections-quickstart/app/src/main/AndroidManifest.xml
+A	connections-quickstart/app/src/main/java/com/google/example/connectionsquickstart/MainActivity.java
+A	connections-quickstart/app/src/main/java/com/google/example/connectionsquickstart/MyListDialog.java
+A	connections-quickstart/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	connections-quickstart/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	connections-quickstart/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	connections-quickstart/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	connections-quickstart/app/src/main/res/layout/activity_main.xml
+A	connections-quickstart/app/src/main/res/values-v21/styles.xml
+A	connections-quickstart/app/src/main/res/values-w820dp/dimens.xml
+A	connections-quickstart/app/src/main/res/values/dimens.xml
+A	connections-quickstart/app/src/main/res/values/strings.xml
+A	connections-quickstart/app/src/main/res/values/styles.xml
+A	connections-quickstart/build.gradle
+A	connections-quickstart/gradle.properties
+A	connections-quickstart/gradle/wrapper/gradle-wrapper.jar
+A	connections-quickstart/gradle/wrapper/gradle-wrapper.properties
+A	connections-quickstart/gradlew
+A	connections-quickstart/gradlew.bat
+A	connections-quickstart/settings.gradle
+
+dc83688;Initial empty repository

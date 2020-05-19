@@ -1,0 +1,166 @@
+35ef118;Update README.md
+M	README.md
+
+1dc1105;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+3cf0194;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+f3b051f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+7d450be;Auto-update
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b6892d6;Auto-update
+M	Application/build.gradle
+M	README.md
+
+eea1038;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+f235767;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+807e61d;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+7261032;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+b484250;Auto-update
+M	LICENSE
+D	NOTICE
+
+8016d5d;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+e0f3ee5;Auto-update
+M	Application/build.gradle
+M	README.md
+
+a50f9ed;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/src/com/example/android/actionbarcompat/shareactionprovider/tests/SampleTests.java
+M	README.md
+
+648ecff;Auto-update
+M	NOTICE
+
+c94e7af;Auto-update
+M	Application/build.gradle
+
+cd2f500;Auto-update
+M	.google/packaging.yaml
+M	Application/src/main/java/com/example/android/actionbarcompat/shareactionprovider/MainActivity.java
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+A	screenshots/1-image.png
+A	screenshots/2-text.png
+A	screenshots/icon-web.png
+
+eb574b0;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+cf31323;Auto-update
+R073	ActionBarCompat-ShareActionProviderSample/build.gradle	Application/build.gradle
+R094	ActionBarCompat-ShareActionProviderSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/assets/photo_1.jpg	Application/src/main/assets/photo_1.jpg
+R100	ActionBarCompat-ShareActionProviderSample/src/main/assets/photo_2.jpg	Application/src/main/assets/photo_2.jpg
+R100	ActionBarCompat-ShareActionProviderSample/src/main/assets/photo_3.jpg	Application/src/main/assets/photo_3.jpg
+R100	ActionBarCompat-ShareActionProviderSample/src/main/java/com/example/android/actionbarcompat/shareactionprovider/MainActivity.java	Application/src/main/java/com/example/android/actionbarcompat/shareactionprovider/MainActivity.java
+R100	ActionBarCompat-ShareActionProviderSample/src/main/java/com/example/android/actionbarcompat/shareactionprovider/content/AssetProvider.java	Application/src/main/java/com/example/android/actionbarcompat/shareactionprovider/content/AssetProvider.java
+R100	ActionBarCompat-ShareActionProviderSample/src/main/java/com/example/android/actionbarcompat/shareactionprovider/content/ContentItem.java	Application/src/main/java/com/example/android/actionbarcompat/shareactionprovider/content/ContentItem.java
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/layout/item_image.xml	Application/src/main/res/layout/item_image.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/layout/item_text.xml	Application/src/main/res/layout/item_text.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/layout/sample_main.xml	Application/src/main/res/layout/sample_main.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/menu/main_menu.xml	Application/src/main/res/menu/main_menu.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	ActionBarCompat-ShareActionProviderSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R093	ActionBarCompat-ShareActionProviderSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	ActionBarCompat-ShareActionProviderSample/tests/src/com/example/android/actionbarcompat/shareactionprovider/tests/SampleTests.java	Application/tests/src/com/example/android/actionbarcompat/shareactionprovider/tests/SampleTests.java
+M	settings.gradle
+
+dad50db;Initial Commit
+A	ActionBarCompat-ShareActionProviderSample/build.gradle
+A	ActionBarCompat-ShareActionProviderSample/src/main/AndroidManifest.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/assets/photo_1.jpg
+A	ActionBarCompat-ShareActionProviderSample/src/main/assets/photo_2.jpg
+A	ActionBarCompat-ShareActionProviderSample/src/main/assets/photo_3.jpg
+A	ActionBarCompat-ShareActionProviderSample/src/main/java/com/example/android/actionbarcompat/shareactionprovider/MainActivity.java
+A	ActionBarCompat-ShareActionProviderSample/src/main/java/com/example/android/actionbarcompat/shareactionprovider/content/AssetProvider.java
+A	ActionBarCompat-ShareActionProviderSample/src/main/java/com/example/android/actionbarcompat/shareactionprovider/content/ContentItem.java
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-hdpi/tile.9.png
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/layout/activity_main.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/layout/item_image.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/layout/item_text.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/layout/sample_main.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/menu/main_menu.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/values-sw600dp/template-dimens.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/values-sw600dp/template-styles.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/values-v11/template-styles.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/values/base-strings.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/values/strings.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/values/template-dimens.xml
+A	ActionBarCompat-ShareActionProviderSample/src/main/res/values/template-styles.xml
+A	ActionBarCompat-ShareActionProviderSample/tests/AndroidManifest.xml
+A	ActionBarCompat-ShareActionProviderSample/tests/src/com/example/android/actionbarcompat/shareactionprovider/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

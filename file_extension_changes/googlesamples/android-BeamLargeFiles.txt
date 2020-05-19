@@ -1,0 +1,130 @@
+8c431f6;Update README.md
+M	README.md
+
+cb78bd8;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b30c3f8;Auto-update
+M	Application/build.gradle
+M	README.md
+
+1f9f4a2;Auto-update
+M	Application/build.gradle
+
+ec717a2;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+3896d5d;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+56d7013;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ad6ac48;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ebd0842;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+4858088;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+24fe872;Auto-update
+M	Application/build.gradle
+M	README.md
+
+a219280;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+2454da6;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+
+7425eb5;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+D	NOTICE
+M	README.md
+
+8716009;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+7fae439;Auto-update
+M	LICENSE
+D	NOTICE
+
+0515d7f;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/beamlargefiles/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+98c195c;Auto-update
+M	Application/build.gradle
+M	README.md
+
+7dc9536;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/assets/stargazer_droid.jpg
+A	Application/src/main/java/com/example/android/beamlargefiles/BeamLargeFilesFragment.java
+A	Application/src/main/java/com/example/android/beamlargefiles/MainActivity.java
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/assetprovider/AssetProvider.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout-sw600dp-land/activity_main.xml
+A	Application/src/main/res/layout-sw600dp/activity_main.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/menu/main.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/tests/AndroidManifest.xml
+A	Application/tests/src/com/example/android/beamlargefiles/tests/SampleTests.java
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

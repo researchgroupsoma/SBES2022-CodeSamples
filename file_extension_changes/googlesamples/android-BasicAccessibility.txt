@@ -1,0 +1,209 @@
+2e9933e;Update README.md
+M	README.md
+
+2d7fa9d;Fixed 'speach'  typo
+M	README.md
+
+685c32e;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b5ae2a6;Auto-update
+M	Application/build.gradle
+M	README.md
+
+9bbef12;Auto-update
+M	Application/build.gradle
+
+8f398c9;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+fb2f18f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b0294d2;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+66102cf;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+2591b05;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+e924114;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+d3acf3a;Auto-update
+M	Application/build.gradle
+M	README.md
+
+d983185;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d81bbce;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+a0c9e83;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+0e1072b;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+aa3f77e;Auto-update
+M	LICENSE
+D	NOTICE
+
+ce3f249;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+83e0d79;Auto-update
+M	Application/build.gradle
+M	README.md
+
+6f3c883;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/src/com/example/android/basicaccessibility/tests/SampleTests.java
+M	README.md
+
+9630911;Auto-update
+M	NOTICE
+
+71c24c0;Auto-update
+M	Application/build.gradle
+
+c38d6ce;Auto-update
+M	.google/packaging.yaml
+M	Application/src/main/res/drawable-hdpi/ic_launcher.png
+M	Application/src/main/res/drawable-mdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+A	screenshots/icon-web.png
+A	screenshots/main.png
+
+1c1e5d8;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8960190;Auto-update
+R071	BasicAccessibilitySample/build.gradle	Application/build.gradle
+R093	BasicAccessibilitySample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	BasicAccessibilitySample/src/main/java/com/example/android/basicaccessibility/DialView.java	Application/src/main/java/com/example/android/basicaccessibility/DialView.java
+R100	BasicAccessibilitySample/src/main/java/com/example/android/basicaccessibility/MainActivity.java	Application/src/main/java/com/example/android/basicaccessibility/MainActivity.java
+R100	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	BasicAccessibilitySample/src/main/res/drawable-hdpi/ic_action_discard.png	Application/src/main/res/drawable-hdpi/ic_action_discard.png
+R100	BasicAccessibilitySample/src/main/res/drawable-hdpi/ic_action_info.png	Application/src/main/res/drawable-hdpi/ic_action_info.png
+R100	BasicAccessibilitySample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	BasicAccessibilitySample/src/main/res/drawable-hdpi/partly_cloudy.png	Application/src/main/res/drawable-hdpi/partly_cloudy.png
+R100	BasicAccessibilitySample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	BasicAccessibilitySample/src/main/res/drawable-mdpi/ic_action_discard.png	Application/src/main/res/drawable-mdpi/ic_action_discard.png
+R100	BasicAccessibilitySample/src/main/res/drawable-mdpi/ic_action_info.png	Application/src/main/res/drawable-mdpi/ic_action_info.png
+R100	BasicAccessibilitySample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	BasicAccessibilitySample/src/main/res/drawable-xhdpi/ic_action_discard.png	Application/src/main/res/drawable-xhdpi/ic_action_discard.png
+R100	BasicAccessibilitySample/src/main/res/drawable-xhdpi/ic_action_info.png	Application/src/main/res/drawable-xhdpi/ic_action_info.png
+R100	BasicAccessibilitySample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	BasicAccessibilitySample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	BasicAccessibilitySample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	BasicAccessibilitySample/src/main/res/layout/sample_main.xml	Application/src/main/res/layout/sample_main.xml
+R100	BasicAccessibilitySample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	BasicAccessibilitySample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	BasicAccessibilitySample/src/main/res/values-sw720dp-land/dimens.xml	Application/src/main/res/values-sw720dp-land/dimens.xml
+R100	BasicAccessibilitySample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	BasicAccessibilitySample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	BasicAccessibilitySample/src/main/res/values/dimens.xml	Application/src/main/res/values/dimens.xml
+R100	BasicAccessibilitySample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	BasicAccessibilitySample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	BasicAccessibilitySample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R093	BasicAccessibilitySample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	BasicAccessibilitySample/tests/src/com/example/android/basicaccessibility/tests/SampleTests.java	Application/tests/src/com/example/android/basicaccessibility/tests/SampleTests.java
+M	settings.gradle
+
+b479555;Initial Commit
+A	BasicAccessibilitySample/build.gradle
+A	BasicAccessibilitySample/src/main/AndroidManifest.xml
+A	BasicAccessibilitySample/src/main/java/com/example/android/basicaccessibility/DialView.java
+A	BasicAccessibilitySample/src/main/java/com/example/android/basicaccessibility/MainActivity.java
+A	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/Log.java
+A	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/LogNode.java
+A	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/LogView.java
+A	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	BasicAccessibilitySample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	BasicAccessibilitySample/src/main/res/drawable-hdpi/ic_action_discard.png
+A	BasicAccessibilitySample/src/main/res/drawable-hdpi/ic_action_info.png
+A	BasicAccessibilitySample/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicAccessibilitySample/src/main/res/drawable-hdpi/partly_cloudy.png
+A	BasicAccessibilitySample/src/main/res/drawable-hdpi/tile.9.png
+A	BasicAccessibilitySample/src/main/res/drawable-mdpi/ic_action_discard.png
+A	BasicAccessibilitySample/src/main/res/drawable-mdpi/ic_action_info.png
+A	BasicAccessibilitySample/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicAccessibilitySample/src/main/res/drawable-xhdpi/ic_action_discard.png
+A	BasicAccessibilitySample/src/main/res/drawable-xhdpi/ic_action_info.png
+A	BasicAccessibilitySample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicAccessibilitySample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicAccessibilitySample/src/main/res/layout/activity_main.xml
+A	BasicAccessibilitySample/src/main/res/layout/sample_main.xml
+A	BasicAccessibilitySample/src/main/res/values-sw600dp/template-dimens.xml
+A	BasicAccessibilitySample/src/main/res/values-sw600dp/template-styles.xml
+A	BasicAccessibilitySample/src/main/res/values-sw720dp-land/dimens.xml
+A	BasicAccessibilitySample/src/main/res/values-v11/template-styles.xml
+A	BasicAccessibilitySample/src/main/res/values/base-strings.xml
+A	BasicAccessibilitySample/src/main/res/values/dimens.xml
+A	BasicAccessibilitySample/src/main/res/values/strings.xml
+A	BasicAccessibilitySample/src/main/res/values/template-dimens.xml
+A	BasicAccessibilitySample/src/main/res/values/template-styles.xml
+A	BasicAccessibilitySample/tests/AndroidManifest.xml
+A	BasicAccessibilitySample/tests/src/com/example/android/basicaccessibility/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

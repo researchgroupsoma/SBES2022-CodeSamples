@@ -1,0 +1,195 @@
+0ec3188;Update README.md
+M	README.md
+
+f71bce4;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8636555;Auto-update
+M	Application/build.gradle
+M	README.md
+
+b5c8ab6;Auto-update
+M	Application/build.gradle
+
+daddbd8;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+58180ed;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1c7e762;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/layout/list_item.xml
+M	Application/src/main/res/layout/sample_main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1618d8a;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+bd8aa1d;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+664d1ed;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+54b22f2;Auto-update
+M	Application/build.gradle
+M	README.md
+
+ea8b977;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+fe34d11;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+65dbe30;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+c6fcaad;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+eaf72c0;Auto-update
+M	LICENSE
+D	NOTICE
+
+eb52548;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+95141fe;Auto-update
+M	Application/build.gradle
+M	README.md
+
+5f37b1a;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+
+48565bb;Auto-update
+M	.google/packaging.yaml
+M	NOTICE
+M	README.md
+A	screenshots/icon-web.png
+A	screenshots/main.png
+
+8a28cd1;Auto-update
+M	Application/build.gradle
+
+f3e0206;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+6273768;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+226f002;Auto-update
+R079	CustomChoiceListSample/build.gradle	Application/build.gradle
+R094	CustomChoiceListSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	CustomChoiceListSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	CustomChoiceListSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	CustomChoiceListSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	CustomChoiceListSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	CustomChoiceListSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	CustomChoiceListSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	CustomChoiceListSample/src/main/java/com/example/android/customchoicelist/CheckableLinearLayout.java	Application/src/main/java/com/example/android/customchoicelist/CheckableLinearLayout.java
+R100	CustomChoiceListSample/src/main/java/com/example/android/customchoicelist/Cheeses.java	Application/src/main/java/com/example/android/customchoicelist/Cheeses.java
+R100	CustomChoiceListSample/src/main/java/com/example/android/customchoicelist/MainActivity.java	Application/src/main/java/com/example/android/customchoicelist/MainActivity.java
+R100	CustomChoiceListSample/src/main/res/color/hideable_text_color.xml	Application/src/main/res/color/hideable_text_color.xml
+R100	CustomChoiceListSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	CustomChoiceListSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	CustomChoiceListSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	CustomChoiceListSample/src/main/res/drawable-xhdpi/ic_hideable_item_checked.png	Application/src/main/res/drawable-xhdpi/ic_hideable_item_checked.png
+R100	CustomChoiceListSample/src/main/res/drawable-xhdpi/ic_hideable_item_unchecked.png	Application/src/main/res/drawable-xhdpi/ic_hideable_item_unchecked.png
+R100	CustomChoiceListSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	CustomChoiceListSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	CustomChoiceListSample/src/main/res/drawable/ic_hideable_item.xml	Application/src/main/res/drawable/ic_hideable_item.xml
+R100	CustomChoiceListSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	CustomChoiceListSample/src/main/res/layout/list_item.xml	Application/src/main/res/layout/list_item.xml
+R100	CustomChoiceListSample/src/main/res/layout/sample_main.xml	Application/src/main/res/layout/sample_main.xml
+R100	CustomChoiceListSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	CustomChoiceListSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	CustomChoiceListSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	CustomChoiceListSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	CustomChoiceListSample/src/main/res/values/dimens.xml	Application/src/main/res/values/dimens.xml
+R100	CustomChoiceListSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	CustomChoiceListSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	CustomChoiceListSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+M	settings.gradle
+
+f7513b2;Initial Commit
+A	CONTRIB.md
+A	CustomChoiceListSample/build.gradle
+A	CustomChoiceListSample/src/main/AndroidManifest.xml
+A	CustomChoiceListSample/src/main/java/com/example/android/common/logger/Log.java
+A	CustomChoiceListSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	CustomChoiceListSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	CustomChoiceListSample/src/main/java/com/example/android/common/logger/LogView.java
+A	CustomChoiceListSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	CustomChoiceListSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	CustomChoiceListSample/src/main/java/com/example/android/customchoicelist/CheckableLinearLayout.java
+A	CustomChoiceListSample/src/main/java/com/example/android/customchoicelist/Cheeses.java
+A	CustomChoiceListSample/src/main/java/com/example/android/customchoicelist/MainActivity.java
+A	CustomChoiceListSample/src/main/res/color/hideable_text_color.xml
+A	CustomChoiceListSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	CustomChoiceListSample/src/main/res/drawable-hdpi/tile.9.png
+A	CustomChoiceListSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	CustomChoiceListSample/src/main/res/drawable-xhdpi/ic_hideable_item_checked.png
+A	CustomChoiceListSample/src/main/res/drawable-xhdpi/ic_hideable_item_unchecked.png
+A	CustomChoiceListSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	CustomChoiceListSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	CustomChoiceListSample/src/main/res/drawable/ic_hideable_item.xml
+A	CustomChoiceListSample/src/main/res/layout/activity_main.xml
+A	CustomChoiceListSample/src/main/res/layout/list_item.xml
+A	CustomChoiceListSample/src/main/res/layout/sample_main.xml
+A	CustomChoiceListSample/src/main/res/values-sw600dp/template-dimens.xml
+A	CustomChoiceListSample/src/main/res/values-sw600dp/template-styles.xml
+A	CustomChoiceListSample/src/main/res/values-v11/template-styles.xml
+A	CustomChoiceListSample/src/main/res/values/base-strings.xml
+A	CustomChoiceListSample/src/main/res/values/dimens.xml
+A	CustomChoiceListSample/src/main/res/values/styles.xml
+A	CustomChoiceListSample/src/main/res/values/template-dimens.xml
+A	CustomChoiceListSample/src/main/res/values/template-styles.xml
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

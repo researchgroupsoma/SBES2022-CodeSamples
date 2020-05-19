@@ -1,0 +1,157 @@
+ee554a2;Update README.md
+M	README.md
+
+e5e4c49;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+2631fd0;Auto-update
+M	Application/build.gradle
+M	README.md
+
+c2d3103;Auto-update
+M	Application/build.gradle
+
+fe9ca19;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+3a7c2bf;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+2cf7ed3;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+22112fa;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+94d6cb2;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+7728987;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+6f9489c;Auto-update
+M	Application/build.gradle
+M	README.md
+
+b60bccb;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a328d65;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+9904499;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+8ef3cd2;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+2015e5c;Auto-update
+M	LICENSE
+D	NOTICE
+
+fb4701d;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+b99762c;Auto-update
+M	Application/build.gradle
+M	README.md
+
+56d8a22;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+
+e6db213;Auto-update
+M	.google/packaging.yaml
+M	Application/src/main/res/drawable-hdpi/ic_launcher.png
+M	Application/src/main/res/drawable-mdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	NOTICE
+M	README.md
+A	screenshots/1-activity.png
+A	screenshots/2-overview.png
+A	screenshots/big_icon.png
+
+acfee7f;Auto-update
+M	Application/build.gradle
+
+a8cc700;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+34d1018;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d301b92;Auto-update
+D	Application/Application.iml
+
+42995ff;Initial Commit
+A	Application/Application.iml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/documentcentricapps/DocumentCentricActivity.java
+A	Application/src/main/java/com/example/android/documentcentricapps/NewDocumentActivity.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout/activity_document_centric_main.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/activity_new_document.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/tests/src/com/example/android/documentcentricapps/tests/DocumentCentricAppsInstrumentationTest.java
+A	Application/tests/src/com/example/android/documentcentricapps/tests/DocumentCentricAppsUnitTest.java
+A	CONTRIB.md
+A	LICENSE
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

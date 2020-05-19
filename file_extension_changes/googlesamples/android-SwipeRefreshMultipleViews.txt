@@ -1,0 +1,202 @@
+57a8d3a;Update README.md
+M	README.md
+
+aa88c0a;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b048ef1;Auto-update
+M	Application/build.gradle
+M	README.md
+
+5aad239;Auto-update
+M	Application/build.gradle
+
+fbb4f06;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+536295c;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/swiperefreshmultipleviews/SwipeRefreshMultipleViewsFragment.java
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+6c76063;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+0c1cc4b;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b1899d3;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+514a6a9;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+fb4587f;Auto-update
+M	Application/build.gradle
+M	README.md
+
+ab89a11;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+97ed69f;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+ae1ea8b;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+fefb55b;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+6ff6e61;Auto-update
+M	LICENSE
+D	NOTICE
+
+5a9a978;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/swiperefreshmultipleviews/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+8cf649c;Auto-update
+M	Application/build.gradle
+M	README.md
+
+9ff306b;Auto-update
+M	Application/build.gradle
+M	Application/tests/AndroidManifest.xml
+M	README.md
+
+f77426c;Auto-update
+M	NOTICE
+
+431dc2a;Auto-update
+M	Application/build.gradle
+
+10fb07e;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+49eebdd;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+2a6f1eb;Auto-update
+R071	SwipeRefreshMultipleViewsSample/build.gradle	Application/build.gradle
+R094	SwipeRefreshMultipleViewsSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/dummydata/Cheeses.java	Application/src/main/java/com/example/android/common/dummydata/Cheeses.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/view/SlidingTabLayout.java	Application/src/main/java/com/example/android/common/view/SlidingTabLayout.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/view/SlidingTabStrip.java	Application/src/main/java/com/example/android/common/view/SlidingTabStrip.java
+R091	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/swiperefreshmultipleviews/MainActivity.java	Application/src/main/java/com/example/android/swiperefreshmultipleviews/MainActivity.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/swiperefreshmultipleviews/MultiSwipeRefreshLayout.java	Application/src/main/java/com/example/android/swiperefreshmultipleviews/MultiSwipeRefreshLayout.java
+R100	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/swiperefreshmultipleviews/SwipeRefreshMultipleViewsFragment.java	Application/src/main/java/com/example/android/swiperefreshmultipleviews/SwipeRefreshMultipleViewsFragment.java
+R100	SwipeRefreshMultipleViewsSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	SwipeRefreshMultipleViewsSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	SwipeRefreshMultipleViewsSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	SwipeRefreshMultipleViewsSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	SwipeRefreshMultipleViewsSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	SwipeRefreshMultipleViewsSample/src/main/res/layout-w720dp/activity_main.xml	Application/src/main/res/layout-w720dp/activity_main.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/layout/fragment_sample.xml	Application/src/main/res/layout/fragment_sample.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/menu/main_menu.xml	Application/src/main/res/menu/main_menu.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/values/color.xml	Application/src/main/res/values/color.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/values/fragmentview_strings.xml	Application/src/main/res/values/fragmentview_strings.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	SwipeRefreshMultipleViewsSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R095	SwipeRefreshMultipleViewsSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	SwipeRefreshMultipleViewsSample/tests/src/com/example/android/swiperefreshmultipleviews/tests/SampleTests.java	Application/tests/src/com/example/android/swiperefreshmultipleviews/tests/SampleTests.java
+M	settings.gradle
+
+50e0653;Initial Commit
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	SwipeRefreshMultipleViewsSample/build.gradle
+A	SwipeRefreshMultipleViewsSample/src/main/AndroidManifest.xml
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/dummydata/Cheeses.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/Log.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/LogView.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/view/SlidingTabLayout.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/common/view/SlidingTabStrip.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/swiperefreshmultipleviews/MainActivity.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/swiperefreshmultipleviews/MultiSwipeRefreshLayout.java
+A	SwipeRefreshMultipleViewsSample/src/main/java/com/example/android/swiperefreshmultipleviews/SwipeRefreshMultipleViewsFragment.java
+A	SwipeRefreshMultipleViewsSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	SwipeRefreshMultipleViewsSample/src/main/res/drawable-hdpi/tile.9.png
+A	SwipeRefreshMultipleViewsSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	SwipeRefreshMultipleViewsSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	SwipeRefreshMultipleViewsSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	SwipeRefreshMultipleViewsSample/src/main/res/layout-w720dp/activity_main.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/layout/activity_main.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/layout/fragment_sample.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/menu/main.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/menu/main_menu.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/values-sw600dp/template-dimens.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/values-sw600dp/template-styles.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/values-v11/template-styles.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/values/base-strings.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/values/color.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/values/fragmentview_strings.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/values/strings.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/values/template-dimens.xml
+A	SwipeRefreshMultipleViewsSample/src/main/res/values/template-styles.xml
+A	SwipeRefreshMultipleViewsSample/tests/AndroidManifest.xml
+A	SwipeRefreshMultipleViewsSample/tests/src/com/example/android/swiperefreshmultipleviews/tests/SampleTests.java
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

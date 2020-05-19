@@ -1,0 +1,222 @@
+8441697;Update README.md
+M	README.md
+
+6231e50;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b5d2721;Auto-update
+M	Application/build.gradle
+M	README.md
+
+ef9aa3b;Auto-update
+M	Application/build.gradle
+
+701ef6b;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/basicmanagedprofile/BasicManagedProfileFragment.java
+M	Application/src/main/java/com/example/android/basicmanagedprofile/EnableProfileActivity.java
+M	Application/src/main/java/com/example/android/basicmanagedprofile/SetupProfileFragment.java
+D	Application/src/main/res/drawable-hdpi/ic_launcher.png
+D	Application/src/main/res/drawable-mdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	Application/src/main/res/drawable/ic_launcher_badged.xml
+M	Application/src/main/res/layout/fragment_main.xml
+M	Application/src/main/res/layout/fragment_setup_profile.xml
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+M	screenshots/icon-web.png
+M	screenshots/set_up.png
+
+bd5040d;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+3a46ca1;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values/base-strings.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+531228f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8a26c38;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+85ae8be;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+19c1c05;Auto-update
+M	Application/build.gradle
+M	README.md
+
+66a3695;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+e9db237;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+1261503;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+5111e3b;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+e2a4661;Auto-update
+M	LICENSE
+D	NOTICE
+
+1699a89;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+fae4d41;Auto-update
+M	Application/build.gradle
+M	README.md
+
+00e27c1;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/src/main/res/layout/fragment_setup_profile.xml
+M	README.md
+
+e314f55;Auto-update
+M	NOTICE
+
+7df3efb;Auto-update
+M	Application/build.gradle
+
+0cab8c3;Auto-update
+M	.google/packaging.yaml
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+A	screenshots/icon-web.png
+A	screenshots/main.png
+A	screenshots/not_set_up.png
+A	screenshots/set_up.png
+
+c3167d4;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+090e583;Auto-update
+R072	BasicManagedProfileSample/build.gradle	Application/build.gradle
+R090	BasicManagedProfileSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/BasicDeviceAdminReceiver.java	Application/src/main/java/com/example/android/basicmanagedprofile/BasicDeviceAdminReceiver.java
+R054	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/BasicManagedProfileFragment.java	Application/src/main/java/com/example/android/basicmanagedprofile/BasicManagedProfileFragment.java
+R086	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/EnableProfileActivity.java	Application/src/main/java/com/example/android/basicmanagedprofile/EnableProfileActivity.java
+R100	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/MainActivity.java	Application/src/main/java/com/example/android/basicmanagedprofile/MainActivity.java
+R080	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/SetupProfileFragment.java	Application/src/main/java/com/example/android/basicmanagedprofile/SetupProfileFragment.java
+R100	BasicManagedProfileSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	BasicManagedProfileSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	BasicManagedProfileSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	BasicManagedProfileSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	BasicManagedProfileSample/src/main/res/drawable-xxhdpi/badge.png	Application/src/main/res/drawable-xxhdpi/badge.png
+R100	BasicManagedProfileSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	BasicManagedProfileSample/src/main/res/drawable/ic_launcher_badged.xml	Application/src/main/res/drawable/ic_launcher_badged.xml
+R100	BasicManagedProfileSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	BasicManagedProfileSample/src/main/res/layout/activity_main_real.xml	Application/src/main/res/layout/activity_main_real.xml
+R100	BasicManagedProfileSample/src/main/res/layout/activity_setup.xml	Application/src/main/res/layout/activity_setup.xml
+R093	BasicManagedProfileSample/src/main/res/layout/fragment_main.xml	Application/src/main/res/layout/fragment_main.xml
+R100	BasicManagedProfileSample/src/main/res/layout/fragment_setup_profile.xml	Application/src/main/res/layout/fragment_setup_profile.xml
+R100	BasicManagedProfileSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	BasicManagedProfileSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	BasicManagedProfileSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+R100	BasicManagedProfileSample/src/main/res/values-v21/template-styles.xml	Application/src/main/res/values-v21/template-styles.xml
+R100	BasicManagedProfileSample/src/main/res/values-w820dp/dimens.xml	Application/src/main/res/values-w820dp/dimens.xml
+R099	BasicManagedProfileSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	BasicManagedProfileSample/src/main/res/values/dimens.xml	Application/src/main/res/values/dimens.xml
+R079	BasicManagedProfileSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	BasicManagedProfileSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	BasicManagedProfileSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	BasicManagedProfileSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R100	BasicManagedProfileSample/src/main/res/xml/basic_device_admin_receiver.xml	Application/src/main/res/xml/basic_device_admin_receiver.xml
+M	README.md
+M	settings.gradle
+
+ca19613;Update sample with latest changes from Android SDK
+M	BasicManagedProfileSample/build.gradle
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+D	README.txt
+M	gradle/wrapper/gradle-wrapper.properties
+A	packaging.yaml
+
+c0f2a3d;Initial commit
+A	BasicManagedProfileSample/build.gradle
+A	BasicManagedProfileSample/src/main/AndroidManifest.xml
+A	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/BasicDeviceAdminReceiver.java
+A	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/BasicManagedProfileFragment.java
+A	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/EnableProfileActivity.java
+A	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/MainActivity.java
+A	BasicManagedProfileSample/src/main/java/com/example/android/basicmanagedprofile/SetupProfileFragment.java
+A	BasicManagedProfileSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicManagedProfileSample/src/main/res/drawable-hdpi/tile.9.png
+A	BasicManagedProfileSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicManagedProfileSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicManagedProfileSample/src/main/res/drawable-xxhdpi/badge.png
+A	BasicManagedProfileSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicManagedProfileSample/src/main/res/drawable/ic_launcher_badged.xml
+A	BasicManagedProfileSample/src/main/res/layout/activity_main.xml
+A	BasicManagedProfileSample/src/main/res/layout/activity_main_real.xml
+A	BasicManagedProfileSample/src/main/res/layout/activity_setup.xml
+A	BasicManagedProfileSample/src/main/res/layout/fragment_main.xml
+A	BasicManagedProfileSample/src/main/res/layout/fragment_setup_profile.xml
+A	BasicManagedProfileSample/src/main/res/values-sw600dp/template-dimens.xml
+A	BasicManagedProfileSample/src/main/res/values-sw600dp/template-styles.xml
+A	BasicManagedProfileSample/src/main/res/values-v11/template-styles.xml
+A	BasicManagedProfileSample/src/main/res/values-v21/template-styles.xml
+A	BasicManagedProfileSample/src/main/res/values-w820dp/dimens.xml
+A	BasicManagedProfileSample/src/main/res/values/base-strings.xml
+A	BasicManagedProfileSample/src/main/res/values/dimens.xml
+A	BasicManagedProfileSample/src/main/res/values/strings.xml
+A	BasicManagedProfileSample/src/main/res/values/styles.xml
+A	BasicManagedProfileSample/src/main/res/values/template-dimens.xml
+A	BasicManagedProfileSample/src/main/res/values/template-styles.xml
+A	BasicManagedProfileSample/src/main/res/xml/basic_device_admin_receiver.xml
+A	README.txt
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

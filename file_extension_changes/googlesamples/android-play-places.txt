@@ -1,0 +1,343 @@
+8a19a5a;Update README.md
+M	README.md
+
+682826e;Merge pull request #67 from melbyruarus/master
+8474356;Updates PlaceCompleteAdapter for the changes in the 11.2.0 release of the Google Play services library.
+M	PlaceCompleteAdapter/Application/build.gradle
+M	PlaceCompleteAdapter/Application/src/main/java/com/example/google/playservices/placecomplete/MainActivity.java
+M	PlaceCompleteAdapter/Application/src/main/java/com/example/google/playservices/placecomplete/PlaceAutocompleteAdapter.java
+M	PlaceCompleteAdapter/gradle/wrapper/gradle-wrapper.properties
+
+c99a146;Comment tweak.
+M	PlaceCompleteAdapter/Application/src/main/java/com/example/google/playservices/placecomplete/PlaceAutocompleteAdapter.java
+
+ef0884a;Merge pull request #38 from nikson/nkp-dev1
+ad59cae;Merge branch 'master' of github.com:googlesamples/android-play-places
+5eb0184;.gitignore
+A	.gitignore
+
+423c076;Update gradle plugin
+M	PlaceCompleteActivity/Application/build.gradle
+M	PlaceCompleteActivity/gradle/wrapper/gradle-wrapper.properties
+M	PlaceCompleteAdapter/Application/build.gradle
+M	PlaceCompleteAdapter/gradle/wrapper/gradle-wrapper.properties
+M	PlaceCompleteFragment/Application/build.gradle
+M	PlaceCompleteFragment/gradle/wrapper/gradle-wrapper.properties
+M	PlacePicker/Application/build.gradle
+M	PlacePicker/gradle/wrapper/gradle-wrapper.properties
+
+f2af821;Merge pull request #50 from pflingstring/fix_import
+b2edd60;Merge pull request #51 from pflingstring/fix_issues_url
+f0011cd;Fix PlaceAutocompleteAdapter data modification from background thread
+M	PlaceCompleteAdapter/Application/src/main/java/com/example/google/playservices/placecomplete/PlaceAutocompleteAdapter.java
+
+fecd23d;Update issues URL
+M	PlaceCompleteActivity/README.md
+M	PlaceCompleteAdapter/README.md
+M	PlaceCompleteFragment/README.md
+M	PlacePicker/README.md
+
+f612f59;Remove unused import statement
+M	PlaceCompleteActivity/Application/src/main/java/com/example/google/playservices/placecompleteactivity/MainActivity.java
+
+58b61ab;Update README file for new autocomplete samples.
+M	README.md
+
+a1cca3c;Add sample for autocomplete fragment (PlaceCompleteFragment).
+A	PlaceCompleteFragment/.google/packaging.yaml
+A	PlaceCompleteFragment/Application/build.gradle
+A	PlaceCompleteFragment/Application/src/main/AndroidManifest.xml
+A	PlaceCompleteFragment/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	PlaceCompleteFragment/Application/src/main/java/com/example/android/common/logger/Log.java
+A	PlaceCompleteFragment/Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	PlaceCompleteFragment/Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	PlaceCompleteFragment/Application/src/main/java/com/example/android/common/logger/LogView.java
+A	PlaceCompleteFragment/Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	PlaceCompleteFragment/Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	PlaceCompleteFragment/Application/src/main/java/com/example/google/playservices/placecompletefragment/MainActivity.java
+A	PlaceCompleteFragment/Application/src/main/res/drawable-hdpi/tile.9.png
+A	PlaceCompleteFragment/Application/src/main/res/layout/activity_main.xml
+A	PlaceCompleteFragment/Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	PlaceCompleteFragment/Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	PlaceCompleteFragment/Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	PlaceCompleteFragment/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	PlaceCompleteFragment/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	PlaceCompleteFragment/Application/src/main/res/values-sw600dp/template-dimens.xml
+A	PlaceCompleteFragment/Application/src/main/res/values-sw600dp/template-styles.xml
+A	PlaceCompleteFragment/Application/src/main/res/values-v11/template-styles.xml
+A	PlaceCompleteFragment/Application/src/main/res/values-v21/base-colors.xml
+A	PlaceCompleteFragment/Application/src/main/res/values-v21/base-template-styles.xml
+A	PlaceCompleteFragment/Application/src/main/res/values/base-strings.xml
+A	PlaceCompleteFragment/Application/src/main/res/values/strings.xml
+A	PlaceCompleteFragment/Application/src/main/res/values/template-dimens.xml
+A	PlaceCompleteFragment/Application/src/main/res/values/template-styles.xml
+A	PlaceCompleteFragment/CONTRIBUTING.md
+A	PlaceCompleteFragment/LICENSE
+A	PlaceCompleteFragment/NOTICE
+A	PlaceCompleteFragment/README.md
+A	PlaceCompleteFragment/build.gradle
+A	PlaceCompleteFragment/gradle/wrapper/gradle-wrapper.jar
+A	PlaceCompleteFragment/gradle/wrapper/gradle-wrapper.properties
+A	PlaceCompleteFragment/gradlew
+A	PlaceCompleteFragment/gradlew.bat
+A	PlaceCompleteFragment/settings.gradle
+
+70efea0;Add a sample for the autocomplete activity (PlaceCompleteActivity).
+A	PlaceCompleteActivity/.google/packaging.yaml
+A	PlaceCompleteActivity/Application/build.gradle
+A	PlaceCompleteActivity/Application/src/main/AndroidManifest.xml
+A	PlaceCompleteActivity/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	PlaceCompleteActivity/Application/src/main/java/com/example/android/common/logger/Log.java
+A	PlaceCompleteActivity/Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	PlaceCompleteActivity/Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	PlaceCompleteActivity/Application/src/main/java/com/example/android/common/logger/LogView.java
+A	PlaceCompleteActivity/Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	PlaceCompleteActivity/Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	PlaceCompleteActivity/Application/src/main/java/com/example/google/playservices/placecompleteactivity/MainActivity.java
+A	PlaceCompleteActivity/Application/src/main/res/drawable-hdpi/tile.9.png
+A	PlaceCompleteActivity/Application/src/main/res/layout/activity_main.xml
+A	PlaceCompleteActivity/Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	PlaceCompleteActivity/Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	PlaceCompleteActivity/Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	PlaceCompleteActivity/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	PlaceCompleteActivity/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	PlaceCompleteActivity/Application/src/main/res/values-sw600dp/template-dimens.xml
+A	PlaceCompleteActivity/Application/src/main/res/values-sw600dp/template-styles.xml
+A	PlaceCompleteActivity/Application/src/main/res/values-v11/template-styles.xml
+A	PlaceCompleteActivity/Application/src/main/res/values-v21/base-colors.xml
+A	PlaceCompleteActivity/Application/src/main/res/values-v21/base-template-styles.xml
+A	PlaceCompleteActivity/Application/src/main/res/values/base-strings.xml
+A	PlaceCompleteActivity/Application/src/main/res/values/strings.xml
+A	PlaceCompleteActivity/Application/src/main/res/values/template-dimens.xml
+A	PlaceCompleteActivity/Application/src/main/res/values/template-styles.xml
+A	PlaceCompleteActivity/CONTRIBUTING.md
+A	PlaceCompleteActivity/LICENSE
+A	PlaceCompleteActivity/NOTICE
+A	PlaceCompleteActivity/README.md
+A	PlaceCompleteActivity/build.gradle
+A	PlaceCompleteActivity/gradle/wrapper/gradle-wrapper.jar
+A	PlaceCompleteActivity/gradle/wrapper/gradle-wrapper.properties
+A	PlaceCompleteActivity/gradlew
+A	PlaceCompleteActivity/gradlew.bat
+A	PlaceCompleteActivity/settings.gradle
+
+47ef387;Update PlacePicker sample for Google Play Services 8.4.0.
+M	PlacePicker/Application/build.gradle
+M	PlacePicker/LICENSE
+M	PlacePicker/README.md
+
+336bb2b;Rename PlaceComplete sample to PlaceCompleteAdapter.
+R088	PlaceComplete/.google/packaging.yaml	PlaceCompleteAdapter/.google/packaging.yaml
+R078	PlaceComplete/Application/build.gradle	PlaceCompleteAdapter/Application/build.gradle
+R100	PlaceComplete/Application/src/main/AndroidManifest.xml	PlaceCompleteAdapter/Application/src/main/AndroidManifest.xml
+R100	PlaceComplete/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java	PlaceCompleteAdapter/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+R100	PlaceComplete/Application/src/main/java/com/example/android/common/logger/Log.java	PlaceCompleteAdapter/Application/src/main/java/com/example/android/common/logger/Log.java
+R100	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogFragment.java	PlaceCompleteAdapter/Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogNode.java	PlaceCompleteAdapter/Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogView.java	PlaceCompleteAdapter/Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogWrapper.java	PlaceCompleteAdapter/Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	PlaceComplete/Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	PlaceCompleteAdapter/Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	PlaceComplete/Application/src/main/java/com/example/google/playservices/placecomplete/MainActivity.java	PlaceCompleteAdapter/Application/src/main/java/com/example/google/playservices/placecomplete/MainActivity.java
+R100	PlaceComplete/Application/src/main/java/com/example/google/playservices/placecomplete/PlaceAutocompleteAdapter.java	PlaceCompleteAdapter/Application/src/main/java/com/example/google/playservices/placecomplete/PlaceAutocompleteAdapter.java
+R100	PlaceComplete/Application/src/main/res/drawable-hdpi/tile.9.png	PlaceCompleteAdapter/Application/src/main/res/drawable-hdpi/tile.9.png
+R100	PlaceComplete/Application/src/main/res/layout/activity_main.xml	PlaceCompleteAdapter/Application/src/main/res/layout/activity_main.xml
+R100	PlaceComplete/Application/src/main/res/mipmap-hdpi/ic_launcher.png	PlaceCompleteAdapter/Application/src/main/res/mipmap-hdpi/ic_launcher.png
+R100	PlaceComplete/Application/src/main/res/mipmap-mdpi/ic_launcher.png	PlaceCompleteAdapter/Application/src/main/res/mipmap-mdpi/ic_launcher.png
+R100	PlaceComplete/Application/src/main/res/mipmap-xhdpi/ic_launcher.png	PlaceCompleteAdapter/Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+R100	PlaceComplete/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png	PlaceCompleteAdapter/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+R100	PlaceComplete/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png	PlaceCompleteAdapter/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+R100	PlaceComplete/Application/src/main/res/values-sw600dp/template-dimens.xml	PlaceCompleteAdapter/Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	PlaceComplete/Application/src/main/res/values-sw600dp/template-styles.xml	PlaceCompleteAdapter/Application/src/main/res/values-sw600dp/template-styles.xml
+R100	PlaceComplete/Application/src/main/res/values-v11/template-styles.xml	PlaceCompleteAdapter/Application/src/main/res/values-v11/template-styles.xml
+R099	PlaceComplete/Application/src/main/res/values-v21/base-colors.xml	PlaceCompleteAdapter/Application/src/main/res/values-v21/base-colors.xml
+R099	PlaceComplete/Application/src/main/res/values-v21/base-template-styles.xml	PlaceCompleteAdapter/Application/src/main/res/values-v21/base-template-styles.xml
+R094	PlaceComplete/Application/src/main/res/values/base-strings.xml	PlaceCompleteAdapter/Application/src/main/res/values/base-strings.xml
+R100	PlaceComplete/Application/src/main/res/values/strings.xml	PlaceCompleteAdapter/Application/src/main/res/values/strings.xml
+R100	PlaceComplete/Application/src/main/res/values/template-dimens.xml	PlaceCompleteAdapter/Application/src/main/res/values/template-dimens.xml
+R100	PlaceComplete/Application/src/main/res/values/template-styles.xml	PlaceCompleteAdapter/Application/src/main/res/values/template-styles.xml
+R100	PlaceComplete/CONTRIBUTING.md	PlaceCompleteAdapter/CONTRIBUTING.md
+R100	PlaceComplete/LICENSE	PlaceCompleteAdapter/LICENSE
+R100	PlaceComplete/NOTICE	PlaceCompleteAdapter/NOTICE
+R093	PlaceComplete/README.md	PlaceCompleteAdapter/README.md
+R100	PlaceComplete/build.gradle	PlaceCompleteAdapter/build.gradle
+R100	PlaceComplete/gradle/wrapper/gradle-wrapper.jar	PlaceCompleteAdapter/gradle/wrapper/gradle-wrapper.jar
+R100	PlaceComplete/gradle/wrapper/gradle-wrapper.properties	PlaceCompleteAdapter/gradle/wrapper/gradle-wrapper.properties
+R100	PlaceComplete/gradlew	PlaceCompleteAdapter/gradlew
+R100	PlaceComplete/gradlew.bat	PlaceCompleteAdapter/gradlew.bat
+R100	PlaceComplete/settings.gradle	PlaceCompleteAdapter/settings.gradle
+
+eb7933f;Update PlaceComplete sample for Google Play Services 8.1.
+M	PlaceComplete/Application/build.gradle
+M	PlaceComplete/Application/src/main/AndroidManifest.xml
+M	PlaceComplete/Application/src/main/java/com/example/google/playservices/placecomplete/MainActivity.java
+M	PlaceComplete/Application/src/main/java/com/example/google/playservices/placecomplete/PlaceAutocompleteAdapter.java
+M	PlaceComplete/Application/src/main/res/layout/activity_main.xml
+M	PlaceComplete/LICENSE
+M	PlaceComplete/NOTICE
+M	PlaceComplete/README.md
+
+ec2fd9c;Simplify the PlaceComplete sample.
+M	PlaceComplete/Application/src/main/java/com/example/google/playservices/placecomplete/MainActivity.java
+M	PlaceComplete/Application/src/main/java/com/example/google/playservices/placecomplete/PlaceAutocompleteAdapter.java
+
+3964ddc;Readme documentation improvements.
+M	README.md
+
+fd51d8d;Update Places API samples for Google Play Services 7.3.
+M	PlaceComplete/Application/build.gradle
+M	PlaceComplete/Application/src/main/java/com/example/google/playservices/placecomplete/MainActivity.java
+M	PlaceComplete/Application/src/main/res/layout/activity_main.xml
+M	PlacePicker/Application/build.gradle
+
+ded1b1b;Cleaning up imported resources and unused files.
+A	PlaceComplete/.google/packaging.yaml
+M	PlaceComplete/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+M	PlaceComplete/Application/src/main/java/com/example/android/common/logger/Log.java
+M	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogFragment.java
+M	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogNode.java
+M	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogView.java
+M	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+M	PlaceComplete/Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+D	PlaceComplete/screenshots/big_icon.png
+A	PlacePicker/.google/packaging.yaml
+D	PlacePicker/Application/src/main/res/drawable-hdpi/ic_launcher.png
+D	PlacePicker/Application/src/main/res/drawable-mdpi/ic_launcher.png
+D	PlacePicker/Application/src/main/res/drawable-xhdpi/ic_launcher.png
+D	PlacePicker/Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+
+adc88c6;Initial commit of Google Places API for Android samples.
+A	LICENSE
+A	PlaceComplete/Application/build.gradle
+A	PlaceComplete/Application/src/main/AndroidManifest.xml
+A	PlaceComplete/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	PlaceComplete/Application/src/main/java/com/example/android/common/logger/Log.java
+A	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogView.java
+A	PlaceComplete/Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	PlaceComplete/Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	PlaceComplete/Application/src/main/java/com/example/google/playservices/placecomplete/MainActivity.java
+A	PlaceComplete/Application/src/main/java/com/example/google/playservices/placecomplete/PlaceAutocompleteAdapter.java
+A	PlaceComplete/Application/src/main/res/drawable-hdpi/tile.9.png
+A	PlaceComplete/Application/src/main/res/layout/activity_main.xml
+A	PlaceComplete/Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	PlaceComplete/Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	PlaceComplete/Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	PlaceComplete/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	PlaceComplete/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	PlaceComplete/Application/src/main/res/values-sw600dp/template-dimens.xml
+A	PlaceComplete/Application/src/main/res/values-sw600dp/template-styles.xml
+A	PlaceComplete/Application/src/main/res/values-v11/template-styles.xml
+A	PlaceComplete/Application/src/main/res/values-v21/base-colors.xml
+A	PlaceComplete/Application/src/main/res/values-v21/base-template-styles.xml
+A	PlaceComplete/Application/src/main/res/values/base-strings.xml
+A	PlaceComplete/Application/src/main/res/values/strings.xml
+A	PlaceComplete/Application/src/main/res/values/template-dimens.xml
+A	PlaceComplete/Application/src/main/res/values/template-styles.xml
+A	PlaceComplete/CONTRIBUTING.md
+A	PlaceComplete/LICENSE
+A	PlaceComplete/NOTICE
+A	PlaceComplete/README.md
+A	PlaceComplete/build.gradle
+A	PlaceComplete/gradle/wrapper/gradle-wrapper.jar
+A	PlaceComplete/gradle/wrapper/gradle-wrapper.properties
+A	PlaceComplete/gradlew
+A	PlaceComplete/gradlew.bat
+A	PlaceComplete/screenshots/big_icon.png
+A	PlaceComplete/settings.gradle
+A	PlacePicker/Application/build.gradle
+A	PlacePicker/Application/src/main/AndroidManifest.xml
+A	PlacePicker/Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	PlacePicker/Application/src/main/java/com/example/android/common/logger/Log.java
+A	PlacePicker/Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	PlacePicker/Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	PlacePicker/Application/src/main/java/com/example/android/common/logger/LogView.java
+A	PlacePicker/Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	PlacePicker/Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/MainActivity.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/PlacePickerFragment.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/Card.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/CardActionButton.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/CardLayout.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/CardStream.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/CardStreamAnimator.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/CardStreamFragment.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/CardStreamLinearLayout.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/CardStreamState.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/DefaultCardStreamAnimator.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/OnCardClickListener.java
+A	PlacePicker/Application/src/main/java/com/example/google/playservices/placepicker/cardstream/StreamRetentionFragment.java
+A	PlacePicker/Application/src/main/res/drawable-hdpi/ic_action_cancel.png
+A	PlacePicker/Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	PlacePicker/Application/src/main/res/drawable-hdpi/tile.9.png
+A	PlacePicker/Application/src/main/res/drawable-mdpi/ic_action_cancel.png
+A	PlacePicker/Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	PlacePicker/Application/src/main/res/drawable-v21/card_action_bg.xml
+A	PlacePicker/Application/src/main/res/drawable-v21/card_action_bg_negative.xml
+A	PlacePicker/Application/src/main/res/drawable-v21/card_action_bg_positive.xml
+A	PlacePicker/Application/src/main/res/drawable-xhdpi/card_bg.9.png
+A	PlacePicker/Application/src/main/res/drawable-xhdpi/ic_cardaction_negative.png
+A	PlacePicker/Application/src/main/res/drawable-xhdpi/ic_cardaction_negative_pressed.png
+A	PlacePicker/Application/src/main/res/drawable-xhdpi/ic_cardaction_neutral.png
+A	PlacePicker/Application/src/main/res/drawable-xhdpi/ic_cardaction_neutral_pressed.png
+A	PlacePicker/Application/src/main/res/drawable-xhdpi/ic_cardaction_positive.png
+A	PlacePicker/Application/src/main/res/drawable-xhdpi/ic_cardaction_positive_pressed.png
+A	PlacePicker/Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	PlacePicker/Application/src/main/res/drawable-xxhdpi/ic_action_cancel.png
+A	PlacePicker/Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	PlacePicker/Application/src/main/res/drawable/card_action_bg.xml
+A	PlacePicker/Application/src/main/res/drawable/card_action_bg_negative.xml
+A	PlacePicker/Application/src/main/res/drawable/card_action_bg_positive.xml
+A	PlacePicker/Application/src/main/res/drawable/card_action_icon_negative.xml
+A	PlacePicker/Application/src/main/res/drawable/card_action_icon_neutral.xml
+A	PlacePicker/Application/src/main/res/drawable/card_action_icon_positive.xml
+A	PlacePicker/Application/src/main/res/drawable/card_action_text.xml
+A	PlacePicker/Application/src/main/res/drawable/card_action_text_negative.xml
+A	PlacePicker/Application/src/main/res/drawable/card_action_text_positive.xml
+A	PlacePicker/Application/src/main/res/drawable/card_overlay_focused.xml
+A	PlacePicker/Application/src/main/res/drawable/card_separator.xml
+A	PlacePicker/Application/src/main/res/layout/activity_main.xml
+A	PlacePicker/Application/src/main/res/layout/card.xml
+A	PlacePicker/Application/src/main/res/layout/card_button_negative.xml
+A	PlacePicker/Application/src/main/res/layout/card_button_neutral.xml
+A	PlacePicker/Application/src/main/res/layout/card_button_positive.xml
+A	PlacePicker/Application/src/main/res/layout/card_button_seperator.xml
+A	PlacePicker/Application/src/main/res/layout/card_google.xml
+A	PlacePicker/Application/src/main/res/layout/card_progress.xml
+A	PlacePicker/Application/src/main/res/layout/cardstream.xml
+A	PlacePicker/Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	PlacePicker/Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	PlacePicker/Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	PlacePicker/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	PlacePicker/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	PlacePicker/Application/src/main/res/values-sw600dp/template-dimens.xml
+A	PlacePicker/Application/src/main/res/values-sw600dp/template-styles.xml
+A	PlacePicker/Application/src/main/res/values-sw720dp-land/dimens.xml
+A	PlacePicker/Application/src/main/res/values-v11/styles.xml
+A	PlacePicker/Application/src/main/res/values-v11/template-styles.xml
+A	PlacePicker/Application/src/main/res/values-v14/styles.xml
+A	PlacePicker/Application/src/main/res/values-v16/styles.xml
+A	PlacePicker/Application/src/main/res/values-v21/base-colors.xml
+A	PlacePicker/Application/src/main/res/values-v21/base-template-styles.xml
+A	PlacePicker/Application/src/main/res/values/attrs.xml
+A	PlacePicker/Application/src/main/res/values/base-strings.xml
+A	PlacePicker/Application/src/main/res/values/color.xml
+A	PlacePicker/Application/src/main/res/values/dimens.xml
+A	PlacePicker/Application/src/main/res/values/ids.xml
+A	PlacePicker/Application/src/main/res/values/placepicker_strings.xml
+A	PlacePicker/Application/src/main/res/values/styles.xml
+A	PlacePicker/Application/src/main/res/values/template-dimens.xml
+A	PlacePicker/Application/src/main/res/values/template-styles.xml
+A	PlacePicker/CONTRIBUTING.md
+A	PlacePicker/LICENSE
+A	PlacePicker/NOTICE
+A	PlacePicker/README.md
+A	PlacePicker/build.gradle
+A	PlacePicker/gradle/wrapper/gradle-wrapper.jar
+A	PlacePicker/gradle/wrapper/gradle-wrapper.properties
+A	PlacePicker/gradlew
+A	PlacePicker/gradlew.bat
+A	PlacePicker/settings.gradle
+A	README.md
+
+58270dc;Initial empty repository

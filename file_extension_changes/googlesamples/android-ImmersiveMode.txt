@@ -1,0 +1,187 @@
+3cfc327;Update README.md
+M	README.md
+
+e07e2ac;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ac8083e;Auto-update
+M	Application/build.gradle
+M	README.md
+
+6a72816;Auto-update
+M	Application/build.gradle
+
+690f588;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b66bf43;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+0a25921;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8bd472e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1ca0c15;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d8e7898;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+34bef2d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+ac5e7da;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+5477023;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+
+eb3000f;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+D	NOTICE
+M	README.md
+
+88c70ea;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+ea3e389;Auto-update
+M	LICENSE
+D	NOTICE
+
+ba48278;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/immersivemode/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	Application/src/main/res/values/strings.xml
+M	NOTICE
+M	README.md
+
+f18cd2d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+dbbcf24;Auto-update
+M	Application/build.gradle
+M	README.md
+
+dd64217;Auto-update
+M	NOTICE
+
+2e38075;Auto-update
+M	Application/build.gradle
+
+4b095b3;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+122220a;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+297a8df;Auto-update
+R079	ImmersiveModeSample/build.gradle	Application/build.gradle
+R094	ImmersiveModeSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	ImmersiveModeSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+R100	ImmersiveModeSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	ImmersiveModeSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	ImmersiveModeSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	ImmersiveModeSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	ImmersiveModeSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	ImmersiveModeSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	ImmersiveModeSample/src/main/java/com/example/android/immersivemode/ImmersiveModeFragment.java	Application/src/main/java/com/example/android/immersivemode/ImmersiveModeFragment.java
+R100	ImmersiveModeSample/src/main/java/com/example/android/immersivemode/MainActivity.java	Application/src/main/java/com/example/android/immersivemode/MainActivity.java
+R100	ImmersiveModeSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	ImmersiveModeSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	ImmersiveModeSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	ImmersiveModeSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	ImmersiveModeSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	ImmersiveModeSample/src/main/res/layout-sw600dp-land/activity_main.xml	Application/src/main/res/layout-sw600dp-land/activity_main.xml
+R100	ImmersiveModeSample/src/main/res/layout-sw600dp/activity_main.xml	Application/src/main/res/layout-sw600dp/activity_main.xml
+R100	ImmersiveModeSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	ImmersiveModeSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	ImmersiveModeSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	ImmersiveModeSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	ImmersiveModeSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	ImmersiveModeSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	ImmersiveModeSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	ImmersiveModeSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	ImmersiveModeSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R093	ImmersiveModeSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	ImmersiveModeSample/tests/src/com/example/android/immersivemode/tests/ImmersiveModeSampleTests.java	Application/tests/src/com/example/android/immersivemode/tests/ImmersiveModeSampleTests.java
+R100	ImmersiveModeSample/tests/src/com/example/android/immersivemode/tests/SampleTests.java	Application/tests/src/com/example/android/immersivemode/tests/SampleTests.java
+M	settings.gradle
+
+165c184;Initial Commit
+A	CONTRIB.md
+A	ImmersiveModeSample/build.gradle
+A	ImmersiveModeSample/src/main/AndroidManifest.xml
+A	ImmersiveModeSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	ImmersiveModeSample/src/main/java/com/example/android/common/logger/Log.java
+A	ImmersiveModeSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	ImmersiveModeSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	ImmersiveModeSample/src/main/java/com/example/android/common/logger/LogView.java
+A	ImmersiveModeSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	ImmersiveModeSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	ImmersiveModeSample/src/main/java/com/example/android/immersivemode/ImmersiveModeFragment.java
+A	ImmersiveModeSample/src/main/java/com/example/android/immersivemode/MainActivity.java
+A	ImmersiveModeSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	ImmersiveModeSample/src/main/res/drawable-hdpi/tile.9.png
+A	ImmersiveModeSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	ImmersiveModeSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	ImmersiveModeSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	ImmersiveModeSample/src/main/res/layout-sw600dp-land/activity_main.xml
+A	ImmersiveModeSample/src/main/res/layout-sw600dp/activity_main.xml
+A	ImmersiveModeSample/src/main/res/layout/activity_main.xml
+A	ImmersiveModeSample/src/main/res/menu/main.xml
+A	ImmersiveModeSample/src/main/res/values-sw600dp/template-dimens.xml
+A	ImmersiveModeSample/src/main/res/values-sw600dp/template-styles.xml
+A	ImmersiveModeSample/src/main/res/values-v11/template-styles.xml
+A	ImmersiveModeSample/src/main/res/values/base-strings.xml
+A	ImmersiveModeSample/src/main/res/values/strings.xml
+A	ImmersiveModeSample/src/main/res/values/template-dimens.xml
+A	ImmersiveModeSample/src/main/res/values/template-styles.xml
+A	ImmersiveModeSample/tests/AndroidManifest.xml
+A	ImmersiveModeSample/tests/src/com/example/android/immersivemode/tests/ImmersiveModeSampleTests.java
+A	ImmersiveModeSample/tests/src/com/example/android/immersivemode/tests/SampleTests.java
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

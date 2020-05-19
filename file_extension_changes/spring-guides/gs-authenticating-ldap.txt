@@ -1,0 +1,1154 @@
+9df9568;Replace the mention of @EnableWebSecurity annotation
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+
+32763fa;fix typos in sentence
+M	README.adoc
+
+84caff5;Renaming a class
+M	complete/src/test/java/com/example/authenticatingldap/AuthenticatingLdapApplicationTests.java
+
+65b11d6;Upgrade to Spring Boot 2.2
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+A	complete/pom.old
+M	complete/pom.xml
+A	complete/settings.gradle
+R092	complete/src/test/java/com/example/authenticatingldap/ApplicationTests.java	complete/src/test/java/com/example/authenticatingldap/AuthenticatingLdapApplicationTests.java
+M	images/initializr.png
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+M	initial/pom.xml
+A	initial/settings.gradle
+
+1be4406;updated ldif with bcrypt encoded password
+M	complete/src/main/resources/test-server.ldif
+
+0feb729;Updated password encoder to BCryptPasswordEncoder
+M	complete/src/main/java/com/example/authenticatingldap/WebSecurityConfig.java
+
+91826c1;Switch to tabs, and adjust tabsizing in asciidoctor.
+M	README.adoc
+M	complete/src/main/java/com/example/authenticatingldap/AuthenticatingLdapApplication.java
+M	complete/src/main/java/com/example/authenticatingldap/HomeController.java
+M	complete/src/test/java/com/example/authenticatingldap/ApplicationTests.java
+M	initial/src/main/java/com/example/authenticatingldap/AuthenticatingLdapApplication.java
+M	initial/src/main/java/com/example/authenticatingldap/HomeController.java
+
+2c3374b;Upgrade to Gradle 4.10.3.
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+faea872;Fixing broken links
+M	README.adoc
+
+9f9add0;Fixed an include path
+M	README.adoc
+
+d17687b;Use the Spring Initializr
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+R055	complete/src/main/java/hello/Application.java	complete/src/main/java/com/example/authenticatingldap/AuthenticatingLdapApplication.java
+R087	complete/src/main/java/hello/HomeController.java	complete/src/main/java/com/example/authenticatingldap/HomeController.java
+R096	complete/src/main/java/hello/WebSecurityConfig.java	complete/src/main/java/com/example/authenticatingldap/WebSecurityConfig.java
+R097	complete/src/test/java/hello/ApplicationTests.java	complete/src/test/java/com/example/authenticatingldap/ApplicationTests.java
+A	images/initializr.png
+M	initial/build.gradle
+M	initial/pom.xml
+A	initial/src/main/java/com/example/authenticatingldap/AuthenticatingLdapApplication.java
+R061	initial/src/main/java/hello/HomeController.java	initial/src/main/java/com/example/authenticatingldap/HomeController.java
+
+7646dd9;Updated to @OpenJDK.
+M	.travis.yml
+
+895f072;Upgrade to Spring Boot 2.1.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+859d44e;Upgrade to Spring Boot 2.1.4.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+992c7b3;URL Cleanup (#30)
+M	LICENSE.writing.txt
+M	README.adoc
+
+2ff8d49;URL Cleanup (#31)
+M	LICENSE.code.txt
+M	complete/src/test/java/hello/ApplicationTests.java
+
+937b2ab;Upgrade to Spring Boot 2.1.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+cab30a2;Upgrade to Spring Boot 2.0.8.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b83796d;Merge pull request #29 from spring-operator/polish-urls-xml-master
+8ffa55a;URL Cleanup
+M	complete/pom.xml
+M	initial/pom.xml
+
+809bdc3;URL Cleanup (#28)
+M	complete/mvnw
+M	complete/mvnw.cmd
+M	initial/mvnw
+M	initial/mvnw.cmd
+
+9582b0a;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+999416a;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0397862;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7217a80;Upgrade to Spring Boot 2.0.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+039de2c;Remove front matter
+M	README.adoc
+
+434b87a;Upgrade to Spring Boot 2.0.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/WebSecurityConfig.java
+M	initial/build.gradle
+M	initial/pom.xml
+
+5ba03e7;Upgrade to Gradle 4.6
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+564befd;Upgrade to Spring Boot 1.5.10.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+061eb33;Upgrade to Spring Boot 1.5.9.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+074d889;Upgrade to Spring Boot 1.5.8.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+bcf0848;Polish (#23)
+M	complete/src/main/java/hello/WebSecurityConfig.java
+
+24210e8;Upgrade to Spring Boot 1.5.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4f1d3b1;Added See Also links (#22)
+M	README.adoc
+
+d6056c7;Upgrade to Spring Boot 1.5.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+5a744ad;Upgrade to Spring Boot 1.5.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+95cd644;Upgrade to Spring Boot 1.5.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a46d06f;Upgrade to Spring Boot 1.5.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4d65099;Polish (#18)
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/WebSecurityConfig.java
+A	complete/src/main/resources/application.properties
+M	complete/src/main/resources/test-server.ldif
+
+510000f;Upgrade to Spring Boot 1.5.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6a20d48;Upgrade to Spring Boot 1.5.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+bd8a29d;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+7cd2676;Upgrade to Spring Boot 1.4.4.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8d93504;Upgrade to Spring Boot 1.4.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b48f507;Fixed ref to Application.java in README.
+M	README.adoc
+
+7531d38;Upgrade plugin from spring-boot to o.s.boot
+M	complete/build.gradle
+M	initial/build.gradle
+
+3cc1dbd;Upgrade to Spring Boot 1.4.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c85583c;Start unsecured, then securing it + remove Application.java (#14)
+M	initial/build.gradle
+M	initial/pom.xml
+D	initial/src/main/java/hello/Application.java
+
+ffa2c7e;Upgrade to Spring Boot 1.4.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+33aa4af;Upgrade to gradle 2.13
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+
+0d0789e;Add MockMvc Tests
+M	complete/build.gradle
+M	complete/pom.xml
+A	complete/src/test/java/hello/ApplicationTests.java
+M	initial/build.gradle
+M	initial/pom.xml
+
+56d6301;Sync build.gradle / pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6d8cf7d;Use configureGlobal(AuthenticationManagerBuilder)
+M	complete/src/main/java/hello/WebSecurityConfig.java
+
+1b1e16c;Use @GetMapping
+M	complete/src/main/java/hello/HomeController.java
+
+d7378d1;Add macro for @SpringBootApplication
+M	README.adoc
+
+5245dbd;Upgrade to @SpringBoot 1.4.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+10bcfaa;Upgrade to Spring Boot 1.3.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8e6b625;Upgrade to Spring Boot 1.3.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7098fb2;Add Maven wrapper
+A	complete/.mvn/wrapper/maven-wrapper.jar
+A	complete/.mvn/wrapper/maven-wrapper.properties
+A	complete/mvnw
+A	complete/mvnw.cmd
+A	initial/.mvn/wrapper/maven-wrapper.jar
+A	initial/.mvn/wrapper/maven-wrapper.properties
+A	initial/mvnw
+A	initial/mvnw.cmd
+
+429dcf1;Add CONTRIBUTING doc
+A	CONTRIBUTING.adoc
+
+d91f1de;Upgrade to Spring Boot 1.3.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+81034ae;Upgrade to Spring Boot 1.3.4.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e2bee44;Cleanup guide
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/WebSecurityConfig.java
+M	initial/pom.xml
+
+83222ee;Upgrade to Spring Boot 1.3.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+98fb498;Migrate to container-based infrastructure
+M	.travis.yml
+
+e0abe6e;Upgrade to Spring Boot 1.3.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8f0aa98;Upgrade to Spring Boot 1.3.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+628a024;Upgrade to Spring Boot 1.3.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4388789;Upgraded to Spring Boot 1.2.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0089fa2;Upgrade to Spring Boot 1.2.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a36a9f3;Add footer
+M	README.adoc
+
+d3d4211;Upgrade to Spring Boot 1.2.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+96a605d;Fix slack notifications
+M	.travis.yml
+
+5abc8cb;Add travis support
+A	.travis.yml
+
+a39e7bc;Upgrade to Java 8
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c55df82;Upgrade to Spring Boot 1.2.4
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e190841;Upgrade to Spring Boot 1.2.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c6e9203;Fix gradle build file to declare proper version of Java
+M	complete/build.gradle
+M	initial/build.gradle
+
+3b9c7d3;Upgrade guide to indicate requirement for Java 7
+M	README.adoc
+
+f9ead69;Upgrade maven build to Java 7
+M	complete/pom.xml
+M	initial/pom.xml
+
+52f1a4d;Upgrade to Gradle 2.3
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+5d5348f;Handle difference between maven and gradle
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/WebSecurityConfig.java
+
+26a6790;Upgrade to Spring Boot 1.2.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+48f6fbe;Remove mavenLocal and libs-release from gradle build
+M	complete/build.gradle
+M	initial/build.gradle
+
+8400050;Upgrade to @SpringBootApplication
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/HomeController.java
+M	initial/build.gradle
+M	initial/pom.xml
+M	initial/src/main/java/hello/Application.java
+M	initial/src/main/java/hello/HomeController.java
+
+4703bbb;Upgrade to Spring Boot 1.2.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+605bdbb;Remove legacy start-class property from maven builds
+M	complete/pom.xml
+M	initial/pom.xml
+
+84394f6;Upgrade to Spring Boot 1.1.10.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4aca90c;Convert to use https for repositories
+M	complete/build.gradle
+M	initial/build.gradle
+M	initial/pom.xml
+
+d5894d6;Upgrade to Spring Boot 1.1.9.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c2d44b1;Upgrade to Spring Boot 1.1.8.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+9d3afdf;Remove redudant 'run the service' macro
+M	README.adoc
+
+9950706;Upgrade to Spring Boot 1.1.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+454ae19;Upgrade to Spring Boot 1.1.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+9a481ca;Add steps to enhance build files
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+
+fe453e4;Enable hiding/showing build steps
+M	README.adoc
+
+2633a52;Fix for #6 used markdown style linking. Replace with asciidoctor link
+M	README.adoc
+
+63913dc;Update links to Spring Security ref docs
+M	README.adoc
+
+bd01786;Alternative workaround for NPE in Boot 1.1.5
+M	complete/src/main/java/hello/WebSecurityConfig.java
+
+3142bb0;Update to work with Boot 1.1.5
+M	complete/pom.xml
+M	complete/src/main/java/hello/WebSecurityConfig.java
+
+abf3cfa;Update to Spring Boot 1.1.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0f4e1ec;Update to Spring Boot 1.1.4.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c993cb2;Update to Spring Boot 1.1.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+eacd8aa;Upgrade to Spring Boot 1.1.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+56fa270;Upgrade to Spring Boot 1.1.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4807120;Replace repo.spring.io/release with repo.spring.io/libs-release
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6d03362;Upgrade to Spring Boot 1.1.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8394727;Fix unsecured section and a typo in the guide
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ae8d490;Update path to macro content
+M	README.adoc
+
+b802729;Upgrade to Spring Boot 1.0.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a1a4cd7;Upgrade to Spring Boot 1.0.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+56b80cd;Upgrade to Spring Boot 1.0.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e50b793;Upgrade to Spring Boot 1.0.0.RC5
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+94aefa1;Clean up some old typos and TODOs
+M	README.adoc
+
+7eea8d2;Upgrade to Spring Boot 1.0.0.RC4
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+aed9355;Convert to mvn compile for initial codeset
+M	test/run.sh
+
+1da1098;Replace initial gradle build with compileJava
+M	test/run.sh
+
+1cfef43;Move final build file to the beginning and update guides to reflect this
+M	README.adoc
+M	initial/build.gradle
+M	initial/pom.xml
+
+f533d1c;Remove version number from Spring Boot starters
+M	complete/build.gradle
+M	initial/build.gradle
+
+2f752b4;Clean up guides to link to proper javadoc pages and include code instead of use pasted copies
+M	README.adoc
+
+c545590;Upgrade to Spring Boot 1.0.0.RC3
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7c8ccd6;Upgrade to Spring Boot 1.0.0.RC2
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+90032b7;Upgrade to gradle 1.11
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+f52fa6f;Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+10efebb;Remove old SIDEBAR files
+D	SIDEBAR.ftl.md
+D	SIDEBAR.md
+
+7d82c3a;Initial cut of tag and project metadata
+M	README.adoc
+
+4dd15d5;Parameterize spring_version in the README for javadoc links
+M	README.adoc
+
+d230fa6;Fix javadoc links Spring 4
+M	README.adoc
+
+b2e9711;Remove unneeded jump_ahead parameter
+M	README.adoc
+
+709e28a;Convert guide to asciidoctor
+M	.gitignore
+A	README.adoc
+D	README.ftl.md
+D	README.md
+
+affbd21;Add warning about not supported in Java 8 yet.
+M	README.ftl.md
+M	README.md
+
+e98c6bd;Upgrade to Spring Boot 0.5.0.M6 and Spring Security LDAP 3.2.0.RC1
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/WebSecurityConfig.java
+M	initial/build.gradle
+M	initial/pom.xml
+
+4a05cf6;Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+M	README.md
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/pom.xml
+
+c0a6fac;Remove superfluous import statements
+M	README.md
+M	complete/src/main/java/hello/WebSecurityConfig.java
+
+32b0715;Upgrade guide to use Gradle 1.8
+M	README.md
+M	complete/build.gradle
+M	initial/build.gradle
+
+e1b0e95;Remove extraneous web security configuration since this uses Spring 4 M3
+M	README.md
+M	complete/src/main/java/hello/WebSecurityConfig.java
+
+4b4c57e;Update guide to use proper spring.io project links
+M	README.ftl.md
+M	README.md
+
+a02bf20;Update a macro so that it properly uses spring.io
+M	README.md
+
+b8bcd01;Replace repo.springsource.org with repo.spring.io
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+30bef12;Upgrade to Spring Boot 0.5.0.M4
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7965817;Replace 'Spring Boot starter POM' with Spring Boot
+M	README.md
+
+971e2dd;Replace static.springsource.org with docs.spring.io
+M	README.ftl.md
+M	README.md
+
+6665f00;Rebuild sidebar
+M	SIDEBAR.md
+
+d0199d4;Rename tut-web in sidebar
+M	SIDEBAR.ftl.md
+
+4815266;Add tut-web to sidebar
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+d9cc759;Remove spring xd from sidebars
+M	README.ftl.md
+M	README.md
+
+597c228;Upgrade Spring Boot javadocs to docs.spring.io
+M	README.ftl.md
+M	README.md
+
+e8b44e9;Upgrade to Spring Boot 0.5.0.M2
+M	README.ftl.md
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3b6f55e;Update guide to include like to gs-sts
+M	README.md
+
+a8b828e;Remove import for EnableWebMvc when the annotation was struck
+M	complete/src/main/java/hello/Application.java
+M	initial/src/main/java/hello/Application.java
+
+e2cb084;Remove superfluous @EnableWebMvc and rewrite guide based on no XML
+M	README.ftl.md
+M	README.md
+M	complete/src/main/java/hello/Application.java
+M	initial/src/main/java/hello/Application.java
+
+cd4078b;Merge pull request #2 from rwinch/polish-security
+274ab64;Polish Security
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+A	complete/src/main/java/hello/WebSecurityConfig.java
+D	complete/src/main/resources/application-context.xml
+
+5887a14;Rename spring{framework-meta => -guides}
+M	README.md
+
+a210578;Convert guide to display both Gradle and Maven info
+M	README.ftl.md
+M	README.md
+
+14c360c;Apply http://creativecommons.org/licenses/by-nd/3.0/ to written work in this repo
+A	LICENSE.writing.txt
+
+3813b9d;Add ASLv2 license for the code in this repo
+A	LICENSE.code.txt
+
+d426b1f;Clarify mods to buildscript section
+M	README.md
+
+d8ce277;Clean up gradle build steps
+M	README.md
+
+1ab8c44;Convert guide to gradle
+M	README.ftl.md
+M	README.md
+M	initial/build.gradle
+
+aaf9cd9;Use proper name of Git
+M	README.md
+
+5b9f76c;Fix links for /undestanding/Git
+M	README.md
+
+7b3376e;Edit based on feedback
+M	README.ftl.md
+M	README.md
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+d4f5531;Merge pull request #1 from btalbott/master
+43e242e;Edit README, SIDEBAR, add comments to commit
+M	README.ftl.md
+M	SIDEBAR.ftl.md
+
+836d288;Replace understanding docs with macros
+M	SIDEBAR.ftl.md
+A	SIDEBAR.md
+
+a7db919;Move SIDEBAR into a template file
+R100	SIDEBAR.md	SIDEBAR.ftl.md
+
+94b53e0;Replace Tutorial TBD with REST tutorial
+M	SIDEBAR.md
+
+8b732b0;Fix link to spring-boot-maven-plugin
+M	README.md
+
+8ae9c62;Capitalize /understanding/{subject} as approprite
+M	SIDEBAR.md
+
+c2595b5;Fix maven-compiler-plugin to version 2.3.2
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+b5b8fd0;Upgrade to Gradle 1.7
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+d8b2cf1;Detab poms and source
+M	README.md
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/HomeController.java
+M	complete/src/main/resources/application-context.xml
+M	initial/pom.xml
+M	initial/src/main/java/hello/Application.java
+M	initial/src/main/java/hello/HomeController.java
+
+e72adbf;Add intro sentence
+M	README.ftl.md
+M	README.md
+
+d91ceb4;Replace /content with / in GSG links
+M	README.md
+M	SIDEBAR.md
+
+bd51954;Update run.sh
+M	test/run.sh
+
+1c083a9;Add run.sh for CI support
+A	test/run.sh
+
+5e8a9a1;Use libs-snapshot instead of snapshot
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+b2149f7;Remove 'TODO' from pom.xml and rebuild guide
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+d5e07bb;Add gradle supprot
+A	complete/build.gradle
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+A	complete/gradlew
+A	complete/gradlew.bat
+A	initial/build.gradle
+A	initial/gradle/wrapper/gradle-wrapper.jar
+A	initial/gradle/wrapper/gradle-wrapper.properties
+A	initial/gradlew
+A	initial/gradlew.bat
+M	initial/src/main/java/hello/Application.java
+
+9391585;Edit guide to properly use spring-boot:run
+M	README.md
+
+460a96b;Convert spring-boot-up to spring-boot-starter
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+c22d3ee;Upgrade to Spring Boot
+M	README.md
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	initial/pom.xml
+
+8d8df0b;Update README to remove title
+M	README.ftl.md
+M	README.md
+
+8eeb384;Replace java -jar with picketed code block
+M	README.md
+
+2f8827e;Update to spring-package-maven-plugin, Spring Zero, and Spring Security 3.2
+M	README.md
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/resources/application-context.xml
+M	initial/pom.xml
+
+53abb05;Fixed typo in macro
+M	README.md
+
+3ae9116;Regenerate guide based on macro updates from @btalbott
+M	README.md
+
+fa6b16b;Update guides using complete/pom.xml to instead use initial/pom.xml
+M	README.ftl.md
+
+0c09878;Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+c495f9b;Typo in macro. Regenerate guides
+M	README.md
+
+f104c6e;Update build_the_application macros to link in gs-convert-jar-to-war
+M	README.md
+
+1697492;Renegerate guides based on updated macros.md
+M	README.md
+
+d152c0c;Delete old README.src.md
+D	README.src.md
+
+038e037;Regenerate guides based on update to macros.md
+M	README.md
+
+0903445;Add sidebar
+A	SIDEBAR.md
+
+ba7a60d;Convert to fpp
+A	README.ftl.md
+M	README.md
+
+2dbbaa7;Fix download link
+M	README.md
+M	README.src.md
+
+288e71a;Rebuild guide based on updates to pom.xml
+M	README.md
+
+06b8fe9;Remove unnecessary dependency
+M	complete/pom.xml
+M	initial/pom.xml
+
+e210a19;Overhaul guide to reflect current guidelines
+M	README.md
+M	README.src.md
+A	complete/README.md
+D	complete/src/main/resources/log4j.properties
+D	complete/src/main/resources/logging.properties
+A	initial/README.md
+D	initial/build.gradle
+D	initial/gradle/wrapper/gradle-wrapper.jar
+D	initial/gradle/wrapper/gradle-wrapper.properties
+D	initial/gradlew
+D	initial/gradlew.bat
+M	initial/pom.xml
+D	initial/settings.gradle
+A	initial/src/main/java/hello/Application.java
+D	initial/src/main/java/hello/ServletContext.java
+D	initial/src/main/java/hello/SpringAppInitializingConfiguration.java
+D	initial/src/main/java/hello/WebAppInitializer.java
+D	initial/src/main/java/hello/WebConfig.java
+D	initial/src/main/resources/log4j.properties
+
+dd5983e;Fix group membership
+M	complete/pom.xml
+M	complete/src/main/resources/application-context.xml
+M	complete/src/main/resources/logging.properties
+M	complete/src/main/resources/test-server.ldif
+
+96bd6ac;Convert to maven and upgrade to use Spring Bootstrap
+M	.gitignore
+M	README.md
+M	README.src.md
+D	complete/build.gradle
+D	complete/gradle/wrapper/gradle-wrapper.jar
+D	complete/gradle/wrapper/gradle-wrapper.properties
+D	complete/gradlew
+D	complete/gradlew.bat
+A	complete/pom.xml
+D	complete/settings.gradle
+A	complete/src/main/java/hello/Application.java
+R092	complete/src/main/java/ldapauthentication/HomeController.java	complete/src/main/java/hello/HomeController.java
+D	complete/src/main/java/ldapauthentication/RootConfig.java
+D	complete/src/main/java/ldapauthentication/ServletContext.java
+D	complete/src/main/java/ldapauthentication/WebAppInitializer.java
+D	complete/src/main/java/ldapauthentication/WebConfig.java
+M	complete/src/main/resources/log4j.properties
+A	complete/src/main/resources/logging.properties
+A	initial/pom.xml
+R092	initial/src/main/java/ldapauthentication/HomeController.java	initial/src/main/java/hello/HomeController.java
+R095	initial/src/main/java/ldapauthentication/ServletContext.java	initial/src/main/java/hello/ServletContext.java
+R099	complete/src/main/java/ldapauthentication/SpringAppInitializingConfiguration.java	initial/src/main/java/hello/SpringAppInitializingConfiguration.java
+R094	initial/src/main/java/ldapauthentication/WebAppInitializer.java	initial/src/main/java/hello/WebAppInitializer.java
+R090	initial/src/main/java/ldapauthentication/WebConfig.java	initial/src/main/java/hello/WebConfig.java
+D	initial/src/main/java/ldapauthentication/SpringAppInitializingConfiguration.java
+
+43911d3;Generate new version of README
+A	README.md
+
+4c9cbee;Update README.md to README.src.md
+D	README.md
+
+88690b7;Generate README.md files from README.src.md
+A	README.src.md
+
+112a709;Update 'initial' project with proper naming.
+M	initial/settings.gradle
+
+548faf6;Renamed 'start' as 'initial' and updated README appropriately.
+M	README.md
+R100	start/build.gradle	initial/build.gradle
+R100	start/gradle/wrapper/gradle-wrapper.jar	initial/gradle/wrapper/gradle-wrapper.jar
+R100	start/gradle/wrapper/gradle-wrapper.properties	initial/gradle/wrapper/gradle-wrapper.properties
+R100	start/gradlew	initial/gradlew
+R100	start/gradlew.bat	initial/gradlew.bat
+R100	start/settings.gradle	initial/settings.gradle
+R100	start/src/main/java/ldapauthentication/HomeController.java	initial/src/main/java/ldapauthentication/HomeController.java
+R100	start/src/main/java/ldapauthentication/ServletContext.java	initial/src/main/java/ldapauthentication/ServletContext.java
+R100	start/src/main/java/ldapauthentication/SpringAppInitializingConfiguration.java	initial/src/main/java/ldapauthentication/SpringAppInitializingConfiguration.java
+R100	start/src/main/java/ldapauthentication/WebAppInitializer.java	initial/src/main/java/ldapauthentication/WebAppInitializer.java
+R100	start/src/main/java/ldapauthentication/WebConfig.java	initial/src/main/java/ldapauthentication/WebConfig.java
+R100	start/src/main/resources/log4j.properties	initial/src/main/resources/log4j.properties
+
+575ddea;Updated guide to incorporate 'start' and 'complete' sections.
+M	README.md
+M	complete/src/main/resources/test-server.ldif
+D	start/src/main/java/ldapauthentication/RootConfig.java
+M	start/src/main/java/ldapauthentication/WebAppInitializer.java
+M	start/src/main/java/ldapauthentication/WebConfig.java
+D	start/src/main/resources/test-server.ldif
+
+1b05120;Implemented start.
+A	start/build.gradle
+A	start/gradle/wrapper/gradle-wrapper.jar
+A	start/gradle/wrapper/gradle-wrapper.properties
+A	start/gradlew
+A	start/gradlew.bat
+A	start/settings.gradle
+A	start/src/main/java/ldapauthentication/HomeController.java
+A	start/src/main/java/ldapauthentication/RootConfig.java
+A	start/src/main/java/ldapauthentication/ServletContext.java
+A	start/src/main/java/ldapauthentication/SpringAppInitializingConfiguration.java
+A	start/src/main/java/ldapauthentication/WebAppInitializer.java
+A	start/src/main/java/ldapauthentication/WebConfig.java
+A	start/src/main/resources/log4j.properties
+A	start/src/main/resources/test-server.ldif
+
+887e14b;Polish up guide with links to Spring Security reference docs.
+M	README.md
+
+a2f3b68;Removed superfluous log message from build file.
+M	complete/build.gradle
+
+bad948b;Wrote first cut of README with all the code plugged in.
+M	README.md
+R100	complete/webapp.gradle	complete/build.gradle
+D	complete/client.gradle
+D	complete/ldapserver.gradle
+D	complete/src/main/java/ldapauthentication/LdapServerApp.java
+M	complete/src/main/java/ldapauthentication/ServletContext.java
+A	complete/src/main/java/ldapauthentication/SpringAppInitializingConfiguration.java
+R089	complete/src/main/java/ldapauthentication/AppInitializer.java	complete/src/main/java/ldapauthentication/WebAppInitializer.java
+M	complete/src/main/resources/application-context.xml
+M	complete/src/main/resources/log4j.properties
+
+3acf532;Got the baseline example working.
+M	complete/src/main/java/ldapauthentication/AppInitializer.java
+M	complete/src/main/java/ldapauthentication/HomeController.java
+M	complete/src/main/java/ldapauthentication/RootConfig.java
+M	complete/src/main/java/ldapauthentication/WebConfig.java
+M	complete/src/main/resources/application-context.xml
+M	complete/src/main/resources/log4j.properties
+M	complete/src/main/resources/test-server.ldif
+
+4b9c54a;Added link to part of solution.
+M	complete/src/main/java/ldapauthentication/ServletContext.java
+
+b1e7e75;Initial cut at coding the final version.
+A	.gitignore
+A	complete/.gitignore
+A	complete/client.gradle
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+A	complete/gradlew
+A	complete/gradlew.bat
+A	complete/ldapserver.gradle
+A	complete/settings.gradle
+A	complete/src/main/java/ldapauthentication/AppInitializer.java
+A	complete/src/main/java/ldapauthentication/HomeController.java
+A	complete/src/main/java/ldapauthentication/LdapServerApp.java
+A	complete/src/main/java/ldapauthentication/RootConfig.java
+A	complete/src/main/java/ldapauthentication/ServletContext.java
+A	complete/src/main/java/ldapauthentication/WebConfig.java
+A	complete/src/main/resources/application-context.xml
+A	complete/src/main/resources/log4j.properties
+A	complete/src/main/resources/test-server.ldif
+A	complete/webapp.gradle
+
+ecda64d;Initial commit
+A	README.md

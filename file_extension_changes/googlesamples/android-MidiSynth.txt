@@ -1,0 +1,118 @@
+a091add;Update README.md
+M	README.md
+
+448e259;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b24446b;Auto-update
+M	Application/build.gradle
+M	README.md
+
+9420879;Auto-update
+M	Application/build.gradle
+
+90395f1;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/midisynth/MainActivity.java
+M	Application/src/main/java/com/example/android/midisynth/MidiSynthDeviceService.java
+M	Application/src/main/res/layout/main.xml
+M	Application/src/main/res/menu/main.xml
+M	Application/src/main/res/values/styles.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+40e9ae4;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1af8dcb;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+4f9c3ae;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+24c1f1c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+4aa6c96;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+78e1ff3;Auto-update
+M	Application/build.gradle
+M	README.md
+
+154c16e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ad9ab66;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/common/midi/EventScheduler.java
+A	Application/src/main/java/com/example/android/common/midi/MidiConstants.java
+A	Application/src/main/java/com/example/android/common/midi/MidiDispatcher.java
+A	Application/src/main/java/com/example/android/common/midi/MidiEventScheduler.java
+A	Application/src/main/java/com/example/android/common/midi/MidiEventThread.java
+A	Application/src/main/java/com/example/android/common/midi/MidiFramer.java
+A	Application/src/main/java/com/example/android/common/midi/MidiInputPortSelector.java
+A	Application/src/main/java/com/example/android/common/midi/MidiOutputPortConnectionSelector.java
+A	Application/src/main/java/com/example/android/common/midi/MidiOutputPortSelector.java
+A	Application/src/main/java/com/example/android/common/midi/MidiPortConnector.java
+A	Application/src/main/java/com/example/android/common/midi/MidiPortSelector.java
+A	Application/src/main/java/com/example/android/common/midi/MidiPortWrapper.java
+A	Application/src/main/java/com/example/android/common/midi/MidiTools.java
+A	Application/src/main/java/com/example/android/common/midi/synth/EnvelopeADSR.java
+A	Application/src/main/java/com/example/android/common/midi/synth/SawOscillator.java
+A	Application/src/main/java/com/example/android/common/midi/synth/SawOscillatorDPW.java
+A	Application/src/main/java/com/example/android/common/midi/synth/SawVoice.java
+A	Application/src/main/java/com/example/android/common/midi/synth/SimpleAudioOutput.java
+A	Application/src/main/java/com/example/android/common/midi/synth/SineOscillator.java
+A	Application/src/main/java/com/example/android/common/midi/synth/SineVoice.java
+A	Application/src/main/java/com/example/android/common/midi/synth/SynthEngine.java
+A	Application/src/main/java/com/example/android/common/midi/synth/SynthUnit.java
+A	Application/src/main/java/com/example/android/common/midi/synth/SynthVoice.java
+A	Application/src/main/java/com/example/android/midisynth/MainActivity.java
+A	Application/src/main/java/com/example/android/midisynth/MidiSynthDeviceService.java
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/layout/main.xml
+A	Application/src/main/res/menu/main.xml
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/colors.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/styles.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/src/main/res/xml/synth_device_info.xml
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/1-main.png
+A	screenshots/icon-web.png
+A	settings.gradle

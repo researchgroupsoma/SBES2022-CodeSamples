@@ -1,0 +1,121 @@
+122d2f3;Merge pull request #1 from googlesamples/remove-content
+5d7f501;"Removes all content (migrated to new repo). Check README."
+D	.google/packaging.yaml
+D	CONTRIBUTING.md
+D	LICENSE
+D	NOTICE
+D	Wearable/build.gradle
+D	Wearable/src/main/AndroidManifest.xml
+D	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/ComplicationToggleReceiver.java
+D	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/IconProviderService.java
+D	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/LargeImageProviderService.java
+D	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/LongTextProviderService.java
+D	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/NoDataProviderService.java
+D	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/RangedValueProviderService.java
+D	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/ShortTextProviderService.java
+D	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/SmallImageProviderService.java
+D	Wearable/src/main/res/drawable-hdpi/aquarium.png
+D	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable-hdpi/outdoors.png
+D	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable/ic_battery.xml
+D	Wearable/src/main/res/drawable/ic_battery_burn_protect.xml
+D	Wearable/src/main/res/drawable/ic_data_usage_vd_theme_24.xml
+D	Wearable/src/main/res/drawable/ic_event_vd_theme_24.xml
+D	Wearable/src/main/res/drawable/ic_face_vd_theme_24.xml
+D	Wearable/src/main/res/drawable/ic_image_vd_theme_24.xml
+D	Wearable/src/main/res/drawable/ic_landscape_vd_theme_24.xml
+D	Wearable/src/main/res/drawable/ic_not_interested_vd_theme_24.xml
+D	Wearable/src/main/res/drawable/ic_short_text_vd_theme_24.xml
+D	Wearable/src/main/res/drawable/ic_title_vd_theme_24.xml
+D	Wearable/src/main/res/values/strings.xml
+D	Wearable/src/main/res/values/styles.xml
+D	build.gradle
+D	gradle.properties
+D	gradle/wrapper/gradle-wrapper.jar
+D	gradle/wrapper/gradle-wrapper.properties
+D	gradlew
+D	gradlew.bat
+D	screenshots/wear-1.png
+D	screenshots/wear-2.png
+D	settings.gradle
+
+0c4fc93;Update README.md
+M	README.md
+
+0230131;Auto-update
+M	NOTICE
+M	README.md
+M	Wearable/build.gradle
+A	gradle.properties
+M	gradle/wrapper/gradle-wrapper.properties
+
+25ce449;Auto-update
+M	Wearable/build.gradle
+
+b69bb3f;Auto-update
+M	README.md
+M	Wearable/build.gradle
+
+89b260f;Auto-update
+M	LICENSE
+M	NOTICE
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+5fe2e6b;Auto-update
+M	README.md
+M	Wearable/build.gradle
+
+c06bd1b;Auto-update
+M	Wearable/build.gradle
+M	Wearable/src/main/res/values/styles.xml
+
+ce30cf4;Auto-update
+M	Wearable/build.gradle
+
+18d4cf4;Auto-update
+A	.google/packaging.yaml
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+A	README.md
+A	Wearable/build.gradle
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/ComplicationToggleReceiver.java
+A	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/IconProviderService.java
+A	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/LargeImageProviderService.java
+A	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/LongTextProviderService.java
+A	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/NoDataProviderService.java
+A	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/RangedValueProviderService.java
+A	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/ShortTextProviderService.java
+A	Wearable/src/main/java/com/example/android/wearable/wear/wearcomplicationproviderstestsuite/SmallImageProviderService.java
+A	Wearable/src/main/res/drawable-hdpi/aquarium.png
+A	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-hdpi/outdoors.png
+A	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable/ic_battery.xml
+A	Wearable/src/main/res/drawable/ic_battery_burn_protect.xml
+A	Wearable/src/main/res/drawable/ic_data_usage_vd_theme_24.xml
+A	Wearable/src/main/res/drawable/ic_event_vd_theme_24.xml
+A	Wearable/src/main/res/drawable/ic_face_vd_theme_24.xml
+A	Wearable/src/main/res/drawable/ic_image_vd_theme_24.xml
+A	Wearable/src/main/res/drawable/ic_landscape_vd_theme_24.xml
+A	Wearable/src/main/res/drawable/ic_not_interested_vd_theme_24.xml
+A	Wearable/src/main/res/drawable/ic_short_text_vd_theme_24.xml
+A	Wearable/src/main/res/drawable/ic_title_vd_theme_24.xml
+A	Wearable/src/main/res/values/strings.xml
+A	Wearable/src/main/res/values/styles.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/wear-1.png
+A	screenshots/wear-2.png
+A	settings.gradle

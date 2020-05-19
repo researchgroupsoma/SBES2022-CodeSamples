@@ -1,0 +1,242 @@
+5fbcfda;Update README.md
+M	README.md
+
+923d835;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+f8a69ad;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+
+95d2ff5;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+610b21f;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+8197518;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+a2a0354;Auto-update
+M	Wearable/build.gradle
+
+60d9d8b;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+277d47e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+cae7ee4;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+b1d8430;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+ec6e1aa;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/geofencing/GeofenceTransitionsIntentService.java
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+39915b3;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+
+678b11e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+5cc531e;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+M	Wearable/build.gradle
+
+69679f0;Auto-update
+M	Application/build.gradle
+
+5d7a612;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+6b0ef14;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+M	Wearable/build.gradle
+
+0d92ad8;Auto-update
+M	Application/build.gradle
+A	NOTICE
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/geofencing/HomeListenerService.java
+
+b0d0506;Auto-update
+M	LICENSE
+D	NOTICE
+
+48685c5;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/geofencing/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+M	Wearable/build.gradle
+M	settings.gradle
+
+ceaeefb;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+
+ed28d7a;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/geofencing/GeofenceTransitionsIntentService.java
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+M	Wearable/build.gradle
+
+2454263;Auto-update
+M	NOTICE
+
+b11efbb;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+017c03b;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+M	Wearable/build.gradle
+A	screenshots/icon-web.png
+
+ee66d47;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/wearable/geofencing/GeofenceTransitionsIntentService.java
+M	Application/src/main/java/com/example/android/wearable/geofencing/MainActivity.java
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/strings.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+3199fe1;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R098	Application/src/main/java/com/example/android/geofencing/Constants.java	Application/src/main/java/com/example/android/wearable/geofencing/Constants.java
+R091	Application/src/main/java/com/example/android/geofencing/GeofenceTransitionsIntentService.java	Application/src/main/java/com/example/android/wearable/geofencing/GeofenceTransitionsIntentService.java
+R089	Application/src/main/java/com/example/android/geofencing/MainActivity.java	Application/src/main/java/com/example/android/wearable/geofencing/MainActivity.java
+R098	Application/src/main/java/com/example/android/geofencing/SimpleGeofence.java	Application/src/main/java/com/example/android/wearable/geofencing/SimpleGeofence.java
+R086	Application/src/main/java/com/example/android/geofencing/SimpleGeofenceStore.java	Application/src/main/java/com/example/android/wearable/geofencing/SimpleGeofenceStore.java
+D	Shared/build.gradle
+D	Shared/src/main/AndroidManifest.xml
+D	Shared/src/main/res/values/strings.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+R091	Wearable/src/main/java/com/example/android/geofencing/CheckInAndDeleteDataItemsService.java	Wearable/src/main/java/com/example/android/wearable/geofencing/CheckInAndDeleteDataItemsService.java
+R096	Wearable/src/main/java/com/example/android/geofencing/Constants.java	Wearable/src/main/java/com/example/android/wearable/geofencing/Constants.java
+R091	Wearable/src/main/java/com/example/android/geofencing/HomeListenerService.java	Wearable/src/main/java/com/example/android/wearable/geofencing/HomeListenerService.java
+A	screenshots/android_building_check_in.png
+M	settings.gradle
+
+977bc50;Initial Commit
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/geofencing/Constants.java
+A	Application/src/main/java/com/example/android/geofencing/GeofenceTransitionsIntentService.java
+A	Application/src/main/java/com/example/android/geofencing/MainActivity.java
+A	Application/src/main/java/com/example/android/geofencing/SimpleGeofence.java
+A	Application/src/main/java/com/example/android/geofencing/SimpleGeofenceStore.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIB.md
+A	LICENSE
+A	Shared/build.gradle
+A	Shared/src/main/AndroidManifest.xml
+A	Shared/src/main/res/values/strings.xml
+A	Wearable/build.gradle
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/geofencing/CheckInAndDeleteDataItemsService.java
+A	Wearable/src/main/java/com/example/android/geofencing/Constants.java
+A	Wearable/src/main/java/com/example/android/geofencing/HomeListenerService.java
+A	Wearable/src/main/res/drawable-hdpi/ic_action_check_in.png
+A	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-nodpi/android_building.png
+A	Wearable/src/main/res/drawable-nodpi/yerba_buena.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Wearable/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

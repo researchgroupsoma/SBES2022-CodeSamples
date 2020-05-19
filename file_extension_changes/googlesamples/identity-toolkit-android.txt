@@ -1,0 +1,266 @@
+565bbd6;Rename README to README.md
+R100	README	README.md
+
+0314aad;Update README
+M	README
+
+6bdc787;Merge pull request #16 from XiaoxiongLu/master
+9323aeb;Update tutorial sdk version
+M	tutorial/build.gradle
+
+a394dcc;Update Android Library and add facebook v4
+M	identitytoolkit-api10.aar
+M	identitytoolkit-api11.aar
+A	plugins/identitytoolkit_fbv4.jar
+
+3038e20;Merge pull request #14 from XiaoxiongLu/master
+d3583a8;update aar files
+M	identitytoolkit-api10.aar
+M	identitytoolkit-api11.aar
+
+85129ba;Updating documentation
+M	tutorial/src/com/google/identitytoolkit/demo/GitkitDemo.java
+
+f29c0e8;Updating library and plugins
+M	identitytoolkit-api10.aar
+M	identitytoolkit-api11.aar
+A	plugins/identitytoolkit_fb.aar
+M	plugins/identitytoolkit_fb.jar
+
+ecc0032;updating .aar files
+M	identitytoolkit-api10.aar
+M	identitytoolkit-api11.aar
+
+b174fa1;update facebook plugin
+M	plugins/identitytoolkit_fb.jar
+
+a88b559;Fixed comment steps
+M	tutorial/src/com/google/identitytoolkit/demo/GitkitDemo.java
+
+3a1b7b6;Updating tutorial for new library
+M	tutorial/build.gradle
+M	tutorial/res/layout/profile.xml
+M	tutorial/src/com/google/identitytoolkit/demo/GitkitDemo.java
+
+2b02aad;Resovling merge conflict on README
+d86a77a;Updating Android Library
+M	README
+M	identitytoolkit/.classpath
+M	identitytoolkit/AndroidManifest.xml
+M	identitytoolkit/libs/identitytoolkit.jar
+R100	identitytoolkit/res/drawable-hdpi/identitytoolkit_default_photo.png	identitytoolkit/res/drawable-hdpi-v4/identitytoolkit_default_photo.png
+R100	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_amazon_icon.png	identitytoolkit/res/drawable-hdpi-v4/identitytoolkit_idp_amazon_icon.png
+R100	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_aol_icon.png	identitytoolkit/res/drawable-hdpi-v4/identitytoolkit_idp_aol_icon.png
+R100	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_facebook_icon.png	identitytoolkit/res/drawable-hdpi-v4/identitytoolkit_idp_facebook_icon.png
+R100	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_google_icon.png	identitytoolkit/res/drawable-hdpi-v4/identitytoolkit_idp_google_icon.png
+R100	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_linkedin_icon.png	identitytoolkit/res/drawable-hdpi-v4/identitytoolkit_idp_linkedin_icon.png
+R100	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_microsoft_icon.png	identitytoolkit/res/drawable-hdpi-v4/identitytoolkit_idp_microsoft_icon.png
+R100	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_paypal_icon.png	identitytoolkit/res/drawable-hdpi-v4/identitytoolkit_idp_paypal_icon.png
+R100	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_yahoo_icon.png	identitytoolkit/res/drawable-hdpi-v4/identitytoolkit_idp_yahoo_icon.png
+R100	identitytoolkit/res/drawable-mdpi/identitytoolkit_default_photo.png	identitytoolkit/res/drawable-mdpi-v4/identitytoolkit_default_photo.png
+R100	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_amazon_icon.png	identitytoolkit/res/drawable-mdpi-v4/identitytoolkit_idp_amazon_icon.png
+R100	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_aol_icon.png	identitytoolkit/res/drawable-mdpi-v4/identitytoolkit_idp_aol_icon.png
+R100	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_facebook_icon.png	identitytoolkit/res/drawable-mdpi-v4/identitytoolkit_idp_facebook_icon.png
+R100	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_google_icon.png	identitytoolkit/res/drawable-mdpi-v4/identitytoolkit_idp_google_icon.png
+R100	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_linkedin_icon.png	identitytoolkit/res/drawable-mdpi-v4/identitytoolkit_idp_linkedin_icon.png
+R100	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_microsoft_icon.png	identitytoolkit/res/drawable-mdpi-v4/identitytoolkit_idp_microsoft_icon.png
+R100	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_paypal_icon.png	identitytoolkit/res/drawable-mdpi-v4/identitytoolkit_idp_paypal_icon.png
+R100	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_yahoo_icon.png	identitytoolkit/res/drawable-mdpi-v4/identitytoolkit_idp_yahoo_icon.png
+R100	identitytoolkit/res/drawable-xhdpi/identitytoolkit_default_photo.png	identitytoolkit/res/drawable-xhdpi-v4/identitytoolkit_default_photo.png
+R100	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_amazon_icon.png	identitytoolkit/res/drawable-xhdpi-v4/identitytoolkit_idp_amazon_icon.png
+R100	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_aol_icon.png	identitytoolkit/res/drawable-xhdpi-v4/identitytoolkit_idp_aol_icon.png
+R100	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_facebook_icon.png	identitytoolkit/res/drawable-xhdpi-v4/identitytoolkit_idp_facebook_icon.png
+R100	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_google_icon.png	identitytoolkit/res/drawable-xhdpi-v4/identitytoolkit_idp_google_icon.png
+R100	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_linkedin_icon.png	identitytoolkit/res/drawable-xhdpi-v4/identitytoolkit_idp_linkedin_icon.png
+R100	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_microsoft_icon.png	identitytoolkit/res/drawable-xhdpi-v4/identitytoolkit_idp_microsoft_icon.png
+R100	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_paypal_icon.png	identitytoolkit/res/drawable-xhdpi-v4/identitytoolkit_idp_paypal_icon.png
+R100	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_yahoo_icon.png	identitytoolkit/res/drawable-xhdpi-v4/identitytoolkit_idp_yahoo_icon.png
+R100	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_default_photo.png	identitytoolkit/res/drawable-xxhdpi-v4/identitytoolkit_default_photo.png
+R100	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_amazon_icon.png	identitytoolkit/res/drawable-xxhdpi-v4/identitytoolkit_idp_amazon_icon.png
+R100	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_aol_icon.png	identitytoolkit/res/drawable-xxhdpi-v4/identitytoolkit_idp_aol_icon.png
+R100	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_facebook_icon.png	identitytoolkit/res/drawable-xxhdpi-v4/identitytoolkit_idp_facebook_icon.png
+R100	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_google_icon.png	identitytoolkit/res/drawable-xxhdpi-v4/identitytoolkit_idp_google_icon.png
+R100	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_linkedin_icon.png	identitytoolkit/res/drawable-xxhdpi-v4/identitytoolkit_idp_linkedin_icon.png
+R100	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_microsoft_icon.png	identitytoolkit/res/drawable-xxhdpi-v4/identitytoolkit_idp_microsoft_icon.png
+R100	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_paypal_icon.png	identitytoolkit/res/drawable-xxhdpi-v4/identitytoolkit_idp_paypal_icon.png
+R100	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_yahoo_icon.png	identitytoolkit/res/drawable-xxhdpi-v4/identitytoolkit_idp_yahoo_icon.png
+M	identitytoolkit/res/drawable/identitytoolkit_account_chip_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_button_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_button_bg_disabled.xml
+M	identitytoolkit/res/drawable/identitytoolkit_button_bg_normal.xml
+M	identitytoolkit/res/drawable/identitytoolkit_idp_amazon_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_idp_aol_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_idp_facebook_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_idp_google_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_idp_linkedin_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_idp_microsoft_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_idp_paypal_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_idp_yahoo_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_text_input_bg.xml
+M	identitytoolkit/res/drawable/identitytoolkit_text_input_bg_focused.xml
+M	identitytoolkit/res/drawable/identitytoolkit_text_input_bg_invalid.xml
+M	identitytoolkit/res/drawable/identitytoolkit_text_input_bg_unfocused.xml
+M	identitytoolkit/res/layout/identitytoolkit_account_chip_sign_in_page.xml
+M	identitytoolkit/res/layout/identitytoolkit_idp_button.xml
+M	identitytoolkit/res/layout/identitytoolkit_idp_link_account_page.xml
+M	identitytoolkit/res/layout/identitytoolkit_password_link_account_page.xml
+M	identitytoolkit/res/layout/identitytoolkit_password_sign_in_page.xml
+M	identitytoolkit/res/layout/identitytoolkit_password_sign_up_page.xml
+M	identitytoolkit/res/layout/identitytoolkit_start_sign_in_page.xml
+A	identitytoolkit/res/values-sw480dp-v13/values.xml
+D	identitytoolkit/res/values-sw480dp/configs.xml
+R060	identitytoolkit/res/values-v16/styles.xml	identitytoolkit/res/values-v16/values.xml
+D	identitytoolkit/res/values/colors.xml
+D	identitytoolkit/res/values/configs.xml
+D	identitytoolkit/res/values/dimens.xml
+D	identitytoolkit/res/values/strings.xml
+D	identitytoolkit/res/values/styles.xml
+A	identitytoolkit/res/values/values.xml
+M	tutorial/.classpath
+M	tutorial/AndroidManifest.xml
+M	tutorial/project.properties
+M	tutorial/src/com/google/identitytoolkit/demo/GitkitDemo.java
+
+c34ed98;Update README
+M	README
+
+1bd658f;Update README
+M	README
+
+6909c49;Updating .aar
+A	identitytoolkit-api10.aar
+A	identitytoolkit-api11.aar
+D	identitytoolkit.aar
+
+cfb1c92;Merge pull request #5 from dereksalama/patch-4
+4f34afc;Merge pull request #4 from dereksalama/patch-3
+82de53b;Merge pull request #3 from dereksalama/patch-2
+15acefa;Update build.gradle
+M	tutorial/build.gradle
+
+5cd3eaa;Remove Yahoo from providers
+M	tutorial/AndroidManifest.xml
+
+8b2429e;Update AndroidManifest.xml
+M	tutorial/AndroidManifest.xml
+
+795e914;Merge pull request #2 from dereksalama/patch-1
+635c350;Update build.gradle
+M	tutorial/build.gradle
+
+a068549;Update build.gradle
+M	tutorial/build.gradle
+
+2feff8f;Merge pull request #1 from mcduan/master
+2adacf3;Add AUTHORS, CONTRIBUTORS, LICENSE and README files.
+A	AUTHORS
+A	CONTRIBUTORS
+A	LICENSE
+A	README
+
+964d266;Initial import of Identity Toolkit quickstart for Android.
+A	identitytoolkit.aar
+A	identitytoolkit/.classpath
+A	identitytoolkit/.project
+A	identitytoolkit/AndroidManifest.xml
+A	identitytoolkit/build.gradle
+A	identitytoolkit/libs/identitytoolkit.jar
+A	identitytoolkit/project.properties
+A	identitytoolkit/res/drawable-hdpi/identitytoolkit_default_photo.png
+A	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_amazon_icon.png
+A	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_aol_icon.png
+A	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_facebook_icon.png
+A	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_google_icon.png
+A	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_linkedin_icon.png
+A	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_microsoft_icon.png
+A	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_paypal_icon.png
+A	identitytoolkit/res/drawable-hdpi/identitytoolkit_idp_yahoo_icon.png
+A	identitytoolkit/res/drawable-mdpi/identitytoolkit_default_photo.png
+A	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_amazon_icon.png
+A	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_aol_icon.png
+A	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_facebook_icon.png
+A	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_google_icon.png
+A	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_linkedin_icon.png
+A	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_microsoft_icon.png
+A	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_paypal_icon.png
+A	identitytoolkit/res/drawable-mdpi/identitytoolkit_idp_yahoo_icon.png
+A	identitytoolkit/res/drawable-xhdpi/identitytoolkit_default_photo.png
+A	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_amazon_icon.png
+A	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_aol_icon.png
+A	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_facebook_icon.png
+A	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_google_icon.png
+A	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_linkedin_icon.png
+A	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_microsoft_icon.png
+A	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_paypal_icon.png
+A	identitytoolkit/res/drawable-xhdpi/identitytoolkit_idp_yahoo_icon.png
+A	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_default_photo.png
+A	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_amazon_icon.png
+A	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_aol_icon.png
+A	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_facebook_icon.png
+A	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_google_icon.png
+A	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_linkedin_icon.png
+A	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_microsoft_icon.png
+A	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_paypal_icon.png
+A	identitytoolkit/res/drawable-xxhdpi/identitytoolkit_idp_yahoo_icon.png
+A	identitytoolkit/res/drawable/identitytoolkit_account_chip_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_button_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_button_bg_disabled.xml
+A	identitytoolkit/res/drawable/identitytoolkit_button_bg_normal.xml
+A	identitytoolkit/res/drawable/identitytoolkit_idp_amazon_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_idp_aol_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_idp_facebook_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_idp_google_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_idp_linkedin_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_idp_microsoft_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_idp_paypal_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_idp_yahoo_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_text_input_bg.xml
+A	identitytoolkit/res/drawable/identitytoolkit_text_input_bg_focused.xml
+A	identitytoolkit/res/drawable/identitytoolkit_text_input_bg_invalid.xml
+A	identitytoolkit/res/drawable/identitytoolkit_text_input_bg_unfocused.xml
+A	identitytoolkit/res/layout/identitytoolkit_account_chip_sign_in_page.xml
+A	identitytoolkit/res/layout/identitytoolkit_idp_button.xml
+A	identitytoolkit/res/layout/identitytoolkit_idp_link_account_page.xml
+A	identitytoolkit/res/layout/identitytoolkit_password_link_account_page.xml
+A	identitytoolkit/res/layout/identitytoolkit_password_sign_in_page.xml
+A	identitytoolkit/res/layout/identitytoolkit_password_sign_up_page.xml
+A	identitytoolkit/res/layout/identitytoolkit_start_sign_in_page.xml
+A	identitytoolkit/res/values-sw480dp/configs.xml
+A	identitytoolkit/res/values-v16/styles.xml
+A	identitytoolkit/res/values/colors.xml
+A	identitytoolkit/res/values/configs.xml
+A	identitytoolkit/res/values/dimens.xml
+A	identitytoolkit/res/values/strings.xml
+A	identitytoolkit/res/values/styles.xml
+A	identitytoolkit/src/com/google/identitytoolkit/UnusedStub.java
+A	plugins/identitytoolkit_fb.jar
+A	tutorial/.classpath
+A	tutorial/.project
+A	tutorial/AndroidManifest.xml
+A	tutorial/build.gradle
+A	tutorial/ic_launcher-web.png
+A	tutorial/project.properties
+A	tutorial/res/drawable-hdpi/default_photo.png
+A	tutorial/res/drawable-hdpi/ic_launcher.png
+A	tutorial/res/drawable-mdpi/default_photo.png
+A	tutorial/res/drawable-mdpi/ic_launcher.png
+A	tutorial/res/drawable-xhdpi/default_photo.png
+A	tutorial/res/drawable-xhdpi/ic_launcher.png
+A	tutorial/res/drawable-xxhdpi/default_photo.png
+A	tutorial/res/drawable-xxhdpi/ic_launcher.png
+A	tutorial/res/drawable/account_chip_bg.xml
+A	tutorial/res/drawable/button_bg.xml
+A	tutorial/res/drawable/button_bg_disabled.xml
+A	tutorial/res/drawable/button_bg_normal.xml
+A	tutorial/res/drawable/button_bg_pressed.xml
+A	tutorial/res/layout/profile.xml
+A	tutorial/res/layout/welcome.xml
+A	tutorial/res/values-v11/styles.xml
+A	tutorial/res/values-v14/styles.xml
+A	tutorial/res/values/strings.xml
+A	tutorial/res/values/styles.xml
+A	tutorial/src/com/google/identitytoolkit/demo/GitkitDemo.java
+A	tutorial/src/com/google/identitytoolkit/demo/HttpUtils.java
+
+bfad7fa;first commit
+A	template-params.yaml

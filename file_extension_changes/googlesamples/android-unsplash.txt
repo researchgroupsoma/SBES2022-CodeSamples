@@ -1,0 +1,313 @@
+c2345a9;Update README.md
+M	README.md
+
+87bbaad;Merge pull request #13 from googlesamples/remove-content
+2b29e16;Removes all content (migrated to new repo). Check README.
+D	.gitignore
+D	CONTRIBUTING.md
+D	LICENSE
+D	NOTICE
+D	app/.gitignore
+D	app/build.gradle
+D	app/src/main/AndroidManifest.xml
+D	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+D	app/src/main/java/com/example/android/unsplash/IntentUtil.java
+D	app/src/main/java/com/example/android/unsplash/MainActivity.java
+D	app/src/main/java/com/example/android/unsplash/data/UnsplashService.java
+D	app/src/main/java/com/example/android/unsplash/data/model/Photo.java
+D	app/src/main/java/com/example/android/unsplash/transition/TextResize.java
+D	app/src/main/java/com/example/android/unsplash/ui/DetailSharedElementEnterCallback.java
+D	app/src/main/java/com/example/android/unsplash/ui/ForegroundImageView.java
+D	app/src/main/java/com/example/android/unsplash/ui/ImageSize.java
+D	app/src/main/java/com/example/android/unsplash/ui/ThreeTwoImageView.java
+D	app/src/main/java/com/example/android/unsplash/ui/TransitionCallback.java
+D	app/src/main/java/com/example/android/unsplash/ui/grid/GridMarginDecoration.java
+D	app/src/main/java/com/example/android/unsplash/ui/grid/OnItemSelectedListener.java
+D	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java
+D	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoViewHolder.java
+D	app/src/main/java/com/example/android/unsplash/ui/pager/DetailViewPagerAdapter.java
+D	app/src/main/res/animator/raise.xml
+D	app/src/main/res/drawable/grey_ripple.xml
+D	app/src/main/res/drawable/ic_arrow_back.xml
+D	app/src/main/res/drawable/page_margin.xml
+D	app/src/main/res/layout/activity_detail.xml
+D	app/src/main/res/layout/activity_main.xml
+D	app/src/main/res/layout/detail_view.xml
+D	app/src/main/res/layout/photo_item.xml
+D	app/src/main/res/mipmap-hdpi/ic_launcher.png
+D	app/src/main/res/mipmap-mdpi/ic_launcher.png
+D	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+D	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+D	app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+D	app/src/main/res/transition/grid_exit.xml
+D	app/src/main/res/transition/grid_reenter.xml
+D	app/src/main/res/transition/shared_main_detail.xml
+D	app/src/main/res/values/attrs_foreground_view.xml
+D	app/src/main/res/values/colors.xml
+D	app/src/main/res/values/dimens.xml
+D	app/src/main/res/values/ids.xml
+D	app/src/main/res/values/integers.xml
+D	app/src/main/res/values/strings.xml
+D	app/src/main/res/values/styles.xml
+D	build.gradle
+D	gradle.properties
+D	gradle/wrapper/gradle-wrapper.jar
+D	gradle/wrapper/gradle-wrapper.properties
+D	gradlew
+D	gradlew.bat
+D	settings.gradle
+
+8a35b62;Replace OnClickListener with OnItemTouchListener
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+A	app/src/main/java/com/example/android/unsplash/ui/grid/OnItemSelectedListener.java
+M	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java
+
+5f001bb;Change items and shared re-enter
+M	app/build.gradle
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+M	app/src/main/java/com/example/android/unsplash/IntentUtil.java
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+A	app/src/main/java/com/example/android/unsplash/ui/DetailSharedElementEnterCallback.java
+A	app/src/main/java/com/example/android/unsplash/ui/TransitionCallback.java
+M	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java
+A	app/src/main/java/com/example/android/unsplash/ui/pager/DetailViewPagerAdapter.java
+A	app/src/main/res/drawable/page_margin.xml
+M	app/src/main/res/layout/activity_detail.xml
+M	app/src/main/res/layout/activity_main.xml
+A	app/src/main/res/layout/detail_view.xml
+M	app/src/main/res/layout/photo_item.xml
+M	app/src/main/res/values/colors.xml
+M	app/src/main/res/values/dimens.xml
+A	app/src/main/res/values/ids.xml
+M	app/src/main/res/values/integers.xml
+M	app/src/main/res/values/styles.xml
+
+7b92acd;Update icon
+M	.gitignore
+M	app/src/main/res/mipmap-hdpi/ic_launcher.png
+M	app/src/main/res/mipmap-mdpi/ic_launcher.png
+M	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+M	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+
+1ef2f58;Fix transition orientation changes
+M	app/src/main/AndroidManifest.xml
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+M	app/src/main/java/com/example/android/unsplash/IntentUtil.java
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+M	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java
+M	app/src/main/res/layout/activity_detail.xml
+M	app/src/main/res/transition/shared_main_detail.xml
+
+308c170;Fix NullPointException when phone has no navigation bar (#3)
+M	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java
+
+d36083c;Merge pull request #1 from amilcar-andrade/npe
+207c6c7;Fixes NPE by getting the CSL from the binding object if targetTextColors is null
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+
+fc50e2a;Tidy up
+A	README.md
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+M	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java
+M	app/src/main/res/layout/photo_item.xml
+M	app/src/main/res/transition/grid_reenter.xml
+M	app/src/main/res/transition/shared_main_detail.xml
+
+1120e97;Add interruption support for TextResize.
+M	app/src/main/java/com/example/android/unsplash/transition/TextResize.java
+
+e496ca3;Introduce color filtering
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+M	app/src/main/java/com/example/android/unsplash/IntentUtil.java
+M	app/src/main/java/com/example/android/unsplash/transition/TextResize.java
+M	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java
+M	app/src/main/res/layout/photo_item.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+392bf88;Deleted unused ids file.
+D	app/src/main/res/values/ids.xml
+
+81c94a7;Merge "Cleaned up RecyclerView setup."
+c9c00f7;Merge "Toned down the arc motion."
+907eb09;Merge "Removed unused dependency."
+a107e88;Removed unused dependency.
+M	app/build.gradle
+
+b898877;Toned down the arc motion.
+M	app/src/main/res/transition/shared_main_detail.xml
+
+c3fa335;Cleaned up RecyclerView setup.
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+M	app/src/main/res/layout/activity_main.xml
+
+1901438;Cleaned up item click handling.
+M	app/src/main/java/com/example/android/unsplash/IntentUtil.java
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+D	app/src/main/java/com/example/android/unsplash/ui/ItemClickSupport.java
+M	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java
+
+0da8dd7;Improve master detail transition
+M	.gitignore
+M	app/build.gradle
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+A	app/src/main/java/com/example/android/unsplash/IntentUtil.java
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+M	app/src/main/res/layout/photo_item.xml
+M	app/src/main/res/transition/grid_exit.xml
+M	app/src/main/res/transition/shared_main_detail.xml
+M	app/src/main/res/values/styles.xml
+
+3274f08;Adjust to presentation
+M	app/src/main/AndroidManifest.xml
+M	app/src/main/res/layout/activity_detail.xml
+M	app/src/main/res/layout/photo_item.xml
+M	app/src/main/res/values/colors.xml
+M	app/src/main/res/values/styles.xml
+
+0f420af;remove dash from author
+M	app/src/main/res/layout/activity_detail.xml
+M	app/src/main/res/layout/photo_item.xml
+
+f578da6;Update TextResize to follow app conventions.
+M	app/src/main/java/com/example/android/unsplash/transition/TextResize.java
+
+027143f;package shuffle, remove unused resources
+M	app/src/main/AndroidManifest.xml
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+R094	app/src/main/java/com/example/android/unsplash/view/ImageSize.java	app/src/main/java/com/example/android/unsplash/ui/ImageSize.java
+R096	app/src/main/java/com/example/android/unsplash/view/GridMarginDecoration.java	app/src/main/java/com/example/android/unsplash/ui/grid/GridMarginDecoration.java
+R096	app/src/main/java/com/example/android/unsplash/view/PhotoAdapter.java	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java
+R095	app/src/main/java/com/example/android/unsplash/view/PhotoViewHolder.java	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoViewHolder.java
+M	app/src/main/res/layout/photo_item.xml
+M	app/src/main/res/transition/grid_exit.xml
+M	app/src/main/res/values/strings.xml
+
+ded9262;Improve image transition
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+A	app/src/main/java/com/example/android/unsplash/view/ImageSize.java
+M	app/src/main/java/com/example/android/unsplash/view/PhotoAdapter.java
+
+1d728b4;simplify transition declaration, remove unused var
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+M	app/src/main/res/transition/shared_main_detail.xml
+
+f5ca4ef;Restructure code for easier navigation and clarity
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+A	app/src/main/java/com/example/android/unsplash/view/GridMarginDecoration.java
+A	app/src/main/java/com/example/android/unsplash/view/PhotoAdapter.java
+A	app/src/main/java/com/example/android/unsplash/view/PhotoViewHolder.java
+
+6c0e363;Shared element now includes the author
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+M	app/src/main/res/layout/activity_detail.xml
+M	app/src/main/res/layout/photo_item.xml
+R052	app/src/main/res/transition/shared_photo.xml	app/src/main/res/transition/shared_main_detail.xml
+M	app/src/main/res/values/strings.xml
+M	app/src/main/res/values/styles.xml
+
+d722c4b;rename photo to data in binding
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+M	app/src/main/res/layout/activity_detail.xml
+
+71957e7;Introduce data binding
+M	app/build.gradle
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+M	app/src/main/java/com/example/android/unsplash/data/model/Photo.java
+M	app/src/main/res/layout/activity_detail.xml
+M	app/src/main/res/layout/activity_main.xml
+M	app/src/main/res/layout/photo_item.xml
+M	app/src/main/res/values/styles.xml
+
+394f198;Continued clean up
+M	app/build.gradle
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+M	app/src/main/java/com/example/android/unsplash/data/UnsplashService.java
+M	app/src/main/java/com/example/android/unsplash/ui/ItemClickSupport.java
+M	app/src/main/java/com/example/android/unsplash/ui/ThreeTwoImageView.java
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+bcc6f0d;Introduce TextResize transition
+A	app/src/main/java/com/example/android/unsplash/transition/TextResize.java
+
+931e3f4;cleanup
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+M	app/build.gradle
+D	app/proguard-rules.pro
+M	app/src/main/AndroidManifest.xml
+M	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+M	app/src/main/java/com/example/android/unsplash/MainActivity.java
+M	app/src/main/java/com/example/android/unsplash/data/UnsplashService.java
+M	app/src/main/java/com/example/android/unsplash/data/model/Photo.java
+M	app/src/main/java/com/example/android/unsplash/ui/ForegroundImageView.java
+M	app/src/main/java/com/example/android/unsplash/ui/ItemClickSupport.java
+M	app/src/main/java/com/example/android/unsplash/ui/ThreeTwoImageView.java
+M	app/src/main/res/animator/raise.xml
+M	app/src/main/res/drawable/grey_ripple.xml
+M	app/src/main/res/drawable/ic_arrow_back.xml
+M	app/src/main/res/layout/activity_detail.xml
+M	app/src/main/res/layout/activity_main.xml
+M	app/src/main/res/layout/photo_item.xml
+M	app/src/main/res/transition/grid_exit.xml
+M	app/src/main/res/transition/grid_reenter.xml
+M	app/src/main/res/transition/shared_photo.xml
+M	app/src/main/res/values/attrs_foreground_view.xml
+M	app/src/main/res/values/colors.xml
+M	app/src/main/res/values/dimens.xml
+M	app/src/main/res/values/ids.xml
+M	app/src/main/res/values/integers.xml
+M	app/src/main/res/values/strings.xml
+M	app/src/main/res/values/styles.xml
+M	build.gradle
+M	gradle.properties
+M	gradle/wrapper/gradle-wrapper.properties
+M	settings.gradle
+
+f5b5e2b;Initial migration
+A	.gitignore
+A	app/.gitignore
+A	app/build.gradle
+A	app/proguard-rules.pro
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/example/android/unsplash/DetailActivity.java
+A	app/src/main/java/com/example/android/unsplash/MainActivity.java
+A	app/src/main/java/com/example/android/unsplash/data/UnsplashService.java
+A	app/src/main/java/com/example/android/unsplash/data/model/Photo.java
+A	app/src/main/java/com/example/android/unsplash/ui/ForegroundImageView.java
+A	app/src/main/java/com/example/android/unsplash/ui/ItemClickSupport.java
+A	app/src/main/java/com/example/android/unsplash/ui/ThreeTwoImageView.java
+A	app/src/main/res/animator/raise.xml
+A	app/src/main/res/drawable/grey_ripple.xml
+A	app/src/main/res/drawable/ic_arrow_back.xml
+A	app/src/main/res/layout/activity_detail.xml
+A	app/src/main/res/layout/activity_main.xml
+A	app/src/main/res/layout/photo_item.xml
+A	app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/transition/grid_exit.xml
+A	app/src/main/res/transition/grid_reenter.xml
+A	app/src/main/res/transition/shared_photo.xml
+A	app/src/main/res/values/attrs_foreground_view.xml
+A	app/src/main/res/values/colors.xml
+A	app/src/main/res/values/dimens.xml
+A	app/src/main/res/values/ids.xml
+A	app/src/main/res/values/integers.xml
+A	app/src/main/res/values/strings.xml
+A	app/src/main/res/values/styles.xml
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle
+
+67d16a5;Initial empty repository

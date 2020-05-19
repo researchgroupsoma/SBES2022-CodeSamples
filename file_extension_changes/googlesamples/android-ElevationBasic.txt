@@ -1,0 +1,207 @@
+da35a07;Update README.md
+M	README.md
+
+f197f4c;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+09a8c6b;Auto-update
+M	Application/build.gradle
+M	README.md
+
+1a4b3ef;Auto-update
+M	Application/build.gradle
+
+25744e9;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+27a46e1;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/elevationbasic/ElevationBasicFragment.java
+M	Application/src/main/res/layout/elevation_basic.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+6765cf4;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8094e1a;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+4fffb5c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8408e4d;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+49762a8;Auto-update
+M	Application/build.gradle
+M	README.md
+
+c521182;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a8a3a6d;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+9b9bddd;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+bf2a388;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+66a8841;Auto-update
+M	LICENSE
+D	NOTICE
+
+a8e821f;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/elevationbasic/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+5120633;Auto-update
+M	Application/build.gradle
+M	README.md
+
+37e37ec;Auto-update
+M	Application/build.gradle
+M	README.md
+
+64cb540;Auto-update
+M	.google/packaging.yaml
+M	NOTICE
+M	README.md
+A	screenshots/fixed.png
+A	screenshots/icon-web.png
+A	screenshots/raised.png
+
+a74ed8d;Auto-update
+M	Application/build.gradle
+
+ecbab13;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+a8f92e8;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+7acefee;Auto-update
+R072	ElevationBasicSample/build.gradle	Application/build.gradle
+R100	ElevationBasicSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	ElevationBasicSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+R100	ElevationBasicSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	ElevationBasicSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	ElevationBasicSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	ElevationBasicSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	ElevationBasicSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	ElevationBasicSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	ElevationBasicSample/src/main/java/com/example/android/elevationbasic/ElevationBasicFragment.java	Application/src/main/java/com/example/android/elevationbasic/ElevationBasicFragment.java
+R091	ElevationBasicSample/src/main/java/com/example/android/elevationbasic/MainActivity.java	Application/src/main/java/com/example/android/elevationbasic/MainActivity.java
+R100	ElevationBasicSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	ElevationBasicSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	ElevationBasicSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	ElevationBasicSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	ElevationBasicSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	ElevationBasicSample/src/main/res/drawable/shape.xml	Application/src/main/res/drawable/shape.xml
+R100	ElevationBasicSample/src/main/res/drawable/shape2.xml	Application/src/main/res/drawable/shape2.xml
+R100	ElevationBasicSample/src/main/res/layout-w720dp/activity_main.xml	Application/src/main/res/layout-w720dp/activity_main.xml
+R100	ElevationBasicSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	ElevationBasicSample/src/main/res/layout/elevation_basic.xml	Application/src/main/res/layout/elevation_basic.xml
+R100	ElevationBasicSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	ElevationBasicSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	ElevationBasicSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	ElevationBasicSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+R100	ElevationBasicSample/src/main/res/values-v21/template-styles.xml	Application/src/main/res/values-v21/template-styles.xml
+R099	ElevationBasicSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	ElevationBasicSample/src/main/res/values/colors.xml	Application/src/main/res/values/colors.xml
+R100	ElevationBasicSample/src/main/res/values/fragmentview_strings.xml	Application/src/main/res/values/fragmentview_strings.xml
+R100	ElevationBasicSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	ElevationBasicSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R093	ElevationBasicSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	ElevationBasicSample/tests/src/com/example/android/elevationbasic/tests/SampleTests.java	Application/tests/src/com/example/android/elevationbasic/tests/SampleTests.java
+M	README.md
+M	packaging.yaml
+M	settings.gradle
+
+c8212db;Update sample with latest changes from Android SDK
+A	CONTRIB.md
+M	ElevationBasicSample/build.gradle
+A	LICENSE
+A	README.md
+D	README.txt
+A	packaging.yaml
+
+d55f4b4;Initial commit
+A	ElevationBasicSample/build.gradle
+A	ElevationBasicSample/src/main/AndroidManifest.xml
+A	ElevationBasicSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	ElevationBasicSample/src/main/java/com/example/android/common/logger/Log.java
+A	ElevationBasicSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	ElevationBasicSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	ElevationBasicSample/src/main/java/com/example/android/common/logger/LogView.java
+A	ElevationBasicSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	ElevationBasicSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	ElevationBasicSample/src/main/java/com/example/android/elevationbasic/ElevationBasicFragment.java
+A	ElevationBasicSample/src/main/java/com/example/android/elevationbasic/MainActivity.java
+A	ElevationBasicSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	ElevationBasicSample/src/main/res/drawable-hdpi/tile.9.png
+A	ElevationBasicSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	ElevationBasicSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	ElevationBasicSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	ElevationBasicSample/src/main/res/drawable/shape.xml
+A	ElevationBasicSample/src/main/res/drawable/shape2.xml
+A	ElevationBasicSample/src/main/res/layout-w720dp/activity_main.xml
+A	ElevationBasicSample/src/main/res/layout/activity_main.xml
+A	ElevationBasicSample/src/main/res/layout/elevation_basic.xml
+A	ElevationBasicSample/src/main/res/menu/main.xml
+A	ElevationBasicSample/src/main/res/values-sw600dp/template-dimens.xml
+A	ElevationBasicSample/src/main/res/values-sw600dp/template-styles.xml
+A	ElevationBasicSample/src/main/res/values-v11/template-styles.xml
+A	ElevationBasicSample/src/main/res/values-v21/template-styles.xml
+A	ElevationBasicSample/src/main/res/values/base-strings.xml
+A	ElevationBasicSample/src/main/res/values/colors.xml
+A	ElevationBasicSample/src/main/res/values/fragmentview_strings.xml
+A	ElevationBasicSample/src/main/res/values/template-dimens.xml
+A	ElevationBasicSample/src/main/res/values/template-styles.xml
+A	ElevationBasicSample/tests/AndroidManifest.xml
+A	ElevationBasicSample/tests/src/com/example/android/elevationbasic/tests/SampleTests.java
+A	README.txt
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

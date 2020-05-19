@@ -1,0 +1,49 @@
+7d381cb;Update README.md
+M	README.md
+
+7359f80;Merge pull request #2 from ciarand/fix-start_periodic_task-example
+0a48774;Update start_periodic_task to 30s period
+M	app/src/main/java/com/google/example/gcmnetworkmanagerquickstart/MainActivity.java
+
+8569555;Check for Play Services availability
+M	app/src/main/java/com/google/example/gcmnetworkmanagerquickstart/MainActivity.java
+
+ac4c2e9;CONTRIBUTING
+A	CONTRIBUTING.md
+
+a07aed0;LICENSE, Copyright, and README
+A	LICENSE
+A	README.md
+M	app/src/main/java/com/google/example/gcmnetworkmanagerquickstart/MainActivity.java
+M	app/src/main/java/com/google/example/gcmnetworkmanagerquickstart/MyTaskService.java
+M	app/src/main/res/layout/activity_main.xml
+M	app/src/main/res/values/strings.xml
+
+8ef7805;Initial Commit
+A	.gitignore
+A	app/.gitignore
+A	app/build.gradle
+A	app/proguard-rules.pro
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/google/example/gcmnetworkmanagerquickstart/MainActivity.java
+A	app/src/main/java/com/google/example/gcmnetworkmanagerquickstart/MyTaskService.java
+A	app/src/main/res/layout/activity_main.xml
+A	app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	app/src/main/res/values-w820dp/dimens.xml
+A	app/src/main/res/values/colors.xml
+A	app/src/main/res/values/dimens.xml
+A	app/src/main/res/values/strings.xml
+A	app/src/main/res/values/styles.xml
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle
+
+934f67b;Initial empty repository

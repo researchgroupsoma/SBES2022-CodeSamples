@@ -1,0 +1,205 @@
+0d4445f;Update README.md
+M	README.md
+
+2ceaeec;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+6e01dad;Auto-update
+M	Application/build.gradle
+M	README.md
+
+cad66c5;Auto-update
+M	Application/build.gradle
+
+ecfd9c3;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ab0d53c;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/networkconnect/DownloadCallback.java
+M	Application/src/main/java/com/example/android/networkconnect/MainActivity.java
+A	Application/src/main/java/com/example/android/networkconnect/NetworkFragment.java
+D	Application/src/main/java/com/example/android/networkconnect/SimpleTextFragment.java
+M	Application/src/main/res/layout/sample_main.xml
+M	Application/src/main/res/values/base-strings.xml
+M	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/xml/network_security_config.xml
+M	README.md
+
+eb9694e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+f332af7;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ca72d5e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9a6e287;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+bce94b5;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+188e4ea;Auto-update
+M	Application/build.gradle
+M	README.md
+
+a429f90;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+053c96a;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+9ca3e07;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+4a9dc7d;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+8fbdf66;Auto-update
+M	LICENSE
+D	NOTICE
+
+6aee7ea;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+f429429;Auto-update
+M	Application/build.gradle
+M	README.md
+
+1c89287;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/src/com/example/android/networkconnect/tests/SampleTests.java
+M	README.md
+A	screenshots/icon-web.png
+A	screenshots/main.png
+
+765c008;Auto-update
+M	NOTICE
+
+66db61e;Auto-update
+M	Application/build.gradle
+
+71b7a5b;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+2d3cb68;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+f073bf3;Auto-update
+R072	NetworkConnectSample/build.gradle	Application/build.gradle
+R095	NetworkConnectSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	NetworkConnectSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	NetworkConnectSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	NetworkConnectSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	NetworkConnectSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	NetworkConnectSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	NetworkConnectSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	NetworkConnectSample/src/main/java/com/example/android/networkconnect/MainActivity.java	Application/src/main/java/com/example/android/networkconnect/MainActivity.java
+R100	NetworkConnectSample/src/main/java/com/example/android/networkconnect/SimpleTextFragment.java	Application/src/main/java/com/example/android/networkconnect/SimpleTextFragment.java
+R100	NetworkConnectSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	NetworkConnectSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	NetworkConnectSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	NetworkConnectSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	NetworkConnectSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	NetworkConnectSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	NetworkConnectSample/src/main/res/layout/sample_main.xml	Application/src/main/res/layout/sample_main.xml
+R100	NetworkConnectSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	NetworkConnectSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	NetworkConnectSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	NetworkConnectSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	NetworkConnectSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	NetworkConnectSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	NetworkConnectSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	NetworkConnectSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R093	NetworkConnectSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	NetworkConnectSample/tests/src/com/example/android/networkconnect/tests/SampleTests.java	Application/tests/src/com/example/android/networkconnect/tests/SampleTests.java
+M	settings.gradle
+
+9ae2256;Initial Commit
+A	CONTRIB.md
+A	LICENSE
+A	NetworkConnectSample/build.gradle
+A	NetworkConnectSample/src/main/AndroidManifest.xml
+A	NetworkConnectSample/src/main/java/com/example/android/common/logger/Log.java
+A	NetworkConnectSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	NetworkConnectSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	NetworkConnectSample/src/main/java/com/example/android/common/logger/LogView.java
+A	NetworkConnectSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	NetworkConnectSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	NetworkConnectSample/src/main/java/com/example/android/networkconnect/MainActivity.java
+A	NetworkConnectSample/src/main/java/com/example/android/networkconnect/SimpleTextFragment.java
+A	NetworkConnectSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	NetworkConnectSample/src/main/res/drawable-hdpi/tile.9.png
+A	NetworkConnectSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	NetworkConnectSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	NetworkConnectSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	NetworkConnectSample/src/main/res/layout/activity_main.xml
+A	NetworkConnectSample/src/main/res/layout/sample_main.xml
+A	NetworkConnectSample/src/main/res/menu/main.xml
+A	NetworkConnectSample/src/main/res/values-sw600dp/template-dimens.xml
+A	NetworkConnectSample/src/main/res/values-sw600dp/template-styles.xml
+A	NetworkConnectSample/src/main/res/values-v11/template-styles.xml
+A	NetworkConnectSample/src/main/res/values/base-strings.xml
+A	NetworkConnectSample/src/main/res/values/strings.xml
+A	NetworkConnectSample/src/main/res/values/template-dimens.xml
+A	NetworkConnectSample/src/main/res/values/template-styles.xml
+A	NetworkConnectSample/tests/AndroidManifest.xml
+A	NetworkConnectSample/tests/src/com/example/android/networkconnect/tests/SampleTests.java
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

@@ -1,0 +1,480 @@
+aaa279e;Switch to tabs, and adjust tabsizing in asciidoctor.
+M	README.adoc
+M	complete/src/main/java/hello/Greeter.java
+M	complete/src/main/java/hello/HelloWorld.java
+M	complete/src/test/java/hello/HelloWorldTests.java
+M	initial/src/main/java/hello/Greeter.java
+M	initial/src/main/java/hello/HelloWorld.java
+
+66bf5b5;Upgrade to Gradle 4.10.3.
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+
+94db591;Updated to @OpenJDK.
+M	.travis.yml
+
+11f8286;URL Cleanup (#26)
+98a64e9;URL Cleanup (#25)
+M	LICENSE.writing.txt
+M	README.adoc
+
+3aa92a5;URL Cleanup
+M	LICENSE.code.txt
+
+f96f6d2;Clean up repositories.
+D	initial/gradle/wrapper/gradle-wrapper.jar
+D	initial/gradle/wrapper/gradle-wrapper.properties
+D	initial/gradlew
+D	initial/gradlew.bat
+
+5cec2af;Revert "Fix Gradle build to use bootJar"
+M	complete/build.gradle
+
+015dbc1;Fix Gradle build to use bootJar
+M	complete/build.gradle
+
+bf1c856;Remove front matter
+M	README.adoc
+
+6d73917;Upgrade to Gradle 4.6
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+67f00a4;Upgrade to Spring Boot 1.5.10.RELEASE
+M	README.adoc
+
+a284bc5;Upgrade to Spring Boot 1.5.9.RELEASE
+M	README.adoc
+
+c04845a;Upgrade to Spring Boot 1.5.8.RELEASE
+M	README.adoc
+
+af97524;Upgrade to Spring Boot 1.5.7.RELEASE
+M	README.adoc
+
+e772d4b;Updated README.adoc (#21)
+M	README.adoc
+
+4218215;Added See Also links (#20)
+M	README.adoc
+
+0721270;Upgrade to Spring Boot 1.5.6.RELEASE
+M	README.adoc
+
+6400593;Upgrade to Spring Boot 1.5.5.RELEASE
+M	README.adoc
+
+78a0fcf;Upgrade to Spring Boot 1.5.3.RELEASE
+M	README.adoc
+
+048cced;Upgrade to Spring Boot 1.5.2.RELEASE
+M	README.adoc
+
+237d995;Upgrade to Spring Boot 1.5.1.RELEASE
+M	README.adoc
+
+20d944f;Upgrade to Spring Boot 1.5.0.RELEASE
+M	README.adoc
+
+a408ce2;Upgrade to Spring Boot 1.4.4.RELEASE
+M	README.adoc
+
+86434b6;Upgrade to Spring Boot 1.4.3.RELEASE
+M	README.adoc
+
+ef88014;Upgrade to Spring Boot 1.4.2.RELEASE
+M	README.adoc
+
+64077a4;Document adding a gradle wrapper the new way.
+M	README.adoc
+
+0f94949;Upgrade to Spring Boot 1.4.1.RELEASE
+M	README.adoc
+
+c9c1844;Added tests
+M	complete/build.gradle
+A	complete/src/test/java/hello/HelloWorldTests.java
+
+f02784f;Upgrade to gradle 2.13
+A	initial/gradle/wrapper/gradle-wrapper.jar
+A	initial/gradle/wrapper/gradle-wrapper.properties
+A	initial/gradlew
+A	initial/gradlew.bat
+
+4de1f0f;Upgrade to gradle 2.13
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+
+f4656ee;Fine tune location of build.gradle, etc.
+M	README.adoc
+
+9d66869;Upgrade to @SpringBoot 1.4.0.RELEASE
+M	README.adoc
+
+ff2eaee;Upgrade to Spring Boot 1.3.7.RELEASE
+M	README.adoc
+
+ac27612;Upgrade to Spring Boot 1.3.6.RELEASE
+M	README.adoc
+
+be9f73e;Add CONTRIBUTING doc
+A	CONTRIBUTING.adoc
+
+1ceb74a;Upgrade to Spring Boot 1.3.5.RELEASE
+M	README.adoc
+
+6c0ddb6;Upgrade to Spring Boot 1.3.4.RELEASE
+M	README.adoc
+
+cced964;Upgrade to Spring Boot 1.3.3.RELEASE
+M	README.adoc
+
+a8eea85;Migrate to container-based infrastructure
+M	.travis.yml
+
+d134961;Upgrade to Spring Boot 1.3.2.RELEASE
+M	README.adoc
+
+734cc63;Upgrade to Spring Boot 1.3.1.RELEASE
+M	README.adoc
+
+b427d8f;Upgrade to Spring Boot 1.3.0.RELEASE
+M	README.adoc
+
+e4d8876;Upgraded to Spring Boot 1.2.7.RELEASE
+M	README.adoc
+
+b073dad;Upgrade to Spring Boot 1.2.6.RELEASE
+M	README.adoc
+
+ee87068;Add footer
+M	README.adoc
+
+f11e81e;Upgrade to Spring Boot 1.2.5.RELEASE
+M	README.adoc
+
+b2db154;Fix slack notifications
+M	.travis.yml
+
+6dc4bda;Add travis support
+A	.travis.yml
+
+e02514f;Upgrade non-specific guides to Java 8
+M	complete/build.gradle
+
+ff4d2a4;Upgrade to Spring Boot 1.2.4
+M	README.adoc
+
+16698e3;Upgrade to Spring Boot 1.2.3.RELEASE
+M	README.adoc
+
+e27c389;Update docs
+M	README.adoc
+
+f15d594;Upgrade to Gradle 2.3
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+
+cfc3df4;Upgrade to Spring Boot 1.2.2.RELEASE
+M	README.adoc
+
+d66df91;Remove mavenLocal and libs-release from gradle build
+M	complete/build.gradle
+
+cfe20ae;Upgrade to Spring Boot 1.2.1.RELEASE
+M	README.adoc
+
+31c699c;Upgrade to Spring Boot 1.1.10.RELEASE
+M	README.adoc
+
+c911b35;Upgrade to Spring Boot 1.1.9.RELEASE
+M	README.adoc
+
+0cbf445;Upgrade to Spring Boot 1.1.8.RELEASE
+M	README.adoc
+
+06e94db;Upgrade to Spring Boot 1.1.7.RELEASE
+M	README.adoc
+
+66d6a09;Upgrade to Spring Boot 1.1.6.RELEASE
+M	README.adoc
+
+ccdfafe;Update to Spring Boot 1.1.5.RELEASE
+M	README.adoc
+
+9e52895;Update to Spring Boot 1.1.4.RELEASE
+M	README.adoc
+
+93b6c0b;Update to Spring Boot 1.1.3.RELEASE
+M	README.adoc
+
+83292cb;Upgrade to Spring Boot 1.1.2.RELEASE
+M	README.adoc
+
+aee7374;Upgrade to Spring Boot 1.1.1.RELEASE
+M	README.adoc
+
+a210915;Upgrade to Spring Boot 1.1.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+
+ce01748;Clean up guide
+M	README.adoc
+M	complete/build.gradle
+
+c176f92;Merge pull request #12 from szymonszydelko/master
+d67be42;Revert "Move final build file to the beginning and update guides to reflect this"
+M	initial/build.gradle
+
+1bf1e99;Update path to macro content
+M	README.adoc
+
+4361057;Upgrade to Spring Boot 1.0.2.RELEASE
+M	README.adoc
+
+2682441;Upgrade to Spring Boot 1.0.1.RELEASE
+M	README.adoc
+
+b6d5587;Upgrade to Spring Boot 1.0.0.RELEASE
+M	README.adoc
+
+0502542;Upgrade to Spring Boot 1.0.0.RC5
+M	README.adoc
+
+facb86b;Upgrade to Spring Boot 1.0.0.RC4
+M	README.adoc
+
+8969da0;Replace initial gradle build with compileJava
+M	test/run.sh
+
+492ad7a;Move final build file to the beginning and update guides to reflect this
+M	initial/build.gradle
+
+8f61f10;Clean up guides to link to proper javadoc pages and include code instead of use pasted copies
+M	README.adoc
+
+5158d50;Resolves #7: Show how to alter name of artifact
+M	README.adoc
+M	complete/build.gradle
+D	complete/settings.gradle
+
+c90434c;Upgrade to gradle 1.11
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+
+a428995;Remove old SIDEBAR files
+D	SIDEBAR.ftl.md
+D	SIDEBAR.md
+
+ac7be14;Initial cut of tag and project metadata
+M	README.adoc
+
+83e60aa;Remove unneeded jump_ahead parameter
+M	README.adoc
+
+c20f7b2;Convert to asciidoctor
+M	.gitignore
+R085	README.ftl.md	README.adoc
+D	README.md
+
+0d72343;Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+M	complete/gradle/wrapper/gradle-wrapper.properties
+
+c0316ab;Replace source code at beginning with 'initial' version
+M	README.ftl.md
+M	README.md
+
+2249f94;Upgrade text to read '1.8'
+M	README.ftl.md
+M	README.md
+
+f118414;Upgrade guide to use Gradle 1.8
+M	README.md
+M	complete/build.gradle
+
+ef592c4;Rebuild sidebar
+M	SIDEBAR.md
+
+554516a;Rename tut-web in sidebar
+M	SIDEBAR.ftl.md
+
+8c1378c;Add tut-web to sidebar
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+f4e3384;Rename spring{framework-meta => -guides}
+M	README.md
+
+b5f22e9;Rebuild guide and sidebar based on latest edits
+M	README.md
+M	SIDEBAR.md
+
+847866c;Merge pull request #4 from btalbott/master
+6292aa4;Make final edits.
+M	README.ftl.md
+M	SIDEBAR.ftl.md
+
+f598e64;Apply http://creativecommons.org/licenses/by-nd/3.0/ to written work in this repo
+A	LICENSE.writing.txt
+
+d374212;Add ASLv2 license for the code in this repo
+A	LICENSE.code.txt
+
+cc2aa39;Fix sidebars based on @beverleytalbott 's feedback on several pull requests
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+0ef8131;Use proper name of Git
+M	README.md
+
+1bae79d;Fix links for /undestanding/Git
+M	README.md
+
+5ea807e;Replace understanding docs with macros
+M	SIDEBAR.ftl.md
+A	SIDEBAR.md
+
+b7b9b6a;Move SIDEBAR into a template file
+R100	SIDEBAR.md	SIDEBAR.ftl.md
+
+27a3b0c;Update run.sh
+M	test/run.sh
+
+7e6a6be;Add Gradle Wrapper section
+M	README.ftl.md
+M	README.md
+A	initial/build.gradle
+
+5dbdd37;Replace Tutorial TBD with REST tutorial
+M	SIDEBAR.md
+
+cd4180d;Capitalize /understanding/{subject} as approprite
+M	SIDEBAR.md
+
+f895340;Upgrade to Gradle 1.7
+M	README.md
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+
+9ed3c5f;Add intro sentence
+M	README.ftl.md
+M	README.md
+
+bf9021a;Replace /content with / in GSG links
+M	SIDEBAR.md
+
+366c438;Update run.sh
+M	test/run.sh
+
+283ad22;Add run.sh for CI support
+A	test/run.sh
+
+b2d4418;Add Gradle wrapper
+M	complete/build.gradle
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew.bat
+
+66422a3;Update gitignore
+A	.gitignore
+D	complete/.gitignore
+
+97da5de;Update README to remove title
+M	README.ftl.md
+M	README.md
+
+8c8d499;Regenerate guide after folding in edits.
+M	README.md
+
+3722788;Merge pull request #3 from btalbott/master
+64933c3;Edit SIDEBAR, make minor edits to README.
+M	README.ftl.md
+M	SIDEBAR.md
+
+fbc176b;Fixed typo in macro
+M	README.md
+
+cb05b83;Regenerate guide based on macro updates from @btalbott
+M	README.md
+
+9f97101;Delete old README.src.md
+D	README.src.md
+
+66f12d3;Add sidebar
+A	SIDEBAR.md
+
+8aee166;Convert to fpp
+A	README.ftl.md
+M	README.md
+
+e3c5465;Merge pull request #2 from kdvolder/master
+5ddd5a1;Fix STS import for 'complete' codeset.
+M	complete/build.gradle
+
+59f0203;Exclude 'initial' codeset from STS import.
+A	.codesets.json
+
+35b3593;Restore title that got lopped off during the last pull request
+M	README.md
+M	README.src.md
+
+b7a4d07;Rebuild README.md based on new README.src.md
+M	README.md
+
+7fe5243;Merge pull request #1 from btalbott/master
+2c3b1a4;Edit per guidelines
+M	README.src.md
+
+332d33d;End guide with 'Summary' instead of 'Next Steps'
+M	README.md
+M	README.src.md
+
+bbb7d0f;Show completed build.gradle
+M	README.md
+M	README.src.md
+
+68fd449;Fix pluralization error
+M	README.md
+M	README.src.md
+
+394426c;Resolve merge conflicts
+d2eded2;Edited per guidelines
+M	README.md
+A	README.src.md
+R100	start/.gitignore	initial/.gitignore
+R100	start/src/main/java/hello/Greeter.java	initial/src/main/java/hello/Greeter.java
+R100	start/src/main/java/hello/HelloWorld.java	initial/src/main/java/hello/HelloWorld.java
+
+b15c3a7;Polish
+M	README.md
+D	start/build.gradle
+
+4b3ab29;Generate README.md files from README.src.md
+A	README.src.md
+
+2095c7c;Push initial commit
+M	README.md
+A	complete/.gitignore
+A	complete/build.gradle
+A	complete/gradlew
+A	complete/gradlew.bat
+A	complete/settings.gradle
+A	complete/src/main/java/hello/Greeter.java
+A	complete/src/main/java/hello/HelloWorld.java
+A	start/.gitignore
+A	start/build.gradle
+A	start/src/main/java/hello/Greeter.java
+A	start/src/main/java/hello/HelloWorld.java
+
+7df9328;Initial commit
+A	README.md

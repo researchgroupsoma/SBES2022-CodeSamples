@@ -1,0 +1,97 @@
+a1eedcb;Update README.md
+M	README.md
+
+93b64ec;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+M	kotlinApp/Application/build.gradle
+M	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+
+c4081cf;Auto-update
+M	Application/build.gradle
+M	README.md
+M	kotlinApp/Application/build.gradle
+
+bac82ab;Auto-update
+M	Application/build.gradle
+M	README.md
+M	kotlinApp/Application/build.gradle
+
+5756993;Auto-update
+M	Application/build.gradle
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/.google/packaging.yaml
+A	kotlinApp/Application/build.gradle
+A	kotlinApp/Application/src/main/AndroidManifest.xml
+A	kotlinApp/Application/src/main/java/com/example/android/notificationchannels/MainActivity.kt
+A	kotlinApp/Application/src/main/java/com/example/android/notificationchannels/NotificationHelper.kt
+A	kotlinApp/Application/src/main/res/drawable-hdpi/tile.9.png
+A	kotlinApp/Application/src/main/res/layout/activity_main.xml
+A	kotlinApp/Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/values-sw600dp/template-dimens.xml
+A	kotlinApp/Application/src/main/res/values-sw600dp/template-styles.xml
+A	kotlinApp/Application/src/main/res/values-v11/template-styles.xml
+A	kotlinApp/Application/src/main/res/values-v21/base-colors.xml
+A	kotlinApp/Application/src/main/res/values-v21/base-template-styles.xml
+A	kotlinApp/Application/src/main/res/values-w820dp/dimens.xml
+A	kotlinApp/Application/src/main/res/values/base-strings.xml
+A	kotlinApp/Application/src/main/res/values/colors.xml
+A	kotlinApp/Application/src/main/res/values/dimens.xml
+A	kotlinApp/Application/src/main/res/values/strings.xml
+A	kotlinApp/Application/src/main/res/values/template-dimens.xml
+A	kotlinApp/Application/src/main/res/values/template-styles.xml
+A	kotlinApp/CONTRIBUTING.md
+A	kotlinApp/LICENSE
+A	kotlinApp/README.md
+A	kotlinApp/build.gradle
+A	kotlinApp/gradle/wrapper/gradle-wrapper.jar
+A	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/gradlew
+A	kotlinApp/gradlew.bat
+A	kotlinApp/screenshots/1-main.png
+A	kotlinApp/screenshots/icon-web.png
+A	kotlinApp/settings.gradle
+
+c44115d;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/notificationchannels/MainActivity.java
+A	Application/src/main/java/com/example/android/notificationchannels/NotificationHelper.java
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values-w820dp/dimens.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/colors.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/1-main.png
+A	screenshots/icon-web.png
+A	settings.gradle

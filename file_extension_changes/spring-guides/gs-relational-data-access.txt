@@ -1,0 +1,1022 @@
+d8aa3e4;Switch to tabs, and adjust tabsizing in asciidoctor.
+M	README.adoc
+M	complete/src/main/java/com/example/relationaldataaccess/Customer.java
+M	complete/src/main/java/com/example/relationaldataaccess/RelationalDataAccessApplication.java
+
+8a62b7a;Upgrade to Spring Boot 2.2.1.RELEASE.
+M	README.adoc
+
+2c3b58a;Upgrade to Gradle 4.10.3.
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+0e3681c;Upgraded to Spring Boot 2.2
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	complete/pom.xml
+A	complete/settings.gradle
+M	images/initializr.png
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+M	initial/pom.xml
+A	initial/settings.gradle
+
+4b6f8b3;Use the Spring Initializr
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+R092	complete/src/main/java/hello/Customer.java	complete/src/main/java/com/example/relationaldataaccess/Customer.java
+R086	complete/src/main/java/hello/Application.java	complete/src/main/java/com/example/relationaldataaccess/RelationalDataAccessApplication.java
+A	images/initializr.png
+M	initial/build.gradle
+M	initial/pom.xml
+A	initial/src/main/java/com/example/relationaldataaccess/RelationalDataAccessApplication.java
+D	initial/src/main/java/hello/.gitignore
+
+8cb9302;Fix typo
+M	README.adoc
+
+061dc9f;Updated to @OpenJDK.
+M	.travis.yml
+
+1407cb6;Upgrade to Spring Boot 2.1.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+379aa69;Upgrade to Spring Boot 2.1.4.RELEASE.
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a8c96d1;URL Cleanup (#22)
+7dd12a8;URL Cleanup (#21)
+M	LICENSE.writing.txt
+M	README.adoc
+
+f97b42d;URL Cleanup
+M	LICENSE.code.txt
+
+5dbb46c;Upgrade to Spring Boot 2.1.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+9e4a345;Upgrade to Spring Boot 2.0.8.RELEASE.
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+14a1bcd;Merge pull request #20 from spring-operator/polish-urls-xml-master
+f8e3c87;URL Cleanup
+M	complete/pom.xml
+M	initial/pom.xml
+
+28b6663;URL Cleanup (#19)
+M	complete/mvnw
+M	complete/mvnw.cmd
+M	initial/mvnw
+M	initial/mvnw.cmd
+
+a7f7f90;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+1399bd7;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+5d295f9;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3b7f173;Upgrade to Spring Boot 2.0.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6476611;Remove front matter
+M	README.adoc
+
+b13d8c2;Replace jar gradle task with bootJar task
+M	complete/build.gradle
+M	initial/build.gradle
+
+6f0b689;Polish guide to reference 2.0.0.RELEASE
+M	README.adoc
+
+2cb101d;Upgrade to Spring Boot 2.0.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+f40d322;Upgrade to Gradle 4.6
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+3b44433;Upgrade to Spring Boot 1.5.10.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+dab895b;Upgrade to Spring Boot 1.5.9.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8fa6dc0;Upgrade to Spring Boot 1.5.8.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4cf36f0;Upgrade to Spring Boot 1.5.7.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e525cd7;Added See Also links (#16)
+M	README.adoc
+
+3684360;Upgrade to Spring Boot 1.5.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b9164da;Upgrade to Spring Boot 1.5.5.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d9bf3da;Fix typo
+M	README.adoc
+
+0700939;Upgrade to Spring Boot 1.5.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d5e8191;Upgrade to Spring Boot 1.5.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+019999d;Upgrade to Spring Boot 1.5.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6bdfb34;Upgrade to Spring Boot 1.5.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+61d283c;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+846b415;Upgrade to Spring Boot 1.4.4.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+83b6f89;Upgrade to Spring Boot 1.4.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+2ed5ae2;Add link to Spring Boot user guide for data source config
+M	README.adoc
+
+a1639ba;Use starter pom instead of spring-jdbc
+M	complete/pom.xml
+M	initial/pom.xml
+
+b6b4cce;Upgrade plugin from spring-boot to o.s.boot
+M	complete/build.gradle
+M	initial/build.gradle
+
+e08a818;Upgrade to Spring Boot 1.4.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+644a2a5;Upgrade to Spring Boot 1.4.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+62c3738;Upgrade to gradle 2.13
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+
+ed6cd6d;Upgrade to @SpringBoot 1.4.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+12d3fd1;Upgrade to Spring Boot 1.3.7.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c0666c3;Upgrade to Spring Boot 1.3.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+68b4fe5;Add Maven wrapper
+A	complete/.mvn/wrapper/maven-wrapper.jar
+A	complete/.mvn/wrapper/maven-wrapper.properties
+A	complete/mvnw
+A	complete/mvnw.cmd
+A	initial/.mvn/wrapper/maven-wrapper.jar
+A	initial/.mvn/wrapper/maven-wrapper.properties
+A	initial/mvnw
+A	initial/mvnw.cmd
+
+fed2fe7;Add CONTRIBUTING doc
+A	CONTRIBUTING.adoc
+
+ee371b0;Upgrade to Spring Boot 1.3.5.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+abff0e3;Upgrade to Spring Boot 1.3.4.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0db2643;Upgrade to Spring Boot 1.3.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c3202e5;Migrate to container-based infrastructure
+M	.travis.yml
+
+b043fc8;Upgrade to Spring Boot 1.3.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+1457d0b;Merge pull request #13 from markusherzog/master
+ba64574;Fix a typo
+M	README.adoc
+
+17cd6e4;Upgrade to Spring Boot 1.3.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+517e59f;Upgrade to Spring Boot 1.3.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e5e1b4d;Upgraded to Spring Boot 1.2.7.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7c69953;Upgrade to Spring Boot 1.2.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d24dbd6;Add footer
+M	README.adoc
+
+2fb2fca;Merge pull request #11 from shadowmanos/master
+6a02dea;Update README.adoc
+M	README.adoc
+
+0f0769a;Upgrade to Spring Boot 1.2.5.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8bf5da8;Polish up text with Java 8 notes, etc.
+M	README.adoc
+
+dd27970;Merge pull request #10 from spring-guides/use-java8
+2230e0e;JDBC code now uses Java 8 lambdas and streams.
+M	complete/src/main/java/hello/Application.java
+
+f6a0229;Fix slack notifications
+M	.travis.yml
+
+ca337bf;Add travis support
+A	.travis.yml
+
+c45675c;Upgrade non-specific guides to Java 8
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b6fd37e;Upgrade to Spring Boot 1.2.4
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+076821b;Upgrade to Spring Boot 1.2.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+68f8dc2;Upgrade to Gradle 2.3
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+df2a643;Upgrade to Spring Boot 1.2.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+f3ddbcb;Remove mavenLocal and libs-release from gradle build
+M	complete/build.gradle
+M	initial/build.gradle
+
+dcbed04;Clean up relationship database example, using @SpringBootApplication
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	initial/build.gradle
+M	initial/pom.xml
+
+efdd672;Upgrade to Spring Boot 1.2.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+afbfb2e;Remove legacy start-class property from maven builds
+M	complete/pom.xml
+M	initial/pom.xml
+
+dfcde66;Upgrade to Spring Boot 1.1.10.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+52d0199;Convert to use https for repositories
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a3dfecd;Upgrade to Spring Boot 1.1.9.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8990006;Upgrade to Spring Boot 1.1.8.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+48029f0;Remove redudant 'run the service' macro
+M	README.adoc
+
+5568fca;Upgrade to Spring Boot 1.1.7.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+03b15df;Upgrade to Spring Boot 1.1.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+92d2376;Enable hiding/showing build steps
+M	README.adoc
+
+1f05d90;Update to Spring Boot 1.1.5.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+91327e3;Update to Spring Boot 1.1.4.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+f61faaa;Update to Spring Boot 1.1.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+9b7abb7;Upgrade to Spring Boot 1.1.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8918c5b;Upgrade to Spring Boot 1.1.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a3ef6ce;Replace repo.spring.io/release with repo.spring.io/libs-release
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8e1cec0;Upgrade to Spring Boot 1.1.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+09733a3;Update path to macro content
+M	README.adoc
+
+7bc684c;Upgrade to Spring Boot 1.0.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7d4ce8b;Upgrade to Spring Boot 1.0.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4453dd0;Upgrade to Spring Boot 1.0.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+414677f;Upgrade to Spring Boot 1.0.0.RC5
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+893faf6;Upgrade to Spring Boot 1.0.0.RC4
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+882c36d;Convert to mvn compile for initial codeset
+M	test/run.sh
+
+339eb85;Replace initial gradle build with compileJava
+M	test/run.sh
+
+7921f80;Move final build file to the beginning and update guides to reflect this
+M	README.adoc
+M	initial/build.gradle
+M	initial/pom.xml
+
+bd6b4a6;Remove version number from Spring Boot starters
+M	complete/build.gradle
+M	initial/build.gradle
+
+b6e5845;Clean up guides to link to proper javadoc pages and include code instead of use pasted copies
+M	README.adoc
+
+38ceda0;Upgrade to Spring Boot 1.0.0.RC3
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6c4e99f;Upgrade to Spring Boot 1.0.0.RC2
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4d6c65b;Upgrade to gradle 1.11
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+f09ca00;Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c442735;Remove old SIDEBAR files
+D	SIDEBAR.ftl.md
+D	SIDEBAR.md
+
+e17d0f2;Initial cut of tag and project metadata
+M	README.adoc
+
+e4a7d04;Remove unneeded jump_ahead parameter
+M	README.adoc
+
+4bc10ec;Convert to asciidoctor
+M	.gitignore
+A	README.adoc
+D	README.ftl.md
+D	README.md
+
+f64ca71;Fixed macro so it mentions M6
+M	README.md
+
+ad8381c;Upgrade to Spring Boot 0.5.0.M6
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+60ff485;Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+M	README.md
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/pom.xml
+
+72b76eb;Upgrade guide to use Gradle 1.8
+M	README.md
+M	complete/build.gradle
+M	initial/build.gradle
+
+2cd4832;Update a macro so that it properly uses spring.io
+M	README.md
+
+2058a11;Replace repo.springsource.org with repo.spring.io
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c1abea9;Upgrade to Spring Boot 0.5.0.M4
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c70598f;Replace 'Spring Boot starter POM' with Spring Boot
+M	README.md
+
+cff1142;Add spring-boot-starter to build files
+M	README.md
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e8daf0a;Rename tut-web in sidebar
+M	SIDEBAR.ftl.md
+
+b388a77;Add tut-web to sidebar
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+b5bb87f;Update other version of gradle builds related to 0.5.0.M2
+M	README.md
+M	complete/build.gradle
+M	initial/build.gradle
+
+5895223;Upgrade to Spring Boot 0.5.0.M2
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/pom.xml
+
+b9b2751;Add links to tut-data
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+93d949c;Update guide to include like to gs-sts
+M	README.md
+
+d06086d;Rename spring{framework-meta => -guides}
+M	README.md
+
+fd07ea1;Convert guide to display both Gradle and Maven info
+M	README.ftl.md
+M	README.md
+
+6af366e;Rebuild guide and sidebar based on latest edits
+M	README.md
+M	SIDEBAR.md
+
+7ec7645;Merge pull request #6 from btalbott/master
+d0983fd;Make final edits.
+M	README.ftl.md
+M	SIDEBAR.ftl.md
+
+d6cf4bd;Apply http://creativecommons.org/licenses/by-nd/3.0/ to written work in this repo
+A	LICENSE.writing.txt
+
+66b0c64;Add ASLv2 license for the code in this repo
+A	LICENSE.code.txt
+
+e0e1c1e;Clarify mods to buildscript section
+M	README.md
+
+d936093;Clean up gradle build steps
+M	README.md
+
+6e14dea;Convert guide to gradle
+M	README.ftl.md
+M	README.md
+M	initial/build.gradle
+
+75ca618;Fix sidebars based on @beverleytalbott 's feedback on several pull requests
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+6e25dfe;Use proper name of Git
+M	README.md
+
+ac026da;Fix links for /undestanding/Git
+M	README.md
+
+12b3154;Replace understanding docs with macros
+M	SIDEBAR.ftl.md
+A	SIDEBAR.md
+
+7699886;Move SIDEBAR into a template file
+R100	SIDEBAR.md	SIDEBAR.ftl.md
+
+768e028;Replace Tutorial TBD with REST tutorial
+M	SIDEBAR.md
+
+7bd857d;Fix link to spring-boot-maven-plugin
+M	README.md
+
+5fa6b23;Capitalize /understanding/{subject} as approprite
+M	SIDEBAR.md
+
+b9b9f21;Fix maven-compiler-plugin to version 2.3.2
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+1466b64;Upgrade to Gradle 1.7
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+7926d3e;Add intro sentence
+M	README.ftl.md
+M	README.md
+
+ecb3364;Replace /content with / in GSG links
+M	README.md
+M	SIDEBAR.md
+
+25105a4;Add run.sh for CI support
+A	test/run.sh
+
+139a71e;Use libs-snapshot instead of snapshot
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+8900c63;Remove 'TODO' from pom.xml and rebuild guide
+M	README.md
+M	initial/pom.xml
+
+1b8ed74;Add gradle support
+A	complete/build.gradle
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+A	complete/gradlew
+A	complete/gradlew.bat
+A	initial/build.gradle
+A	initial/gradle/wrapper/gradle-wrapper.jar
+A	initial/gradle/wrapper/gradle-wrapper.properties
+A	initial/gradlew
+A	initial/gradlew.bat
+
+d303502;Edit guide to properly use spring-boot:run
+M	README.ftl.md
+M	README.md
+
+5ec1e0f;Convert spring-boot-up to spring-boot-starter
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+8e62dc4;Upgrade to Spring Boot
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+ad23ca6;Update README to remove title
+M	README.ftl.md
+M	README.md
+
+f69df03;Replace java -jar with picketed code block
+M	README.md
+
+e658946;Convert to spring-package-maven-plugin and Spring Zero
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+71188a3;Fixed typo in macro
+M	README.md
+
+1d60ed4;Regenerate guide based on macro updates from @btalbott
+M	README.md
+
+60adf4b;Update guides using complete/pom.xml to instead use initial/pom.xml
+M	README.ftl.md
+M	README.md
+
+d800a80;Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+M	README.md
+M	complete/pom.xml
+
+997885a;Typo in macro. Regenerate guides
+M	README.md
+
+2db1055;Update build_the_application macros to link in gs-convert-jar-to-war
+M	README.md
+
+ee2ca72;Renegerate guides based on updated macros.md
+M	README.md
+
+647675c;Replace java -jar with run_the_application macro
+M	README.ftl.md
+M	README.md
+
+c2b2072;Delete old README.src.md
+D	README.src.md
+
+169b3e1;Add JPA guide to sidebar
+M	SIDEBAR.md
+
+ccef5f7;Regenerate guides based on update to macros.md
+M	README.md
+
+17a1bc7;Add sidebar
+A	SIDEBAR.md
+
+f0d3afe;Update README to use macros
+M	README.ftl.md
+M	README.md
+
+eef77d4;Convert README to generate from fpp
+A	README.ftl.md
+M	README.md
+
+d1e6822;Fix download links
+M	README.md
+M	README.src.md
+
+d114cf8;Generate README.md files from README.src.md
+M	README.md
+A	README.src.md
+
+34fe07b;Pull in code blocks with {!include:...} syntax
+M	README.md
+
+eb885e1;Refactor to new {!include} syntax
+M	README.md
+
+aa90d8f;Merge pull request #5 from btalbott/master
+4ba26eb;Change we to you
+M	README.md
+
+5037b56;Merge remote-tracking branch 'btalbott/master'
+a2b6d82;Merge pull request #3 from gregturn/break-out-customer
+a73adf2;Edit per guidelines, add comments to commmit
+M	README.md
+
+bd2e5e1;Split out Customer into separate class.
+M	README.md
+M	complete/src/main/java/hello/Application.java
+A	complete/src/main/java/hello/Customer.java
+
+df59206;Merge pull request #2 from gregturn/small-fix
+7eca929;Mark up blockquote per guidelines.
+M	README.md
+
+3186cd9;Edit README per guidelines
+M	README.md
+
+bd372a4;Edit code per guidelines
+M	README.md
+M	complete/src/main/java/hello/Application.java
+
+186a30c;Set pom versions at 0.1.0 per guidelines
+M	complete/pom.xml
+M	initial/pom.xml
+
+3f7f16b;Eliminate blank line at end of pom
+M	complete/pom.xml
+M	initial/pom.xml
+
+28f59cb;Convert tabs to spaces per GSG guidelines
+M	README.md
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	initial/pom.xml
+
+6f719c0;Fix 'Create a Maven POM' heading
+M	README.md
+
+38fa4e9;Add maven build
+M	.gitignore
+M	README.md
+D	complete/build.gradle
+D	complete/gradle/wrapper/gradle-wrapper.jar
+D	complete/gradle/wrapper/gradle-wrapper.properties
+D	complete/gradlew
+D	complete/gradlew.bat
+A	complete/pom.xml
+D	complete/settings.gradle
+M	complete/src/main/java/hello/Application.java
+D	initial/build.gradle
+D	initial/gradle/wrapper/gradle-wrapper.jar
+D	initial/gradle/wrapper/gradle-wrapper.properties
+D	initial/gradlew
+D	initial/gradlew.bat
+A	initial/pom.xml
+D	initial/settings.gradle
+
+25f1f89;Merge pull request #1 from gregturn/fixes
+a701ed9;More edits along with changing gradle build file to support new Application name.
+M	README.md
+M	complete/build.gradle
+M	initial/build.gradle
+
+2395d7e;Rename Main to Application.
+R098	complete/src/main/java/hello/Main.java	complete/src/main/java/hello/Application.java
+
+cadf36e;Edit README.md per guidelines and split up code into initial and complete subprojects.
+A	.gitignore
+M	README.md
+R100	build.gradle	complete/build.gradle
+R100	gradle/wrapper/gradle-wrapper.jar	complete/gradle/wrapper/gradle-wrapper.jar
+R100	gradle/wrapper/gradle-wrapper.properties	complete/gradle/wrapper/gradle-wrapper.properties
+R100	gradlew	complete/gradlew
+R100	gradlew.bat	complete/gradlew.bat
+A	complete/settings.gradle
+R100	src/main/java/hello/Main.java	complete/src/main/java/hello/Main.java
+A	initial/build.gradle
+A	initial/gradle/wrapper/gradle-wrapper.jar
+A	initial/gradle/wrapper/gradle-wrapper.properties
+A	initial/gradlew
+A	initial/gradlew.bat
+A	initial/settings.gradle
+A	initial/src/main/java/hello/.gitignore
+
+cf57ef3;initial cut of the getting started guide for accessing relational data with Spring and JDBC
+M	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	src/main/java/hello/Main.java
+
+c753e40;Initial commit
+A	README.md

@@ -1,0 +1,123 @@
+7715ae5;Update README.md
+M	README.md
+
+3d7d54c;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	NOTICE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/Application/build.gradle
+A	kotlinApp/Application/src/main/AndroidManifest.xml
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/MainActivity.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/activities/AdjacentActivity.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/activities/BasicActivity.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/activities/CustomConfigurationChangeActivity.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/activities/LaunchBoundsActivity.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/activities/LoggingActivity.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/activities/MinimumSizeActivity.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/activities/UnresizableActivity.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/Log.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogFragment.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogNode.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogView.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/LogWrapper.kt
+A	kotlinApp/Application/src/main/java/com/android/multiwindowplayground/logger/MessageOnlyLogFilter.kt
+A	kotlinApp/Application/src/main/res/layout/activity_logging.xml
+A	kotlinApp/Application/src/main/res/layout/activity_main.xml
+A	kotlinApp/Application/src/main/res/layout/logging.xml
+A	kotlinApp/Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/values-w820dp/dimens.xml
+A	kotlinApp/Application/src/main/res/values/colors.xml
+A	kotlinApp/Application/src/main/res/values/dimens.xml
+A	kotlinApp/Application/src/main/res/values/strings.xml
+A	kotlinApp/Application/src/main/res/values/styles.xml
+A	kotlinApp/README.md
+A	kotlinApp/build.gradle
+A	kotlinApp/gradle/wrapper/gradle-wrapper.jar
+A	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/gradlew
+A	kotlinApp/gradlew.bat
+A	kotlinApp/screenshots/icon-web.png
+A	kotlinApp/screenshots/main.png
+A	kotlinApp/settings.gradle
+
+b863d23;Auto-update
+M	README.md
+
+200a391;Auto-update
+M	.google/packaging.yaml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+4cf5452;Auto-update
+M	NOTICE
+
+0c9796b;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+65c034c;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+
+02dafe3;Auto-update
+M	Application/build.gradle
+M	README.md
+
+8e77fa9;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/android/multiwindowplayground/MainActivity.java
+M	Application/src/main/java/com/android/multiwindowplayground/activities/LoggingActivity.java
+M	README.md
+
+f85c4c9;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/android/multiwindowplayground/MainActivity.java
+A	Application/src/main/java/com/android/multiwindowplayground/activities/AdjacentActivity.java
+A	Application/src/main/java/com/android/multiwindowplayground/activities/BasicActivity.java
+A	Application/src/main/java/com/android/multiwindowplayground/activities/CustomConfigurationChangeActivity.java
+A	Application/src/main/java/com/android/multiwindowplayground/activities/LaunchBoundsActivity.java
+A	Application/src/main/java/com/android/multiwindowplayground/activities/LoggingActivity.java
+A	Application/src/main/java/com/android/multiwindowplayground/activities/MinimumSizeActivity.java
+A	Application/src/main/java/com/android/multiwindowplayground/activities/UnresizableActivity.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/res/layout/activity_logging.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/logging.xml
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	Application/src/main/res/values-w820dp/dimens.xml
+A	Application/src/main/res/values/colors.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/styles.xml
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/icon-web.png
+A	screenshots/main.png
+A	settings.gradle

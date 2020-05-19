@@ -1,0 +1,44 @@
+36dc3fe;Update README.md
+M	README.md
+
+60c02c6;Updated awareness sample to connectionless GAC
+M	basic-awareness-sample/.gitignore
+M	basic-awareness-sample/app/build.gradle
+M	basic-awareness-sample/app/src/main/java/com/google/android/example/basicawarenesssample/MainActivity.java
+M	basic-awareness-sample/build.gradle
+M	basic-awareness-sample/gradle/wrapper/gradle-wrapper.properties
+
+ce4fc61;Initial commit, basic awareness API sample.
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	basic-awareness-sample/.gitignore
+A	basic-awareness-sample/app/.gitignore
+A	basic-awareness-sample/app/build.gradle
+A	basic-awareness-sample/app/proguard-rules.pro
+A	basic-awareness-sample/app/src/main/AndroidManifest.xml
+A	basic-awareness-sample/app/src/main/java/com/example/android/common/logger/LogFragment.java
+A	basic-awareness-sample/app/src/main/java/com/example/android/common/logger/LogView.java
+A	basic-awareness-sample/app/src/main/java/com/google/android/example/basicawarenesssample/MainActivity.java
+A	basic-awareness-sample/app/src/main/res/layout/activity_main.xml
+A	basic-awareness-sample/app/src/main/res/layout/content_main.xml
+A	basic-awareness-sample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	basic-awareness-sample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	basic-awareness-sample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	basic-awareness-sample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	basic-awareness-sample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	basic-awareness-sample/app/src/main/res/values-v21/styles.xml
+A	basic-awareness-sample/app/src/main/res/values-w820dp/dimens.xml
+A	basic-awareness-sample/app/src/main/res/values/colors.xml
+A	basic-awareness-sample/app/src/main/res/values/dimens.xml
+A	basic-awareness-sample/app/src/main/res/values/strings.xml
+A	basic-awareness-sample/app/src/main/res/values/styles.xml
+A	basic-awareness-sample/build.gradle
+A	basic-awareness-sample/gradle.properties
+A	basic-awareness-sample/gradle/wrapper/gradle-wrapper.jar
+A	basic-awareness-sample/gradle/wrapper/gradle-wrapper.properties
+A	basic-awareness-sample/gradlew
+A	basic-awareness-sample/gradlew.bat
+A	basic-awareness-sample/settings.gradle
+
+a807392;Initial empty repository

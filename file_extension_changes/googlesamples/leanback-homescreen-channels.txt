@@ -1,0 +1,122 @@
+15bd41b;Update README.md
+M	README.md
+
+6f9c751;Remove call to setMinimumLatency(0) to improve performance.
+M	app/src/main/java/com/google/android/tvhomescreenchannels/SynchronizeDatabaseJobService.java
+M	app/src/main/java/com/google/android/tvhomescreenchannels/scheduler/AddWatchNextService.java
+M	app/src/main/java/com/google/android/tvhomescreenchannels/scheduler/DeleteWatchNextService.java
+
+8e1a44a;Add license to file header.
+M	app/src/main/java/com/google/android/tvhomescreenchannels/PreviewVideoInputService.java
+
+9831856;Support TvInputService for Video Previews.
+M	app/build.gradle
+M	app/src/main/AndroidManifest.xml
+M	app/src/main/java/com/google/android/tvhomescreenchannels/Clip.java
+A	app/src/main/java/com/google/android/tvhomescreenchannels/PreviewVideoInputService.java
+M	app/src/main/java/com/google/android/tvhomescreenchannels/RunOnInstallReceiver.java
+M	app/src/main/java/com/google/android/tvhomescreenchannels/SampleClipApi.java
+M	app/src/main/java/com/google/android/tvhomescreenchannels/SampleTvProvider.java
+M	app/src/main/java/com/google/android/tvhomescreenchannels/SynchronizeDatabaseJobService.java
+A	app/src/main/res/xml/previewvideoinputservice.xml
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+a7173c0;Fix TvSampleApp updating the wrong watch next card
+M	app/src/main/java/com/google/android/tvhomescreenchannels/SampleTvProvider.java
+
+cf2e191;Add license to packaging.yaml.
+M	.google/packaging.yaml
+
+dddfa09;Add license to VideoFragment
+M	app/src/main/java/com/google/android/tvhomescreenchannels/VideoFragment.java
+
+9f35bf3;Merge "Added README.md and other files for open source process."
+d70ae62;Add compile sdk version to build.gradle.
+M	app/build.gradle
+R099	app/src/main/java/com/google/android/tvlaunchersample/Clip.java	app/src/main/java/com/google/android/tvhomescreenchannels/Clip.java
+R098	app/src/main/java/com/google/android/tvlaunchersample/LauncherNotificationReceiver.java	app/src/main/java/com/google/android/tvhomescreenchannels/LauncherNotificationReceiver.java
+R099	app/src/main/java/com/google/android/tvlaunchersample/LoadPublishedChannels.java	app/src/main/java/com/google/android/tvhomescreenchannels/LoadPublishedChannels.java
+R094	app/src/main/java/com/google/android/tvlaunchersample/MainActivity.java	app/src/main/java/com/google/android/tvhomescreenchannels/MainActivity.java
+R098	app/src/main/java/com/google/android/tvlaunchersample/MainFragment.java	app/src/main/java/com/google/android/tvhomescreenchannels/MainFragment.java
+R097	app/src/main/java/com/google/android/tvlaunchersample/PlaybackActivity.java	app/src/main/java/com/google/android/tvhomescreenchannels/PlaybackActivity.java
+R097	app/src/main/java/com/google/android/tvlaunchersample/PlayList.java	app/src/main/java/com/google/android/tvhomescreenchannels/Playlist.java
+R097	app/src/main/java/com/google/android/tvlaunchersample/RecommendationReceiverActivity.java	app/src/main/java/com/google/android/tvhomescreenchannels/RecommendationReceiverActivity.java
+R097	app/src/main/java/com/google/android/tvlaunchersample/RunOnInstallReceiver.java	app/src/main/java/com/google/android/tvhomescreenchannels/RunOnInstallReceiver.java
+R099	app/src/main/java/com/google/android/tvlaunchersample/SampleClipApi.java	app/src/main/java/com/google/android/tvhomescreenchannels/SampleClipApi.java
+R098	app/src/main/java/com/google/android/tvlaunchersample/SampleContentDb.java	app/src/main/java/com/google/android/tvhomescreenchannels/SampleContentDb.java
+R099	app/src/main/java/com/google/android/tvlaunchersample/SampleTvProvider.java	app/src/main/java/com/google/android/tvhomescreenchannels/SampleTvProvider.java
+R099	app/src/main/java/com/google/android/tvlaunchersample/SynchronizeDatabaseJobService.java	app/src/main/java/com/google/android/tvhomescreenchannels/SynchronizeDatabaseJobService.java
+R094	app/src/main/java/com/google/android/tvlaunchersample/TvSearchActivity.java	app/src/main/java/com/google/android/tvhomescreenchannels/TvSearchActivity.java
+R097	app/src/main/java/com/google/android/tvlaunchersample/TvSearchFragment.java	app/src/main/java/com/google/android/tvhomescreenchannels/TvSearchFragment.java
+R096	app/src/main/java/com/google/android/tvlaunchersample/VideoFragment.java	app/src/main/java/com/google/android/tvhomescreenchannels/VideoFragment.java
+R096	app/src/main/java/com/google/android/tvlaunchersample/presenters/AddChannelPresenter.java	app/src/main/java/com/google/android/tvhomescreenchannels/presenters/AddChannelPresenter.java
+R096	app/src/main/java/com/google/android/tvlaunchersample/presenters/CardPresenter.java	app/src/main/java/com/google/android/tvhomescreenchannels/presenters/CardPresenter.java
+R097	app/src/main/java/com/google/android/tvlaunchersample/scheduler/AddWatchNextService.java	app/src/main/java/com/google/android/tvhomescreenchannels/scheduler/AddWatchNextService.java
+R098	app/src/main/java/com/google/android/tvlaunchersample/scheduler/ClipData.java	app/src/main/java/com/google/android/tvhomescreenchannels/scheduler/ClipData.java
+R095	app/src/main/java/com/google/android/tvlaunchersample/scheduler/DeleteWatchNextService.java	app/src/main/java/com/google/android/tvhomescreenchannels/scheduler/DeleteWatchNextService.java
+M	app/src/main/res/layout/activity_main.xml
+M	app/src/main/res/layout/activity_search.xml
+
+3a7cb4d;Added README.md and other files for open source process.
+A	.google/packaging.yaml
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	screenshots/add_channel.gif
+A	screenshots/allow_channel.png
+A	screenshots/channel_settings.png
+A	screenshots/dog_videos.png
+
+36d4ba4;Inital commit
+A	.gitignore
+A	app/.gitignore
+A	app/build.gradle
+A	app/proguard-rules.pro
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/google/android/tvlaunchersample/Clip.java
+A	app/src/main/java/com/google/android/tvlaunchersample/LauncherNotificationReceiver.java
+A	app/src/main/java/com/google/android/tvlaunchersample/LoadPublishedChannels.java
+A	app/src/main/java/com/google/android/tvlaunchersample/MainActivity.java
+A	app/src/main/java/com/google/android/tvlaunchersample/MainFragment.java
+A	app/src/main/java/com/google/android/tvlaunchersample/PlayList.java
+A	app/src/main/java/com/google/android/tvlaunchersample/PlaybackActivity.java
+A	app/src/main/java/com/google/android/tvlaunchersample/RecommendationReceiverActivity.java
+A	app/src/main/java/com/google/android/tvlaunchersample/RunOnInstallReceiver.java
+A	app/src/main/java/com/google/android/tvlaunchersample/SampleClipApi.java
+A	app/src/main/java/com/google/android/tvlaunchersample/SampleContentDb.java
+A	app/src/main/java/com/google/android/tvlaunchersample/SampleTvProvider.java
+A	app/src/main/java/com/google/android/tvlaunchersample/SynchronizeDatabaseJobService.java
+A	app/src/main/java/com/google/android/tvlaunchersample/TvSearchActivity.java
+A	app/src/main/java/com/google/android/tvlaunchersample/TvSearchFragment.java
+A	app/src/main/java/com/google/android/tvlaunchersample/VideoFragment.java
+A	app/src/main/java/com/google/android/tvlaunchersample/presenters/AddChannelPresenter.java
+A	app/src/main/java/com/google/android/tvlaunchersample/presenters/CardPresenter.java
+A	app/src/main/java/com/google/android/tvlaunchersample/scheduler/AddWatchNextService.java
+A	app/src/main/java/com/google/android/tvlaunchersample/scheduler/ClipData.java
+A	app/src/main/java/com/google/android/tvlaunchersample/scheduler/DeleteWatchNextService.java
+A	app/src/main/res/color/add_channels_button_background_tint_csl.xml
+A	app/src/main/res/drawable/add_channels_button_rounded_background.xml
+A	app/src/main/res/drawable/app_banner.png
+A	app/src/main/res/drawable/app_icon.png
+A	app/src/main/res/drawable/darker_gray_ripple.xml
+A	app/src/main/res/drawable/ic_add_channel_plus_24dp.xml
+A	app/src/main/res/drawable/ic_add_circle_black_24dp.xml
+A	app/src/main/res/drawable/ic_remove_circle_black_24dp.xml
+A	app/src/main/res/layout/activity_main.xml
+A	app/src/main/res/layout/activity_search.xml
+A	app/src/main/res/layout/add_channels_row.xml
+A	app/src/main/res/layout/add_playlist.xml
+A	app/src/main/res/menu/program_menu.xml
+A	app/src/main/res/values/colors.xml
+A	app/src/main/res/values/dimens.xml
+A	app/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle
+
+1d423f2;Initial empty repository

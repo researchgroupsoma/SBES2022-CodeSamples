@@ -1,0 +1,44 @@
+263e68f;Update README.md
+M	README.md
+
+50c0c7a;Add support for Android O. Start foreground service from broadcast. App may not be running in foreground when broadcast is received. Therefore, a foreground service should be started to perform task.
+M	app/build.gradle
+M	app/src/main/java/com/google/accounttransfer/sample/AccountTransferBroadcastReceiver.java
+M	app/src/main/java/com/google/accounttransfer/sample/AccountTransferService.java
+M	app/src/main/res/values/strings.xml
+M	build.gradle
+
+7411e99;Setup sample app demonstrating usage of AccountTransferApi.
+A	.gitignore
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	app/.gitignore
+A	app/build.gradle
+A	app/proguard-rules.pro
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/google/accounttransfer/sample/AccountTransferBroadcastReceiver.java
+A	app/src/main/java/com/google/accounttransfer/sample/AccountTransferService.java
+A	app/src/main/java/com/google/accounttransfer/sample/AccountTransferUtil.java
+A	app/src/main/java/com/google/accounttransfer/sample/MainActivity.java
+A	app/src/main/java/com/google/accounttransfer/sample/authenticator/Authenticator.java
+A	app/src/main/java/com/google/accounttransfer/sample/authenticator/AuthenticatorActivity.java
+A	app/src/main/java/com/google/accounttransfer/sample/authenticator/AuthenticatorService.java
+A	app/src/main/res/layout/activity_main.xml
+A	app/src/main/res/layout/login_activity.xml
+A	app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	app/src/main/res/values/colors.xml
+A	app/src/main/res/values/strings.xml
+A	app/src/main/res/values/styles.xml
+A	app/src/main/res/xml/authenticator.xml
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

@@ -1,0 +1,231 @@
+97e3c70;Update README.md
+M	README.md
+
+0acde43;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+7050c2f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+
+852da09;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+1d4c288;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+e2d09b5;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+6c947a7;Auto-update
+M	Wearable/build.gradle
+
+7b844a2;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+c5479f6;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+6369565;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+2d020b5;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+f56c552;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/findphone/FindPhoneService.java
+M	gradle/wrapper/gradle-wrapper.properties
+
+ca7e0be;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+M	Wearable/build.gradle
+
+4333828;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+3c5c8d5;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+M	Wearable/build.gradle
+
+c080ac4;Auto-update
+M	Application/build.gradle
+
+47b8bf7;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+985f1fa;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+M	Wearable/build.gradle
+
+4c7f18d;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/findphone/SoundAlarmListenerService.java
+A	NOTICE
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/findphone/FindPhoneService.java
+
+432b57a;Auto-update
+M	LICENSE
+D	NOTICE
+
+5752794;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+M	Wearable/build.gradle
+M	settings.gradle
+
+718528f;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+A	Application/src/main/res/values/wear.xml
+M	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/findphone/DisconnectListenerService.java
+M	Wearable/src/main/java/com/example/android/wearable/findphone/FindPhoneActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/findphone/FindPhoneService.java
+
+c9a4e28;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+M	Wearable/build.gradle
+
+11c9ddb;Auto-update
+M	NOTICE
+
+2fcca0a;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+ff9a2aa;Auto-update
+M	Application/build.gradle
+A	CONTRIB.md
+A	NOTICE
+M	Wearable/build.gradle
+
+da8547e;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+3896bc8;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R098	Application/src/main/java/com/example/android/findphone/SoundAlarmListenerService.java	Application/src/main/java/com/example/android/wearable/findphone/SoundAlarmListenerService.java
+D	Shared/build.gradle
+D	Shared/src/main/AndroidManifest.xml
+D	Shared/src/main/res/values/strings.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+R097	Wearable/src/main/java/com/example/android/findphone/DisconnectListenerService.java	Wearable/src/main/java/com/example/android/wearable/findphone/DisconnectListenerService.java
+R098	Wearable/src/main/java/com/example/android/findphone/FindPhoneActivity.java	Wearable/src/main/java/com/example/android/wearable/findphone/FindPhoneActivity.java
+R099	Wearable/src/main/java/com/example/android/findphone/FindPhoneService.java	Wearable/src/main/java/com/example/android/wearable/findphone/FindPhoneService.java
+A	screenshots/find_my_phone_activity.png
+A	screenshots/find_my_phone_notification.png
+M	settings.gradle
+
+80429fe;Initial Commit
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/findphone/SoundAlarmListenerService.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIB.md
+A	LICENSE
+A	Shared/build.gradle
+A	Shared/src/main/AndroidManifest.xml
+A	Shared/src/main/res/values/strings.xml
+A	Wearable/build.gradle
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/findphone/DisconnectListenerService.java
+A	Wearable/src/main/java/com/example/android/findphone/FindPhoneActivity.java
+A	Wearable/src/main/java/com/example/android/findphone/FindPhoneService.java
+A	Wearable/src/main/res/drawable-hdpi/alarm_action_icon.png
+A	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Wearable/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

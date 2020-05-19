@@ -1,0 +1,202 @@
+7f8910c;Update README.md
+M	README.md
+
+320ff18;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a452642;Auto-update
+M	Application/build.gradle
+M	README.md
+
+0338885;Auto-update
+M	Application/build.gradle
+
+bebf192;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+47b9a6a;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+49f0bae;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9a006a1;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+75e743b;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+de07f5d;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+715b4d2;Auto-update
+M	Application/build.gradle
+M	README.md
+
+ff21804;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+af9a7b6;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+1bbe8c5;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+3b129e4;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+e7df706;Auto-update
+M	LICENSE
+D	NOTICE
+
+b963b4c;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/slidingtabscolors/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+5f348d1;Auto-update
+M	Application/build.gradle
+M	README.md
+
+4f1775e;Auto-update
+M	Application/build.gradle
+M	README.md
+
+07fd6d0;Auto-update
+M	NOTICE
+
+b6b47da;Auto-update
+M	Application/build.gradle
+
+1803cd8;Auto-update
+M	.google/packaging.yaml
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+A	screenshots/1-pre.png
+A	screenshots/2-morph.png
+A	screenshots/3-post.png
+
+e281eef;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8043dc8;Auto-update
+R079	SlidingTabsColorsSample/build.gradle	Application/build.gradle
+R094	SlidingTabsColorsSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/common/view/SlidingTabLayout.java	Application/src/main/java/com/example/android/common/view/SlidingTabLayout.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/common/view/SlidingTabStrip.java	Application/src/main/java/com/example/android/common/view/SlidingTabStrip.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/slidingtabscolors/ContentFragment.java	Application/src/main/java/com/example/android/slidingtabscolors/ContentFragment.java
+R091	SlidingTabsColorsSample/src/main/java/com/example/android/slidingtabscolors/MainActivity.java	Application/src/main/java/com/example/android/slidingtabscolors/MainActivity.java
+R100	SlidingTabsColorsSample/src/main/java/com/example/android/slidingtabscolors/SlidingTabsColorsFragment.java	Application/src/main/java/com/example/android/slidingtabscolors/SlidingTabsColorsFragment.java
+R100	SlidingTabsColorsSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	SlidingTabsColorsSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	SlidingTabsColorsSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	SlidingTabsColorsSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	SlidingTabsColorsSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	SlidingTabsColorsSample/src/main/res/layout-w720dp/activity_main.xml	Application/src/main/res/layout-w720dp/activity_main.xml
+R100	SlidingTabsColorsSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	SlidingTabsColorsSample/src/main/res/layout/fragment_sample.xml	Application/src/main/res/layout/fragment_sample.xml
+R100	SlidingTabsColorsSample/src/main/res/layout/pager_item.xml	Application/src/main/res/layout/pager_item.xml
+R100	SlidingTabsColorsSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	SlidingTabsColorsSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	SlidingTabsColorsSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	SlidingTabsColorsSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	SlidingTabsColorsSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	SlidingTabsColorsSample/src/main/res/values/fragmentview_strings.xml	Application/src/main/res/values/fragmentview_strings.xml
+R100	SlidingTabsColorsSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	SlidingTabsColorsSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	SlidingTabsColorsSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R094	SlidingTabsColorsSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	SlidingTabsColorsSample/tests/src/com/example/android/slidingtabscolors/tests/SampleTests.java	Application/tests/src/com/example/android/slidingtabscolors/tests/SampleTests.java
+M	gradle/wrapper/gradle-wrapper.properties
+M	settings.gradle
+
+0964d20;Initial Commit
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	SlidingTabsColorsSample/build.gradle
+A	SlidingTabsColorsSample/src/main/AndroidManifest.xml
+A	SlidingTabsColorsSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/Log.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/LogView.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/common/view/SlidingTabLayout.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/common/view/SlidingTabStrip.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/slidingtabscolors/ContentFragment.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/slidingtabscolors/MainActivity.java
+A	SlidingTabsColorsSample/src/main/java/com/example/android/slidingtabscolors/SlidingTabsColorsFragment.java
+A	SlidingTabsColorsSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	SlidingTabsColorsSample/src/main/res/drawable-hdpi/tile.9.png
+A	SlidingTabsColorsSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	SlidingTabsColorsSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	SlidingTabsColorsSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	SlidingTabsColorsSample/src/main/res/layout-w720dp/activity_main.xml
+A	SlidingTabsColorsSample/src/main/res/layout/activity_main.xml
+A	SlidingTabsColorsSample/src/main/res/layout/fragment_sample.xml
+A	SlidingTabsColorsSample/src/main/res/layout/pager_item.xml
+A	SlidingTabsColorsSample/src/main/res/menu/main.xml
+A	SlidingTabsColorsSample/src/main/res/values-sw600dp/template-dimens.xml
+A	SlidingTabsColorsSample/src/main/res/values-sw600dp/template-styles.xml
+A	SlidingTabsColorsSample/src/main/res/values-v11/template-styles.xml
+A	SlidingTabsColorsSample/src/main/res/values/base-strings.xml
+A	SlidingTabsColorsSample/src/main/res/values/fragmentview_strings.xml
+A	SlidingTabsColorsSample/src/main/res/values/strings.xml
+A	SlidingTabsColorsSample/src/main/res/values/template-dimens.xml
+A	SlidingTabsColorsSample/src/main/res/values/template-styles.xml
+A	SlidingTabsColorsSample/tests/AndroidManifest.xml
+A	SlidingTabsColorsSample/tests/src/com/example/android/slidingtabscolors/tests/SampleTests.java
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

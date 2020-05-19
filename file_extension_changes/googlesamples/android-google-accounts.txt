@@ -1,0 +1,124 @@
+0a22d76;Update README.md
+M	README.md
+
+97f39df;Fixing bad URL in documentation.
+M	README.md
+
+315a594;Adding README, updating icons, and notating a small automanage bug.
+M	AutoManage/app/src/main/java/com/google/android/gms/accounts/sample/automanage/MainActivity.java
+M	AutoManage/app/src/main/res/drawable-hdpi/ic_launcher.png
+M	AutoManage/app/src/main/res/drawable-mdpi/ic_launcher.png
+M	AutoManage/app/src/main/res/drawable-xhdpi/ic_launcher.png
+M	AutoManage/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	AutoManage/app/src/main/res/drawable-xxxhdpi/ic_launcher.png
+M	CONTRIBUTING.md
+A	README.md
+
+a67f808;Adding the AutoManage sample.
+A	AutoManage/.gitattributes
+A	AutoManage/.gitignore
+A	AutoManage/README.md
+A	AutoManage/app/build.gradle
+A	AutoManage/app/proguard-rules.pro
+A	AutoManage/app/src/androidTest/java/com/example/android/myapplication/ApplicationTest.java
+A	AutoManage/app/src/main/AndroidManifest.xml
+A	AutoManage/app/src/main/java/com/google/android/gms/accounts/sample/automanage/MainActivity.java
+A	AutoManage/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	AutoManage/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	AutoManage/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	AutoManage/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	AutoManage/app/src/main/res/layout/main_activity.xml
+A	AutoManage/app/src/main/res/values-v21/styles.xml
+A	AutoManage/app/src/main/res/values-w820dp/dimens.xml
+A	AutoManage/app/src/main/res/values/dimens.xml
+A	AutoManage/app/src/main/res/values/strings.xml
+A	AutoManage/app/src/main/res/values/styles.xml
+A	AutoManage/build.gradle
+A	AutoManage/gradle.properties
+A	AutoManage/gradle/wrapper/gradle-wrapper.jar
+A	AutoManage/gradle/wrapper/gradle-wrapper.properties
+A	AutoManage/gradlew
+A	AutoManage/gradlew.bat
+A	AutoManage/settings.gradle
+A	CONTRIBUTING.md
+
+7a2877c;Updated code for disconnecting GAC
+M	QuickStart/app/src/main/java/com/google/android/gms/accounts/sample/quickstart/MainActivity.java
+
+d093100;Split client libs & icon update.
+M	QuickStart/app/build.gradle
+M	QuickStart/app/src/main/res/drawable-hdpi/ic_launcher.png
+M	QuickStart/app/src/main/res/drawable-mdpi/ic_launcher.png
+M	QuickStart/app/src/main/res/drawable-xhdpi/ic_launcher.png
+M	QuickStart/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	QuickStart/gradle/wrapper/gradle-wrapper.properties
+
+847dec9;Updating latest versions of tools and Material style.
+M	QuickStart/app/build.gradle
+M	QuickStart/app/src/main/res/values-v21/styles.xml
+M	QuickStart/build.gradle
+M	QuickStart/gradle/wrapper/gradle-wrapper.properties
+
+b0ff026;Update to call out API unavailable cases.
+M	QuickStart/app/src/main/java/com/google/android/gms/accounts/sample/quickstart/MainActivity.java
+
+7ef2eaf;Finish move to QuickStart subdir.
+R100	.gitignore	QuickStart/.gitignore
+R100	gradlew	QuickStart/gradlew
+
+6d24072;Moving QuickStart to subdir.
+R100	README.md	QuickStart/README.md
+R100	app/.gitignore	QuickStart/app/.gitignore
+R100	app/build.gradle	QuickStart/app/build.gradle
+R100	app/proguard-rules.debug.pro	QuickStart/app/proguard-rules.debug.pro
+R100	app/proguard-rules.pro	QuickStart/app/proguard-rules.pro
+R100	app/src/androidTest/java/com/example/android/myapplication/ApplicationTest.java	QuickStart/app/src/androidTest/java/com/example/android/myapplication/ApplicationTest.java
+R100	app/src/main/AndroidManifest.xml	QuickStart/app/src/main/AndroidManifest.xml
+R100	app/src/main/java/com/google/android/gms/accounts/sample/quickstart/MainActivity.java	QuickStart/app/src/main/java/com/google/android/gms/accounts/sample/quickstart/MainActivity.java
+R100	app/src/main/res/drawable-hdpi/ic_launcher.png	QuickStart/app/src/main/res/drawable-hdpi/ic_launcher.png
+R100	app/src/main/res/drawable-mdpi/ic_launcher.png	QuickStart/app/src/main/res/drawable-mdpi/ic_launcher.png
+R100	app/src/main/res/drawable-xhdpi/ic_launcher.png	QuickStart/app/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	app/src/main/res/drawable-xxhdpi/ic_launcher.png	QuickStart/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	app/src/main/res/layout/main_activity.xml	QuickStart/app/src/main/res/layout/main_activity.xml
+R100	app/src/main/res/values-v21/styles.xml	QuickStart/app/src/main/res/values-v21/styles.xml
+R100	app/src/main/res/values-w820dp/dimens.xml	QuickStart/app/src/main/res/values-w820dp/dimens.xml
+R100	app/src/main/res/values/dimens.xml	QuickStart/app/src/main/res/values/dimens.xml
+R100	app/src/main/res/values/strings.xml	QuickStart/app/src/main/res/values/strings.xml
+R100	app/src/main/res/values/styles.xml	QuickStart/app/src/main/res/values/styles.xml
+R100	build.gradle	QuickStart/build.gradle
+R100	gradle.properties	QuickStart/gradle.properties
+R100	gradle/wrapper/gradle-wrapper.jar	QuickStart/gradle/wrapper/gradle-wrapper.jar
+R100	gradle/wrapper/gradle-wrapper.properties	QuickStart/gradle/wrapper/gradle-wrapper.properties
+R100	gradlew.bat	QuickStart/gradlew.bat
+R100	settings.gradle	QuickStart/settings.gradle
+
+3dfb6ce;Initial version of GoogleAccount sample.
+A	.gitignore
+A	LICENSE
+A	README.md
+A	app/.gitignore
+A	app/build.gradle
+A	app/proguard-rules.debug.pro
+A	app/proguard-rules.pro
+A	app/src/androidTest/java/com/example/android/myapplication/ApplicationTest.java
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/google/android/gms/accounts/sample/quickstart/MainActivity.java
+A	app/src/main/res/drawable-hdpi/ic_launcher.png
+A	app/src/main/res/drawable-mdpi/ic_launcher.png
+A	app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	app/src/main/res/layout/main_activity.xml
+A	app/src/main/res/values-v21/styles.xml
+A	app/src/main/res/values-w820dp/dimens.xml
+A	app/src/main/res/values/dimens.xml
+A	app/src/main/res/values/strings.xml
+A	app/src/main/res/values/styles.xml
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle
+
+20e3686;Initial empty repository

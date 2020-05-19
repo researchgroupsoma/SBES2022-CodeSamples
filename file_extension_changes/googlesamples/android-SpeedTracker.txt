@@ -1,0 +1,425 @@
+231c7d6;Merge pull request #11 from googlesamples/remove
+07b59f9;Removes all files for migration to github.com/android.
+D	Application/build.gradle
+D	Application/proguard-rules.pro
+D	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/wearable/speedtracker/LocationDataManager.java
+D	Application/src/main/java/com/example/android/wearable/speedtracker/PhoneApplication.java
+D	Application/src/main/java/com/example/android/wearable/speedtracker/PhoneMainActivity.java
+D	Application/src/main/java/com/example/android/wearable/speedtracker/db/LocationDbHelper.java
+D	Application/src/main/java/com/example/android/wearable/speedtracker/db/UpdateService.java
+D	Application/src/main/res/drawable-hdpi/ic_launcher.png
+D	Application/src/main/res/drawable-hdpi/tile.9.png
+D	Application/src/main/res/drawable-mdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xxxhdpi/ic_launcher.png
+D	Application/src/main/res/layout/main_activity.xml
+D	Application/src/main/res/values-sw600dp/template-dimens.xml
+D	Application/src/main/res/values-sw600dp/template-styles.xml
+D	Application/src/main/res/values-v11/template-styles.xml
+D	Application/src/main/res/values-v21/base-colors.xml
+D	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values/base-strings.xml
+D	Application/src/main/res/values/strings.xml
+D	Application/src/main/res/values/template-dimens.xml
+D	Application/src/main/res/values/template-styles.xml
+D	CONTRIB.md
+D	CONTRIBUTING.md
+D	LICENSE
+D	README
+D	Shared/build.gradle
+D	Shared/proguard-rules.pro
+D	Shared/src/main/AndroidManifest.xml
+D	Shared/src/main/java/com/example/android/wearable/speedtracker/common/Constants.java
+D	Shared/src/main/java/com/example/android/wearable/speedtracker/common/LocationEntry.java
+D	Shared/src/main/java/com/example/android/wearable/speedtracker/common/Utils.java
+D	Wearable/build.gradle
+D	Wearable/proguard-rules.pro
+D	Wearable/src/main/AndroidManifest.xml
+D	Wearable/src/main/java/com/example/android/wearable/speedtracker/SpeedPickerActivity.java
+D	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+D	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/SpeedPickerLayout.java
+D	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/SpeedPickerListAdapter.java
+D	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable-mdpi/ic_boot_cancel.png
+D	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable-nodpi/dot.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_cancel_80.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_confirmation.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_confirmation_80.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_gps_not_saving_grey600_96dp.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_gps_saving_grey600_96dp.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_settings_black_24dp.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_settings_googblue_24dp.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_settings_grey600_24dp.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_settings_white_24dp.png
+D	Wearable/src/main/res/drawable-xxxhdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable/settings.xml
+D	Wearable/src/main/res/drawable/wl_circle.xml
+D	Wearable/src/main/res/layout/main_activity.xml
+D	Wearable/src/main/res/layout/speed_picker_activity.xml
+D	Wearable/src/main/res/layout/speed_picker_item_layout.xml
+D	Wearable/src/main/res/values/colors.xml
+D	Wearable/src/main/res/values/dimens.xml
+D	Wearable/src/main/res/values/integers.xml
+D	Wearable/src/main/res/values/strings.xml
+D	build.gradle
+D	gradle.properties
+D	gradle/wrapper/gradle-wrapper.jar
+D	gradle/wrapper/gradle-wrapper.properties
+D	gradlew
+D	gradlew.bat
+D	settings.gradle
+
+6ef11e4;Delete packaging.yaml
+D	.google/packaging.yaml
+
+3ecbfc7;Update README.md
+M	README.md
+
+3a8a120;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/wearable/speedtracker/PhoneMainActivity.java
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+M	Wearable/src/main/res/layout/speed_picker_activity.xml
+M	gradle.properties
+M	gradle/wrapper/gradle-wrapper.jar
+M	gradle/wrapper/gradle-wrapper.properties
+M	gradlew
+M	gradlew.bat
+
+29104a1;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/SpeedPickerLayout.java
+M	gradle.properties
+
+ba16790;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+366209e;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+787ad15;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+
+862f498;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+8030cf1;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/res/layout/speed_picker_activity.xml
+
+71c4a4b;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+cd0bb50;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+d6bce25;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/wearable/speedtracker/PhoneMainActivity.java
+M	Application/src/main/res/layout/main_activity.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+
+8fed410;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values/base-strings.xml
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+1a74b09;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+5444d92;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+27753ab;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+D	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/LocationSettingActivity.java
+D	Wearable/src/main/res/layout/saving_activity.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+7a4b83d;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+A	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/LocationSettingActivity.java
+A	Wearable/src/main/res/layout/saving_activity.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+56a4ba0;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/wearable/speedtracker/PhoneMainActivity.java
+M	Application/src/main/res/layout/main_activity.xml
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/SpeedPickerActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+D	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/LocationSettingActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/SpeedPickerListAdapter.java
+M	Wearable/src/main/res/layout/main_activity.xml
+D	Wearable/src/main/res/layout/saving_activity.xml
+M	Wearable/src/main/res/values/strings.xml
+
+3d9c287;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+794266d;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+f073dcf;Auto-update
+M	Wearable/build.gradle
+
+976eb73;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+5922e9b;Auto-update
+M	Application/build.gradle
+A	NOTICE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+3d99d61;Merge pull request #2 from seventhmoon/patch-1
+ef0dee4;Update README.md
+M	README.md
+
+f490c7f;Auto-update
+M	LICENSE
+D	NOTICE
+
+b48a367;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	settings.gradle
+
+72ad232;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+5ed76b6;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+7687cce;Auto-update
+M	NOTICE
+
+6c2fffe;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+7fd18a7;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values/base-strings.xml
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+M	Wearable/build.gradle
+
+8b261ef;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/SpeedPickerLayout.java
+M	gradle/wrapper/gradle-wrapper.properties
+
+637fd92;Auto-update
+M	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+M	Application/src/main/res/drawable-hdpi/ic_launcher.png
+M	Application/src/main/res/drawable-mdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xxxhdpi/ic_launcher.png
+M	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+M	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+M	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+M	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_file_download_black_24dp.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_file_download_googblue_24dp.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_file_download_grey600_24dp.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_file_download_white_24dp.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_gps_not_saving_grey600_96dp.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_gps_saving_grey600_96dp.png
+M	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	Wearable/src/main/res/drawable-xxxhdpi/ic_launcher.png
+M	Wearable/src/main/res/layout/main_activity.xml
+
+a38ac0c;Initial Commit
+A	Application/build.gradle
+A	Application/proguard-rules.pro
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/wearable/speedtracker/LocationDataManager.java
+A	Application/src/main/java/com/example/android/wearable/speedtracker/PhoneApplication.java
+A	Application/src/main/java/com/example/android/wearable/speedtracker/PhoneMainActivity.java
+A	Application/src/main/java/com/example/android/wearable/speedtracker/db/LocationDbHelper.java
+A	Application/src/main/java/com/example/android/wearable/speedtracker/db/UpdateService.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxxhdpi/ic_launcher.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/main_activity.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIB.md
+A	LICENSE
+A	README
+A	Shared/build.gradle
+A	Shared/proguard-rules.pro
+A	Shared/src/main/AndroidManifest.xml
+A	Shared/src/main/java/com/example/android/wearable/speedtracker/common/Constants.java
+A	Shared/src/main/java/com/example/android/wearable/speedtracker/common/LocationEntry.java
+A	Shared/src/main/java/com/example/android/wearable/speedtracker/common/Utils.java
+A	Wearable/build.gradle
+A	Wearable/proguard-rules.pro
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/wearable/speedtracker/SpeedPickerActivity.java
+A	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
+A	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/LocationSettingActivity.java
+A	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/SpeedPickerLayout.java
+A	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/SpeedPickerListAdapter.java
+A	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-mdpi/ic_boot_cancel.png
+A	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-nodpi/dot.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_cancel_80.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_confirmation.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_confirmation_80.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_file_download_black_24dp.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_file_download_googblue_24dp.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_file_download_grey600_24dp.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_file_download_white_24dp.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_settings_black_24dp.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_settings_googblue_24dp.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_settings_grey600_24dp.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_settings_white_24dp.png
+A	Wearable/src/main/res/drawable-xxxhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable/settings.xml
+A	Wearable/src/main/res/drawable/wl_circle.xml
+A	Wearable/src/main/res/layout/main_activity.xml
+A	Wearable/src/main/res/layout/saving_activity.xml
+A	Wearable/src/main/res/layout/speed_picker_activity.xml
+A	Wearable/src/main/res/layout/speed_picker_item_layout.xml
+A	Wearable/src/main/res/values/colors.xml
+A	Wearable/src/main/res/values/dimens.xml
+A	Wearable/src/main/res/values/integers.xml
+A	Wearable/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

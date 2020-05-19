@@ -1,0 +1,209 @@
+55d0fa3;Update README.md
+M	README.md
+
+84ed71f;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9c358ee;Auto-update
+M	Application/build.gradle
+M	README.md
+
+a6a8899;Auto-update
+M	Application/build.gradle
+
+c972d3e;Auto-update
+M	Application/build.gradle
+
+5578dcb;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+56ebc6e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+766550a;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+31e61e1;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+21fcb2e;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+bca87fc;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+039e990;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+
+a14f38e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a69d89b;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+4541f4c;Auto-update
+M	Application/build.gradle
+
+769d3f2;Auto-update
+M	Application/build.gradle
+
+e957658;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+3b55c4b;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+61ec1ed;Auto-update
+M	LICENSE
+D	NOTICE
+
+cec5e42;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+c2655ae;Auto-update
+M	Application/build.gradle
+M	README.md
+
+9b7fbc1;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+
+17510db;Auto-update
+M	NOTICE
+
+83b8617;Auto-update
+M	Application/build.gradle
+
+3f459ab;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+efb435d;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+412a805;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+R097	Application/src/main/java/com/example/android/recipeassistant/AssetUtils.java	Application/src/main/java/com/example/android/wearable/recipeassistant/AssetUtils.java
+R093	Application/src/main/java/com/example/android/recipeassistant/Constants.java	Application/src/main/java/com/example/android/wearable/recipeassistant/Constants.java
+R096	Application/src/main/java/com/example/android/recipeassistant/MainActivity.java	Application/src/main/java/com/example/android/wearable/recipeassistant/MainActivity.java
+R098	Application/src/main/java/com/example/android/recipeassistant/Recipe.java	Application/src/main/java/com/example/android/wearable/recipeassistant/Recipe.java
+R098	Application/src/main/java/com/example/android/recipeassistant/RecipeActivity.java	Application/src/main/java/com/example/android/wearable/recipeassistant/RecipeActivity.java
+R098	Application/src/main/java/com/example/android/recipeassistant/RecipeListAdapter.java	Application/src/main/java/com/example/android/wearable/recipeassistant/RecipeListAdapter.java
+R098	Application/src/main/java/com/example/android/recipeassistant/RecipeService.java	Application/src/main/java/com/example/android/wearable/recipeassistant/RecipeService.java
+D	Shared/src/main/AndroidManifest.xml
+D	Shared/src/main/res/values/strings.xml
+A	screenshots/guac_notification.png
+A	screenshots/guac_notification_step1.png
+A	screenshots/recipe_assistant_guac.png
+
+93f9a96;Initial Commit
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/assets/beef-brisket-chili.json
+A	Application/src/main/assets/chili.jpg
+A	Application/src/main/assets/guacamole.jpg
+A	Application/src/main/assets/guacamole.json
+A	Application/src/main/assets/irish-stew.jpg
+A	Application/src/main/assets/northern-irish-vegetable-soup.json
+A	Application/src/main/assets/recipelist.json
+A	Application/src/main/assets/step-1-grind-spices.jpg
+A	Application/src/main/assets/step-2-score-beef.jpg
+A	Application/src/main/assets/step-3-brown-beef.jpg
+A	Application/src/main/assets/step-3-lime.jpg
+A	Application/src/main/assets/step-4-fry-onion.jpg
+A	Application/src/main/assets/step-6-combine.jpg
+A	Application/src/main/assets/step-8-pull.jpg
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/recipeassistant/AssetUtils.java
+A	Application/src/main/java/com/example/android/recipeassistant/Constants.java
+A	Application/src/main/java/com/example/android/recipeassistant/MainActivity.java
+A	Application/src/main/java/com/example/android/recipeassistant/Recipe.java
+A	Application/src/main/java/com/example/android/recipeassistant/RecipeActivity.java
+A	Application/src/main/java/com/example/android/recipeassistant/RecipeListAdapter.java
+A	Application/src/main/java/com/example/android/recipeassistant/RecipeService.java
+A	Application/src/main/res/drawable-hdpi/ic_noimage.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_noimage.png
+A	Application/src/main/res/drawable-xhdpi/ic_noimage.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/list_item.xml
+A	Application/src/main/res/layout/recipe.xml
+A	Application/src/main/res/layout/step_item.xml
+A	Application/src/main/res/menu/main.xml
+A	Application/src/main/res/mipmap-hdpi/ic_app_recipe.png
+A	Application/src/main/res/mipmap-hdpi/ic_notification_recipe.png
+A	Application/src/main/res/mipmap-mdpi/ic_app_recipe.png
+A	Application/src/main/res/mipmap-mdpi/ic_notification_recipe.png
+A	Application/src/main/res/mipmap-xhdpi/ic_app_recipe.png
+A	Application/src/main/res/mipmap-xhdpi/ic_notification_recipe.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_app_recipe.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_notification_recipe.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_app_recipe.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_notification_recipe.png
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/colors.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/styles.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIB.md
+A	LICENSE
+A	Shared/src/main/AndroidManifest.xml
+A	Shared/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

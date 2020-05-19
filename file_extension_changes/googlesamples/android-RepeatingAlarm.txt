@@ -1,0 +1,181 @@
+56078ac;Update README.md
+M	README.md
+
+87ab8f2;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9dad130;Auto-update
+M	Application/build.gradle
+M	README.md
+
+a54f75c;Auto-update
+M	Application/build.gradle
+
+6822112;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+01f1cb4;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9241e01;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+c391aa5;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+7f822e6;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+5a95271;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+1aee302;Auto-update
+M	Application/build.gradle
+M	README.md
+
+c7102a6;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+e1a4649;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+
+762cb84;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+D	NOTICE
+M	README.md
+
+ed44e5f;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+104264d;Auto-update
+M	LICENSE
+D	NOTICE
+
+b17ae47;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/repeatingalarm/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	Application/src/main/res/values/strings.xml
+M	NOTICE
+M	README.md
+
+fe51d52;Auto-update
+M	Application/build.gradle
+M	README.md
+
+803e1f0;Auto-update
+M	Application/build.gradle
+M	README.md
+
+7436dc9;Auto-update
+M	NOTICE
+
+c46fbc6;Auto-update
+M	Application/build.gradle
+
+3e014a6;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+981fe6d;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d6a7d86;Auto-update
+R079	RepeatingAlarmSample/build.gradle	Application/build.gradle
+R094	RepeatingAlarmSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	RepeatingAlarmSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+R100	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	RepeatingAlarmSample/src/main/java/com/example/android/repeatingalarm/MainActivity.java	Application/src/main/java/com/example/android/repeatingalarm/MainActivity.java
+R100	RepeatingAlarmSample/src/main/java/com/example/android/repeatingalarm/RepeatingAlarmFragment.java	Application/src/main/java/com/example/android/repeatingalarm/RepeatingAlarmFragment.java
+R100	RepeatingAlarmSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	RepeatingAlarmSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	RepeatingAlarmSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	RepeatingAlarmSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	RepeatingAlarmSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	RepeatingAlarmSample/src/main/res/layout-sw600dp-land/activity_main.xml	Application/src/main/res/layout-sw600dp-land/activity_main.xml
+R100	RepeatingAlarmSample/src/main/res/layout-sw600dp/activity_main.xml	Application/src/main/res/layout-sw600dp/activity_main.xml
+R100	RepeatingAlarmSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	RepeatingAlarmSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	RepeatingAlarmSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	RepeatingAlarmSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	RepeatingAlarmSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	RepeatingAlarmSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	RepeatingAlarmSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	RepeatingAlarmSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	RepeatingAlarmSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+M	settings.gradle
+
+75f364e;Initial Commit
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	RepeatingAlarmSample/build.gradle
+A	RepeatingAlarmSample/src/main/AndroidManifest.xml
+A	RepeatingAlarmSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/Log.java
+A	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/LogView.java
+A	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	RepeatingAlarmSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	RepeatingAlarmSample/src/main/java/com/example/android/repeatingalarm/MainActivity.java
+A	RepeatingAlarmSample/src/main/java/com/example/android/repeatingalarm/RepeatingAlarmFragment.java
+A	RepeatingAlarmSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	RepeatingAlarmSample/src/main/res/drawable-hdpi/tile.9.png
+A	RepeatingAlarmSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	RepeatingAlarmSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	RepeatingAlarmSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	RepeatingAlarmSample/src/main/res/layout-sw600dp-land/activity_main.xml
+A	RepeatingAlarmSample/src/main/res/layout-sw600dp/activity_main.xml
+A	RepeatingAlarmSample/src/main/res/layout/activity_main.xml
+A	RepeatingAlarmSample/src/main/res/menu/main.xml
+A	RepeatingAlarmSample/src/main/res/values-sw600dp/template-dimens.xml
+A	RepeatingAlarmSample/src/main/res/values-sw600dp/template-styles.xml
+A	RepeatingAlarmSample/src/main/res/values-v11/template-styles.xml
+A	RepeatingAlarmSample/src/main/res/values/base-strings.xml
+A	RepeatingAlarmSample/src/main/res/values/strings.xml
+A	RepeatingAlarmSample/src/main/res/values/template-dimens.xml
+A	RepeatingAlarmSample/src/main/res/values/template-styles.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

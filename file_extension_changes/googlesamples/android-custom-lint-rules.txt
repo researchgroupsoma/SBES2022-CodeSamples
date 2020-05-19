@@ -1,0 +1,154 @@
+dc9cb3f;Merge pull request #25 from tnorbye/studio41
+dd748b7;Update to lint from Studio 4.1 canary 2
+M	android-studio-4/build.gradle
+M	android-studio-4/gradle/wrapper/gradle-wrapper.properties
+
+1f405fb;Merge pull request #24 from tnorbye/master
+389322b;Add sample for Studio 4.0
+A	android-studio-4/README.md
+A	android-studio-4/build.gradle
+A	android-studio-4/checks/.gitignore
+A	android-studio-4/checks/build.gradle
+A	android-studio-4/checks/src/main/java/com/example/lint/checks/SampleCodeDetector.kt
+A	android-studio-4/checks/src/main/java/com/example/lint/checks/SampleIssueRegistry.kt
+A	android-studio-4/checks/src/main/resources/META-INF/services/com.android.tools.lint.client.api.IssueRegistry
+A	android-studio-4/checks/src/test/java/com/example/lint/checks/SampleCodeDetectorTest.kt
+A	android-studio-4/gradle.properties
+A	android-studio-4/gradle/wrapper/gradle-wrapper.jar
+A	android-studio-4/gradle/wrapper/gradle-wrapper.properties
+A	android-studio-4/gradlew
+A	android-studio-4/gradlew.bat
+A	android-studio-4/library/.gitignore
+A	android-studio-4/library/build.gradle
+A	android-studio-4/library/src/main/AndroidManifest.xml
+A	android-studio-4/settings.gradle
+
+eb815a7;Merge pull request #23 from IanGClifton/readme-quick-fix
+7bd016b;Merge pull request #22 from hannesa2/Android-Studio-3.5.2
+8a7ac1f;Removed Google+ link from README.md
+M	README.md
+
+c228c0f;Android Studio 3.5.2
+M	android-studio-3/build.gradle
+D	android-studio-3/checks/.gitignore
+M	android-studio-3/checks/build.gradle
+M	android-studio-3/gradle/wrapper/gradle-wrapper.properties
+D	android-studio-3/library/.gitignore
+M	android-studio-3/library/build.gradle
+
+f0946d8;Merge pull request #15 from ungesehn/update-as3-to-latest
+31caf94;Merge pull request #11 from DSteve595/patch-1
+a45506b;Merge pull request #19 from btrautmann/adding-lint-deps-info
+af20a35;Added dependency descriptions to the README and a note in each build.gradle to reference the README.
+M	README.md
+M	android-studio-2/build.gradle
+M	android-studio-3/checks/build.gradle
+
+d5894cd;* Update AGP and Lint to latest (stable) versions * Update IssueRegistry to latest requirements
+M	android-studio-3/build.gradle
+M	android-studio-3/checks/src/main/java/com/example/lint/checks/SampleIssueRegistry.java
+M	android-studio-3/gradle/wrapper/gradle-wrapper.properties
+
+108c724;Fix typo in comment
+M	android-studio-3/checks/src/main/java/com/example/lint/checks/SampleCodeDetector.java
+
+439605d;Merge pull request #10 from tnorbye/studio3-packaging
+e01536a;Add sample for Android Studio 3.x
+M	README.md
+A	android-studio-2/README.md
+R093	build.gradle	android-studio-2/build.gradle
+R100	gradle/wrapper/gradle-wrapper.jar	android-studio-2/gradle/wrapper/gradle-wrapper.jar
+R100	gradle/wrapper/gradle-wrapper.properties	android-studio-2/gradle/wrapper/gradle-wrapper.properties
+R100	gradlew	android-studio-2/gradlew
+R100	gradlew.bat	android-studio-2/gradlew.bat
+R100	src/main/java/com/example/google/lint/MainActivityDetector.java	android-studio-2/src/main/java/com/example/google/lint/MainActivityDetector.java
+R100	src/main/java/com/example/google/lint/ManifestConstants.java	android-studio-2/src/main/java/com/example/google/lint/ManifestConstants.java
+R100	src/main/java/com/example/google/lint/MyIssueRegistry.java	android-studio-2/src/main/java/com/example/google/lint/MyIssueRegistry.java
+R100	src/test/java/com/example/google/lint/MainActivityDetectorTest.java	android-studio-2/src/test/java/com/example/google/lint/MainActivityDetectorTest.java
+A	android-studio-3/README.md
+A	android-studio-3/build.gradle
+A	android-studio-3/checks/.gitignore
+A	android-studio-3/checks/build.gradle
+A	android-studio-3/checks/src/main/java/com/example/lint/checks/SampleCodeDetector.java
+A	android-studio-3/checks/src/main/java/com/example/lint/checks/SampleIssueRegistry.java
+A	android-studio-3/checks/src/test/java/com/example/lint/checks/SampleCodeDetectorTest.java
+A	android-studio-3/gradle.properties
+A	android-studio-3/gradle/wrapper/gradle-wrapper.jar
+A	android-studio-3/gradle/wrapper/gradle-wrapper.properties
+A	android-studio-3/gradlew
+A	android-studio-3/gradlew.bat
+A	android-studio-3/library/.gitignore
+A	android-studio-3/library/build.gradle
+A	android-studio-3/library/src/main/AndroidManifest.xml
+A	android-studio-3/settings.gradle
+
+1355b0c;Merge pull request #9 from tnorbye/studio30
+b14198a;Update to Gradle 3.0, and update tests to new DSL
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.jar
+M	gradle/wrapper/gradle-wrapper.properties
+M	src/test/java/com/example/google/lint/MainActivityDetectorTest.java
+
+57511bd;Upgrade to version 25.3.0 for dependencies
+M	README.md
+M	build.gradle
+D	src/main/java/com/example/google/lint/MainActivityDetector.java~
+D	src/test/java/com/example/google/lint/MainActivityDetectorTest.java~
+
+a66852d;Move to 25.2.3 for the lint deps
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+M	src/main/java/com/example/google/lint/MainActivityDetector.java
+A	src/main/java/com/example/google/lint/MainActivityDetector.java~
+A	src/test/java/com/example/google/lint/MainActivityDetectorTest.java~
+
+dccc9c5;Merge pull request #1 from a11n/issue-message
+e3c13da;Corrected issue-message.
+M	src/main/java/com/example/google/lint/MainActivityDetector.java
+M	src/test/java/com/example/google/lint/MainActivityDetectorTest.java
+
+1059845;Update README name of project.
+M	README.md
+
+bfcb1f2;Removes unused import.
+M	src/main/java/com/example/google/lint/MainActivityDetector.java
+
+499d2b3;Polishing custom lint rules sample naming, comments, and use of LintUtils.
+M	README.md
+M	gradle/wrapper/gradle-wrapper.jar
+M	gradle/wrapper/gradle-wrapper.properties
+M	src/main/java/com/example/google/lint/MainActivityDetector.java
+M	src/main/java/com/example/google/lint/MyIssueRegistry.java
+M	src/test/java/com/example/google/lint/MainActivityDetectorTest.java
+
+09b1df9;Bump dependency versions
+M	build.gradle
+
+73514e4;Move to using 24.3.0 for lint-apis/checks/tests
+M	build.gradle
+D	libs/lint-tests.jar
+D	libs/testutils-24.3.0-beta3.jar
+
+4046b74;Added a note that this is not a final API
+M	README.md
+M	src/main/java/com/example/google/lint/MainActivityDetector.java
+M	src/test/java/com/example/google/lint/MainActivityDetectorTest.java
+
+9f855da;Add main activity detector and tests.
+A	.gitignore
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	libs/lint-tests.jar
+A	libs/testutils-24.3.0-beta3.jar
+A	src/main/java/com/example/google/lint/MainActivityDetector.java
+A	src/main/java/com/example/google/lint/ManifestConstants.java
+A	src/main/java/com/example/google/lint/MyIssueRegistry.java
+A	src/test/java/com/example/google/lint/MainActivityDetectorTest.java
+
+28249b0;Initial empty repository

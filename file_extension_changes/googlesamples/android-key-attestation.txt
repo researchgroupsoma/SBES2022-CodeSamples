@@ -1,0 +1,212 @@
+19b996b;Added utility for fetching and decoding attestation certificate status.
+M	server/build.gradle
+M	server/src/main/java/com/android/example/KeyAttestationExample.java
+A	server/src/main/java/com/google/android/attestation/CertificateRevocationStatus.java
+A	server/src/test/java/com/google/android/attestation/CertificateRevocationStatusTest.java
+A	server/src/test/resources/status.json
+
+4e18857;Change UserAuthType to Enum.
+M	server/src/main/java/com/google/android/attestation/AuthorizationList.java
+M	server/src/main/java/com/google/android/attestation/Constants.java
+M	server/src/test/java/com/google/android/attestation/AuthorizationListTest.java
+
+71b59fb;Fix Java practices in AttestationApplicationIdTest.
+M	server/src/test/java/com/google/android/attestation/AttestationApplicationIdTest.java
+
+db5539e;Update Bouncy Castle to 1.61.
+M	server/build.gradle
+M	server/src/test/java/com/google/android/attestation/AttestationApplicationIdTest.java
+
+5a15254;Merge "Override hashCode in AttestationApplicationId."
+588ddd9;Override hashCode in AttestationApplicationId.
+M	server/src/main/java/com/google/android/attestation/AttestationApplicationId.java
+M	server/src/main/java/com/google/android/attestation/RootOfTrust.java
+M	server/src/test/java/com/google/android/attestation/AttestationApplicationIdTest.java
+
+e7339b9;Update the documentation.
+M	README.md
+M	server/README.md
+
+f4962ca;Fix java style in the Example app.
+M	server/src/main/java/com/android/example/KeyAttestationExample.java
+
+9b85d77;Parse AttestationApplicationId
+M	server/src/main/java/com/android/example/KeyAttestationExample.java
+A	server/src/main/java/com/google/android/attestation/AttestationApplicationId.java
+M	server/src/main/java/com/google/android/attestation/AuthorizationList.java
+M	server/src/main/java/com/google/android/attestation/Constants.java
+A	server/src/test/java/com/google/android/attestation/AttestationApplicationIdTest.java
+M	server/src/test/java/com/google/android/attestation/AuthorizationListTest.java
+M	server/src/test/java/com/google/android/attestation/RootOfTrustTest.java
+
+2fe33ac;Revert "Add Immutable annotations"
+M	server/build.gradle
+M	server/src/main/java/com/google/android/attestation/AuthorizationList.java
+M	server/src/main/java/com/google/android/attestation/ParsedAttestationRecord.java
+M	server/src/main/java/com/google/android/attestation/RootOfTrust.java
+
+8c10242;Add Immutable annotations
+M	server/build.gradle
+M	server/src/main/java/com/google/android/attestation/AuthorizationList.java
+M	server/src/main/java/com/google/android/attestation/ParsedAttestationRecord.java
+M	server/src/main/java/com/google/android/attestation/RootOfTrust.java
+M	server/src/test/java/com/google/android/attestation/AuthorizationListTest.java
+
+a456bc7;Fix RootOfTrust's verifiedBootHash
+M	server/src/main/java/com/google/android/attestation/AuthorizationList.java
+M	server/src/main/java/com/google/android/attestation/ParsedAttestationRecord.java
+M	server/src/main/java/com/google/android/attestation/RootOfTrust.java
+M	server/src/test/java/com/google/android/attestation/AuthorizationListTest.java
+M	server/src/test/java/com/google/android/attestation/RootOfTrustTest.java
+
+de1890b;Fix Java style and best practices
+M	server/README.md
+M	server/src/main/java/com/android/example/KeyAttestationExample.java
+M	server/src/main/java/com/google/android/attestation/ASN1Parsing.java
+M	server/src/main/java/com/google/android/attestation/AuthorizationList.java
+M	server/src/main/java/com/google/android/attestation/Constants.java
+M	server/src/main/java/com/google/android/attestation/ParsedAttestationRecord.java
+M	server/src/main/java/com/google/android/attestation/RootOfTrust.java
+M	server/src/test/java/com/google/android/attestation/AuthorizationListTest.java
+M	server/src/test/java/com/google/android/attestation/ParsedAttestationRecordTest.java
+M	server/src/test/java/com/google/android/attestation/RootOfTrustTest.java
+
+7ca85d4;Move certificate parsing to separate package
+M	server/build.gradle
+M	server/src/main/java/com/android/example/KeyAttestationExample.java
+R097	server/src/main/java/com/android/example/ASN1Parsing.java	server/src/main/java/com/google/android/attestation/ASN1Parsing.java
+R064	server/src/main/java/com/android/example/AuthorizationList.java	server/src/main/java/com/google/android/attestation/AuthorizationList.java
+R098	server/src/main/java/com/android/example/Constants.java	server/src/main/java/com/google/android/attestation/Constants.java
+R071	server/src/main/java/com/android/example/ParsedAttestationRecord.java	server/src/main/java/com/google/android/attestation/ParsedAttestationRecord.java
+R070	server/src/main/java/com/android/example/RootOfTrust.java	server/src/main/java/com/google/android/attestation/RootOfTrust.java
+R099	server/src/test/java/com/android/example/AuthorizationListTest.java	server/src/test/java/com/google/android/attestation/AuthorizationListTest.java
+R097	server/src/test/java/com/android/example/ParsedAttestationRecordTest.java	server/src/test/java/com/google/android/attestation/ParsedAttestationRecordTest.java
+R096	server/src/test/java/com/android/example/RootOfTrustTest.java	server/src/test/java/com/google/android/attestation/RootOfTrustTest.java
+
+7da64b4;Add tests
+M	server/build.gradle
+R100	server/examples/der/key_EC_StrongBox_on/cert0.der	server/examples/der/algorithm_EC_SecurityLevel_StrongBox/cert0.der
+R100	server/examples/der/key_EC_StrongBox_on/cert1.der	server/examples/der/algorithm_EC_SecurityLevel_StrongBox/cert1.der
+R100	server/examples/der/key_EC_StrongBox_on/cert2.der	server/examples/der/algorithm_EC_SecurityLevel_StrongBox/cert2.der
+R100	server/examples/der/key_EC_StrongBox_on/cert3.der	server/examples/der/algorithm_EC_SecurityLevel_StrongBox/cert3.der
+R100	server/examples/der/key_EC_StrongBox_off/cert0.der	server/examples/der/algorithm_EC_SecurityLevel_TEE/cert0.der
+R100	server/examples/der/key_EC_StrongBox_off/cert1.der	server/examples/der/algorithm_EC_SecurityLevel_TEE/cert1.der
+R100	server/examples/der/key_EC_StrongBox_off/cert2.der	server/examples/der/algorithm_EC_SecurityLevel_TEE/cert2.der
+R100	server/examples/der/key_EC_StrongBox_off/cert3.der	server/examples/der/algorithm_EC_SecurityLevel_TEE/cert3.der
+R100	server/examples/der/key_RSA_StrongBox_on/cert0.der	server/examples/der/algorithm_RSA_SecurityLevel_StrongBox/cert0.der
+R100	server/examples/der/key_RSA_StrongBox_on/cert1.der	server/examples/der/algorithm_RSA_SecurityLevel_StrongBox/cert1.der
+R100	server/examples/der/key_RSA_StrongBox_on/cert2.der	server/examples/der/algorithm_RSA_SecurityLevel_StrongBox/cert2.der
+R100	server/examples/der/key_RSA_StrongBox_on/cert3.der	server/examples/der/algorithm_RSA_SecurityLevel_StrongBox/cert3.der
+R100	server/examples/der/key_RSA_StrongBox_off/cert0.der	server/examples/der/algorithm_RSA_SecurityLevel_TEE/cert0.der
+R100	server/examples/der/key_RSA_StrongBox_off/cert1.der	server/examples/der/algorithm_RSA_SecurityLevel_TEE/cert1.der
+R100	server/examples/der/key_RSA_StrongBox_off/cert2.der	server/examples/der/algorithm_RSA_SecurityLevel_TEE/cert2.der
+R100	server/examples/der/key_RSA_StrongBox_off/cert3.der	server/examples/der/algorithm_RSA_SecurityLevel_TEE/cert3.der
+R100	server/examples/pem/key_EC_StrongBox_on/cert0.pem	server/examples/pem/algorithm_EC_SecurityLevel_StrongBox/cert0.pem
+R100	server/examples/pem/key_EC_StrongBox_on/cert1.pem	server/examples/pem/algorithm_EC_SecurityLevel_StrongBox/cert1.pem
+R100	server/examples/pem/key_EC_StrongBox_on/cert2.pem	server/examples/pem/algorithm_EC_SecurityLevel_StrongBox/cert2.pem
+R100	server/examples/pem/key_EC_StrongBox_on/cert3.pem	server/examples/pem/algorithm_EC_SecurityLevel_StrongBox/cert3.pem
+R100	server/examples/pem/key_EC_StrongBox_off/cert0.pem	server/examples/pem/algorithm_EC_SecurityLevel_TEE/cert0.pem
+R100	server/examples/pem/key_EC_StrongBox_off/cert1.pem	server/examples/pem/algorithm_EC_SecurityLevel_TEE/cert1.pem
+R100	server/examples/pem/key_EC_StrongBox_off/cert2.pem	server/examples/pem/algorithm_EC_SecurityLevel_TEE/cert2.pem
+R100	server/examples/pem/key_EC_StrongBox_off/cert3.pem	server/examples/pem/algorithm_EC_SecurityLevel_TEE/cert3.pem
+A	server/examples/pem/algorithm_RSA_SecurityLevel_StrongBox/cert0.pem
+A	server/examples/pem/algorithm_RSA_SecurityLevel_StrongBox/cert1.pem
+A	server/examples/pem/algorithm_RSA_SecurityLevel_StrongBox/cert2.pem
+R100	server/examples/pem/key_RSA_StrongBox_on/cert3.pem	server/examples/pem/algorithm_RSA_SecurityLevel_StrongBox/cert3.pem
+R100	server/examples/pem/key_RSA_StrongBox_off/cert0.pem	server/examples/pem/algorithm_RSA_SecurityLevel_TEE/cert0.pem
+R100	server/examples/pem/key_RSA_StrongBox_off/cert1.pem	server/examples/pem/algorithm_RSA_SecurityLevel_TEE/cert1.pem
+R100	server/examples/pem/key_RSA_StrongBox_off/cert2.pem	server/examples/pem/algorithm_RSA_SecurityLevel_TEE/cert2.pem
+R100	server/examples/pem/key_RSA_StrongBox_off/cert3.pem	server/examples/pem/algorithm_RSA_SecurityLevel_TEE/cert3.pem
+D	server/examples/pem/key_RSA_StrongBox_on/cert0.pem
+D	server/examples/pem/key_RSA_StrongBox_on/cert1.pem
+D	server/examples/pem/key_RSA_StrongBox_on/cert2.pem
+M	server/src/main/java/com/android/example/AuthorizationList.java
+M	server/src/main/java/com/android/example/KeyAttestationExample.java
+M	server/src/main/java/com/android/example/ParsedAttestationRecord.java
+M	server/src/main/java/com/android/example/RootOfTrust.java
+A	server/src/test/java/com/android/example/AuthorizationListTest.java
+A	server/src/test/java/com/android/example/ParsedAttestationRecordTest.java
+A	server/src/test/java/com/android/example/RootOfTrustTest.java
+
+560006d;Add examples of PEM encoded certificates
+R100	server/examples/key_EC_StrongBox_off/cert0.der	server/examples/der/key_EC_StrongBox_off/cert0.der
+R100	server/examples/key_EC_StrongBox_off/cert1.der	server/examples/der/key_EC_StrongBox_off/cert1.der
+R100	server/examples/key_EC_StrongBox_off/cert2.der	server/examples/der/key_EC_StrongBox_off/cert2.der
+R100	server/examples/key_EC_StrongBox_off/cert3.der	server/examples/der/key_EC_StrongBox_off/cert3.der
+R100	server/examples/key_EC_StrongBox_on/cert0.der	server/examples/der/key_EC_StrongBox_on/cert0.der
+R100	server/examples/key_EC_StrongBox_on/cert1.der	server/examples/der/key_EC_StrongBox_on/cert1.der
+R100	server/examples/key_EC_StrongBox_on/cert2.der	server/examples/der/key_EC_StrongBox_on/cert2.der
+R100	server/examples/key_EC_StrongBox_on/cert3.der	server/examples/der/key_EC_StrongBox_on/cert3.der
+R100	server/examples/key_RSA_StrongBox_off/cert0.der	server/examples/der/key_RSA_StrongBox_off/cert0.der
+R100	server/examples/key_RSA_StrongBox_off/cert1.der	server/examples/der/key_RSA_StrongBox_off/cert1.der
+R100	server/examples/key_RSA_StrongBox_off/cert2.der	server/examples/der/key_RSA_StrongBox_off/cert2.der
+R100	server/examples/key_RSA_StrongBox_off/cert3.der	server/examples/der/key_RSA_StrongBox_off/cert3.der
+R100	server/examples/key_RSA_StrongBox_on/cert0.der	server/examples/der/key_RSA_StrongBox_on/cert0.der
+R100	server/examples/key_RSA_StrongBox_on/cert1.der	server/examples/der/key_RSA_StrongBox_on/cert1.der
+R100	server/examples/key_RSA_StrongBox_on/cert2.der	server/examples/der/key_RSA_StrongBox_on/cert2.der
+R100	server/examples/key_RSA_StrongBox_on/cert3.der	server/examples/der/key_RSA_StrongBox_on/cert3.der
+A	server/examples/pem/key_EC_StrongBox_off/cert0.pem
+A	server/examples/pem/key_EC_StrongBox_off/cert1.pem
+A	server/examples/pem/key_EC_StrongBox_off/cert2.pem
+A	server/examples/pem/key_EC_StrongBox_off/cert3.pem
+A	server/examples/pem/key_EC_StrongBox_on/cert0.pem
+A	server/examples/pem/key_EC_StrongBox_on/cert1.pem
+A	server/examples/pem/key_EC_StrongBox_on/cert2.pem
+A	server/examples/pem/key_EC_StrongBox_on/cert3.pem
+A	server/examples/pem/key_RSA_StrongBox_off/cert0.pem
+A	server/examples/pem/key_RSA_StrongBox_off/cert1.pem
+A	server/examples/pem/key_RSA_StrongBox_off/cert2.pem
+A	server/examples/pem/key_RSA_StrongBox_off/cert3.pem
+A	server/examples/pem/key_RSA_StrongBox_on/cert0.pem
+A	server/examples/pem/key_RSA_StrongBox_on/cert1.pem
+A	server/examples/pem/key_RSA_StrongBox_on/cert2.pem
+A	server/examples/pem/key_RSA_StrongBox_on/cert3.pem
+M	server/src/main/java/com/android/example/KeyAttestationExample.java
+
+c791593;Use all keys of all attestation versions
+A	server/examples/key_EC_StrongBox_off/cert0.der
+A	server/examples/key_EC_StrongBox_off/cert1.der
+A	server/examples/key_EC_StrongBox_off/cert2.der
+A	server/examples/key_EC_StrongBox_off/cert3.der
+A	server/examples/key_EC_StrongBox_on/cert0.der
+A	server/examples/key_EC_StrongBox_on/cert1.der
+A	server/examples/key_EC_StrongBox_on/cert2.der
+A	server/examples/key_EC_StrongBox_on/cert3.der
+A	server/examples/key_RSA_StrongBox_off/cert0.der
+A	server/examples/key_RSA_StrongBox_off/cert1.der
+A	server/examples/key_RSA_StrongBox_off/cert2.der
+A	server/examples/key_RSA_StrongBox_off/cert3.der
+A	server/examples/key_RSA_StrongBox_on/cert0.der
+A	server/examples/key_RSA_StrongBox_on/cert1.der
+A	server/examples/key_RSA_StrongBox_on/cert2.der
+A	server/examples/key_RSA_StrongBox_on/cert3.der
+M	server/gradle/wrapper/gradle-wrapper.properties
+A	server/src/main/java/com/android/example/ASN1Parsing.java
+A	server/src/main/java/com/android/example/AuthorizationList.java
+A	server/src/main/java/com/android/example/Constants.java
+M	server/src/main/java/com/android/example/KeyAttestationExample.java
+A	server/src/main/java/com/android/example/ParsedAttestationRecord.java
+A	server/src/main/java/com/android/example/RootOfTrust.java
+
+bc20920;Code reformatting
+M	server/src/main/java/com/android/example/KeyAttestationExample.java
+
+541f7e0;Fix links in README files.
+M	README.md
+M	server/README.md
+
+2ad92d1;Add key attestation sample.
+A	.gitignore
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	server/README.md
+A	server/build.gradle
+A	server/gradle/wrapper/gradle-wrapper.jar
+A	server/gradle/wrapper/gradle-wrapper.properties
+A	server/gradlew
+A	server/gradlew.bat
+A	server/settings.gradle
+A	server/src/main/java/com/android/example/KeyAttestationExample.java
+
+c8070ec;Initial empty repository

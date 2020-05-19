@@ -1,0 +1,574 @@
+9fd0863;Upgrade to Vaadin 14.1.27
+M	complete/pom.xml
+
+bae7930;Upgrade Vaadin to 14.1.27
+M	complete/build.gradle
+
+dba8d21;Upgrade to Vaadin 14.1.25
+M	complete/pom.xml
+
+0a9c8c2;Upgrade to Vaadin 14.1.25
+M	complete/build.gradle
+
+3f9ac99;Upgrade to Vaadin 14.1.24
+M	complete/build.gradle
+
+29f4558;Upgrade to Vaadin 14.1.24
+M	complete/pom.xml
+
+6d2e020;Fixed a broken link
+M	README.adoc
+
+2ac6d95;Upgrade to Vaadin 14.1.17
+M	complete/pom.xml
+
+56c469f;Upgrade to Vaadin 14.1.17
+M	complete/build.gradle
+
+5c4af54;Upgrade to Vaadin 14.1.16
+M	complete/pom.xml
+
+ab284f2;Upgrade Vaadin to 14.1.16
+M	complete/build.gradle
+
+5d26450;Upgraded to Spring Boot 2.2
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	complete/pom.xml
+A	complete/settings.gradle
+M	complete/src/main/java/com/example/crudwithvaadin/CrudWithVaadinApplication.java
+M	complete/src/test/java/com/example/crudwithvaadin/CrudWithVaadinApplicationTests.java
+M	complete/src/test/java/com/example/crudwithvaadin/CustomerEditorTests.java
+M	complete/src/test/java/com/example/crudwithvaadin/MainViewTests.java
+M	images/initializr.png
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+M	initial/pom.xml
+A	initial/settings.gradle
+M	initial/src/main/java/com/example/crudwithvaadin/CrudWithVaadinApplication.java
+
+7e2758d;Fixing broken links
+M	README.adoc
+
+93f409d;Use the Spring Initializr
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+R092	complete/src/main/java/hello/Application.java	complete/src/main/java/com/example/crudwithvaadin/CrudWithVaadinApplication.java
+R095	initial/src/main/java/hello/Customer.java	complete/src/main/java/com/example/crudwithvaadin/Customer.java
+R098	complete/src/main/java/hello/CustomerEditor.java	complete/src/main/java/com/example/crudwithvaadin/CustomerEditor.java
+R086	initial/src/main/java/hello/CustomerRepository.java	complete/src/main/java/com/example/crudwithvaadin/CustomerRepository.java
+R098	complete/src/main/java/hello/MainView.java	complete/src/main/java/com/example/crudwithvaadin/MainView.java
+R076	complete/src/test/java/hello/ApplicationTests.java	complete/src/test/java/com/example/crudwithvaadin/CrudWithVaadinApplicationTests.java
+R097	complete/src/test/java/hello/CustomerEditorTests.java	complete/src/test/java/com/example/crudwithvaadin/CustomerEditorTests.java
+R098	complete/src/test/java/hello/MainViewTests.java	complete/src/test/java/com/example/crudwithvaadin/MainViewTests.java
+A	images/initializr.png
+M	initial/build.gradle
+M	initial/pom.xml
+A	initial/src/main/java/com/example/crudwithvaadin/CrudWithVaadinApplication.java
+R095	complete/src/main/java/hello/Customer.java	initial/src/main/java/com/example/crudwithvaadin/Customer.java
+R086	complete/src/main/java/hello/CustomerRepository.java	initial/src/main/java/com/example/crudwithvaadin/CustomerRepository.java
+A	initial/src/main/java/com/example/crudwithvaadin/MainView.java
+D	initial/src/main/java/hello/Application.java
+
+c149dd7;Upgrade to Vaadin 14.1.3 (#50)
+M	complete/build.gradle
+M	complete/pom.xml
+
+258c895;Switch to tabs, and adjust tabsizing in asciidoctor.
+M	README.adoc
+M	initial/src/main/java/hello/Application.java
+M	initial/src/main/java/hello/Customer.java
+M	initial/src/main/java/hello/CustomerRepository.java
+
+3dd7693;Upgrade to Vaadin 14.0.13 (#49)
+M	complete/build.gradle
+M	complete/pom.xml
+
+1c9dd72;Upgrade to Spring Boot 2.2.1.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+228d851;Upgrade to Gradle 4.10.3.
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+3fbcae0;Merge pull request #48 from ZheSun88
+a726fae;Upgrade to Vaadin 14.0.9
+M	complete/build.gradle
+M	complete/pom.xml
+
+e63614d;Upgrade to Vaadin 14.0.4
+M	complete/pom.xml
+
+c3d6741;Upgrade to Vaadin 14.0.4
+M	complete/build.gradle
+
+1e4fb14;Upgrade to Vaadin 14.0.3 (#41)
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+
+2d024c7;Upgrade to Vaadin 14.0.0
+M	complete/build.gradle
+
+c47f12d;Upgrade to Vaadin 14.0.0
+M	complete/pom.xml
+
+210caba;Updated to @OpenJDK.
+M	.travis.yml
+
+247ad46;Upgrade to Spring Boot 2.1.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d6620be;Merge pull request #28 from spring-operator/polish-urls-apache-license-master
+27e9025;Merge pull request #27 from spring-operator/polish-urls-remaining-master
+9ee3a93;Merge pull request #36 from tulioag/update-vaadin-10.0.16
+e3b8062;Upgrade to Vaadin 10.0.16
+M	complete/build.gradle
+M	complete/pom.xml
+
+051b12e;Upgrade to Spring Boot 2.1.4.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+26b0bf5;Update to Vaadin 10.0.13 (#33)
+M	complete/build.gradle
+M	complete/pom.xml
+
+2fd98f7;URL Cleanup
+M	LICENSE.code.txt
+
+314fe2b;URL Cleanup
+M	LICENSE.writing.txt
+
+642936f;Upgrade to Spring Boot 2.1.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3bcddda;Upgrade to Spring Boot 2.0.8.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b93613d;Merge pull request #26 from spring-operator/polish-urls-xml-master
+3026953;URL Cleanup
+M	complete/pom.xml
+M	initial/pom.xml
+
+31fac75;URL Cleanup (#24)
+M	complete/mvnw
+M	complete/mvnw.cmd
+M	initial/mvnw
+M	initial/mvnw.cmd
+
+6e29034;Upgrade to Vaadin 10.0.11 (#23)
+M	complete/build.gradle
+M	complete/pom.xml
+
+d97760b;Update Vaadin version to 10.0.10 (#22)
+M	complete/build.gradle
+M	complete/pom.xml
+
+8444910;Update Vaadin 10.0.9 (#21)
+M	complete/build.gradle
+M	complete/pom.xml
+
+9213a75;Update Vaadin 10.0.8 (#20)
+M	complete/build.gradle
+M	complete/pom.xml
+
+f30aa47; Update Vaadin version to 10.0.7 (#18)
+M	complete/build.gradle
+M	complete/pom.xml
+
+8516434;Upgrade Vaadin version to restore compatibility with Spring Boot 2.0.x
+M	complete/build.gradle
+M	complete/pom.xml
+
+3c72398;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7c3f770;Merge pull request #15 from mstahv/feature/v10-version
+0e47db9;fixed gradle build and removed obsolete repositories
+M	complete/build.gradle
+M	initial/build.gradle
+
+ea14ef7;updated the text part to Vaadin 10
+M	README.adoc
+
+55d6f63;updated code to Vaadin 10
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/CustomerEditor.java
+R064	complete/src/main/java/hello/VaadinUI.java	complete/src/main/java/hello/MainView.java
+M	complete/src/test/java/hello/ApplicationTests.java
+M	complete/src/test/java/hello/CustomerEditorTests.java
+R078	complete/src/test/java/hello/VaadinUITests.java	complete/src/test/java/hello/MainViewTests.java
+
+9ad0285;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+09b58cb;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+518ed95;Upgrade to Spring Boot 2.0.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ed2bc85;Remove front matter
+M	README.adoc
+
+393ef5c;Merge pull request #14 from mstahv:master
+8d3e3fd;Use VaadinIcons instead of FontAwesome icon set
+M	complete/src/main/java/hello/CustomerEditor.java
+
+d501844;fixed cancel button functionality
+M	complete/src/main/java/hello/CustomerEditor.java
+
+3d2a7f5;Polish
+M	complete/src/main/java/hello/CustomerEditor.java
+
+6c0e881;Merge pull request #13 from upgrade-to-boot-2
+5874640;Polish contribution
+M	README.adoc
+M	complete/build.gradle
+M	complete/src/main/java/hello/CustomerEditor.java
+M	complete/src/main/java/hello/VaadinUI.java
+M	complete/src/test/java/hello/CustomerEditorTests.java
+M	initial/build.gradle
+M	initial/src/main/java/hello/Application.java
+M	initial/src/main/java/hello/Customer.java
+M	initial/src/main/java/hello/CustomerRepository.java
+
+35ab7e2;Upgrade to Vaadin 8
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/CustomerEditor.java
+M	complete/src/test/java/hello/CustomerEditorTests.java
+
+82c0ec4;Replace jar gradle task with bootJar task
+M	complete/build.gradle
+M	initial/build.gradle
+
+39c7065;Upgrade to Spring Boot 2.0.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ee22d7e;Upgrade to Gradle 4.6
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+50bea19;Upgrade to Spring Boot 1.5.10.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+42cf7ec;Upgrade to Spring Boot 1.5.9.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4dd82b2;Upgrade to Spring Boot 1.5.8.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+eaa4bfb;Upgrade to Spring Boot 1.5.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a4fa818;Added See Also links (#11)
+M	README.adoc
+
+cd9d18e;Upgrade to Spring Boot 1.5.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+aa1ef24;Upgrade to Spring Boot 1.5.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+2ace33a;Upgrade to Spring Boot 1.5.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+5c07b58;Upgrade to Spring Boot 1.5.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c54a5a8;Polish
+M	complete/src/main/java/hello/CustomerEditor.java
+M	complete/src/main/java/hello/CustomerRepository.java
+M	complete/src/main/java/hello/VaadinUI.java
+M	complete/src/test/java/hello/ApplicationTests.java
+M	complete/src/test/java/hello/CustomerEditorTests.java
+M	complete/src/test/java/hello/VaadinUITests.java
+
+a99a7f3;Upgrade to Vaadin 8 (#8)
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/CustomerEditor.java
+M	complete/src/main/java/hello/VaadinUI.java
+M	complete/src/test/java/hello/VaadinUITests.java
+
+b1ab0d7;Updated versions to Vaadin Spring 1.2.0 and Spring Boot 1.5.1 (#7)
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+36e5a6e;Rollback to 1.4.4.RELEASE pending Vaadin's 1.5 support
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d9d146e;Upgrade to Spring Boot 1.5.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d6e120d;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+40350fc;Upgrade to Spring Boot 1.4.4.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+93df5fe;Fix small typo (#5)
+M	complete/src/main/java/hello/CustomerEditor.java
+
+72bed35;Upgrade to Spring Boot 1.4.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+408e8b9;Upgrade plugin from spring-boot to o.s.boot
+M	complete/build.gradle
+M	initial/build.gradle
+
+8507c80;Upgrade to Spring Boot 1.4.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+84f709f;Upgrade to Spring Boot 1.4.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+979d465;Merge pull request #4 from spring-guides/rewriting_tests
+9a85793;Added tests
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/pom.xml
+M	complete/src/main/java/hello/VaadinUI.java
+A	complete/src/test/java/hello/ApplicationTests.java
+A	complete/src/test/java/hello/CustomerEditorTests.java
+A	complete/src/test/java/hello/VaadinUITests.java
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+42ea6ad;Upgrade to gradle 2.13
+M	complete/build.gradle
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+
+6a3a2f7;Upgrade to @SpringBoot 1.4.0.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+eed62a1;Upgrade to Spring Boot 1.3.7.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+44bde28;Upgrade to Spring Boot 1.3.6.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+e7f09ba;Add Maven wrapper
+A	complete/.mvn/wrapper/maven-wrapper.jar
+A	complete/.mvn/wrapper/maven-wrapper.properties
+A	complete/mvnw
+A	complete/mvnw.cmd
+A	initial/.mvn/wrapper/maven-wrapper.jar
+A	initial/.mvn/wrapper/maven-wrapper.properties
+A	initial/mvnw
+A	initial/mvnw.cmd
+
+c58303c;Add CONTRIBUTING doc
+A	CONTRIBUTING.adoc
+
+6974b0a;Upgrade to Spring Boot 1.3.5.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+bafcf24;Upgrade to Spring Boot 1.3.4.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+cba65ec;Updated versions in gradle build
+M	complete/build.gradle
+
+12ee935;Add link to completed build.gradle
+M	README.adoc
+
+424bff4;Made defining BOM a "required step", closes #2
+M	README.adoc
+
+cef0989;sligthly cleaner way to get a selected row in grid's single select mode
+M	complete/src/main/java/hello/VaadinUI.java
+
+5a0e26e;Updated Vaadin version
+M	complete/pom.xml
+
+9c7daa3;Upgrade to Spring Boot 1.3.3.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+6f7ec72;Migrate to container-based infrastructure
+M	.travis.yml
+
+4c12854;Upgrade to Spring Boot 1.3.2.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+8759448;Upgrade to Spring Boot 1.3.1.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+5c5fd3a;Upgrade to Spring Boot 1.3.0.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+693e6df;Upgraded to Spring Boot 1.2.7.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+fea50a9;Polish
+M	README.adoc
+
+44a3d65;Polish
+M	complete/src/main/java/hello/VaadinUI.java
+
+3ade714;Enable slack notifications from travis
+M	.travis.yml
+
+1304552;Add footer
+M	README.adoc
+
+ed6bd8b;Polish
+M	README.adoc
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/Customer.java
+M	complete/src/main/java/hello/CustomerEditor.java
+M	complete/src/main/java/hello/CustomerRepository.java
+M	complete/src/main/java/hello/VaadinUI.java
+
+cb76ca9;updated versions
+M	README.adoc
+M	complete/pom.xml
+M	initial/pom.xml
+
+0dc92dd;Merge pull request #1 from freducom/patch-1
+d44f36b;Update README.adoc
+M	README.adoc
+
+7e91df8;Some fine tuning
+M	README.adoc
+M	complete/src/main/java/hello/CustomerEditor.java
+
+ae4962e;initial commit
+A	.gitignore
+A	.travis.yml
+A	LICENSE.code.txt
+A	LICENSE.writing.txt
+A	README.adoc
+A	complete/build.gradle
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+A	complete/gradlew
+A	complete/gradlew.bat
+A	complete/pom.xml
+A	complete/src/main/java/hello/Application.java
+A	complete/src/main/java/hello/Customer.java
+A	complete/src/main/java/hello/CustomerEditor.java
+A	complete/src/main/java/hello/CustomerRepository.java
+A	complete/src/main/java/hello/VaadinUI.java
+A	initial/build.gradle
+A	initial/gradle/wrapper/gradle-wrapper.jar
+A	initial/gradle/wrapper/gradle-wrapper.properties
+A	initial/gradlew
+A	initial/gradlew.bat
+A	initial/pom.xml
+A	initial/src/main/java/hello/Application.java
+A	initial/src/main/java/hello/Customer.java
+A	initial/src/main/java/hello/CustomerRepository.java
+A	test/run.sh

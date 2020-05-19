@@ -1,0 +1,386 @@
+d98d5fe;Fixed package name for @ComponentScan explanation
+M	README.adoc
+
+dc23ef1;Update README.adoc
+M	README.adoc
+
+82fb4aa;Fix typo
+M	README.adoc
+
+03dfd5d;Fix wrong contextLoads sample code
+M	README.adoc
+
+ebfb1f2;Fix includes
+M	README.adoc
+
+1605b58;Using Spring Boot 2.2.2
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+f9efc19;Upgraded to Spring Boot 2.2
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	complete/pom.xml
+M	complete/src/test/java/com/example/testingweb/HttpRequestTest.java
+M	complete/src/test/java/com/example/testingweb/SmokeTest.java
+M	complete/src/test/java/com/example/testingweb/TestingWebApplicationTest.java
+M	complete/src/test/java/com/example/testingweb/WebLayerTest.java
+M	complete/src/test/java/com/example/testingweb/WebMockTest.java
+M	images/initializr.png
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+M	initial/pom.xml
+M	initial/src/test/java/com/example/testingweb/TestingWebApplicationTests.java
+
+ecd6539;Use the Spring Initializr
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+A	complete/settings.gradle
+R093	complete/src/main/java/hello/GreetingController.java	complete/src/main/java/com/example/testingweb/GreetingController.java
+R067	complete/src/main/java/hello/GreetingService.java	complete/src/main/java/com/example/testingweb/GreetingService.java
+R083	complete/src/main/java/hello/HomeController.java	complete/src/main/java/com/example/testingweb/HomeController.java
+R059	complete/src/main/java/hello/Application.java	complete/src/main/java/com/example/testingweb/TestingWebApplication.java
+R091	complete/src/test/java/hello/HttpRequestTest.java	complete/src/test/java/com/example/testingweb/HttpRequestTest.java
+R094	complete/src/test/java/hello/SmokeTest.java	complete/src/test/java/com/example/testingweb/SmokeTest.java
+R088	complete/src/test/java/hello/ApplicationTest.java	complete/src/test/java/com/example/testingweb/TestingWebApplicationTest.java
+R091	complete/src/test/java/hello/WebLayerTest.java	complete/src/test/java/com/example/testingweb/WebLayerTest.java
+R088	complete/src/test/java/hello/WebMockTest.java	complete/src/test/java/com/example/testingweb/WebMockTest.java
+A	images/initializr.png
+M	initial/build.gradle
+M	initial/pom.xml
+A	initial/settings.gradle
+A	initial/src/main/java/com/example/testingweb/TestingWebApplication.java
+D	initial/src/main/java/hello/.gitignore
+A	initial/src/main/resources/application.properties
+A	initial/src/test/java/com/example/testingweb/TestingWebApplicationTests.java
+
+3b8f902;URL Cleanup
+M	LICENSE.code.txt
+
+4afe46d;URL Cleanup
+M	LICENSE.writing.txt
+M	README.adoc
+
+dec21fc;Switch to tabs, and adjust tabsizing in asciidoctor.
+M	README.adoc
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/GreetingController.java
+M	complete/src/main/java/hello/GreetingService.java
+M	complete/src/main/java/hello/HomeController.java
+M	complete/src/test/java/hello/ApplicationTest.java
+M	complete/src/test/java/hello/HttpRequestTest.java
+M	complete/src/test/java/hello/SmokeTest.java
+M	complete/src/test/java/hello/WebLayerTest.java
+M	complete/src/test/java/hello/WebMockTest.java
+
+164fe66;Upgrade to Spring Boot 2.2.1.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+886710f;Upgrade to Gradle 4.10.3.
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+
+6440a1b;Updated to @OpenJDK.
+M	.travis.yml
+
+d228bd8;Upgrade to Spring Boot 2.1.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d3b4f75;Fix a tiny typo (#12)
+M	README.adoc
+
+6c2a74e;Show @GetMapping as an alternative
+M	README.adoc
+
+e7bf8c3;Upgrade to Spring Boot 2.1.4.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+1883493;Upgrade to Spring Boot 2.1.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+592d2aa;Upgrade to Spring Boot 2.0.8.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+775df84;URL Cleanup (#9)
+M	complete/pom.xml
+M	initial/pom.xml
+
+e8b3481;URL Cleanup (#8)
+M	complete/mvnw
+M	complete/mvnw.cmd
+M	initial/mvnw
+M	initial/mvnw.cmd
+
+1c4904a;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+9601083;Fix Gradle build to use bootJar
+M	complete/build.gradle
+M	initial/build.gradle
+
+f6cf6f8;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4682e65;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d52701b;Upgrade to Spring Boot 2.0.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3db8e22;Remove front matter
+M	README.adoc
+
+e67f8bb;Upgrade to Spring Boot 2.0.0.RELEASE
+M	.gitignore
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew.bat
+M	complete/pom.xml
+M	complete/src/test/java/hello/HttpRequestTest.java
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew.bat
+M	initial/pom.xml
+
+4a28419;Upgrade to Spring Boot 1.5.10.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+100edad;Upgrade to Spring Boot 1.5.9.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+9d230de;Upgrade to Spring Boot 1.5.8.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+199427f;Upgrade to Spring Boot 1.5.7.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+2ff4c5d;Added See Also links (#6)
+M	README.adoc
+
+d922199;Upgrade to Spring Boot 1.5.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6e85698;Upgrade to Spring Boot 1.5.5.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7d8367b;Upgrade to Spring Boot 1.5.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7462ae6;Upgrade to Spring Boot 1.5.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+289fa85;Upgrade to Spring Boot 1.5.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8bdbe2f;Upgrade to Spring Boot 1.5.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+fbbf573;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+3ed2330;Upgrade to Spring Boot 1.4.4.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+9f5375b;Upgrade to Spring Boot 1.4.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+dd0d2be;Upgrade plugin from spring-boot to o.s.boot
+M	complete/build.gradle
+M	initial/build.gradle
+
+fbc9330;Upgrade to Spring Boot 1.4.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+1fd2eb7;Fix typo (#5)
+M	README.adoc
+
+c9b1d27;Upgrade to Spring Boot 1.4.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3fb05e4;Fixed typo (#4)
+M	README.adoc
+
+33d3bbe;De-indent test dependencies
+M	README.adoc
+
+352348c;Add missing SmokeTest
+A	complete/src/test/java/hello/SmokeTest.java
+
+c0a1b63;Remove license header
+M	complete/src/test/java/hello/WebMockTest.java
+
+0a92332;Add back tag in web layer test
+M	README.adoc
+
+d95393d;Add back missing test
+M	complete/src/test/java/hello/WebLayerTest.java
+
+d0dcdf9;Add missing brackets
+M	README.adoc
+
+d42bb56;Remove another license header
+M	complete/src/test/java/hello/WebLayerTest.java
+
+f696462;Remove license header
+M	complete/src/test/java/hello/HttpRequestTest.java
+
+09398e6;Remove license header
+M	complete/src/test/java/hello/ApplicationTest.java
+
+08b22fd;Fix some include directives
+M	README.adoc
+
+fa79c94;Fix tag with project id
+M	README.adoc
+
+c7ef7a0;Merge pull request #1 from gregturn/travis-to-slack
+6f41a49;Enable travis notifying slack
+M	.travis.yml
+
+7691a33;Drop unnecessary repository declarations
+M	complete/pom.xml
+M	initial/pom.xml
+
+feae15a;Remove tags so that imports can be copy-pasted
+M	README.adoc
+
+8670f99;Add note on constructor injection
+M	README.adoc
+
+6bd0380;Remove file comment to reduce clutter
+M	complete/src/main/java/hello/GreetingService.java
+
+5e395f6;Initial draft for testing
+A	.gitignore
+A	.travis.yml
+A	CONTRIBUTING.adoc
+A	LICENSE.code.txt
+A	LICENSE.writing.txt
+A	README.adoc
+A	complete/.mvn/wrapper/maven-wrapper.jar
+A	complete/.mvn/wrapper/maven-wrapper.properties
+A	complete/build.gradle
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+A	complete/gradlew
+A	complete/gradlew.bat
+A	complete/mvnw
+A	complete/mvnw.cmd
+A	complete/pom.xml
+A	complete/src/main/java/hello/Application.java
+A	complete/src/main/java/hello/GreetingController.java
+A	complete/src/main/java/hello/GreetingService.java
+A	complete/src/main/java/hello/HomeController.java
+A	complete/src/test/java/hello/ApplicationTest.java
+A	complete/src/test/java/hello/HttpRequestTest.java
+A	complete/src/test/java/hello/WebLayerTest.java
+A	complete/src/test/java/hello/WebMockTest.java
+A	initial/.mvn/wrapper/maven-wrapper.jar
+A	initial/.mvn/wrapper/maven-wrapper.properties
+A	initial/build.gradle
+A	initial/gradle/wrapper/gradle-wrapper.jar
+A	initial/gradle/wrapper/gradle-wrapper.properties
+A	initial/gradlew
+A	initial/gradlew.bat
+A	initial/mvnw
+A	initial/mvnw.cmd
+A	initial/pom.xml
+A	initial/src/main/java/hello/.gitignore
+A	test/run.sh

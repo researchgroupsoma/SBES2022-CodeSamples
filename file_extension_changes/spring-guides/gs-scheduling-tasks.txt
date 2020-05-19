@@ -1,0 +1,1125 @@
+d9367a0;Fix a sentence
+M	README.adoc
+
+79ac4e4;Upgraded to Spring Boot 2.2
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	complete/pom.xml
+M	complete/src/test/java/com/example/schedulingtasks/ScheduledTasksTest.java
+M	complete/src/test/java/com/example/schedulingtasks/SchedulingTasksApplicationTest.java
+M	images/initializr.png
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+M	initial/pom.xml
+M	initial/src/test/java/com/example/schedulingtasks/SchedulingTasksApplicationTests.java
+
+fb780a1;Use the Spring Initializr
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+A	complete/settings.gradle
+R096	complete/src/main/java/hello/ScheduledTasks.java	complete/src/main/java/com/example/schedulingtasks/ScheduledTasks.java
+R066	complete/src/main/java/hello/Application.java	complete/src/main/java/com/example/schedulingtasks/SchedulingTasksApplication.java
+R097	complete/src/test/java/hello/ScheduledTasksTest.java	complete/src/test/java/com/example/schedulingtasks/ScheduledTasksTest.java
+R093	complete/src/test/java/hello/ApplicationTest.java	complete/src/test/java/com/example/schedulingtasks/SchedulingTasksApplicationTest.java
+A	images/initializr.png
+M	initial/build.gradle
+M	initial/pom.xml
+A	initial/settings.gradle
+A	initial/src/main/java/com/example/schedulingtasks/SchedulingTasksApplication.java
+D	initial/src/main/java/hello/.gitignore
+A	initial/src/main/resources/application.properties
+A	initial/src/test/java/com/example/schedulingtasks/SchedulingTasksApplicationTests.java
+
+56d1aa1;Switch to tabs, and adjust tabsizing in asciidoctor.
+M	README.adoc
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/ScheduledTasks.java
+M	complete/src/test/java/hello/ApplicationTest.java
+M	complete/src/test/java/hello/ScheduledTasksTest.java
+
+c6d206b;Upgrade to Spring Boot 2.2.1.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+fb3c124;Upgrade to Gradle 4.10.3.
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+98c4724;Updated to @OpenJDK.
+M	.travis.yml
+
+efd64c1;Upgrade to Spring Boot 2.1.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4e0a997;Upgrade to Spring Boot 2.1.4.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7f5a0c5;URL Cleanup (#17)
+M	LICENSE.code.txt
+M	complete/src/main/java/hello/ScheduledTasks.java
+M	complete/src/test/java/hello/ApplicationTest.java
+M	complete/src/test/java/hello/ScheduledTasksTest.java
+
+797502c;URL Cleanup (#16)
+M	LICENSE.writing.txt
+M	README.adoc
+
+ab48760;Upgrade to Spring Boot 2.1.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+74b7d70;Upgrade to Spring Boot 2.0.8.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+109d0c5;Merge pull request #15 from spring-operator/polish-urls-xml-master
+595cc3d;URL Cleanup
+M	complete/pom.xml
+M	initial/pom.xml
+
+7b46363;URL Cleanup (#14)
+M	complete/mvnw
+M	complete/mvnw.cmd
+M	initial/mvnw
+M	initial/mvnw.cmd
+
+29b9ff9;Add integration test
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/ScheduledTasks.java
+A	complete/src/test/java/hello/ScheduledTasksTest.java
+
+44f489b;remove redundant throws clause (#13)
+M	complete/src/main/java/hello/Application.java
+
+51c940d;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+1a5ab20;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+2a8a877;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+afd65fc;Upgrade to Spring Boot 2.0.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8833029;Remove front matter
+M	README.adoc
+
+65427ce;Replace jar gradle task with bootJar task
+M	complete/build.gradle
+M	initial/build.gradle
+
+6f33f76;Upgrade to Spring Boot 2.0.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7ed1e35;Upgrade to Gradle 4.6
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+95204f5;Upgrade to Spring Boot 1.5.10.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+47d5b41;Upgrade to Spring Boot 1.5.9.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3c2d5bd;Upgrade to Spring Boot 1.5.8.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+cb47386;Upgrade to Spring Boot 1.5.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+2736c9b;Added See Also links (#11)
+M	README.adoc
+
+adb4ef0;Upgrade to Spring Boot 1.5.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+bca63ef;Upgrade to Spring Boot 1.5.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6b8cce4;Upgrade to Spring Boot 1.5.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+31e1d28;Upgrade to Spring Boot 1.5.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b907e3e;Upgrade to Spring Boot 1.5.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7713873;Upgrade to Spring Boot 1.5.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c5c29f1;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+9bf1fb5;Upgrade to Spring Boot 1.4.4.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6507ca1;Upgrade to Spring Boot 1.4.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c02e264;Upgrade plugin from spring-boot to o.s.boot
+M	complete/build.gradle
+M	initial/build.gradle
+
+8cfd430;Upgrade to Spring Boot 1.4.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0c67285;Upgrade to Spring Boot 1.4.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ff6b09e;Upgrade to gradle 2.13
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+
+cbc9bfa;Add macro for @SpringBootApplication
+M	README.adoc
+
+d60eab6;Add a simple integration test
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/ScheduledTasks.java
+A	complete/src/test/java/hello/ApplicationTest.java
+
+9b6f32f;Upgrade to @SpringBoot 1.4.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+80fd51f;Upgrade to Spring Boot 1.3.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+03ed50b;Upgrade to Spring Boot 1.3.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7ed4cc6;Add Maven wrapper
+A	complete/.mvn/wrapper/maven-wrapper.jar
+A	complete/.mvn/wrapper/maven-wrapper.properties
+A	complete/mvnw
+A	complete/mvnw.cmd
+A	initial/.mvn/wrapper/maven-wrapper.jar
+A	initial/.mvn/wrapper/maven-wrapper.properties
+A	initial/mvnw
+A	initial/mvnw.cmd
+
+b19fb66;Add CONTRIBUTING doc
+A	CONTRIBUTING.adoc
+
+3df0e8d;Upgrade to Spring Boot 1.3.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+94210a8;Upgrade to Spring Boot 1.3.4.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d11d74f;Upgrade to Spring Boot 1.3.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+599f210;Migrate to container-based infrastructure
+M	.travis.yml
+
+a8305e6;Upgrade to Spring Boot 1.3.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3e3418e;Upgrade to Spring Boot 1.3.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+803861f;Upgrade to Spring Boot 1.3.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+40b4055;Upgraded to Spring Boot 1.2.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+53ce368;Upgrade to Spring Boot 1.2.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+f97050d;Add footer
+M	README.adoc
+
+a589145;Upgrade to Spring Boot 1.2.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d3ebdb3;Fix slack notifications
+M	.travis.yml
+
+bcf9fb4;Travis caching removed
+M	.travis.yml
+
+00d4f88;Add travis support
+A	.travis.yml
+
+050a6d6;Upgrade non-specific guides to Java 8
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+52ce186;Upgrade to Spring Boot 1.2.4
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7609390;Upgrade to Spring Boot 1.2.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0b76b1e;Upgrade to Gradle 2.3
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+abf958c;Merge pull request #7 from snicoll/boot-1.2
+efa4cac;Harmonize guide
+M	README.adoc
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/ScheduledTasks.java
+M	initial/pom.xml
+
+fc8d367;Upgrade to Spring Boot 1.2.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+adc89c1;Remove mavenLocal and libs-release from gradle build
+M	complete/build.gradle
+M	initial/build.gradle
+
+5026094;Upgrade to Spring Boot 1.2.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+441b97b;Remove legacy start-class property from maven builds
+M	complete/pom.xml
+M	initial/pom.xml
+
+2f6a5e6;Upgrade to Spring Boot 1.1.10.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ecfb170;Convert to use https for repositories
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8eb35b6;Upgrade to Spring Boot 1.1.9.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+cf499d0;Upgrade to Spring Boot 1.1.8.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+72c1127;Remove redudant 'run the service' macro
+M	README.adoc
+
+18bccfa;Upgrade to Spring Boot 1.1.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d84f28c;Upgrade to Spring Boot 1.1.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a658747;Enable hiding/showing build steps
+M	README.adoc
+
+ab11ec7;Update to Spring Boot 1.1.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c7c56d2;Update to Spring Boot 1.1.4.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8939d6a;Update to Spring Boot 1.1.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b22229d;Upgrade to Spring Boot 1.1.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b001af2;Add note about why this guide doesn't use @EnableAutoConfiguration
+M	README.adoc
+
+4795b5c;Upgrade to Spring Boot 1.1.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+fe23a8c;Replace repo.spring.io/release with repo.spring.io/libs-release
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+1d6019f;Upgrade to Spring Boot 1.1.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+344192b;Update path to macro content
+M	README.adoc
+
+f316f16;Upgrade to Spring Boot 1.0.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+fd7ba58;Upgrade to Spring Boot 1.0.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7b82aa7;Upgrade to Spring Boot 1.0.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ac2f8fb;Upgrade to Spring Boot 1.0.0.RC5
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3305d13;Upgrade to Spring Boot 1.0.0.RC4
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+86a600d;Convert to mvn compile for initial codeset
+M	test/run.sh
+
+2ee4e63;Replace initial gradle build with compileJava
+M	test/run.sh
+
+f219753;Move final build file to the beginning and update guides to reflect this
+M	README.adoc
+M	initial/build.gradle
+M	initial/pom.xml
+
+dc704ba;Remove version number from Spring Boot starters
+M	complete/build.gradle
+M	initial/build.gradle
+
+d863f1b;Replace 4.0.x with 'current' for javadocs
+M	README.adoc
+
+4bb9064;Upgrade to Spring Boot 1.0.0.RC3
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a4f39df;Upgrade to Spring Boot 1.0.0.RC2
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+34eb5d2;Upgrade to gradle 1.11
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+a006a33;Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4975931;Remove old SIDEBAR files
+D	SIDEBAR.ftl.md
+D	SIDEBAR.md
+
+d56568c;Initial cut of tag and project metadata
+M	README.adoc
+
+656c85c;Remove unneeded jump_ahead parameter
+M	README.adoc
+
+22a4ac4;Convert to asciidoctor
+M	.gitignore
+A	README.adoc
+D	README.ftl.md
+D	README.md
+
+68a547e;Fixed macro so it mentions M6
+M	README.md
+
+8be0c39;Upgrade to Spring Boot 0.5.0.M6
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+761bec7;Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+M	README.md
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/pom.xml
+
+55c59df;Upgrade guide to use Gradle 1.8
+M	README.md
+M	complete/build.gradle
+M	initial/build.gradle
+
+5272df1;Update a macro so that it properly uses spring.io
+M	README.md
+
+c19032d;Replace repo.springsource.org with repo.spring.io
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8e01cba;Upgrade to Spring Boot 0.5.0.M4
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4548351;Replace 'Spring Boot starter POM' with Spring Boot
+M	README.md
+
+d87b932;Replace static.springsource.org with docs.spring.io
+M	README.ftl.md
+M	README.md
+
+b2d79ae;Rebuild sidebar
+M	SIDEBAR.md
+
+d82824e;Rename tut-web in sidebar
+M	SIDEBAR.ftl.md
+
+3c40350;Add tut-web to sidebar
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+f45a949;Upgrade to Spring Boot 0.5.0.M2
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8a9c01b;Update guide to include like to gs-sts
+M	README.md
+
+28fb835;Rename spring{framework-meta => -guides}
+M	README.md
+
+fa52191;Convert guide to display both Gradle and Maven info
+M	README.ftl.md
+M	README.md
+
+0955c64;Rebuild guide and sidebar based on latest edits
+M	SIDEBAR.md
+
+a2ded3e;Merge pull request #5 from btalbott/master
+8b2b3ce;Make final edits.
+M	SIDEBAR.ftl.md
+
+aa2f0a6;Apply http://creativecommons.org/licenses/by-nd/3.0/ to written work in this repo
+A	LICENSE.writing.txt
+
+919b5a7;Add ASLv2 license for the code in this repo
+A	LICENSE.code.txt
+
+4b64d4c;Clarify mods to buildscript section
+M	README.md
+
+d591c55;Clean up gradle build steps
+M	README.md
+
+4151a9c;Update link to reference docs
+M	README.ftl.md
+M	README.md
+
+3c42656;Convert guide to gradle
+M	README.ftl.md
+M	README.md
+M	initial/build.gradle
+
+b115f72;Fix sidebars based on @beverleytalbott 's feedback on several pull requests
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+1195222;Use proper name of Git
+M	README.md
+
+f2cda49;Fix links for /undestanding/Git
+M	README.md
+
+9612e7d;Replace understanding docs with macros
+M	SIDEBAR.ftl.md
+A	SIDEBAR.md
+
+6d42b4d;Move SIDEBAR into a template file
+R100	SIDEBAR.md	SIDEBAR.ftl.md
+
+e2d920f;Replace Tutorial TBD with REST tutorial
+M	SIDEBAR.md
+
+2d47696;Fix link to spring-boot-maven-plugin
+M	README.md
+M	complete/pom.xml
+
+671dade;Capitalize /understanding/{subject} as approprite
+M	SIDEBAR.md
+
+4fcb105;Fix maven-compiler-plugin to version 2.3.2
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+f5a43b8;Upgrade to Gradle 1.7
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+9863a50;Add intro sentence
+M	README.ftl.md
+M	README.md
+
+630f9c2;Replace /content with / in GSG links
+M	README.md
+M	SIDEBAR.md
+
+b73b9b2;Add run.sh for CI support
+A	test/run.sh
+
+fdc7c02;Use libs-snapshot instead of snapshot
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+cfee74e;Remove 'TODO' from pom.xml and rebuild guide
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+a5761fb;Add gradle support
+A	complete/build.gradle
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+A	complete/gradlew
+A	complete/gradlew.bat
+A	initial/build.gradle
+A	initial/gradle/wrapper/gradle-wrapper.jar
+A	initial/gradle/wrapper/gradle-wrapper.properties
+A	initial/gradlew
+A	initial/gradlew.bat
+
+788ad9f;Edit guide to properly use spring-boot:run
+M	README.ftl.md
+M	README.md
+
+28d058d;Convert spring-boot-up to spring-boot-starter
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+6f82db9;Upgrade to Spring Boot
+M	README.md
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	initial/pom.xml
+
+abb3a51;Update README to remove title
+M	README.ftl.md
+M	README.md
+
+f08abb8;Replace java -jar with picketed code block
+M	README.md
+
+e0c2e7a;Convert to spring-package-maven-plugin and Spring Zero
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+81d912e;Regenerate guide after folding in edits.
+M	README.md
+
+7a8854b;Merge pull request #4 from btalbott/master
+396c47b;Change capitalization.
+M	README.ftl.md
+
+c9cc7ac;Add build_executable_jar_subhead macro, edit SIDEBAR.
+M	README.ftl.md
+M	SIDEBAR.md
+
+0480f1c;Fixed typo in macro
+M	README.md
+
+b6f570c;Regenerate guide based on macro updates from @btalbott
+M	README.md
+
+c451bba;Update guides using complete/pom.xml to instead use initial/pom.xml
+M	README.ftl.md
+M	README.md
+
+5132644;Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+M	README.md
+M	complete/pom.xml
+
+4b6bf80;Typo in macro. Regenerate guides
+M	README.md
+
+7dd60a7;Update build_the_application macros to link in gs-convert-jar-to-war
+M	README.md
+
+401079a;Renegerate guides based on updated macros.md
+M	README.md
+
+1a68570;Replace java -jar with run_the_application macro
+M	README.ftl.md
+M	README.md
+
+3ca9a51;Delete old README.src.md
+D	README.src.md
+
+f9917c1;Regenerate guides based on update to macros.md
+M	README.md
+
+38b81d8;Add sidebar
+A	SIDEBAR.md
+
+7db0318;Update README to use macros
+M	README.ftl.md
+M	README.md
+
+c4ca53d;Convert README to generate from fpp
+A	README.ftl.md
+M	README.md
+
+ad6ab68;Remove lingering gradle artifacts
+M	README.md
+D	complete/build.gradle.disabled
+D	complete/gradle/wrapper/gradle-wrapper.jar
+D	complete/gradle/wrapper/gradle-wrapper.properties
+D	complete/gradlew
+D	complete/gradlew.bat
+M	complete/pom.xml
+D	complete/settings.gradle
+D	initial/build.gradle.disabled
+D	initial/gradle/wrapper/gradle-wrapper.jar
+D	initial/gradle/wrapper/gradle-wrapper.properties
+D	initial/gradlew
+D	initial/gradlew.bat
+M	initial/pom.xml
+D	initial/settings.gradle
+
+66d7ba2;Remove include of maven-project-setup-options
+M	README.md
+M	README.src.md
+
+631c585;Generate README.md files from README.src.md
+M	README.md
+A	README.src.md
+
+8ebd9e1;Pull in code blocks with {!include:...} syntax
+M	README.md
+
+ce9177a;Refactor to new {!include} syntax
+M	README.md
+
+fcd1259;Version all GS guides at 0.1.0 per http://semver.org
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+3024b6e;Update to use new {!snippet:...} syntax
+M	README.md
+
+04b28f4;Merge pull request #3 from btalbott/master
+2ea5477;Revise per comments
+M	README.md
+
+8088b44;Edit per guidelines
+M	README.md
+
+082b70c;Factor out additional macros
+M	README.md
+
+dc35e90;Add maven-shade-plugin link reference
+M	README.md
+
+b64e979;Use proper blockquote syntax for "Note" admonition
+M	README.md
+
+cc9b0a5;Display scheduled task command line output
+M	README.md
+
+f4e238f;Disable gradle builds until Spring Bootstrap is ready to help STS.
+R100	complete/build.gradle	complete/build.gradle.disabled
+R100	initial/build.gradle	initial/build.gradle.disabled
+
+36b7cbb;Updated code and guide based on content feedback from @ChrisBeams.
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+M	initial/settings.gradle
+
+180b9c1;Merge pull request #1 from cbeams/master
+2f146b3;Edit scheduled task 'complete' sources
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/ScheduledTasks.java
+
+0ee70c8;Edit scheduled task 'complete' sources
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/ScheduledTasks.java
+
+2d7de6b;Rewrote guide, removing domain, and updated links for cron expressions.
+M	README.md
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	initial/pom.xml
+A	initial/src/main/java/hello/.gitignore
+D	initial/src/main/java/schedulingtasks/SchedulerConfiguration.java
+D	initial/src/main/java/schedulingtasks/UserService.java
+
+a2f8484;Renamed package name to hello
+R090	complete/src/main/java/schedulingtasks/Application.java	complete/src/main/java/hello/Application.java
+R093	complete/src/main/java/schedulingtasks/ScheduledTasks.java	complete/src/main/java/hello/ScheduledTasks.java
+
+d9dd267;Renamed the scheduled class.
+M	complete/src/main/java/schedulingtasks/Application.java
+R089	complete/src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java	complete/src/main/java/schedulingtasks/ScheduledTasks.java
+
+c1c4b98;Trimmed out the UserService domain, and instead just have it print a simple message.
+M	complete/src/main/java/schedulingtasks/Application.java
+M	complete/src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java
+D	complete/src/main/java/schedulingtasks/UserService.java
+
+115652f;Rewrote without using Spring Bootstrap, and tried to make it even simpler.
+M	complete/pom.xml
+A	complete/src/main/java/schedulingtasks/Application.java
+M	complete/src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java
+D	complete/src/main/java/schedulingtasks/NewUserSimulatorApplication.java
+D	complete/src/main/java/schedulingtasks/SchedulerConfiguration.java
+
+e09e401;Remove Spring Bootstrap intermediate artifatcts and then ignore them in the future.
+M	.gitignore
+D	complete/dependency-reduced-pom.xml
+
+0dfe507;Renamed 'start' as 'initial' and updated README appropriately
+M	README.md
+R100	start/build.gradle	initial/build.gradle
+R100	start/gradle/wrapper/gradle-wrapper.jar	initial/gradle/wrapper/gradle-wrapper.jar
+R100	start/gradle/wrapper/gradle-wrapper.properties	initial/gradle/wrapper/gradle-wrapper.properties
+R100	start/gradlew	initial/gradlew
+R100	start/gradlew.bat	initial/gradlew.bat
+R100	start/pom.xml	initial/pom.xml
+R100	start/settings.gradle	initial/settings.gradle
+R100	start/src/main/java/schedulingtasks/SchedulerConfiguration.java	initial/src/main/java/schedulingtasks/SchedulerConfiguration.java
+R100	start/src/main/java/schedulingtasks/UserService.java	initial/src/main/java/schedulingtasks/UserService.java
+
+7c548a2;Rewrote draft to follow flow of gs-rest-service.
+M	README.md
+A	complete/dependency-reduced-pom.xml
+M	complete/pom.xml
+D	complete/src/main/java/schedulingtasks/App.java
+M	complete/src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java
+D	complete/src/main/java/schedulingtasks/Config.java
+D	complete/src/main/java/schedulingtasks/GenerateReports.java
+A	complete/src/main/java/schedulingtasks/NewUserSimulatorApplication.java
+A	complete/src/main/java/schedulingtasks/SchedulerConfiguration.java
+M	complete/src/main/java/schedulingtasks/UserService.java
+M	start/pom.xml
+D	start/src/main/java/schedulingtasks/App.java
+D	start/src/main/java/schedulingtasks/Config.java
+A	start/src/main/java/schedulingtasks/SchedulerConfiguration.java
+M	start/src/main/java/schedulingtasks/UserService.java
+
+a12fb9c;Fix typo from renmaing MyApplication to App.
+M	start/src/main/java/schedulingtasks/App.java
+
+5749741;Rename MyApplication to App.
+M	README.md
+R100	complete/src/main/java/schedulingtasks/MyApplication.java	complete/src/main/java/schedulingtasks/App.java
+R100	start/src/main/java/schedulingtasks/MyApplication.java	start/src/main/java/schedulingtasks/App.java
+
+089c010;Make some adjustments based on planning meeting.
+M	README.md
+D	start/src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java
+M	start/src/main/java/schedulingtasks/Config.java
+D	start/src/main/java/schedulingtasks/GenerateReports.java
+M	start/src/main/java/schedulingtasks/MyApplication.java
+M	start/src/main/java/schedulingtasks/UserService.java
+
+2ed5584;Add links to Getting Started with Maven and Gradle guides.
+M	README.md
+
+8d94029;Fix cronExpression details based on Spring CronSequenceGenerator.
+M	README.md
+
+a3b0e11;Polish up .gitignore so it's a bit more readable.
+M	.gitignore
+
+3b1f4f2;Polish up guide based on reviewing other guides.
+M	README.md
+
+1af7308;Add empty "start" version of the guide's code.
+A	start/build.gradle
+A	start/gradle/wrapper/gradle-wrapper.jar
+A	start/gradle/wrapper/gradle-wrapper.properties
+A	start/gradlew
+A	start/gradlew.bat
+A	start/pom.xml
+A	start/settings.gradle
+A	start/src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java
+A	start/src/main/java/schedulingtasks/Config.java
+A	start/src/main/java/schedulingtasks/GenerateReports.java
+A	start/src/main/java/schedulingtasks/MyApplication.java
+A	start/src/main/java/schedulingtasks/UserService.java
+
+c1ed337;Fix pom.xml in complete so it has a suitable, non-colliding artifact name.
+M	complete/pom.xml
+
+08ee5e6;Push all the code into a /complete section.
+R100	build.gradle	complete/build.gradle
+R100	gradle/wrapper/gradle-wrapper.jar	complete/gradle/wrapper/gradle-wrapper.jar
+R100	gradle/wrapper/gradle-wrapper.properties	complete/gradle/wrapper/gradle-wrapper.properties
+R100	gradlew	complete/gradlew
+R100	gradlew.bat	complete/gradlew.bat
+R100	pom.xml	complete/pom.xml
+A	complete/settings.gradle
+R100	src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java	complete/src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java
+R100	src/main/java/schedulingtasks/Config.java	complete/src/main/java/schedulingtasks/Config.java
+R100	src/main/java/schedulingtasks/GenerateReports.java	complete/src/main/java/schedulingtasks/GenerateReports.java
+R100	src/main/java/schedulingtasks/MyApplication.java	complete/src/main/java/schedulingtasks/MyApplication.java
+R100	src/main/java/schedulingtasks/UserService.java	complete/src/main/java/schedulingtasks/UserService.java
+
+a6e9f36;Fix ConcurrentModificationException when deleting old users.
+M	README.md
+M	src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java
+
+d28bd57;Add steps to clone the project into the README.
+M	README.md
+
+e60722d;Add maven support to the guide's app.
+M	.gitignore
+M	README.md
+A	pom.xml
+
+bf14097;Fixed build.gradle with package rename.
+M	build.gradle
+
+6e57a98;Mark up the TOODs a little more clearly.
+M	README.md
+
+86c90e3;Renamed package declaration in the code and the doc.
+M	README.md
+M	src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java
+M	src/main/java/schedulingtasks/Config.java
+M	src/main/java/schedulingtasks/GenerateReports.java
+M	src/main/java/schedulingtasks/MyApplication.java
+M	src/main/java/schedulingtasks/UserService.java
+
+b52f18f;Rename 'hello' package folder as 'schedulingtasks'.
+R100	src/main/java/hello/CleanOutUnactivatedAccounts.java	src/main/java/schedulingtasks/CleanOutUnactivatedAccounts.java
+R100	src/main/java/hello/Config.java	src/main/java/schedulingtasks/Config.java
+R100	src/main/java/hello/GenerateReports.java	src/main/java/schedulingtasks/GenerateReports.java
+R100	src/main/java/hello/MyApplication.java	src/main/java/schedulingtasks/MyApplication.java
+R100	src/main/java/hello/UserService.java	src/main/java/schedulingtasks/UserService.java
+
+71eb0ef;Write the app driven by the guide. Then correct the guide appropriately.
+A	.gitignore
+M	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	src/main/java/hello/CleanOutUnactivatedAccounts.java
+A	src/main/java/hello/Config.java
+A	src/main/java/hello/GenerateReports.java
+A	src/main/java/hello/MyApplication.java
+A	src/main/java/hello/UserService.java
+
+802a0db;Replace bold with code tags to wrap class names in the middle of prose.
+M	README.md
+
+a46fa0c;Round out the tail end section on using cron expressions.
+M	README.md
+
+c687ed5;Initial creation of the Getting Started with Scheduling Tasks
+A	README.md

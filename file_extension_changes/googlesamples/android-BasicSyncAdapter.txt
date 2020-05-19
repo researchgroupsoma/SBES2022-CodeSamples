@@ -1,0 +1,223 @@
+6a3455a;Update README.md
+M	README.md
+
+213ce9d;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+f30ba0d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+1293ee5;Auto-update
+M	Application/build.gradle
+
+8f147fd;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+92cef5e;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/values/attrs.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9e2c426;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8b9c828;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+44e244b;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8210761;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+839e454;Auto-update
+M	Application/build.gradle
+M	README.md
+
+f94c007;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ac79505;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+3e8d9bf;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+270589c;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+8d5f144;Auto-update
+M	LICENSE
+D	NOTICE
+
+bdaff76;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+ae7e95d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+0f1ddd7;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/src/com/example/android/basicsyncadapter/tests/SampleTests.java
+M	README.md
+
+e2f1847;Merge pull request #1 from bashtian/patch-1
+0157389;Fix feed update in SyncAdapter
+M	Application/src/main/java/com/example/android/basicsyncadapter/SyncAdapter.java
+
+b3ce3fd;Auto-update
+M	NOTICE
+
+81c0519;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/drawable-hdpi/ic_launcher.png
+M	Application/src/main/res/drawable-mdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+M	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	README.md
+A	screenshots/icon-web.png
+A	screenshots/main.png
+
+7dabf4e;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+6cb6499;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+11c62eb;Auto-update
+R072	BasicSyncAdapterSample/build.gradle	Application/build.gradle
+R098	BasicSyncAdapterSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/EntryListActivity.java	Application/src/main/java/com/example/android/basicsyncadapter/EntryListActivity.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/EntryListFragment.java	Application/src/main/java/com/example/android/basicsyncadapter/EntryListFragment.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/SyncAdapter.java	Application/src/main/java/com/example/android/basicsyncadapter/SyncAdapter.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/SyncService.java	Application/src/main/java/com/example/android/basicsyncadapter/SyncService.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/SyncUtils.java	Application/src/main/java/com/example/android/basicsyncadapter/SyncUtils.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/net/FeedParser.java	Application/src/main/java/com/example/android/basicsyncadapter/net/FeedParser.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/provider/FeedContract.java	Application/src/main/java/com/example/android/basicsyncadapter/provider/FeedContract.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/provider/FeedProvider.java	Application/src/main/java/com/example/android/basicsyncadapter/provider/FeedProvider.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/common/accounts/GenericAccountService.java	Application/src/main/java/com/example/android/common/accounts/GenericAccountService.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/common/db/SelectionBuilder.java	Application/src/main/java/com/example/android/common/db/SelectionBuilder.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	BasicSyncAdapterSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	BasicSyncAdapterSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	BasicSyncAdapterSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	BasicSyncAdapterSample/src/main/res/drawable-xhdpi/ic_action_refresh.png	Application/src/main/res/drawable-xhdpi/ic_action_refresh.png
+R100	BasicSyncAdapterSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	BasicSyncAdapterSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	BasicSyncAdapterSample/src/main/res/layout/actionbar_indeterminate_progress.xml	Application/src/main/res/layout/actionbar_indeterminate_progress.xml
+R100	BasicSyncAdapterSample/src/main/res/layout/activity_entry_list.xml	Application/src/main/res/layout/activity_entry_list.xml
+R100	BasicSyncAdapterSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	BasicSyncAdapterSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	BasicSyncAdapterSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	BasicSyncAdapterSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	BasicSyncAdapterSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	BasicSyncAdapterSample/src/main/res/values/attrs.xml	Application/src/main/res/values/attrs.xml
+R100	BasicSyncAdapterSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	BasicSyncAdapterSample/src/main/res/values/dimen.xml	Application/src/main/res/values/dimen.xml
+R100	BasicSyncAdapterSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	BasicSyncAdapterSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	BasicSyncAdapterSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R100	BasicSyncAdapterSample/src/main/res/xml/authenticator.xml	Application/src/main/res/xml/authenticator.xml
+R100	BasicSyncAdapterSample/src/main/res/xml/syncadapter.xml	Application/src/main/res/xml/syncadapter.xml
+R093	BasicSyncAdapterSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	BasicSyncAdapterSample/tests/src/com/example/android/basicsyncadapter/tests/SampleTests.java	Application/tests/src/com/example/android/basicsyncadapter/tests/SampleTests.java
+M	settings.gradle
+
+a6df799;Initial Commit
+A	BasicSyncAdapterSample/build.gradle
+A	BasicSyncAdapterSample/src/main/AndroidManifest.xml
+A	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/EntryListActivity.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/EntryListFragment.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/SyncAdapter.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/SyncService.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/SyncUtils.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/net/FeedParser.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/provider/FeedContract.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/basicsyncadapter/provider/FeedProvider.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/common/accounts/GenericAccountService.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/common/db/SelectionBuilder.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/Log.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/LogView.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	BasicSyncAdapterSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	BasicSyncAdapterSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicSyncAdapterSample/src/main/res/drawable-hdpi/tile.9.png
+A	BasicSyncAdapterSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicSyncAdapterSample/src/main/res/drawable-xhdpi/ic_action_refresh.png
+A	BasicSyncAdapterSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicSyncAdapterSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicSyncAdapterSample/src/main/res/layout/actionbar_indeterminate_progress.xml
+A	BasicSyncAdapterSample/src/main/res/layout/activity_entry_list.xml
+A	BasicSyncAdapterSample/src/main/res/layout/activity_main.xml
+A	BasicSyncAdapterSample/src/main/res/menu/main.xml
+A	BasicSyncAdapterSample/src/main/res/values-sw600dp/template-dimens.xml
+A	BasicSyncAdapterSample/src/main/res/values-sw600dp/template-styles.xml
+A	BasicSyncAdapterSample/src/main/res/values-v11/template-styles.xml
+A	BasicSyncAdapterSample/src/main/res/values/attrs.xml
+A	BasicSyncAdapterSample/src/main/res/values/base-strings.xml
+A	BasicSyncAdapterSample/src/main/res/values/dimen.xml
+A	BasicSyncAdapterSample/src/main/res/values/strings.xml
+A	BasicSyncAdapterSample/src/main/res/values/template-dimens.xml
+A	BasicSyncAdapterSample/src/main/res/values/template-styles.xml
+A	BasicSyncAdapterSample/src/main/res/xml/authenticator.xml
+A	BasicSyncAdapterSample/src/main/res/xml/syncadapter.xml
+A	BasicSyncAdapterSample/tests/AndroidManifest.xml
+A	BasicSyncAdapterSample/tests/src/com/example/android/basicsyncadapter/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

@@ -1,0 +1,444 @@
+7ace735;Merge pull request #2 from googlesamples/remove-content
+25e4630;"Removes all content (migrated to new repo). Check README."
+D	.google/packaging.yaml
+D	Application/.build.gradle.ftl.swp
+D	Application/build.gradle
+D	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestPhoneService.java
+D	Application/src/main/java/com/example/android/wearable/runtimepermissions/MainPhoneActivity.java
+D	Application/src/main/java/com/example/android/wearable/runtimepermissions/PhonePermissionRequestActivity.java
+D	Application/src/main/java/com/example/android/wearable/runtimepermissions/WearPermissionRequestActivity.java
+D	Application/src/main/res/drawable-hdpi/ic_file_folder.png
+D	Application/src/main/res/drawable-hdpi/ic_hardware_watch.png
+D	Application/src/main/res/drawable-hdpi/ic_permission_approved.png
+D	Application/src/main/res/drawable-hdpi/ic_permission_denied.png
+D	Application/src/main/res/drawable-hdpi/tile.9.png
+D	Application/src/main/res/drawable-mdpi/ic_file_folder.png
+D	Application/src/main/res/drawable-mdpi/ic_hardware_watch.png
+D	Application/src/main/res/drawable-mdpi/ic_permission_approved.png
+D	Application/src/main/res/drawable-mdpi/ic_permission_denied.png
+D	Application/src/main/res/drawable-xhdpi/ic_file_folder.png
+D	Application/src/main/res/drawable-xhdpi/ic_hardware_watch.png
+D	Application/src/main/res/drawable-xhdpi/ic_permission_approved.png
+D	Application/src/main/res/drawable-xhdpi/ic_permission_denied.png
+D	Application/src/main/res/drawable-xxhdpi/ic_file_folder.png
+D	Application/src/main/res/drawable-xxhdpi/ic_hardware_watch.png
+D	Application/src/main/res/drawable-xxhdpi/ic_permission_approved.png
+D	Application/src/main/res/drawable-xxhdpi/ic_permission_denied.png
+D	Application/src/main/res/drawable-xxxhdpi/ic_file_folder.png
+D	Application/src/main/res/drawable-xxxhdpi/ic_hardware_watch.png
+D	Application/src/main/res/drawable-xxxhdpi/ic_permission_approved.png
+D	Application/src/main/res/drawable-xxxhdpi/ic_permission_denied.png
+D	Application/src/main/res/layout/activity_main.xml
+D	Application/src/main/res/layout/activity_phone_permission_request.xml
+D	Application/src/main/res/layout/activity_wear_permission_request.xml
+D	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+D	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+D	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+D	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+D	Application/src/main/res/values-sw600dp/template-dimens.xml
+D	Application/src/main/res/values-sw600dp/template-styles.xml
+D	Application/src/main/res/values-v11/template-styles.xml
+D	Application/src/main/res/values-v21/base-colors.xml
+D	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-w820dp/dimens.xml
+D	Application/src/main/res/values/base-strings.xml
+D	Application/src/main/res/values/dimens.xml
+D	Application/src/main/res/values/strings.xml
+D	Application/src/main/res/values/template-dimens.xml
+D	Application/src/main/res/values/template-styles.xml
+D	Application/src/main/res/values/wear.xml
+D	CONTRIBUTING.md
+D	LICENSE
+D	Shared/build.gradle
+D	Shared/src/main/AndroidManifest.xml
+D	Shared/src/main/java/com/example/android/wearable/runtimepermissions/common/Constants.java
+D	Shared/src/main/res/values/strings.xml
+D	Wearable/build.gradle
+D	Wearable/src/main/AndroidManifest.xml
+D	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestWearService.java
+D	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/MainWearActivity.java
+D	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/RequestPermissionOnPhoneActivity.java
+D	Wearable/src/main/res/drawable-hdpi/ic_cc_open_on_phone.png
+D	Wearable/src/main/res/drawable-hdpi/ic_permission_approved.png
+D	Wearable/src/main/res/drawable-hdpi/ic_permission_approved_bw.png
+D	Wearable/src/main/res/drawable-hdpi/ic_permission_denied.png
+D	Wearable/src/main/res/drawable-hdpi/ic_permission_denied_bw.png
+D	Wearable/src/main/res/drawable-mdpi/ic_cc_open_on_phone.png
+D	Wearable/src/main/res/drawable-mdpi/ic_permission_approved.png
+D	Wearable/src/main/res/drawable-mdpi/ic_permission_approved_bw.png
+D	Wearable/src/main/res/drawable-mdpi/ic_permission_denied.png
+D	Wearable/src/main/res/drawable-mdpi/ic_permission_denied_bw.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_cc_open_on_phone.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_permission_approved.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_permission_approved_bw.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_permission_denied.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_permission_denied_bw.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_permission_approved.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_permission_approved_bw.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_permission_denied.png
+D	Wearable/src/main/res/drawable-xxhdpi/ic_permission_denied_bw.png
+D	Wearable/src/main/res/drawable-xxxhdpi/ic_permission_approved.png
+D	Wearable/src/main/res/drawable-xxxhdpi/ic_permission_approved_bw.png
+D	Wearable/src/main/res/drawable-xxxhdpi/ic_permission_denied.png
+D	Wearable/src/main/res/drawable-xxxhdpi/ic_permission_denied_bw.png
+D	Wearable/src/main/res/layout/activity_main.xml
+D	Wearable/src/main/res/layout/activity_request_permission_on_phone.xml
+D	Wearable/src/main/res/mipmap-hdpi/ic_launcher.png
+D	Wearable/src/main/res/mipmap-mdpi/ic_launcher.png
+D	Wearable/src/main/res/mipmap-xhdpi/ic_launcher.png
+D	Wearable/src/main/res/mipmap-xxhdpi/ic_launcher.png
+D	Wearable/src/main/res/values/dimens.xml
+D	Wearable/src/main/res/values/strings.xml
+D	Wearable/src/main/res/values/wear.xml
+D	build.gradle
+D	gradle.properties
+D	gradle/wrapper/gradle-wrapper.jar
+D	gradle/wrapper/gradle-wrapper.properties
+D	gradlew
+D	gradlew.bat
+D	screenshots/screenshot-phone.png
+D	screenshots/screenshot-wear.png
+D	settings.gradle
+
+3f9860f;Update README.md
+M	README.md
+
+577e05b;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestPhoneService.java
+M	Application/src/main/java/com/example/android/wearable/runtimepermissions/MainPhoneActivity.java
+M	Application/src/main/java/com/example/android/wearable/runtimepermissions/PhonePermissionRequestActivity.java
+M	Application/src/main/java/com/example/android/wearable/runtimepermissions/WearPermissionRequestActivity.java
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestWearService.java
+M	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/MainWearActivity.java
+M	Wearable/src/main/res/layout/activity_main.xml
+M	Wearable/src/main/res/layout/activity_request_permission_on_phone.xml
+M	gradle.properties
+M	gradle/wrapper/gradle-wrapper.properties
+
+e25302e;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestPhoneService.java
+M	Application/src/main/java/com/example/android/wearable/runtimepermissions/MainPhoneActivity.java
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestWearService.java
+M	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/MainWearActivity.java
+A	gradle.properties
+
+205469f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+5a62525;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+68832e7;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/MainWearActivity.java
+
+9fce0d1;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+8ef9814;Auto-update
+A	Application/.build.gradle.ftl.swp
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/MainWearActivity.java
+M	Wearable/src/main/res/layout/activity_main.xml
+M	Wearable/src/main/res/layout/activity_request_permission_on_phone.xml
+D	Wearable/src/main/res/layout/rect_activity_main.xml
+D	Wearable/src/main/res/layout/round_activity_main.xml
+
+66def3f;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+536de72;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+81f7d73;Auto-update
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+
+b416f6f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+ac173b9;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+444089e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+33b14f4;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+563b82e;Auto-update
+M	.google/packaging.yaml
+A	Application/build.gradle
+R069	mobile/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	mobile/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestPhoneService.java	Application/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestPhoneService.java
+R100	mobile/src/main/java/com/example/android/wearable/runtimepermissions/MainPhoneActivity.java	Application/src/main/java/com/example/android/wearable/runtimepermissions/MainPhoneActivity.java
+R100	mobile/src/main/java/com/example/android/wearable/runtimepermissions/PhonePermissionRequestActivity.java	Application/src/main/java/com/example/android/wearable/runtimepermissions/PhonePermissionRequestActivity.java
+R100	mobile/src/main/java/com/example/android/wearable/runtimepermissions/WearPermissionRequestActivity.java	Application/src/main/java/com/example/android/wearable/runtimepermissions/WearPermissionRequestActivity.java
+R100	mobile/src/main/res/drawable-hdpi/ic_file_folder.png	Application/src/main/res/drawable-hdpi/ic_file_folder.png
+R100	mobile/src/main/res/drawable-hdpi/ic_hardware_watch.png	Application/src/main/res/drawable-hdpi/ic_hardware_watch.png
+R100	mobile/src/main/res/drawable-hdpi/ic_permission_approved.png	Application/src/main/res/drawable-hdpi/ic_permission_approved.png
+R100	mobile/src/main/res/drawable-hdpi/ic_permission_denied.png	Application/src/main/res/drawable-hdpi/ic_permission_denied.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	mobile/src/main/res/drawable-mdpi/ic_file_folder.png	Application/src/main/res/drawable-mdpi/ic_file_folder.png
+R100	mobile/src/main/res/drawable-mdpi/ic_hardware_watch.png	Application/src/main/res/drawable-mdpi/ic_hardware_watch.png
+R100	mobile/src/main/res/drawable-mdpi/ic_permission_approved.png	Application/src/main/res/drawable-mdpi/ic_permission_approved.png
+R100	mobile/src/main/res/drawable-mdpi/ic_permission_denied.png	Application/src/main/res/drawable-mdpi/ic_permission_denied.png
+R100	mobile/src/main/res/drawable-xhdpi/ic_file_folder.png	Application/src/main/res/drawable-xhdpi/ic_file_folder.png
+R100	mobile/src/main/res/drawable-xhdpi/ic_hardware_watch.png	Application/src/main/res/drawable-xhdpi/ic_hardware_watch.png
+R100	mobile/src/main/res/drawable-xhdpi/ic_permission_approved.png	Application/src/main/res/drawable-xhdpi/ic_permission_approved.png
+R100	mobile/src/main/res/drawable-xhdpi/ic_permission_denied.png	Application/src/main/res/drawable-xhdpi/ic_permission_denied.png
+R100	mobile/src/main/res/drawable-xxhdpi/ic_file_folder.png	Application/src/main/res/drawable-xxhdpi/ic_file_folder.png
+R100	mobile/src/main/res/drawable-xxhdpi/ic_hardware_watch.png	Application/src/main/res/drawable-xxhdpi/ic_hardware_watch.png
+R100	mobile/src/main/res/drawable-xxhdpi/ic_permission_approved.png	Application/src/main/res/drawable-xxhdpi/ic_permission_approved.png
+R100	mobile/src/main/res/drawable-xxhdpi/ic_permission_denied.png	Application/src/main/res/drawable-xxhdpi/ic_permission_denied.png
+R100	mobile/src/main/res/drawable-xxxhdpi/ic_file_folder.png	Application/src/main/res/drawable-xxxhdpi/ic_file_folder.png
+R100	mobile/src/main/res/drawable-xxxhdpi/ic_hardware_watch.png	Application/src/main/res/drawable-xxxhdpi/ic_hardware_watch.png
+R100	mobile/src/main/res/drawable-xxxhdpi/ic_permission_approved.png	Application/src/main/res/drawable-xxxhdpi/ic_permission_approved.png
+R100	mobile/src/main/res/drawable-xxxhdpi/ic_permission_denied.png	Application/src/main/res/drawable-xxxhdpi/ic_permission_denied.png
+R100	mobile/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	mobile/src/main/res/layout/activity_phone_permission_request.xml	Application/src/main/res/layout/activity_phone_permission_request.xml
+R100	mobile/src/main/res/layout/activity_wear_permission_request.xml	Application/src/main/res/layout/activity_wear_permission_request.xml
+R100	mobile/src/main/res/mipmap-hdpi/ic_launcher.png	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+R100	mobile/src/main/res/mipmap-mdpi/ic_launcher.png	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+R100	mobile/src/main/res/mipmap-xhdpi/ic_launcher.png	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+R100	mobile/src/main/res/mipmap-xxhdpi/ic_launcher.png	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+R100	mobile/src/main/res/values-w820dp/dimens.xml	Application/src/main/res/values-w820dp/dimens.xml
+A	Application/src/main/res/values/base-strings.xml
+R100	mobile/src/main/res/values/dimens.xml	Application/src/main/res/values/dimens.xml
+R097	mobile/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+R100	mobile/src/main/res/values/wear.xml	Application/src/main/res/values/wear.xml
+R099	CONTRIBUTING	CONTRIBUTING.md
+M	LICENSE
+M	README.md
+A	Shared/build.gradle
+R100	common/src/main/AndroidManifest.xml	Shared/src/main/AndroidManifest.xml
+R100	common/src/main/java/com/example/android/wearable/runtimepermissions/common/Constants.java	Shared/src/main/java/com/example/android/wearable/runtimepermissions/common/Constants.java
+R093	common/src/main/res/values/strings.xml	Shared/src/main/res/values/strings.xml
+A	Wearable/build.gradle
+R096	wear/src/main/AndroidManifest.xml	Wearable/src/main/AndroidManifest.xml
+R100	wear/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestWearService.java	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestWearService.java
+R100	wear/src/main/java/com/example/android/wearable/runtimepermissions/MainWearActivity.java	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/MainWearActivity.java
+R100	wear/src/main/java/com/example/android/wearable/runtimepermissions/RequestPermissionOnPhoneActivity.java	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/RequestPermissionOnPhoneActivity.java
+R100	wear/src/main/res/drawable-hdpi/ic_cc_open_on_phone.png	Wearable/src/main/res/drawable-hdpi/ic_cc_open_on_phone.png
+R100	wear/src/main/res/drawable-hdpi/ic_permission_approved.png	Wearable/src/main/res/drawable-hdpi/ic_permission_approved.png
+R100	wear/src/main/res/drawable-hdpi/ic_permission_approved_bw.png	Wearable/src/main/res/drawable-hdpi/ic_permission_approved_bw.png
+R100	wear/src/main/res/drawable-hdpi/ic_permission_denied.png	Wearable/src/main/res/drawable-hdpi/ic_permission_denied.png
+R100	wear/src/main/res/drawable-hdpi/ic_permission_denied_bw.png	Wearable/src/main/res/drawable-hdpi/ic_permission_denied_bw.png
+R100	wear/src/main/res/drawable-mdpi/ic_cc_open_on_phone.png	Wearable/src/main/res/drawable-mdpi/ic_cc_open_on_phone.png
+R100	wear/src/main/res/drawable-mdpi/ic_permission_approved.png	Wearable/src/main/res/drawable-mdpi/ic_permission_approved.png
+R100	wear/src/main/res/drawable-mdpi/ic_permission_approved_bw.png	Wearable/src/main/res/drawable-mdpi/ic_permission_approved_bw.png
+R100	wear/src/main/res/drawable-mdpi/ic_permission_denied.png	Wearable/src/main/res/drawable-mdpi/ic_permission_denied.png
+R100	wear/src/main/res/drawable-mdpi/ic_permission_denied_bw.png	Wearable/src/main/res/drawable-mdpi/ic_permission_denied_bw.png
+R100	wear/src/main/res/drawable-xhdpi/ic_cc_open_on_phone.png	Wearable/src/main/res/drawable-xhdpi/ic_cc_open_on_phone.png
+R100	wear/src/main/res/drawable-xhdpi/ic_permission_approved.png	Wearable/src/main/res/drawable-xhdpi/ic_permission_approved.png
+R100	wear/src/main/res/drawable-xhdpi/ic_permission_approved_bw.png	Wearable/src/main/res/drawable-xhdpi/ic_permission_approved_bw.png
+R100	wear/src/main/res/drawable-xhdpi/ic_permission_denied.png	Wearable/src/main/res/drawable-xhdpi/ic_permission_denied.png
+R100	wear/src/main/res/drawable-xhdpi/ic_permission_denied_bw.png	Wearable/src/main/res/drawable-xhdpi/ic_permission_denied_bw.png
+R100	wear/src/main/res/drawable-xxhdpi/ic_permission_approved.png	Wearable/src/main/res/drawable-xxhdpi/ic_permission_approved.png
+R100	wear/src/main/res/drawable-xxhdpi/ic_permission_approved_bw.png	Wearable/src/main/res/drawable-xxhdpi/ic_permission_approved_bw.png
+R100	wear/src/main/res/drawable-xxhdpi/ic_permission_denied.png	Wearable/src/main/res/drawable-xxhdpi/ic_permission_denied.png
+R100	wear/src/main/res/drawable-xxhdpi/ic_permission_denied_bw.png	Wearable/src/main/res/drawable-xxhdpi/ic_permission_denied_bw.png
+R100	wear/src/main/res/drawable-xxxhdpi/ic_permission_approved.png	Wearable/src/main/res/drawable-xxxhdpi/ic_permission_approved.png
+R100	wear/src/main/res/drawable-xxxhdpi/ic_permission_approved_bw.png	Wearable/src/main/res/drawable-xxxhdpi/ic_permission_approved_bw.png
+R100	wear/src/main/res/drawable-xxxhdpi/ic_permission_denied.png	Wearable/src/main/res/drawable-xxxhdpi/ic_permission_denied.png
+R100	wear/src/main/res/drawable-xxxhdpi/ic_permission_denied_bw.png	Wearable/src/main/res/drawable-xxxhdpi/ic_permission_denied_bw.png
+R100	wear/src/main/res/layout/activity_main.xml	Wearable/src/main/res/layout/activity_main.xml
+R100	wear/src/main/res/layout/activity_request_permission_on_phone.xml	Wearable/src/main/res/layout/activity_request_permission_on_phone.xml
+R100	wear/src/main/res/layout/rect_activity_main.xml	Wearable/src/main/res/layout/rect_activity_main.xml
+R100	wear/src/main/res/layout/round_activity_main.xml	Wearable/src/main/res/layout/round_activity_main.xml
+R100	wear/src/main/res/mipmap-hdpi/ic_launcher.png	Wearable/src/main/res/mipmap-hdpi/ic_launcher.png
+R100	wear/src/main/res/mipmap-mdpi/ic_launcher.png	Wearable/src/main/res/mipmap-mdpi/ic_launcher.png
+R100	wear/src/main/res/mipmap-xhdpi/ic_launcher.png	Wearable/src/main/res/mipmap-xhdpi/ic_launcher.png
+R100	wear/src/main/res/mipmap-xxhdpi/ic_launcher.png	Wearable/src/main/res/mipmap-xxhdpi/ic_launcher.png
+R100	wear/src/main/res/values/dimens.xml	Wearable/src/main/res/values/dimens.xml
+R100	wear/src/main/res/values/strings.xml	Wearable/src/main/res/values/strings.xml
+R100	wear/src/main/res/values/wear.xml	Wearable/src/main/res/values/wear.xml
+M	build.gradle
+D	common/.gitignore
+D	common/build.gradle
+D	common/proguard-rules.pro
+D	gradle.properties
+M	gradle/wrapper/gradle-wrapper.properties
+D	mobile/.gitignore
+D	mobile/build.gradle
+D	mobile/proguard-rules.pro
+D	mobile/src/main/res/values/styles.xml
+A	screenshots/screenshot-phone.png
+A	screenshots/screenshot-wear.png
+M	settings.gradle
+D	wear/.gitignore
+D	wear/build.gradle
+D	wear/proguard-rules.pro
+
+48bd51a;Use correct namespace for Play Services apiRefs
+M	.google/packaging.yaml
+
+37dfca3;Fix apiRefs in packaging.yaml
+M	.google/packaging.yaml
+
+982f3f6;Fixes text being cutoff in round with chin.
+M	wear/src/main/res/layout/activity_request_permission_on_phone.xml
+
+5b90214;Updates Google Play Services and addresses Griff's nit comments... Collapsing methods.
+M	mobile/build.gradle
+M	mobile/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestPhoneService.java
+M	mobile/src/main/java/com/example/android/wearable/runtimepermissions/MainPhoneActivity.java
+M	wear/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestWearService.java
+
+669b8d4;Correct format of README.md.
+M	README.md
+
+8036f15;Renamed runtime permission sample for wear... handles m permissions.
+A	.google/packaging.yaml
+A	CONTRIBUTING
+A	LICENSE
+A	README.md
+A	build.gradle
+A	common/.gitignore
+A	common/build.gradle
+A	common/proguard-rules.pro
+A	common/src/main/AndroidManifest.xml
+A	common/src/main/java/com/example/android/wearable/runtimepermissions/common/Constants.java
+A	common/src/main/res/values/strings.xml
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	mobile/.gitignore
+A	mobile/build.gradle
+A	mobile/proguard-rules.pro
+A	mobile/src/main/AndroidManifest.xml
+A	mobile/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestPhoneService.java
+A	mobile/src/main/java/com/example/android/wearable/runtimepermissions/MainPhoneActivity.java
+A	mobile/src/main/java/com/example/android/wearable/runtimepermissions/PhonePermissionRequestActivity.java
+A	mobile/src/main/java/com/example/android/wearable/runtimepermissions/WearPermissionRequestActivity.java
+A	mobile/src/main/res/drawable-hdpi/ic_file_folder.png
+A	mobile/src/main/res/drawable-hdpi/ic_hardware_watch.png
+A	mobile/src/main/res/drawable-hdpi/ic_permission_approved.png
+A	mobile/src/main/res/drawable-hdpi/ic_permission_denied.png
+A	mobile/src/main/res/drawable-mdpi/ic_file_folder.png
+A	mobile/src/main/res/drawable-mdpi/ic_hardware_watch.png
+A	mobile/src/main/res/drawable-mdpi/ic_permission_approved.png
+A	mobile/src/main/res/drawable-mdpi/ic_permission_denied.png
+A	mobile/src/main/res/drawable-xhdpi/ic_file_folder.png
+A	mobile/src/main/res/drawable-xhdpi/ic_hardware_watch.png
+A	mobile/src/main/res/drawable-xhdpi/ic_permission_approved.png
+A	mobile/src/main/res/drawable-xhdpi/ic_permission_denied.png
+A	mobile/src/main/res/drawable-xxhdpi/ic_file_folder.png
+A	mobile/src/main/res/drawable-xxhdpi/ic_hardware_watch.png
+A	mobile/src/main/res/drawable-xxhdpi/ic_permission_approved.png
+A	mobile/src/main/res/drawable-xxhdpi/ic_permission_denied.png
+A	mobile/src/main/res/drawable-xxxhdpi/ic_file_folder.png
+A	mobile/src/main/res/drawable-xxxhdpi/ic_hardware_watch.png
+A	mobile/src/main/res/drawable-xxxhdpi/ic_permission_approved.png
+A	mobile/src/main/res/drawable-xxxhdpi/ic_permission_denied.png
+A	mobile/src/main/res/layout/activity_main.xml
+A	mobile/src/main/res/layout/activity_phone_permission_request.xml
+A	mobile/src/main/res/layout/activity_wear_permission_request.xml
+A	mobile/src/main/res/mipmap-hdpi/ic_launcher.png
+A	mobile/src/main/res/mipmap-mdpi/ic_launcher.png
+A	mobile/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	mobile/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	mobile/src/main/res/values-w820dp/dimens.xml
+A	mobile/src/main/res/values/dimens.xml
+A	mobile/src/main/res/values/strings.xml
+A	mobile/src/main/res/values/styles.xml
+A	mobile/src/main/res/values/wear.xml
+A	settings.gradle
+A	wear/.gitignore
+A	wear/build.gradle
+A	wear/proguard-rules.pro
+A	wear/src/main/AndroidManifest.xml
+A	wear/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestWearService.java
+A	wear/src/main/java/com/example/android/wearable/runtimepermissions/MainWearActivity.java
+A	wear/src/main/java/com/example/android/wearable/runtimepermissions/RequestPermissionOnPhoneActivity.java
+A	wear/src/main/res/drawable-hdpi/ic_cc_open_on_phone.png
+A	wear/src/main/res/drawable-hdpi/ic_permission_approved.png
+A	wear/src/main/res/drawable-hdpi/ic_permission_approved_bw.png
+A	wear/src/main/res/drawable-hdpi/ic_permission_denied.png
+A	wear/src/main/res/drawable-hdpi/ic_permission_denied_bw.png
+A	wear/src/main/res/drawable-mdpi/ic_cc_open_on_phone.png
+A	wear/src/main/res/drawable-mdpi/ic_permission_approved.png
+A	wear/src/main/res/drawable-mdpi/ic_permission_approved_bw.png
+A	wear/src/main/res/drawable-mdpi/ic_permission_denied.png
+A	wear/src/main/res/drawable-mdpi/ic_permission_denied_bw.png
+A	wear/src/main/res/drawable-xhdpi/ic_cc_open_on_phone.png
+A	wear/src/main/res/drawable-xhdpi/ic_permission_approved.png
+A	wear/src/main/res/drawable-xhdpi/ic_permission_approved_bw.png
+A	wear/src/main/res/drawable-xhdpi/ic_permission_denied.png
+A	wear/src/main/res/drawable-xhdpi/ic_permission_denied_bw.png
+A	wear/src/main/res/drawable-xxhdpi/ic_permission_approved.png
+A	wear/src/main/res/drawable-xxhdpi/ic_permission_approved_bw.png
+A	wear/src/main/res/drawable-xxhdpi/ic_permission_denied.png
+A	wear/src/main/res/drawable-xxhdpi/ic_permission_denied_bw.png
+A	wear/src/main/res/drawable-xxxhdpi/ic_permission_approved.png
+A	wear/src/main/res/drawable-xxxhdpi/ic_permission_approved_bw.png
+A	wear/src/main/res/drawable-xxxhdpi/ic_permission_denied.png
+A	wear/src/main/res/drawable-xxxhdpi/ic_permission_denied_bw.png
+A	wear/src/main/res/layout/activity_main.xml
+A	wear/src/main/res/layout/activity_request_permission_on_phone.xml
+A	wear/src/main/res/layout/rect_activity_main.xml
+A	wear/src/main/res/layout/round_activity_main.xml
+A	wear/src/main/res/mipmap-hdpi/ic_launcher.png
+A	wear/src/main/res/mipmap-mdpi/ic_launcher.png
+A	wear/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	wear/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	wear/src/main/res/values/dimens.xml
+A	wear/src/main/res/values/strings.xml
+A	wear/src/main/res/values/wear.xml
+
+376636c;Initial empty repository

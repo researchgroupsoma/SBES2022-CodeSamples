@@ -1,0 +1,1711 @@
+73fac96;Update README.md
+M	README.md
+
+0c4f082;Update examples to use new init API.
+M	admanager/BannerExample/app/build.gradle
+M	admanager/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	admanager/CustomRenderingExample/app/build.gradle
+M	admanager/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties
+M	admanager/InterstitialExample/app/build.gradle
+M	admanager/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+M	admanager/RewardedVideoExample/app/build.gradle
+M	admanager/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	admob/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	admob/InterstitialExample/app/src/main/res/values/strings.xml
+M	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+M	admob/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/gradle/wrapper/gradle-wrapper.properties
+M	advanced/BannerRecyclerViewExample/app/build.gradle
+M	advanced/BannerRecyclerViewExample/gradle/wrapper/gradle-wrapper.properties
+
+75de308;Update Ad Manager app icons.
+M	admanager/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+M	admanager/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+M	admanager/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+M	admanager/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+M	admanager/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+M	admanager/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+M	admanager/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+M	admanager/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+M	admanager/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+M	admanager/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	admanager/CustomRenderingExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admanager/CustomRenderingExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+M	admanager/CustomRenderingExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admanager/CustomRenderingExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+M	admanager/CustomRenderingExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admanager/CustomRenderingExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+M	admanager/CustomRenderingExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admanager/CustomRenderingExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	admanager/CustomRenderingExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	admanager/CustomRenderingExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+M	admanager/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+M	admanager/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+
+bee383e;Fix incorrect constraint layout class references.
+M	admanager/RewardedVideoExample/app/src/main/res/layout/activity_main.xml
+M	admob/RewardedVideoExample/app/src/main/res/layout/activity_main.xml
+
+8b56c68;Jetify android samples for 18.0.0 release.
+M	admanager/BannerExample/app/build.gradle
+M	admanager/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	admanager/CustomRenderingExample/app/build.gradle
+M	admanager/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+M	admanager/InterstitialExample/app/build.gradle
+M	admanager/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	admanager/RewardedVideoExample/app/build.gradle
+M	admanager/RewardedVideoExample/app/src/main/res/layout/activity_main.xml
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/app/src/main/res/layout/activity_main.xml
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdListenerFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdTargetingFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobBannerSizesFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobCustomMuteThisAdFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPAppEventsFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCategoryExclusionFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCustomControlsFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCustomTargetingFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPFluidSizeFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPMultipleAdSizesFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPPPIDFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DatePickerFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/MainActivity.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/NavigationDrawerFragment.java
+M	advanced/APIDemo/gradle.properties
+M	advanced/BannerRecyclerViewExample/app/build.gradle
+M	advanced/BannerRecyclerViewExample/app/src/main/java/com/google/android/gms/example/bannerrecyclerviewexample/MainActivity.java
+M	advanced/BannerRecyclerViewExample/app/src/main/java/com/google/android/gms/example/bannerrecyclerviewexample/RecyclerViewAdapter.java
+M	advanced/BannerRecyclerViewExample/app/src/main/res/layout/activity_main.xml
+M	advanced/BannerRecyclerViewExample/app/src/main/res/layout/banner_ad_container.xml
+M	advanced/BannerRecyclerViewExample/app/src/main/res/layout/menu_item_container.xml
+
+9c34cfb;Update banner to use gravity for location.
+M	admob/BannerExample/app/build.gradle
+
+ba81c1e;...Androidx Migration...
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/MainActivity.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/NavigationDrawerFragment.java
+M	advanced/APIDemo/app/src/main/res/layout/activity_main.xml
+
+8eb0a59;Updated minSDKVersion from 14 to 15
+M	admanager/BannerExample/app/build.gradle
+M	admanager/CustomRenderingExample/app/build.gradle
+M	admanager/RewardedVideoExample/app/build.gradle
+M	admob/BannerExample/app/build.gradle
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/RewardedVideoExample/app/build.gradle
+M	advanced/APIDemo/app/build.gradle
+M	advanced/BannerRecyclerViewExample/app/build.gradle
+
+0d8c8db;Update interstitial examples to move ad unit ID to a constant and adding logging when ad loads/fails to load
+M	admanager/InterstitialExample/app/build.gradle
+M	admanager/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	admanager/InterstitialExample/app/src/main/res/values/strings.xml
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+
+a3eb592;Formatting fixes.
+M	admanager/CustomRenderingExample/app/src/main/AndroidManifest.xml
+M	advanced/BannerRecyclerViewExample/app/src/main/AndroidManifest.xml
+
+dc686f6;Internal change.
+M	admanager/BannerExample/app/src/main/AndroidManifest.xml
+M	admanager/CustomRenderingExample/app/src/main/AndroidManifest.xml
+M	admanager/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admanager/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	admob/BannerExample/app/src/main/AndroidManifest.xml
+M	admob/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admob/NativeAdvancedExample/app/src/main/AndroidManifest.xml
+M	admob/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	advanced/APIDemo/app/src/main/AndroidManifest.xml
+M	advanced/BannerRecyclerViewExample/app/src/main/AndroidManifest.xml
+
+555d7d0;Internal change.
+A	README.google
+M	admanager/BannerExample/app/src/main/AndroidManifest.xml
+M	admanager/CustomRenderingExample/app/src/main/AndroidManifest.xml
+M	admanager/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admanager/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	admob/BannerExample/app/src/main/AndroidManifest.xml
+M	admob/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admob/NativeAdvancedExample/app/src/main/AndroidManifest.xml
+M	admob/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	advanced/APIDemo/app/src/main/AndroidManifest.xml
+M	advanced/BannerRecyclerViewExample/app/src/main/AndroidManifest.xml
+
+d2ef0ef;Project import generated by Copybara.
+M	admanager/BannerExample/app/src/main/AndroidManifest.xml
+M	admanager/CustomRenderingExample/app/src/main/AndroidManifest.xml
+M	admanager/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+M	admanager/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admanager/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	admob/BannerExample/app/src/main/AndroidManifest.xml
+M	admob/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admob/NativeAdvancedExample/app/src/main/AndroidManifest.xml
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	advanced/APIDemo/app/src/main/AndroidManifest.xml
+A	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobCustomMuteThisAdFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPPPIDFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/MainActivity.java
+A	advanced/APIDemo/app/src/main/res/layout/ad_unified.xml
+A	advanced/APIDemo/app/src/main/res/layout/fragment_admob_custom_mute_this_ad.xml
+M	advanced/APIDemo/app/src/main/res/values/strings.xml
+M	advanced/BannerRecyclerViewExample/app/src/main/AndroidManifest.xml
+
+027f9ba;Updated examples to use 17.1.1
+M	admanager/BannerExample/app/src/main/AndroidManifest.xml
+M	admanager/CustomRenderingExample/app/src/main/AndroidManifest.xml
+M	admanager/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admanager/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/build.gradle
+M	admob/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/build.gradle
+M	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/build.gradle
+M	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/build.gradle
+M	admob/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/build.gradle
+M	advanced/APIDemo/gradle/wrapper/gradle-wrapper.properties
+M	advanced/BannerRecyclerViewExample/app/build.gradle
+M	advanced/BannerRecyclerViewExample/build.gradle
+M	advanced/BannerRecyclerViewExample/gradle/wrapper/gradle-wrapper.properties
+
+7ca85f5;Updated examples to 5.6
+M	README.md
+R100	doubleclick/BannerExample/.google/packaging.yaml	admanager/BannerExample/.google/packaging.yaml
+R100	doubleclick/BannerExample/LICENSE	admanager/BannerExample/LICENSE
+R093	doubleclick/BannerExample/README.md	admanager/BannerExample/README.md
+R084	doubleclick/BannerExample/app/build.gradle	admanager/BannerExample/app/build.gradle
+R100	doubleclick/BannerExample/app/proguard-rules.pro	admanager/BannerExample/app/proguard-rules.pro
+R069	doubleclick/BannerExample/app/src/main/AndroidManifest.xml	admanager/BannerExample/app/src/main/AndroidManifest.xml
+R099	doubleclick/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java	admanager/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+R100	doubleclick/BannerExample/app/src/main/res/layout/activity_my.xml	admanager/BannerExample/app/src/main/res/layout/activity_my.xml
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher.png	admanager/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png	admanager/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher.png	admanager/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png	admanager/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png	admanager/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png	admanager/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png	admanager/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png	admanager/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png	admanager/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+R100	doubleclick/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png	admanager/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+R100	doubleclick/BannerExample/app/src/main/res/values-w820dp/dimens.xml	admanager/BannerExample/app/src/main/res/values-w820dp/dimens.xml
+R100	doubleclick/BannerExample/app/src/main/res/values/dimens.xml	admanager/BannerExample/app/src/main/res/values/dimens.xml
+R080	doubleclick/BannerExample/app/src/main/res/values/strings.xml	admanager/BannerExample/app/src/main/res/values/strings.xml
+R100	doubleclick/BannerExample/app/src/main/res/values/styles.xml	admanager/BannerExample/app/src/main/res/values/styles.xml
+R087	doubleclick/InterstitialExample/build.gradle	admanager/BannerExample/build.gradle
+R100	doubleclick/BannerExample/gradle/wrapper/gradle-wrapper.jar	admanager/BannerExample/gradle/wrapper/gradle-wrapper.jar
+R052	doubleclick/BannerExample/gradle/wrapper/gradle-wrapper.properties	admanager/BannerExample/gradle/wrapper/gradle-wrapper.properties
+R100	doubleclick/BannerExample/gradlew	admanager/BannerExample/gradlew
+R100	doubleclick/BannerExample/gradlew.bat	admanager/BannerExample/gradlew.bat
+R100	doubleclick/BannerExample/settings.gradle	admanager/BannerExample/settings.gradle
+R100	doubleclick/CustomRenderingExample/.gitignore	admanager/CustomRenderingExample/.gitignore
+R100	doubleclick/CustomRenderingExample/.google/packaging.yaml	admanager/CustomRenderingExample/.google/packaging.yaml
+R100	doubleclick/CustomRenderingExample/LICENSE	admanager/CustomRenderingExample/LICENSE
+R089	doubleclick/CustomRenderingExample/README.md	admanager/CustomRenderingExample/README.md
+R100	doubleclick/CustomRenderingExample/app/.gitignore	admanager/CustomRenderingExample/app/.gitignore
+R084	doubleclick/CustomRenderingExample/app/build.gradle	admanager/CustomRenderingExample/app/build.gradle
+R100	doubleclick/CustomRenderingExample/app/proguard-rules.pro	admanager/CustomRenderingExample/app/proguard-rules.pro
+R067	doubleclick/CustomRenderingExample/app/src/main/AndroidManifest.xml	admanager/CustomRenderingExample/app/src/main/AndroidManifest.xml
+R098	doubleclick/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java	admanager/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+R100	doubleclick/CustomRenderingExample/app/src/main/res/layout/activity_main.xml	admanager/CustomRenderingExample/app/src/main/res/layout/activity_main.xml
+R100	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_simple_custom_template.xml	admanager/CustomRenderingExample/app/src/main/res/layout/ad_simple_custom_template.xml
+R100	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_unified.xml	admanager/CustomRenderingExample/app/src/main/res/layout/ad_unified.xml
+R100	doubleclick/CustomRenderingExample/app/src/main/res/mipmap-hdpi/ic_launcher.png	admanager/CustomRenderingExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+R100	doubleclick/CustomRenderingExample/app/src/main/res/mipmap-mdpi/ic_launcher.png	admanager/CustomRenderingExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+R100	doubleclick/CustomRenderingExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png	admanager/CustomRenderingExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+R100	doubleclick/CustomRenderingExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png	admanager/CustomRenderingExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+R100	doubleclick/CustomRenderingExample/app/src/main/res/values-w820dp/dimens.xml	admanager/CustomRenderingExample/app/src/main/res/values-w820dp/dimens.xml
+R100	doubleclick/CustomRenderingExample/app/src/main/res/values/dimens.xml	admanager/CustomRenderingExample/app/src/main/res/values/dimens.xml
+A	admanager/CustomRenderingExample/app/src/main/res/values/strings.xml
+R100	doubleclick/CustomRenderingExample/app/src/main/res/values/styles.xml	admanager/CustomRenderingExample/app/src/main/res/values/styles.xml
+R087	doubleclick/BannerExample/build.gradle	admanager/CustomRenderingExample/build.gradle
+R100	doubleclick/CustomRenderingExample/gradle.properties	admanager/CustomRenderingExample/gradle.properties
+R100	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.jar	admanager/CustomRenderingExample/gradle/wrapper/gradle-wrapper.jar
+R052	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties	admanager/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties
+R100	doubleclick/CustomRenderingExample/gradlew	admanager/CustomRenderingExample/gradlew
+R100	doubleclick/CustomRenderingExample/gradlew.bat	admanager/CustomRenderingExample/gradlew.bat
+R100	doubleclick/CustomRenderingExample/settings.gradle	admanager/CustomRenderingExample/settings.gradle
+R100	doubleclick/InterstitialExample/.google/packaging.yaml	admanager/InterstitialExample/.google/packaging.yaml
+R100	doubleclick/InterstitialExample/LICENSE	admanager/InterstitialExample/LICENSE
+R090	doubleclick/InterstitialExample/README.md	admanager/InterstitialExample/README.md
+R084	doubleclick/InterstitialExample/app/build.gradle	admanager/InterstitialExample/app/build.gradle
+R100	doubleclick/InterstitialExample/app/proguard-rules.pro	admanager/InterstitialExample/app/proguard-rules.pro
+R067	doubleclick/InterstitialExample/app/src/main/AndroidManifest.xml	admanager/InterstitialExample/app/src/main/AndroidManifest.xml
+R099	doubleclick/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java	admanager/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+R100	doubleclick/InterstitialExample/app/src/main/res/layout/activity_my.xml	admanager/InterstitialExample/app/src/main/res/layout/activity_my.xml
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher.png	admanager/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png	admanager/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher.png	admanager/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png	admanager/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png	admanager/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png	admanager/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png	admanager/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png	admanager/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png	admanager/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+R100	doubleclick/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png	admanager/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+R100	doubleclick/InterstitialExample/app/src/main/res/values-w820dp/dimens.xml	admanager/InterstitialExample/app/src/main/res/values-w820dp/dimens.xml
+R100	doubleclick/InterstitialExample/app/src/main/res/values/dimens.xml	admanager/InterstitialExample/app/src/main/res/values/dimens.xml
+R100	doubleclick/InterstitialExample/app/src/main/res/values/strings.xml	admanager/InterstitialExample/app/src/main/res/values/strings.xml
+R100	doubleclick/InterstitialExample/app/src/main/res/values/styles.xml	admanager/InterstitialExample/app/src/main/res/values/styles.xml
+R087	doubleclick/CustomRenderingExample/build.gradle	admanager/InterstitialExample/build.gradle
+R100	doubleclick/InterstitialExample/gradle/wrapper/gradle-wrapper.jar	admanager/InterstitialExample/gradle/wrapper/gradle-wrapper.jar
+R052	doubleclick/InterstitialExample/gradle/wrapper/gradle-wrapper.properties	admanager/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+R100	doubleclick/InterstitialExample/gradlew	admanager/InterstitialExample/gradlew
+R100	doubleclick/InterstitialExample/gradlew.bat	admanager/InterstitialExample/gradlew.bat
+R100	doubleclick/InterstitialExample/settings.gradle	admanager/InterstitialExample/settings.gradle
+R100	doubleclick/RewardedVideoExample/.google/packaging.yaml	admanager/RewardedVideoExample/.google/packaging.yaml
+R100	doubleclick/RewardedVideoExample/LICENSE	admanager/RewardedVideoExample/LICENSE
+R092	doubleclick/RewardedVideoExample/README.md	admanager/RewardedVideoExample/README.md
+R085	doubleclick/RewardedVideoExample/app/build.gradle	admanager/RewardedVideoExample/app/build.gradle
+R100	doubleclick/RewardedVideoExample/app/proguard-rules.pro	admanager/RewardedVideoExample/app/proguard-rules.pro
+R070	doubleclick/RewardedVideoExample/app/src/main/AndroidManifest.xml	admanager/RewardedVideoExample/app/src/main/AndroidManifest.xml
+R099	doubleclick/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java	admanager/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+R100	doubleclick/RewardedVideoExample/app/src/main/res/layout/activity_main.xml	admanager/RewardedVideoExample/app/src/main/res/layout/activity_main.xml
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+R100	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png	admanager/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+R082	doubleclick/RewardedVideoExample/app/src/main/res/values/strings.xml	admanager/RewardedVideoExample/app/src/main/res/values/strings.xml
+R100	doubleclick/RewardedVideoExample/app/src/main/res/values/styles.xml	admanager/RewardedVideoExample/app/src/main/res/values/styles.xml
+R083	doubleclick/RewardedVideoExample/build.gradle	admanager/RewardedVideoExample/build.gradle
+R100	doubleclick/RewardedVideoExample/gradle.properties	admanager/RewardedVideoExample/gradle.properties
+R100	doubleclick/RewardedVideoExample/gradle/wrapper/gradle-wrapper.jar	admanager/RewardedVideoExample/gradle/wrapper/gradle-wrapper.jar
+R052	doubleclick/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties	admanager/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+R100	doubleclick/RewardedVideoExample/gradlew	admanager/RewardedVideoExample/gradlew
+R100	doubleclick/RewardedVideoExample/gradlew.bat	admanager/RewardedVideoExample/gradlew.bat
+R100	doubleclick/RewardedVideoExample/settings.gradle	admanager/RewardedVideoExample/settings.gradle
+M	admob/BannerExample/app/src/main/AndroidManifest.xml
+M	admob/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admob/InterstitialExample/build.gradle
+M	admob/NativeAdvancedExample/app/src/main/AndroidManifest.xml
+M	admob/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	admob/RewardedVideoExample/build.gradle
+M	advanced/APIDemo/app/src/main/AndroidManifest.xml
+M	advanced/APIDemo/build.gradle
+M	advanced/BannerRecyclerViewExample/app/src/main/AndroidManifest.xml
+M	advanced/BannerRecyclerViewExample/build.gradle
+D	doubleclick/CustomRenderingExample/app/src/main/res/values/strings.xml
+
+3d6aa30;Update to 5.4
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/NativeAdvancedExample/app/src/main/res/layout/ad_unified.xml
+M	admob/NativeAdvancedExample/build.gradle
+M	doubleclick/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_unified.xml
+M	doubleclick/CustomRenderingExample/build.gradle
+A	doubleclick/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+
+b6e08d2;Updated to latest version of Mobile Ads SDK
+M	admob/BannerExample/app/build.gradle
+M	admob/InterstitialExample/app/build.gradle
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/RewardedVideoExample/app/build.gradle
+M	advanced/BannerRecyclerViewExample/app/src/main/java/com/google/android/gms/example/bannerrecyclerviewexample/MainActivity.java
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/CustomRenderingExample/app/build.gradle
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/RewardedVideoExample/app/build.gradle
+M	doubleclick/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+M	doubleclick/RewardedVideoExample/build.gradle
+M	doubleclick/RewardedVideoExample/gradlew
+M	doubleclick/RewardedVideoExample/gradlew.bat
+
+96095c1;Updated samples for v15.0.0. Native examples use UnifiedNativeAd.
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/build.gradle
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/build.gradle
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/NativeAdvancedExample/app/src/main/res/layout/activity_main.xml
+D	admob/NativeAdvancedExample/app/src/main/res/layout/ad_content.xml
+R067	admob/NativeAdvancedExample/app/src/main/res/layout/ad_app_install.xml	admob/NativeAdvancedExample/app/src/main/res/layout/ad_unified.xml
+M	admob/NativeAdvancedExample/app/src/main/res/values/styles.xml
+M	admob/NativeAdvancedExample/build.gradle
+M	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeAdvancedExample/gradlew
+M	admob/NativeAdvancedExample/gradlew.bat
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/build.gradle
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/build.gradle
+M	advanced/BannerRecyclerViewExample/app/build.gradle
+M	advanced/BannerRecyclerViewExample/build.gradle
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/BannerExample/build.gradle
+M	doubleclick/CustomRenderingExample/app/build.gradle
+M	doubleclick/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/activity_main.xml
+D	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_app_install.xml
+D	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_content.xml
+A	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_unified.xml
+M	doubleclick/CustomRenderingExample/build.gradle
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/InterstitialExample/build.gradle
+
+c81aad1;Add rewarded video onRewardedVideoCompleted() ad event.
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.properties
+A	admob/NativeExpressExample/.gitignore
+A	admob/NativeExpressExample/app/.gitignore
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+M	admob/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/gradle/wrapper/gradle-wrapper.properties
+M	advanced/BannerRecyclerViewExample/app/build.gradle
+M	advanced/BannerRecyclerViewExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/CustomRenderingExample/app/build.gradle
+M	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+
+15586b9;Removed Native Express Examples
+M	README.md
+D	admob/NativeExpressExample/.gitignore
+D	admob/NativeExpressExample/.google/packaging.yaml
+D	admob/NativeExpressExample/LICENSE
+D	admob/NativeExpressExample/README.md
+D	admob/NativeExpressExample/app/.gitignore
+D	admob/NativeExpressExample/app/build.gradle
+D	admob/NativeExpressExample/app/proguard-rules.pro
+D	admob/NativeExpressExample/app/src/main/AndroidManifest.xml
+D	admob/NativeExpressExample/app/src/main/java/com/google/example/gms/ads/nativeexpressexample/MainActivity.java
+D	admob/NativeExpressExample/app/src/main/res/layout/activity_main.xml
+D	admob/NativeExpressExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+D	admob/NativeExpressExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+D	admob/NativeExpressExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+D	admob/NativeExpressExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+D	admob/NativeExpressExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+D	admob/NativeExpressExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+D	admob/NativeExpressExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+D	admob/NativeExpressExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+D	admob/NativeExpressExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+D	admob/NativeExpressExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+D	admob/NativeExpressExample/app/src/main/res/values-w820dp/dimens.xml
+D	admob/NativeExpressExample/app/src/main/res/values/colors.xml
+D	admob/NativeExpressExample/app/src/main/res/values/dimens.xml
+D	admob/NativeExpressExample/app/src/main/res/values/strings.xml
+D	admob/NativeExpressExample/app/src/main/res/values/styles.xml
+D	admob/NativeExpressExample/build.gradle
+D	admob/NativeExpressExample/gradle.properties
+D	admob/NativeExpressExample/gradle/wrapper/gradle-wrapper.jar
+D	admob/NativeExpressExample/gradle/wrapper/gradle-wrapper.properties
+D	admob/NativeExpressExample/gradlew
+D	admob/NativeExpressExample/gradlew.bat
+D	admob/NativeExpressExample/settings.gradle
+
+625bb59;Refactored samples to use Google cod style. Added custom video controls to APIDemo.
+M	admob/BannerExample/app/src/main/AndroidManifest.xml
+M	admob/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	admob/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	admob/NativeAdvancedExample/app/src/main/AndroidManifest.xml
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/NativeExpressExample/app/src/main/AndroidManifest.xml
+M	admob/NativeExpressExample/app/src/main/java/com/google/example/gms/ads/nativeexpressexample/MainActivity.java
+M	admob/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	admob/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+M	advanced/APIDemo/app/src/main/AndroidManifest.xml
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdListenerFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdTargetingFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobBannerSizesFragment.java
+A	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/CustomControlsView.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPAppEventsFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCategoryExclusionFragment.java
+A	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCustomControlsFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCustomTargetingFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPFluidSizeFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPMultipleAdSizesFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPPPIDFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DatePickerFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/MainActivity.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/NavigationDrawerFragment.java
+A	advanced/APIDemo/app/src/main/res/layout/ad_app_install.xml
+A	advanced/APIDemo/app/src/main/res/layout/ad_content.xml
+A	advanced/APIDemo/app/src/main/res/layout/ad_simple_custom_template.xml
+A	advanced/APIDemo/app/src/main/res/layout/custom_video_controls.xml
+A	advanced/APIDemo/app/src/main/res/layout/fragment_dfp_customcontrols.xml
+A	advanced/APIDemo/app/src/main/res/values/attrs_custom_controls_view.xml
+M	advanced/APIDemo/app/src/main/res/values/strings.xml
+M	advanced/APIDemo/app/src/main/res/values/styles.xml
+M	advanced/BannerRecyclerViewExample/app/src/main/AndroidManifest.xml
+M	advanced/BannerRecyclerViewExample/app/src/main/java/com/google/android/gms/example/bannerrecyclerviewexample/MainActivity.java
+M	advanced/BannerRecyclerViewExample/app/src/main/java/com/google/android/gms/example/bannerrecyclerviewexample/RecyclerViewAdapter.java
+M	doubleclick/BannerExample/app/src/main/AndroidManifest.xml
+M	doubleclick/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	doubleclick/CustomRenderingExample/app/src/main/AndroidManifest.xml
+M	doubleclick/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+M	doubleclick/InterstitialExample/app/src/main/AndroidManifest.xml
+M	doubleclick/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	doubleclick/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	doubleclick/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+
+daf34cd;Adds DFP Rewarded Video examples. Removes NativeListViewExample.
+M	README.md
+M	admob/BannerExample/README.md
+M	admob/InterstitialExample/README.md
+M	admob/NativeAdvancedExample/README.md
+M	admob/NativeExpressExample/README.md
+R095	advanced/NativeListViewExample/.google/packaging.yaml	admob/RewardedVideoExample/.google/packaging.yaml
+R100	advanced/NativeListViewExample/LICENSE	admob/RewardedVideoExample/LICENSE
+A	admob/RewardedVideoExample/README.md
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+M	admob/RewardedVideoExample/app/src/main/res/layout/activity_main.xml
+D	admob/RewardedVideoExample/app/src/main/res/menu/menu_main.xml
+D	admob/RewardedVideoExample/app/src/main/res/values-w820dp/dimens.xml
+D	admob/RewardedVideoExample/app/src/main/res/values/dimens.xml
+M	advanced/APIDemo/README.md
+D	advanced/NativeListViewExample/.gitignore
+D	advanced/NativeListViewExample/app/proguard-rules.pro
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdPlacement.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdViewHolder.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdsListingAdapter.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdFetcher.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdPlacement.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdViewHolder.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdFetcher.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdPlacement.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdViewHolder.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ExtendedCustomTemplateAdViewHolder.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/Listing.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ListingViewHolder.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MainActivity.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdFetcher.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdPlacement.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdFetcher.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdPlacement.java
+D	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdViewHolder.java
+D	advanced/NativeListViewExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+D	advanced/NativeListViewExample/app/src/main/res/drawable-mdpi/house1.jpg
+D	advanced/NativeListViewExample/app/src/main/res/drawable-mdpi/house2.jpg
+D	advanced/NativeListViewExample/app/src/main/res/drawable-mdpi/house3.jpg
+D	advanced/NativeListViewExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+D	advanced/NativeListViewExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+D	advanced/NativeListViewExample/app/src/main/res/layout/activity_main.xml
+D	advanced/NativeListViewExample/app/src/main/res/layout/fragment_listing.xml
+D	advanced/NativeListViewExample/app/src/main/res/layout/item.xml
+D	advanced/NativeListViewExample/app/src/main/res/layout/item_app_install_ad.xml
+D	advanced/NativeListViewExample/app/src/main/res/layout/item_content_ad.xml
+D	advanced/NativeListViewExample/app/src/main/res/layout/item_extended_custom_template_ad.xml
+D	advanced/NativeListViewExample/app/src/main/res/layout/item_simple_custom_template_ad.xml
+D	advanced/NativeListViewExample/app/src/main/res/menu/main.xml
+D	advanced/NativeListViewExample/app/src/main/res/values-v11/styles.xml
+D	advanced/NativeListViewExample/app/src/main/res/values-v14/styles.xml
+D	advanced/NativeListViewExample/app/src/main/res/values-w820dp/dimens.xml
+D	advanced/NativeListViewExample/app/src/main/res/values/dimens.xml
+D	advanced/NativeListViewExample/app/src/main/res/values/strings.xml
+D	advanced/NativeListViewExample/app/src/main/res/values/styles.xml
+D	advanced/NativeListViewExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/BannerExample/README.md
+M	doubleclick/CustomRenderingExample/README.md
+M	doubleclick/InterstitialExample/README.md
+A	doubleclick/RewardedVideoExample/.google/packaging.yaml
+A	doubleclick/RewardedVideoExample/LICENSE
+R057	advanced/NativeListViewExample/README.md	doubleclick/RewardedVideoExample/README.md
+R057	advanced/NativeListViewExample/app/build.gradle	doubleclick/RewardedVideoExample/app/build.gradle
+A	doubleclick/RewardedVideoExample/app/proguard-rules.pro
+R063	advanced/NativeListViewExample/app/src/main/AndroidManifest.xml	doubleclick/RewardedVideoExample/app/src/main/AndroidManifest.xml
+A	doubleclick/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+A	doubleclick/RewardedVideoExample/app/src/main/res/layout/activity_main.xml
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+A	doubleclick/RewardedVideoExample/app/src/main/res/values/strings.xml
+A	doubleclick/RewardedVideoExample/app/src/main/res/values/styles.xml
+R059	advanced/NativeListViewExample/build.gradle	doubleclick/RewardedVideoExample/build.gradle
+A	doubleclick/RewardedVideoExample/gradle.properties
+R100	advanced/NativeListViewExample/gradle/wrapper/gradle-wrapper.jar	doubleclick/RewardedVideoExample/gradle/wrapper/gradle-wrapper.jar
+R100	advanced/NativeListViewExample/gradlew	doubleclick/RewardedVideoExample/gradlew
+R100	advanced/NativeListViewExample/gradlew.bat	doubleclick/RewardedVideoExample/gradlew.bat
+R100	advanced/NativeListViewExample/settings.gradle	doubleclick/RewardedVideoExample/settings.gradle
+
+599c7a5;Updated sample app dependencies
+M	admob/BannerExample/README.md
+M	admob/InterstitialExample/README.md
+M	admob/NativeAdvancedExample/README.md
+M	admob/NativeExpressExample/README.md
+M	advanced/APIDemo/README.md
+R100	advanced/NativeExpressRecyclerViewExample/.google/packaging.yaml	advanced/BannerRecyclerViewExample/.google/packaging.yaml
+R100	advanced/NativeExpressRecyclerViewExample/LICENSE	advanced/BannerRecyclerViewExample/LICENSE
+R082	advanced/NativeExpressRecyclerViewExample/README.md	advanced/BannerRecyclerViewExample/README.md
+R100	advanced/NativeExpressRecyclerViewExample/gradle/wrapper/gradle-wrapper.jar	advanced/BannerRecyclerViewExample/gradle/wrapper/gradle-wrapper.jar
+M	advanced/NativeListViewExample/README.md
+M	doubleclick/BannerExample/README.md
+M	doubleclick/CustomRenderingExample/README.md
+M	doubleclick/InterstitialExample/README.md
+
+ae3524f;Created BannerRecyclerViewExample. Added Ad Attribution to Native Advanced and Custom Rendering Examples
+M	admob/NativeAdvancedExample/app/src/main/res/layout/ad_app_install.xml
+M	admob/NativeAdvancedExample/app/src/main/res/layout/ad_content.xml
+M	admob/NativeAdvancedExample/app/src/main/res/values/strings.xml
+M	admob/NativeAdvancedExample/app/src/main/res/values/styles.xml
+R100	advanced/NativeExpressRecyclerViewExample/app/.gitignore	advanced/BannerRecyclerViewExample/app/.gitignore
+R088	advanced/NativeExpressRecyclerViewExample/app/build.gradle	advanced/BannerRecyclerViewExample/app/build.gradle
+R100	advanced/NativeExpressRecyclerViewExample/app/proguard-rules.pro	advanced/BannerRecyclerViewExample/app/proguard-rules.pro
+R075	advanced/NativeExpressRecyclerViewExample/app/src/main/AndroidManifest.xml	advanced/BannerRecyclerViewExample/app/src/main/AndroidManifest.xml
+R060	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/MainActivity.java	advanced/BannerRecyclerViewExample/app/src/main/java/com/google/android/gms/example/bannerrecyclerviewexample/MainActivity.java
+R092	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/MenuItem.java	advanced/BannerRecyclerViewExample/app/src/main/java/com/google/android/gms/example/bannerrecyclerviewexample/MenuItem.java
+R073	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/RecyclerViewAdapter.java	advanced/BannerRecyclerViewExample/app/src/main/java/com/google/android/gms/example/bannerrecyclerviewexample/RecyclerViewAdapter.java
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/drawable-hdpi/menu_item_image.png	advanced/BannerRecyclerViewExample/app/src/main/res/drawable-hdpi/menu_item_image.png
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/drawable-mdpi/menu_item_image.png	advanced/BannerRecyclerViewExample/app/src/main/res/drawable-mdpi/menu_item_image.png
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/drawable-xhdpi/menu_item_image.png	advanced/BannerRecyclerViewExample/app/src/main/res/drawable-xhdpi/menu_item_image.png
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/drawable-xxhdpi/menu_item_image.png	advanced/BannerRecyclerViewExample/app/src/main/res/drawable-xxhdpi/menu_item_image.png
+R085	advanced/NativeExpressRecyclerViewExample/app/src/main/res/layout/activity_main.xml	advanced/BannerRecyclerViewExample/app/src/main/res/layout/activity_main.xml
+R078	advanced/NativeExpressRecyclerViewExample/app/src/main/res/layout/native_express_ad_container.xml	advanced/BannerRecyclerViewExample/app/src/main/res/layout/banner_ad_container.xml
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/layout/menu_item_container.xml	advanced/BannerRecyclerViewExample/app/src/main/res/layout/menu_item_container.xml
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-hdpi/ic_launcher.png	advanced/BannerRecyclerViewExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-mdpi/ic_launcher.png	advanced/BannerRecyclerViewExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png	advanced/BannerRecyclerViewExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png	advanced/BannerRecyclerViewExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png	advanced/BannerRecyclerViewExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/raw/menu_items_json.json	advanced/BannerRecyclerViewExample/app/src/main/res/raw/menu_items_json.json
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values-w820dp/dimens.xml	advanced/BannerRecyclerViewExample/app/src/main/res/values-w820dp/dimens.xml
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values/colors.xml	advanced/BannerRecyclerViewExample/app/src/main/res/values/colors.xml
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values/dimens.xml	advanced/BannerRecyclerViewExample/app/src/main/res/values/dimens.xml
+R058	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values/strings.xml	advanced/BannerRecyclerViewExample/app/src/main/res/values/strings.xml
+R100	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values/styles.xml	advanced/BannerRecyclerViewExample/app/src/main/res/values/styles.xml
+R100	advanced/NativeExpressRecyclerViewExample/build.gradle	advanced/BannerRecyclerViewExample/build.gradle
+R100	advanced/NativeExpressRecyclerViewExample/gradle.properties	advanced/BannerRecyclerViewExample/gradle.properties
+R100	advanced/NativeExpressRecyclerViewExample/gradle/wrapper/gradle-wrapper.properties	advanced/BannerRecyclerViewExample/gradle/wrapper/gradle-wrapper.properties
+R100	advanced/NativeExpressRecyclerViewExample/gradlew	advanced/BannerRecyclerViewExample/gradlew
+R100	advanced/NativeExpressRecyclerViewExample/gradlew.bat	advanced/BannerRecyclerViewExample/gradlew.bat
+R100	advanced/NativeExpressRecyclerViewExample/settings.gradle	advanced/BannerRecyclerViewExample/settings.gradle
+D	advanced/NativeExpressRecyclerViewExample/.gitignore
+D	advanced/NativeExpressRecyclerViewExample/app/google-services.json
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_app_install.xml
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_content.xml
+M	doubleclick/CustomRenderingExample/app/src/main/res/values/strings.xml
+M	doubleclick/CustomRenderingExample/app/src/main/res/values/styles.xml
+
+0bfda07;Updates gradle files for Play services 11.8.0.
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/build.gradle
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/build.gradle
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/build.gradle
+M	admob/NativeExpressExample/app/build.gradle
+M	admob/NativeExpressExample/build.gradle
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/build.gradle
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/app/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/build.gradle
+M	advanced/NativeListViewExample/app/build.gradle
+M	advanced/NativeListViewExample/build.gradle
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/BannerExample/build.gradle
+M	doubleclick/CustomRenderingExample/app/build.gradle
+M	doubleclick/CustomRenderingExample/build.gradle
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/InterstitialExample/build.gradle
+
+5bfb175;Updating samples for Studio 3.0 and SDK 11.6.0.
+M	README.md
+M	admob/BannerExample/app/build.gradle
+D	admob/BannerExample/app/google-services.json
+M	admob/BannerExample/app/src/main/AndroidManifest.xml
+M	admob/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+D	admob/BannerExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+D	admob/BannerExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+D	admob/BannerExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+D	admob/BannerExample/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+A	admob/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+A	admob/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+A	admob/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	admob/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	admob/BannerExample/app/src/main/res/values/strings.xml
+M	admob/BannerExample/build.gradle
+M	admob/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/InterstitialExample/app/build.gradle
+D	admob/InterstitialExample/app/google-services.json
+M	admob/InterstitialExample/app/src/main/AndroidManifest.xml
+M	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+D	admob/InterstitialExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+D	admob/InterstitialExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+D	admob/InterstitialExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+D	admob/InterstitialExample/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	admob/InterstitialExample/app/src/main/res/values/strings.xml
+M	admob/InterstitialExample/build.gradle
+M	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeAdvancedExample/app/build.gradle
+D	admob/NativeAdvancedExample/app/google-services.json
+M	admob/NativeAdvancedExample/app/src/main/AndroidManifest.xml
+M	admob/NativeAdvancedExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admob/NativeAdvancedExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+M	admob/NativeAdvancedExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admob/NativeAdvancedExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+M	admob/NativeAdvancedExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admob/NativeAdvancedExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+M	admob/NativeAdvancedExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admob/NativeAdvancedExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	admob/NativeAdvancedExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	admob/NativeAdvancedExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	admob/NativeAdvancedExample/build.gradle
+M	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeExpressExample/app/build.gradle
+D	admob/NativeExpressExample/app/google-services.json
+M	admob/NativeExpressExample/app/src/main/AndroidManifest.xml
+M	admob/NativeExpressExample/app/src/main/java/com/google/example/gms/ads/nativeexpressexample/MainActivity.java
+M	admob/NativeExpressExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+M	admob/NativeExpressExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+M	admob/NativeExpressExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+M	admob/NativeExpressExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+M	admob/NativeExpressExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	admob/NativeExpressExample/app/src/main/res/values/strings.xml
+M	admob/NativeExpressExample/build.gradle
+M	admob/NativeExpressExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/RewardedVideoExample/app/build.gradle
+D	admob/RewardedVideoExample/app/google-services.json
+M	admob/RewardedVideoExample/app/src/main/AndroidManifest.xml
+M	admob/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+M	admob/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+M	admob/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+M	admob/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+M	admob/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	admob/RewardedVideoExample/app/src/main/res/values/strings.xml
+M	admob/RewardedVideoExample/build.gradle
+M	admob/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdListenerFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdTargetingFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobBannerSizesFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPAppEventsFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCategoryExclusionFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCustomTargetingFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPFluidSizeFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPMultipleAdSizesFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPPPIDFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DatePickerFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/NavigationDrawerFragment.java
+M	advanced/APIDemo/build.gradle
+M	advanced/APIDemo/gradle/wrapper/gradle-wrapper.properties
+M	advanced/NativeExpressRecyclerViewExample/app/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/MainActivity.java
+M	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/RecyclerViewAdapter.java
+M	advanced/NativeExpressRecyclerViewExample/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/NativeListViewExample/app/build.gradle
+M	advanced/NativeListViewExample/build.gradle
+M	advanced/NativeListViewExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	doubleclick/BannerExample/app/src/main/res/layout/activity_my.xml
+M	doubleclick/BannerExample/build.gradle
+M	doubleclick/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/CustomRenderingExample/app/build.gradle
+M	doubleclick/CustomRenderingExample/build.gradle
+M	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	doubleclick/InterstitialExample/build.gradle
+M	doubleclick/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+
+cb30ef6;Updating for Play services 11.4.0.
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/build.gradle
+M	admob/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/build.gradle
+M	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/NativeAdvancedExample/app/src/main/res/layout/ad_app_install.xml
+M	admob/NativeAdvancedExample/build.gradle
+M	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeExpressExample/app/build.gradle
+M	admob/NativeExpressExample/build.gradle
+M	admob/NativeExpressExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/build.gradle
+M	admob/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/gradle/wrapper/gradle-wrapper.properties
+M	advanced/NativeExpressRecyclerViewExample/app/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/NativeListViewExample/app/build.gradle
+M	advanced/NativeListViewExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/CustomRenderingExample/app/build.gradle
+M	doubleclick/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_app_install.xml
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_content.xml
+M	doubleclick/CustomRenderingExample/build.gradle
+M	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+
+d6ce7f6;Updating for Play services 11.2.0
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/build.gradle
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/build.gradle
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/NativeAdvancedExample/build.gradle
+M	admob/NativeExpressExample/app/build.gradle
+M	admob/NativeExpressExample/build.gradle
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/build.gradle
+M	admob/RewardedVideoExample/gradle.properties
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/app/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/build.gradle
+M	advanced/NativeListViewExample/app/build.gradle
+M	advanced/NativeListViewExample/build.gradle
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/BannerExample/app/src/main/AndroidManifest.xml
+M	doubleclick/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+D	doubleclick/BannerExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+D	doubleclick/BannerExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+D	doubleclick/BannerExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+D	doubleclick/BannerExample/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+D	doubleclick/BannerExample/app/src/main/res/menu/my.xml
+A	doubleclick/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	doubleclick/BannerExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+A	doubleclick/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	doubleclick/BannerExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+A	doubleclick/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	doubleclick/BannerExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+A	doubleclick/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	doubleclick/BannerExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	doubleclick/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	doubleclick/BannerExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	doubleclick/BannerExample/app/src/main/res/values/strings.xml
+M	doubleclick/BannerExample/build.gradle
+M	doubleclick/CustomRenderingExample/app/build.gradle
+M	doubleclick/CustomRenderingExample/build.gradle
+M	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/InterstitialExample/app/src/main/AndroidManifest.xml
+D	doubleclick/InterstitialExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+D	doubleclick/InterstitialExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+D	doubleclick/InterstitialExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+D	doubleclick/InterstitialExample/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+M	doubleclick/InterstitialExample/build.gradle
+
+731fd6e;Updating for Play services v11.
+M	README.md
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	admob/BannerExample/build.gradle
+M	admob/BannerExample/gradle/wrapper/gradle-wrapper.properties
+D	admob/InAppPurchaseExample/.gitignore
+D	admob/InAppPurchaseExample/app/.gitignore
+D	admob/InAppPurchaseExample/app/build.gradle
+D	admob/InAppPurchaseExample/app/google-services.json
+D	admob/InAppPurchaseExample/app/proguard-rules.pro
+D	admob/InAppPurchaseExample/app/src/main/AndroidManifest.xml
+D	admob/InAppPurchaseExample/app/src/main/aidl/com/android/vending/billing/IInAppBillingService.aidl
+D	admob/InAppPurchaseExample/app/src/main/java/com/google/android/gms/example/inapppurchaseexample/MainActivity.java
+D	admob/InAppPurchaseExample/app/src/main/res/layout/activity_main.xml
+D	admob/InAppPurchaseExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+D	admob/InAppPurchaseExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+D	admob/InAppPurchaseExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+D	admob/InAppPurchaseExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+D	admob/InAppPurchaseExample/app/src/main/res/values-w820dp/dimens.xml
+D	admob/InAppPurchaseExample/app/src/main/res/values/dimens.xml
+D	admob/InAppPurchaseExample/app/src/main/res/values/strings.xml
+D	admob/InAppPurchaseExample/app/src/main/res/values/styles.xml
+D	admob/InAppPurchaseExample/build.gradle
+D	admob/InAppPurchaseExample/gradle.properties
+D	admob/InAppPurchaseExample/gradle/wrapper/gradle-wrapper.properties
+D	admob/InAppPurchaseExample/gradlew
+D	admob/InAppPurchaseExample/gradlew.bat
+D	admob/InAppPurchaseExample/settings.gradle
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	admob/InterstitialExample/build.gradle
+M	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/NativeAdvancedExample/build.gradle
+M	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeExpressExample/app/build.gradle
+M	admob/NativeExpressExample/build.gradle
+M	admob/NativeExpressExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/RewardedVideoExample/app/build.gradle
+M	admob/RewardedVideoExample/build.gradle
+M	admob/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/MainActivity.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/NavigationDrawerFragment.java
+M	advanced/APIDemo/build.gradle
+M	advanced/APIDemo/gradle/wrapper/gradle-wrapper.properties
+M	advanced/NativeExpressRecyclerViewExample/app/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/NativeListViewExample/app/build.gradle
+M	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MainActivity.java
+M	advanced/NativeListViewExample/build.gradle
+M	advanced/NativeListViewExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	doubleclick/BannerExample/build.gradle
+M	doubleclick/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/CustomRenderingExample/app/build.gradle
+M	doubleclick/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+M	doubleclick/CustomRenderingExample/build.gradle
+M	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	doubleclick/InterstitialExample/build.gradle
+M	doubleclick/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+
+a5f425b;Creating release v4.4
+A	admob/RewardedVideoExample/.gitignore
+A	admob/RewardedVideoExample/app/.gitignore
+A	admob/RewardedVideoExample/app/build.gradle
+A	admob/RewardedVideoExample/app/google-services.json
+A	admob/RewardedVideoExample/app/proguard-rules.pro
+A	admob/RewardedVideoExample/app/src/main/AndroidManifest.xml
+A	admob/RewardedVideoExample/app/src/main/java/com/google/ads/rewardedvideoexample/MainActivity.java
+A	admob/RewardedVideoExample/app/src/main/res/layout/activity_main.xml
+A	admob/RewardedVideoExample/app/src/main/res/menu/menu_main.xml
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admob/RewardedVideoExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admob/RewardedVideoExample/app/src/main/res/values-w820dp/dimens.xml
+A	admob/RewardedVideoExample/app/src/main/res/values/dimens.xml
+A	admob/RewardedVideoExample/app/src/main/res/values/strings.xml
+A	admob/RewardedVideoExample/app/src/main/res/values/styles.xml
+A	admob/RewardedVideoExample/build.gradle
+A	admob/RewardedVideoExample/gradle.properties
+A	admob/RewardedVideoExample/gradle/wrapper/gradle-wrapper.jar
+A	admob/RewardedVideoExample/gradle/wrapper/gradle-wrapper.properties
+A	admob/RewardedVideoExample/gradlew
+A	admob/RewardedVideoExample/gradlew.bat
+A	admob/RewardedVideoExample/settings.gradle
+
+d723afc;Adds native video support to DFP custom rendering example. Also updates SDK version in all samples
+M	doubleclick/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/activity_main.xml
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_app_install.xml
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_content.xml
+M	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_simple_custom_template.xml
+
+dadf5c8;Updates examples with Google Play services 10.2
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/build.gradle
+M	admob/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/InAppPurchaseExample/app/build.gradle
+M	admob/InAppPurchaseExample/app/src/main/AndroidManifest.xml
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/build.gradle
+M	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeAdvancedExample/app/build.gradle
+M	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+M	admob/NativeAdvancedExample/app/src/main/res/layout/activity_main.xml
+M	admob/NativeAdvancedExample/app/src/main/res/layout/ad_app_install.xml
+M	admob/NativeAdvancedExample/build.gradle
+M	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeExpressExample/app/build.gradle
+M	admob/NativeExpressExample/app/src/main/java/com/google/example/gms/ads/nativeexpressexample/MainActivity.java
+M	admob/NativeExpressExample/app/src/main/res/layout/activity_main.xml
+M	admob/NativeExpressExample/app/src/main/res/values/strings.xml
+M	admob/NativeExpressExample/build.gradle
+M	admob/NativeExpressExample/gradle/wrapper/gradle-wrapper.properties
+M	advanced/APIDemo/app/build.gradle
+M	advanced/APIDemo/app/src/main/AndroidManifest.xml
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdTargetingFragment.java
+M	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPFluidSizeFragment.java
+M	advanced/APIDemo/app/src/main/res/layout/fragment_admob_ad_targeting.xml
+M	advanced/APIDemo/app/src/main/res/layout/fragment_dfp_fluid_size.xml
+M	advanced/APIDemo/app/src/main/res/values/strings.xml
+M	advanced/APIDemo/build.gradle
+M	advanced/APIDemo/gradle/wrapper/gradle-wrapper.properties
+M	advanced/NativeExpressRecyclerViewExample/app/build.gradle
+M	advanced/NativeExpressRecyclerViewExample/app/proguard-rules.pro
+M	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/MainActivity.java
+M	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/RecyclerViewAdapter.java
+D	advanced/NativeExpressRecyclerViewExample/app/src/main/menu_item_image-web.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/drawable-hdpi/menu_item_image.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/drawable-mdpi/menu_item_image.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/drawable-xhdpi/menu_item_image.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/drawable-xxhdpi/menu_item_image.png
+D	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-hdpi/menu_item_image.png
+D	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-mdpi/menu_item_image.png
+D	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xhdpi/menu_item_image.png
+D	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xxhdpi/menu_item_image.png
+D	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xxxhdpi/menu_item_image.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/raw/menu_items_json.json
+M	advanced/NativeExpressRecyclerViewExample/build.gradle
+M	advanced/NativeListViewExample/app/build.gradle
+M	advanced/NativeListViewExample/build.gradle
+M	advanced/NativeListViewExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/BannerExample/build.gradle
+M	doubleclick/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/CustomRenderingExample/app/build.gradle
+M	doubleclick/CustomRenderingExample/build.gradle
+M	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/InterstitialExample/build.gradle
+M	doubleclick/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+
+7551d87;Updates README.
+M	README.md
+
+cd1e6e6;Adds a Native Express RecyclerView example app. Also, updates the AdMob NativeExample app to NativeAdvancedExample and updates the DFP NativeExample app to CustomRenderingExample.
+M	README.md
+R100	admob/NativeExample/.gitignore	admob/NativeAdvancedExample/.gitignore
+R100	admob/NativeExample/.google/packaging.yaml	admob/NativeAdvancedExample/.google/packaging.yaml
+R100	APIDemo/LICENSE	admob/NativeAdvancedExample/LICENSE
+R082	admob/NativeExample/README.md	admob/NativeAdvancedExample/README.md
+R100	APIDemo/app/.gitignore	admob/NativeAdvancedExample/app/.gitignore
+R065	admob/NativeExample/app/build.gradle	admob/NativeAdvancedExample/app/build.gradle
+R088	admob/NativeExample/app/google-services.json	admob/NativeAdvancedExample/app/google-services.json
+R100	APIDemo/app/proguard-rules.pro	admob/NativeAdvancedExample/app/proguard-rules.pro
+R091	doubleclick/NativeExample/app/src/main/AndroidManifest.xml	admob/NativeAdvancedExample/app/src/main/AndroidManifest.xml
+R099	admob/NativeExample/app/src/main/java/com/google/example/gms/nativeexample/MainActivity.java	admob/NativeAdvancedExample/app/src/main/java/com/google/example/gms/nativeadvancedexample/MainActivity.java
+R094	admob/NativeExample/app/src/main/res/layout/activity_main.xml	admob/NativeAdvancedExample/app/src/main/res/layout/activity_main.xml
+R100	admob/NativeExample/app/src/main/res/layout/ad_app_install.xml	admob/NativeAdvancedExample/app/src/main/res/layout/ad_app_install.xml
+R100	admob/NativeExample/app/src/main/res/layout/ad_content.xml	admob/NativeAdvancedExample/app/src/main/res/layout/ad_content.xml
+R100	admob/NativeExample/app/src/main/res/mipmap-hdpi/ic_launcher.png	admob/NativeAdvancedExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+R100	admob/NativeExample/app/src/main/res/mipmap-mdpi/ic_launcher.png	admob/NativeAdvancedExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+R100	admob/NativeExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png	admob/NativeAdvancedExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+R100	admob/NativeExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png	admob/NativeAdvancedExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+R100	APIDemo/app/src/main/res/values-w820dp/dimens.xml	admob/NativeAdvancedExample/app/src/main/res/values-w820dp/dimens.xml
+R100	admob/NativeExample/app/src/main/res/values/dimens.xml	admob/NativeAdvancedExample/app/src/main/res/values/dimens.xml
+A	admob/NativeAdvancedExample/app/src/main/res/values/strings.xml
+R100	APIDemo/app/src/main/res/values/styles.xml	admob/NativeAdvancedExample/app/src/main/res/values/styles.xml
+R084	admob/NativeExample/build.gradle	admob/NativeAdvancedExample/build.gradle
+R100	APIDemo/gradle.properties	admob/NativeAdvancedExample/gradle.properties
+R100	APIDemo/gradle/wrapper/gradle-wrapper.jar	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.jar
+R100	admob/NativeExample/gradle/wrapper/gradle-wrapper.properties	admob/NativeAdvancedExample/gradle/wrapper/gradle-wrapper.properties
+R100	APIDemo/gradlew	admob/NativeAdvancedExample/gradlew
+R100	APIDemo/gradlew.bat	admob/NativeAdvancedExample/gradlew.bat
+R100	APIDemo/settings.gradle	admob/NativeAdvancedExample/settings.gradle
+D	admob/NativeExample/app/src/main/res/values/strings.xml
+M	admob/NativeExpressExample/README.md
+R100	APIDemo/.google/packaging.yaml	advanced/APIDemo/.google/packaging.yaml
+R100	NativeListViewExample/LICENSE	advanced/APIDemo/LICENSE
+R100	APIDemo/README.md	advanced/APIDemo/README.md
+R100	admob/NativeExample/app/.gitignore	advanced/APIDemo/app/.gitignore
+R100	APIDemo/app/build.gradle	advanced/APIDemo/app/build.gradle
+R100	admob/NativeExample/app/proguard-rules.pro	advanced/APIDemo/app/proguard-rules.pro
+R100	APIDemo/app/src/main/AndroidManifest.xml	advanced/APIDemo/app/src/main/AndroidManifest.xml
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdListenerFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdListenerFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdTargetingFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdTargetingFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobBannerSizesFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobBannerSizesFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPAppEventsFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPAppEventsFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCategoryExclusionFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCategoryExclusionFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCustomTargetingFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCustomTargetingFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPFluidSizeFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPFluidSizeFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPMultipleAdSizesFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPMultipleAdSizesFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPPPIDFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPPPIDFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DatePickerFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DatePickerFragment.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/MainActivity.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/MainActivity.java
+R100	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/NavigationDrawerFragment.java	advanced/APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/NavigationDrawerFragment.java
+R100	APIDemo/app/src/main/res/drawable-hdpi/drawer_shadow.9.png	advanced/APIDemo/app/src/main/res/drawable-hdpi/drawer_shadow.9.png
+R100	APIDemo/app/src/main/res/drawable-hdpi/ic_drawer.png	advanced/APIDemo/app/src/main/res/drawable-hdpi/ic_drawer.png
+R100	APIDemo/app/src/main/res/drawable-hdpi/ic_launcher.png	advanced/APIDemo/app/src/main/res/drawable-hdpi/ic_launcher.png
+R100	APIDemo/app/src/main/res/drawable-mdpi/drawer_shadow.9.png	advanced/APIDemo/app/src/main/res/drawable-mdpi/drawer_shadow.9.png
+R100	APIDemo/app/src/main/res/drawable-mdpi/ic_drawer.png	advanced/APIDemo/app/src/main/res/drawable-mdpi/ic_drawer.png
+R100	APIDemo/app/src/main/res/drawable-mdpi/ic_launcher.png	advanced/APIDemo/app/src/main/res/drawable-mdpi/ic_launcher.png
+R100	APIDemo/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png	advanced/APIDemo/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png
+R100	APIDemo/app/src/main/res/drawable-xhdpi/ic_drawer.png	advanced/APIDemo/app/src/main/res/drawable-xhdpi/ic_drawer.png
+R100	APIDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png	advanced/APIDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	APIDemo/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png	advanced/APIDemo/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png
+R100	APIDemo/app/src/main/res/drawable-xxhdpi/ic_drawer.png	advanced/APIDemo/app/src/main/res/drawable-xxhdpi/ic_drawer.png
+R100	APIDemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png	advanced/APIDemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	APIDemo/app/src/main/res/layout/activity_main.xml	advanced/APIDemo/app/src/main/res/layout/activity_main.xml
+R100	APIDemo/app/src/main/res/layout/fragment_admob_ad_listener.xml	advanced/APIDemo/app/src/main/res/layout/fragment_admob_ad_listener.xml
+R100	APIDemo/app/src/main/res/layout/fragment_admob_ad_targeting.xml	advanced/APIDemo/app/src/main/res/layout/fragment_admob_ad_targeting.xml
+R100	APIDemo/app/src/main/res/layout/fragment_admob_banner_sizes.xml	advanced/APIDemo/app/src/main/res/layout/fragment_admob_banner_sizes.xml
+R100	APIDemo/app/src/main/res/layout/fragment_dfp_app_events.xml	advanced/APIDemo/app/src/main/res/layout/fragment_dfp_app_events.xml
+R100	APIDemo/app/src/main/res/layout/fragment_dfp_category_exclusion.xml	advanced/APIDemo/app/src/main/res/layout/fragment_dfp_category_exclusion.xml
+R100	APIDemo/app/src/main/res/layout/fragment_dfp_custom_targeting.xml	advanced/APIDemo/app/src/main/res/layout/fragment_dfp_custom_targeting.xml
+R100	APIDemo/app/src/main/res/layout/fragment_dfp_fluid_size.xml	advanced/APIDemo/app/src/main/res/layout/fragment_dfp_fluid_size.xml
+R100	APIDemo/app/src/main/res/layout/fragment_dfp_multiple_ad_sizes.xml	advanced/APIDemo/app/src/main/res/layout/fragment_dfp_multiple_ad_sizes.xml
+R100	APIDemo/app/src/main/res/layout/fragment_dfp_ppid.xml	advanced/APIDemo/app/src/main/res/layout/fragment_dfp_ppid.xml
+R100	APIDemo/app/src/main/res/layout/fragment_main.xml	advanced/APIDemo/app/src/main/res/layout/fragment_main.xml
+R100	APIDemo/app/src/main/res/layout/fragment_navigation_drawer.xml	advanced/APIDemo/app/src/main/res/layout/fragment_navigation_drawer.xml
+R100	APIDemo/app/src/main/res/menu/global.xml	advanced/APIDemo/app/src/main/res/menu/global.xml
+R100	APIDemo/app/src/main/res/menu/main.xml	advanced/APIDemo/app/src/main/res/menu/main.xml
+R100	admob/NativeExample/app/src/main/res/values-w820dp/dimens.xml	advanced/APIDemo/app/src/main/res/values-w820dp/dimens.xml
+R100	APIDemo/app/src/main/res/values/dimens.xml	advanced/APIDemo/app/src/main/res/values/dimens.xml
+R100	APIDemo/app/src/main/res/values/strings.xml	advanced/APIDemo/app/src/main/res/values/strings.xml
+R100	admob/NativeExample/app/src/main/res/values/styles.xml	advanced/APIDemo/app/src/main/res/values/styles.xml
+R100	APIDemo/build.gradle	advanced/APIDemo/build.gradle
+R100	admob/NativeExample/gradle.properties	advanced/APIDemo/gradle.properties
+R100	NativeListViewExample/gradle/wrapper/gradle-wrapper.jar	advanced/APIDemo/gradle/wrapper/gradle-wrapper.jar
+R100	APIDemo/gradle/wrapper/gradle-wrapper.properties	advanced/APIDemo/gradle/wrapper/gradle-wrapper.properties
+R100	NativeListViewExample/gradlew	advanced/APIDemo/gradlew
+R100	NativeListViewExample/gradlew.bat	advanced/APIDemo/gradlew.bat
+R100	NativeListViewExample/settings.gradle	advanced/APIDemo/settings.gradle
+A	advanced/NativeExpressRecyclerViewExample/.gitignore
+A	advanced/NativeExpressRecyclerViewExample/.google/packaging.yaml
+A	advanced/NativeExpressRecyclerViewExample/LICENSE
+A	advanced/NativeExpressRecyclerViewExample/README.md
+R100	doubleclick/NativeExample/app/.gitignore	advanced/NativeExpressRecyclerViewExample/app/.gitignore
+A	advanced/NativeExpressRecyclerViewExample/app/build.gradle
+A	advanced/NativeExpressRecyclerViewExample/app/google-services.json
+A	advanced/NativeExpressRecyclerViewExample/app/proguard-rules.pro
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/AndroidManifest.xml
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/MainActivity.java
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/MenuItem.java
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/java/com/google/android/gms/example/nativeexpressrecyclerviewexample/RecyclerViewAdapter.java
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/menu_item_image-web.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/layout/activity_main.xml
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/layout/menu_item_container.xml
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/layout/native_express_ad_container.xml
+R100	doubleclick/NativeExample/app/src/main/res/mipmap-hdpi/ic_launcher.png	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-hdpi/menu_item_image.png
+R100	doubleclick/NativeExample/app/src/main/res/mipmap-mdpi/ic_launcher.png	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-mdpi/menu_item_image.png
+R100	doubleclick/NativeExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xhdpi/menu_item_image.png
+R100	doubleclick/NativeExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xxhdpi/menu_item_image.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/mipmap-xxxhdpi/menu_item_image.png
+R100	doubleclick/NativeExample/app/src/main/res/values-w820dp/dimens.xml	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values-w820dp/dimens.xml
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values/colors.xml
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values/dimens.xml
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values/strings.xml
+A	advanced/NativeExpressRecyclerViewExample/app/src/main/res/values/styles.xml
+A	advanced/NativeExpressRecyclerViewExample/build.gradle
+R100	doubleclick/NativeExample/gradle.properties	advanced/NativeExpressRecyclerViewExample/gradle.properties
+R100	admob/NativeExample/gradle/wrapper/gradle-wrapper.jar	advanced/NativeExpressRecyclerViewExample/gradle/wrapper/gradle-wrapper.jar
+A	advanced/NativeExpressRecyclerViewExample/gradle/wrapper/gradle-wrapper.properties
+A	advanced/NativeExpressRecyclerViewExample/gradlew
+R100	admob/NativeExample/gradlew.bat	advanced/NativeExpressRecyclerViewExample/gradlew.bat
+R100	admob/NativeExample/settings.gradle	advanced/NativeExpressRecyclerViewExample/settings.gradle
+R100	NativeListViewExample/.gitignore	advanced/NativeListViewExample/.gitignore
+R100	NativeListViewExample/.google/packaging.yaml	advanced/NativeListViewExample/.google/packaging.yaml
+R100	admob/NativeExample/LICENSE	advanced/NativeListViewExample/LICENSE
+R091	NativeListViewExample/README.md	advanced/NativeListViewExample/README.md
+R100	NativeListViewExample/app/build.gradle	advanced/NativeListViewExample/app/build.gradle
+R100	NativeListViewExample/app/proguard-rules.pro	advanced/NativeListViewExample/app/proguard-rules.pro
+R100	NativeListViewExample/app/src/main/AndroidManifest.xml	advanced/NativeListViewExample/app/src/main/AndroidManifest.xml
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdPlacement.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdPlacement.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdViewHolder.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdViewHolder.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdsListingAdapter.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdsListingAdapter.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdFetcher.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdFetcher.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdPlacement.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdPlacement.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdViewHolder.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdViewHolder.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdFetcher.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdFetcher.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdPlacement.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdPlacement.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdViewHolder.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdViewHolder.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ExtendedCustomTemplateAdViewHolder.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ExtendedCustomTemplateAdViewHolder.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/Listing.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/Listing.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ListingViewHolder.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ListingViewHolder.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MainActivity.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MainActivity.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdFetcher.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdFetcher.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdPlacement.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdPlacement.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdFetcher.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdFetcher.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdPlacement.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdPlacement.java
+R100	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdViewHolder.java	advanced/NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdViewHolder.java
+R100	NativeListViewExample/app/src/main/res/drawable-hdpi/ic_launcher.png	advanced/NativeListViewExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+R100	NativeListViewExample/app/src/main/res/drawable-mdpi/house1.jpg	advanced/NativeListViewExample/app/src/main/res/drawable-mdpi/house1.jpg
+R100	NativeListViewExample/app/src/main/res/drawable-mdpi/house2.jpg	advanced/NativeListViewExample/app/src/main/res/drawable-mdpi/house2.jpg
+R100	NativeListViewExample/app/src/main/res/drawable-mdpi/house3.jpg	advanced/NativeListViewExample/app/src/main/res/drawable-mdpi/house3.jpg
+R100	NativeListViewExample/app/src/main/res/drawable-mdpi/ic_launcher.png	advanced/NativeListViewExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+R100	NativeListViewExample/app/src/main/res/drawable-xhdpi/ic_launcher.png	advanced/NativeListViewExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	NativeListViewExample/app/src/main/res/layout/activity_main.xml	advanced/NativeListViewExample/app/src/main/res/layout/activity_main.xml
+R100	NativeListViewExample/app/src/main/res/layout/fragment_listing.xml	advanced/NativeListViewExample/app/src/main/res/layout/fragment_listing.xml
+R100	NativeListViewExample/app/src/main/res/layout/item.xml	advanced/NativeListViewExample/app/src/main/res/layout/item.xml
+R100	NativeListViewExample/app/src/main/res/layout/item_app_install_ad.xml	advanced/NativeListViewExample/app/src/main/res/layout/item_app_install_ad.xml
+R100	NativeListViewExample/app/src/main/res/layout/item_content_ad.xml	advanced/NativeListViewExample/app/src/main/res/layout/item_content_ad.xml
+R100	NativeListViewExample/app/src/main/res/layout/item_extended_custom_template_ad.xml	advanced/NativeListViewExample/app/src/main/res/layout/item_extended_custom_template_ad.xml
+R100	NativeListViewExample/app/src/main/res/layout/item_simple_custom_template_ad.xml	advanced/NativeListViewExample/app/src/main/res/layout/item_simple_custom_template_ad.xml
+R100	NativeListViewExample/app/src/main/res/menu/main.xml	advanced/NativeListViewExample/app/src/main/res/menu/main.xml
+R100	NativeListViewExample/app/src/main/res/values-v11/styles.xml	advanced/NativeListViewExample/app/src/main/res/values-v11/styles.xml
+R100	NativeListViewExample/app/src/main/res/values-v14/styles.xml	advanced/NativeListViewExample/app/src/main/res/values-v14/styles.xml
+R100	NativeListViewExample/app/src/main/res/values-w820dp/dimens.xml	advanced/NativeListViewExample/app/src/main/res/values-w820dp/dimens.xml
+R100	NativeListViewExample/app/src/main/res/values/dimens.xml	advanced/NativeListViewExample/app/src/main/res/values/dimens.xml
+R100	NativeListViewExample/app/src/main/res/values/strings.xml	advanced/NativeListViewExample/app/src/main/res/values/strings.xml
+R100	NativeListViewExample/app/src/main/res/values/styles.xml	advanced/NativeListViewExample/app/src/main/res/values/styles.xml
+R100	NativeListViewExample/build.gradle	advanced/NativeListViewExample/build.gradle
+R100	doubleclick/NativeExample/gradle/wrapper/gradle-wrapper.jar	advanced/NativeListViewExample/gradle/wrapper/gradle-wrapper.jar
+R100	NativeListViewExample/gradle/wrapper/gradle-wrapper.properties	advanced/NativeListViewExample/gradle/wrapper/gradle-wrapper.properties
+R100	admob/NativeExample/gradlew	advanced/NativeListViewExample/gradlew
+R100	doubleclick/NativeExample/gradlew.bat	advanced/NativeListViewExample/gradlew.bat
+R100	doubleclick/NativeExample/settings.gradle	advanced/NativeListViewExample/settings.gradle
+R100	doubleclick/NativeExample/.gitignore	doubleclick/CustomRenderingExample/.gitignore
+R100	doubleclick/NativeExample/.google/packaging.yaml	doubleclick/CustomRenderingExample/.google/packaging.yaml
+R100	doubleclick/NativeExample/LICENSE	doubleclick/CustomRenderingExample/LICENSE
+R081	doubleclick/NativeExample/README.md	doubleclick/CustomRenderingExample/README.md
+A	doubleclick/CustomRenderingExample/app/.gitignore
+R057	doubleclick/NativeExample/app/build.gradle	doubleclick/CustomRenderingExample/app/build.gradle
+R100	doubleclick/NativeExample/app/proguard-rules.pro	doubleclick/CustomRenderingExample/app/proguard-rules.pro
+R091	admob/NativeExample/app/src/main/AndroidManifest.xml	doubleclick/CustomRenderingExample/app/src/main/AndroidManifest.xml
+R099	doubleclick/NativeExample/app/src/main/java/com/google/example/gms/nativeexample/MainActivity.java	doubleclick/CustomRenderingExample/app/src/main/java/com/google/example/gms/customrenderingexample/MainActivity.java
+R095	doubleclick/NativeExample/app/src/main/res/layout/activity_main.xml	doubleclick/CustomRenderingExample/app/src/main/res/layout/activity_main.xml
+R100	doubleclick/NativeExample/app/src/main/res/layout/ad_app_install.xml	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_app_install.xml
+R100	doubleclick/NativeExample/app/src/main/res/layout/ad_content.xml	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_content.xml
+R100	doubleclick/NativeExample/app/src/main/res/layout/ad_simple_custom_template.xml	doubleclick/CustomRenderingExample/app/src/main/res/layout/ad_simple_custom_template.xml
+A	doubleclick/CustomRenderingExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	doubleclick/CustomRenderingExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	doubleclick/CustomRenderingExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	doubleclick/CustomRenderingExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	doubleclick/CustomRenderingExample/app/src/main/res/values-w820dp/dimens.xml
+R100	doubleclick/NativeExample/app/src/main/res/values/dimens.xml	doubleclick/CustomRenderingExample/app/src/main/res/values/dimens.xml
+A	doubleclick/CustomRenderingExample/app/src/main/res/values/strings.xml
+R100	doubleclick/NativeExample/app/src/main/res/values/styles.xml	doubleclick/CustomRenderingExample/app/src/main/res/values/styles.xml
+R084	doubleclick/NativeExample/build.gradle	doubleclick/CustomRenderingExample/build.gradle
+A	doubleclick/CustomRenderingExample/gradle.properties
+A	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.jar
+R080	doubleclick/NativeExample/gradle/wrapper/gradle-wrapper.properties	doubleclick/CustomRenderingExample/gradle/wrapper/gradle-wrapper.properties
+R100	doubleclick/NativeExample/gradlew	doubleclick/CustomRenderingExample/gradlew
+A	doubleclick/CustomRenderingExample/gradlew.bat
+A	doubleclick/CustomRenderingExample/settings.gradle
+D	doubleclick/NativeExample/app/src/main/res/values/strings.xml
+
+56173d9;update readme
+M	README.md
+M	admob/NativeExample/app/src/main/java/com/google/example/gms/nativeexample/MainActivity.java
+M	doubleclick/NativeExample/app/src/main/java/com/google/example/gms/nativeexample/MainActivity.java
+
+e146635;Adds Native Ads Express.
+M	README.md
+A	admob/NativeExpressExample/.gitignore
+A	admob/NativeExpressExample/.google/packaging.yaml
+A	admob/NativeExpressExample/LICENSE
+A	admob/NativeExpressExample/README.md
+A	admob/NativeExpressExample/app/.gitignore
+A	admob/NativeExpressExample/app/build.gradle
+A	admob/NativeExpressExample/app/google-services.json
+A	admob/NativeExpressExample/app/proguard-rules.pro
+A	admob/NativeExpressExample/app/src/main/AndroidManifest.xml
+A	admob/NativeExpressExample/app/src/main/java/com/google/example/gms/ads/nativeexpressexample/MainActivity.java
+A	admob/NativeExpressExample/app/src/main/res/layout/activity_main.xml
+A	admob/NativeExpressExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	admob/NativeExpressExample/app/src/main/res/values-w820dp/dimens.xml
+A	admob/NativeExpressExample/app/src/main/res/values/colors.xml
+A	admob/NativeExpressExample/app/src/main/res/values/dimens.xml
+A	admob/NativeExpressExample/app/src/main/res/values/strings.xml
+A	admob/NativeExpressExample/app/src/main/res/values/styles.xml
+A	admob/NativeExpressExample/build.gradle
+A	admob/NativeExpressExample/gradle.properties
+A	admob/NativeExpressExample/gradle/wrapper/gradle-wrapper.jar
+A	admob/NativeExpressExample/gradle/wrapper/gradle-wrapper.properties
+A	admob/NativeExpressExample/gradlew
+A	admob/NativeExpressExample/gradlew.bat
+A	admob/NativeExpressExample/settings.gradle
+
+14500fe;Pushing latest changes. Hello, Firebase!
+M	NativeListViewExample/app/build.gradle
+M	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdPlacement.java
+M	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdPlacement.java
+M	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdFetcher.java
+M	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdPlacement.java
+M	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdPlacement.java
+M	NativeListViewExample/build.gradle
+M	NativeListViewExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/BannerExample/app/build.gradle
+A	admob/BannerExample/app/google-services.json
+M	admob/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	admob/BannerExample/build.gradle
+M	admob/BannerExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/InAppPurchaseExample/app/build.gradle
+A	admob/InAppPurchaseExample/app/google-services.json
+M	admob/InAppPurchaseExample/app/src/main/java/com/google/android/gms/example/inapppurchaseexample/MainActivity.java
+M	admob/InAppPurchaseExample/build.gradle
+M	admob/InAppPurchaseExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/InterstitialExample/app/build.gradle
+A	admob/InterstitialExample/app/google-services.json
+M	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	admob/InterstitialExample/build.gradle
+M	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+M	admob/NativeExample/app/build.gradle
+A	admob/NativeExample/app/google-services.json
+M	admob/NativeExample/app/src/main/java/com/google/example/gms/nativeexample/MainActivity.java
+M	admob/NativeExample/build.gradle
+M	admob/NativeExample/gradle/wrapper/gradle-wrapper.properties
+
+107c5b5;Creating release v2.9
+A	admob/InAppPurchaseExample/.gitignore
+A	admob/InAppPurchaseExample/app/.gitignore
+A	admob/InAppPurchaseExample/app/build.gradle
+A	admob/InAppPurchaseExample/app/proguard-rules.pro
+A	admob/InAppPurchaseExample/app/src/main/AndroidManifest.xml
+A	admob/InAppPurchaseExample/app/src/main/aidl/com/android/vending/billing/IInAppBillingService.aidl
+A	admob/InAppPurchaseExample/app/src/main/java/com/google/android/gms/example/inapppurchaseexample/MainActivity.java
+A	admob/InAppPurchaseExample/app/src/main/res/layout/activity_main.xml
+A	admob/InAppPurchaseExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admob/InAppPurchaseExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admob/InAppPurchaseExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admob/InAppPurchaseExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admob/InAppPurchaseExample/app/src/main/res/values-w820dp/dimens.xml
+A	admob/InAppPurchaseExample/app/src/main/res/values/dimens.xml
+A	admob/InAppPurchaseExample/app/src/main/res/values/strings.xml
+A	admob/InAppPurchaseExample/app/src/main/res/values/styles.xml
+A	admob/InAppPurchaseExample/build.gradle
+A	admob/InAppPurchaseExample/gradle.properties
+A	admob/InAppPurchaseExample/gradle/wrapper/gradle-wrapper.properties
+A	admob/InAppPurchaseExample/gradlew
+A	admob/InAppPurchaseExample/gradlew.bat
+A	admob/InAppPurchaseExample/settings.gradle
+M	admob/NativeExample/app/build.gradle
+M	admob/NativeExample/app/src/main/java/com/google/example/gms/nativeexample/MainActivity.java
+M	admob/NativeExample/build.gradle
+M	doubleclick/NativeExample/app/build.gradle
+M	doubleclick/NativeExample/app/src/main/java/com/google/example/gms/nativeexample/MainActivity.java
+M	doubleclick/NativeExample/build.gradle
+
+d121b8b;New release of latest code
+M	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCategoryExclusionFragment.java
+M	APIDemo/app/src/main/res/layout/fragment_dfp_category_exclusion.xml
+M	APIDemo/app/src/main/res/values/strings.xml
+
+18d8335;Updates examples to latest versions of Play services and tools.
+M	NativeListViewExample/app/build.gradle
+M	admob/BannerExample/app/build.gradle
+M	admob/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	admob/BannerExample/build.gradle
+M	admob/NativeExample/app/build.gradle
+M	admob/NativeExample/build.gradle
+M	doubleclick/BannerExample/app/build.gradle
+M	doubleclick/BannerExample/build.gradle
+M	doubleclick/NativeExample/app/build.gradle
+M	doubleclick/NativeExample/build.gradle
+
+1aa8af7;Merge pull request #2 from shailen/master
+594b91e;Made gradlew files executable.
+M	APIDemo/gradlew
+M	NativeListViewExample/gradlew
+M	admob/BannerExample/gradlew
+M	admob/InterstitialExample/gradlew
+M	admob/NativeExample/gradlew
+M	doubleclick/BannerExample/gradlew
+M	doubleclick/InterstitialExample/gradlew
+M	doubleclick/NativeExample/gradlew
+
+1dc10e0;Updates interstitial examples, Adds NativeListViewExample.
+M	APIDemo/app/build.gradle
+R052	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobCustomEventFragment.java	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPFluidSizeFragment.java
+M	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/MainActivity.java
+D	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/SampleCustomEvent.java
+D	APIDemo/app/src/main/res/layout/fragment_admob_custom_event.xml
+A	APIDemo/app/src/main/res/layout/fragment_dfp_fluid_size.xml
+M	APIDemo/app/src/main/res/values/strings.xml
+M	APIDemo/build.gradle
+A	NativeListViewExample/.gitignore
+A	NativeListViewExample/.google/packaging.yaml
+A	NativeListViewExample/LICENSE
+A	NativeListViewExample/README.md
+A	NativeListViewExample/app/build.gradle
+A	NativeListViewExample/app/proguard-rules.pro
+A	NativeListViewExample/app/src/main/AndroidManifest.xml
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdPlacement.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdViewHolder.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AdsListingAdapter.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdFetcher.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdPlacement.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/AppInstallAdViewHolder.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdFetcher.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdPlacement.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ContentAdViewHolder.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ExtendedCustomTemplateAdViewHolder.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/Listing.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/ListingViewHolder.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MainActivity.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdFetcher.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/MultiFormatAdPlacement.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdFetcher.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdPlacement.java
+A	NativeListViewExample/app/src/main/java/com/google/example/gms/nativeads/SimpleCustomTemplateAdViewHolder.java
+A	NativeListViewExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	NativeListViewExample/app/src/main/res/drawable-mdpi/house1.jpg
+A	NativeListViewExample/app/src/main/res/drawable-mdpi/house2.jpg
+A	NativeListViewExample/app/src/main/res/drawable-mdpi/house3.jpg
+A	NativeListViewExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	NativeListViewExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	NativeListViewExample/app/src/main/res/layout/activity_main.xml
+A	NativeListViewExample/app/src/main/res/layout/fragment_listing.xml
+A	NativeListViewExample/app/src/main/res/layout/item.xml
+A	NativeListViewExample/app/src/main/res/layout/item_app_install_ad.xml
+A	NativeListViewExample/app/src/main/res/layout/item_content_ad.xml
+A	NativeListViewExample/app/src/main/res/layout/item_extended_custom_template_ad.xml
+A	NativeListViewExample/app/src/main/res/layout/item_simple_custom_template_ad.xml
+R062	doubleclick/InterstitialExample/app/src/main/res/menu/my.xml	NativeListViewExample/app/src/main/res/menu/main.xml
+A	NativeListViewExample/app/src/main/res/values-v11/styles.xml
+A	NativeListViewExample/app/src/main/res/values-v14/styles.xml
+A	NativeListViewExample/app/src/main/res/values-w820dp/dimens.xml
+A	NativeListViewExample/app/src/main/res/values/dimens.xml
+A	NativeListViewExample/app/src/main/res/values/strings.xml
+A	NativeListViewExample/app/src/main/res/values/styles.xml
+A	NativeListViewExample/build.gradle
+A	NativeListViewExample/gradle/wrapper/gradle-wrapper.jar
+A	NativeListViewExample/gradle/wrapper/gradle-wrapper.properties
+A	NativeListViewExample/gradlew
+A	NativeListViewExample/gradlew.bat
+A	NativeListViewExample/settings.gradle
+M	README.md
+M	admob/InterstitialExample/app/build.gradle
+M	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+D	admob/InterstitialExample/app/src/main/res/menu/my.xml
+M	admob/InterstitialExample/build.gradle
+M	doubleclick/InterstitialExample/app/build.gradle
+M	doubleclick/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	doubleclick/InterstitialExample/build.gradle
+
+66aee8f;Adds native examples and API demo
+A	APIDemo/.google/packaging.yaml
+A	APIDemo/LICENSE
+A	APIDemo/README.md
+A	APIDemo/app/.gitignore
+A	APIDemo/app/build.gradle
+A	APIDemo/app/proguard-rules.pro
+A	APIDemo/app/src/main/AndroidManifest.xml
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdListenerFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobAdTargetingFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobBannerSizesFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/AdMobCustomEventFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPAppEventsFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCategoryExclusionFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPCustomTargetingFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPMultipleAdSizesFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DFPPPIDFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/DatePickerFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/MainActivity.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/NavigationDrawerFragment.java
+A	APIDemo/app/src/main/java/com/google/android/gms/example/apidemo/SampleCustomEvent.java
+A	APIDemo/app/src/main/res/drawable-hdpi/drawer_shadow.9.png
+A	APIDemo/app/src/main/res/drawable-hdpi/ic_drawer.png
+A	APIDemo/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	APIDemo/app/src/main/res/drawable-mdpi/drawer_shadow.9.png
+A	APIDemo/app/src/main/res/drawable-mdpi/ic_drawer.png
+A	APIDemo/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	APIDemo/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png
+A	APIDemo/app/src/main/res/drawable-xhdpi/ic_drawer.png
+A	APIDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	APIDemo/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png
+A	APIDemo/app/src/main/res/drawable-xxhdpi/ic_drawer.png
+A	APIDemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	APIDemo/app/src/main/res/layout/activity_main.xml
+A	APIDemo/app/src/main/res/layout/fragment_admob_ad_listener.xml
+A	APIDemo/app/src/main/res/layout/fragment_admob_ad_targeting.xml
+A	APIDemo/app/src/main/res/layout/fragment_admob_banner_sizes.xml
+A	APIDemo/app/src/main/res/layout/fragment_admob_custom_event.xml
+A	APIDemo/app/src/main/res/layout/fragment_dfp_app_events.xml
+A	APIDemo/app/src/main/res/layout/fragment_dfp_category_exclusion.xml
+A	APIDemo/app/src/main/res/layout/fragment_dfp_custom_targeting.xml
+A	APIDemo/app/src/main/res/layout/fragment_dfp_multiple_ad_sizes.xml
+A	APIDemo/app/src/main/res/layout/fragment_dfp_ppid.xml
+A	APIDemo/app/src/main/res/layout/fragment_main.xml
+A	APIDemo/app/src/main/res/layout/fragment_navigation_drawer.xml
+A	APIDemo/app/src/main/res/menu/global.xml
+A	APIDemo/app/src/main/res/menu/main.xml
+A	APIDemo/app/src/main/res/values-w820dp/dimens.xml
+A	APIDemo/app/src/main/res/values/dimens.xml
+A	APIDemo/app/src/main/res/values/strings.xml
+A	APIDemo/app/src/main/res/values/styles.xml
+A	APIDemo/build.gradle
+A	APIDemo/gradle.properties
+A	APIDemo/gradle/wrapper/gradle-wrapper.jar
+A	APIDemo/gradle/wrapper/gradle-wrapper.properties
+A	APIDemo/gradlew
+A	APIDemo/gradlew.bat
+A	APIDemo/settings.gradle
+M	README.md
+M	admob/BannerExample/.google/packaging.yaml
+M	admob/BannerExample/README.md
+M	admob/InterstitialExample/.google/packaging.yaml
+M	admob/InterstitialExample/README.md
+A	admob/NativeExample/.gitignore
+A	admob/NativeExample/.google/packaging.yaml
+A	admob/NativeExample/LICENSE
+A	admob/NativeExample/README.md
+A	admob/NativeExample/app/.gitignore
+A	admob/NativeExample/app/build.gradle
+A	admob/NativeExample/app/proguard-rules.pro
+A	admob/NativeExample/app/src/main/AndroidManifest.xml
+A	admob/NativeExample/app/src/main/java/com/google/example/gms/nativeexample/MainActivity.java
+A	admob/NativeExample/app/src/main/res/layout/activity_main.xml
+A	admob/NativeExample/app/src/main/res/layout/ad_app_install.xml
+A	admob/NativeExample/app/src/main/res/layout/ad_content.xml
+A	admob/NativeExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	admob/NativeExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	admob/NativeExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	admob/NativeExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	admob/NativeExample/app/src/main/res/values-w820dp/dimens.xml
+A	admob/NativeExample/app/src/main/res/values/dimens.xml
+A	admob/NativeExample/app/src/main/res/values/strings.xml
+A	admob/NativeExample/app/src/main/res/values/styles.xml
+A	admob/NativeExample/build.gradle
+A	admob/NativeExample/gradle.properties
+A	admob/NativeExample/gradle/wrapper/gradle-wrapper.jar
+A	admob/NativeExample/gradle/wrapper/gradle-wrapper.properties
+A	admob/NativeExample/gradlew
+A	admob/NativeExample/gradlew.bat
+A	admob/NativeExample/settings.gradle
+M	doubleclick/BannerExample/.google/packaging.yaml
+M	doubleclick/BannerExample/README.md
+M	doubleclick/InterstitialExample/.google/packaging.yaml
+M	doubleclick/InterstitialExample/README.md
+A	doubleclick/NativeExample/.gitignore
+A	doubleclick/NativeExample/.google/packaging.yaml
+A	doubleclick/NativeExample/LICENSE
+A	doubleclick/NativeExample/README.md
+A	doubleclick/NativeExample/app/.gitignore
+A	doubleclick/NativeExample/app/build.gradle
+A	doubleclick/NativeExample/app/proguard-rules.pro
+A	doubleclick/NativeExample/app/src/main/AndroidManifest.xml
+A	doubleclick/NativeExample/app/src/main/java/com/google/example/gms/nativeexample/MainActivity.java
+A	doubleclick/NativeExample/app/src/main/res/layout/activity_main.xml
+A	doubleclick/NativeExample/app/src/main/res/layout/ad_app_install.xml
+A	doubleclick/NativeExample/app/src/main/res/layout/ad_content.xml
+A	doubleclick/NativeExample/app/src/main/res/layout/ad_simple_custom_template.xml
+A	doubleclick/NativeExample/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	doubleclick/NativeExample/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	doubleclick/NativeExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	doubleclick/NativeExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	doubleclick/NativeExample/app/src/main/res/values-w820dp/dimens.xml
+A	doubleclick/NativeExample/app/src/main/res/values/dimens.xml
+A	doubleclick/NativeExample/app/src/main/res/values/strings.xml
+A	doubleclick/NativeExample/app/src/main/res/values/styles.xml
+A	doubleclick/NativeExample/build.gradle
+A	doubleclick/NativeExample/gradle.properties
+A	doubleclick/NativeExample/gradle/wrapper/gradle-wrapper.jar
+A	doubleclick/NativeExample/gradle/wrapper/gradle-wrapper.properties
+A	doubleclick/NativeExample/gradlew
+A	doubleclick/NativeExample/gradlew.bat
+A	doubleclick/NativeExample/settings.gradle
+
+258170a;Lints the README files
+M	admob/BannerExample/README.md
+M	admob/InterstitialExample/README.md
+M	doubleclick/BannerExample/README.md
+M	doubleclick/InterstitialExample/README.md
+
+3b14adc;Updates README files and package metadata
+M	admob/BannerExample/.google/packaging.yaml
+M	admob/BannerExample/README.md
+M	admob/InterstitialExample/.google/packaging.yaml
+M	admob/InterstitialExample/README.md
+M	doubleclick/BannerExample/.google/packaging.yaml
+M	doubleclick/BannerExample/README.md
+M	doubleclick/InterstitialExample/.google/packaging.yaml
+M	doubleclick/InterstitialExample/README.md
+
+7593ea5;Merge pull request #1 from tjohns/master
+3597e66;Move packaging.yaml files to .google dir
+R100	admob/BannerExample/packaging.yaml	admob/BannerExample/.google/packaging.yaml
+R100	admob/InterstitialExample/packaging.yaml	admob/InterstitialExample/.google/packaging.yaml
+R100	doubleclick/BannerExample/packaging.yaml	doubleclick/BannerExample/.google/packaging.yaml
+R100	doubleclick/InterstitialExample/packaging.yaml	doubleclick/InterstitialExample/.google/packaging.yaml
+
+87fa049;Adds new license headers and updates README
+M	README.md
+M	admob/BannerExample/app/proguard-rules.pro
+M	admob/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+D	admob/BannerExample/gradle.properties
+M	admob/InterstitialExample/app/proguard-rules.pro
+M	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+M	doubleclick/BannerExample/app/proguard-rules.pro
+M	doubleclick/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+M	doubleclick/InterstitialExample/app/proguard-rules.pro
+M	doubleclick/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+
+a264e44;First commit
+A	LICENSE
+A	README.md
+A	admob/BannerExample/LICENSE
+A	admob/BannerExample/README.md
+A	admob/BannerExample/app/build.gradle
+A	admob/BannerExample/app/proguard-rules.pro
+A	admob/BannerExample/app/src/main/AndroidManifest.xml
+A	admob/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+A	admob/BannerExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	admob/BannerExample/app/src/main/res/layout/activity_my.xml
+A	admob/BannerExample/app/src/main/res/menu/my.xml
+A	admob/BannerExample/app/src/main/res/values-w820dp/dimens.xml
+A	admob/BannerExample/app/src/main/res/values/dimens.xml
+A	admob/BannerExample/app/src/main/res/values/strings.xml
+A	admob/BannerExample/app/src/main/res/values/styles.xml
+A	admob/BannerExample/build.gradle
+A	admob/BannerExample/gradle.properties
+A	admob/BannerExample/gradle/wrapper/gradle-wrapper.jar
+A	admob/BannerExample/gradle/wrapper/gradle-wrapper.properties
+A	admob/BannerExample/gradlew
+A	admob/BannerExample/gradlew.bat
+A	admob/BannerExample/packaging.yaml
+A	admob/BannerExample/settings.gradle
+A	admob/InterstitialExample/LICENSE
+A	admob/InterstitialExample/README.md
+A	admob/InterstitialExample/app/build.gradle
+A	admob/InterstitialExample/app/proguard-rules.pro
+A	admob/InterstitialExample/app/src/main/AndroidManifest.xml
+A	admob/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+A	admob/InterstitialExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	admob/InterstitialExample/app/src/main/res/layout/activity_my.xml
+A	admob/InterstitialExample/app/src/main/res/menu/my.xml
+A	admob/InterstitialExample/app/src/main/res/values-w820dp/dimens.xml
+A	admob/InterstitialExample/app/src/main/res/values/dimens.xml
+A	admob/InterstitialExample/app/src/main/res/values/strings.xml
+A	admob/InterstitialExample/app/src/main/res/values/styles.xml
+A	admob/InterstitialExample/build.gradle
+A	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.jar
+A	admob/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+A	admob/InterstitialExample/gradlew
+A	admob/InterstitialExample/gradlew.bat
+A	admob/InterstitialExample/packaging.yaml
+A	admob/InterstitialExample/settings.gradle
+A	doubleclick/BannerExample/LICENSE
+A	doubleclick/BannerExample/README.md
+A	doubleclick/BannerExample/app/build.gradle
+A	doubleclick/BannerExample/app/proguard-rules.pro
+A	doubleclick/BannerExample/app/src/main/AndroidManifest.xml
+A	doubleclick/BannerExample/app/src/main/java/com/google/android/gms/example/bannerexample/MyActivity.java
+A	doubleclick/BannerExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	doubleclick/BannerExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	doubleclick/BannerExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	doubleclick/BannerExample/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	doubleclick/BannerExample/app/src/main/res/layout/activity_my.xml
+A	doubleclick/BannerExample/app/src/main/res/menu/my.xml
+A	doubleclick/BannerExample/app/src/main/res/values-w820dp/dimens.xml
+A	doubleclick/BannerExample/app/src/main/res/values/dimens.xml
+A	doubleclick/BannerExample/app/src/main/res/values/strings.xml
+A	doubleclick/BannerExample/app/src/main/res/values/styles.xml
+A	doubleclick/BannerExample/build.gradle
+A	doubleclick/BannerExample/gradle/wrapper/gradle-wrapper.jar
+A	doubleclick/BannerExample/gradle/wrapper/gradle-wrapper.properties
+A	doubleclick/BannerExample/gradlew
+A	doubleclick/BannerExample/gradlew.bat
+A	doubleclick/BannerExample/packaging.yaml
+A	doubleclick/BannerExample/settings.gradle
+A	doubleclick/InterstitialExample/LICENSE
+A	doubleclick/InterstitialExample/README.md
+A	doubleclick/InterstitialExample/app/build.gradle
+A	doubleclick/InterstitialExample/app/proguard-rules.pro
+A	doubleclick/InterstitialExample/app/src/main/AndroidManifest.xml
+A	doubleclick/InterstitialExample/app/src/main/java/com/google/android/gms/example/interstitialexample/MyActivity.java
+A	doubleclick/InterstitialExample/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	doubleclick/InterstitialExample/app/src/main/res/layout/activity_my.xml
+A	doubleclick/InterstitialExample/app/src/main/res/menu/my.xml
+A	doubleclick/InterstitialExample/app/src/main/res/values-w820dp/dimens.xml
+A	doubleclick/InterstitialExample/app/src/main/res/values/dimens.xml
+A	doubleclick/InterstitialExample/app/src/main/res/values/strings.xml
+A	doubleclick/InterstitialExample/app/src/main/res/values/styles.xml
+A	doubleclick/InterstitialExample/build.gradle
+A	doubleclick/InterstitialExample/gradle/wrapper/gradle-wrapper.jar
+A	doubleclick/InterstitialExample/gradle/wrapper/gradle-wrapper.properties
+A	doubleclick/InterstitialExample/gradlew
+A	doubleclick/InterstitialExample/gradlew.bat
+A	doubleclick/InterstitialExample/packaging.yaml
+A	doubleclick/InterstitialExample/settings.gradle
+A	icons/admob_icon.png
+A	icons/doubleclick_icon.png

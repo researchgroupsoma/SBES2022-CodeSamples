@@ -1,0 +1,1630 @@
+f7f2acb;Removing JsonPath dependency from build.gradle and pom.xml from 'complete'
+M	complete/build.gradle
+M	complete/pom.xml
+
+4a7daf2;Remove jsonpath dependency which it's unnecessary since the newer versions use Jackon by default
+M	README.adoc
+
+57a9d9b;Clarify Jackson dependency is optional
+M	README.adoc
+
+3d91e75;Fix NOTE: format
+M	README.adoc
+
+a14173c;Patch up merge conflict
+M	initial/pom.xml
+
+f1a5c3c;Upgraded to Spring Boot 2.2
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	complete/pom.xml
+M	complete/src/test/java/com/example/restservice/GreetingControllerTests.java
+M	images/initializr.png
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+M	initial/pom.xml
+M	initial/src/test/java/com/example/restservice/RestServiceApplicationTests.java
+
+acd0d5a;Use the Spring Initializr
+M	.gitignore
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+A	complete/settings.gradle
+R088	complete/src/main/java/hello/Greeting.java	complete/src/main/java/com/example/restservice/Greeting.java
+R094	complete/src/main/java/hello/GreetingController.java	complete/src/main/java/com/example/restservice/GreetingController.java
+A	complete/src/main/java/com/example/restservice/RestServiceApplication.java
+R098	complete/src/test/java/hello/GreetingControllerTests.java	complete/src/test/java/com/example/restservice/GreetingControllerTests.java
+A	images/initializr.png
+M	initial/build.gradle
+M	initial/pom.xml
+A	initial/settings.gradle
+R059	complete/src/main/java/hello/Application.java	initial/src/main/java/com/example/restservice/RestServiceApplication.java
+D	initial/src/main/java/hello/.gitignore
+A	initial/src/main/resources/application.properties
+A	initial/src/test/java/com/example/restservice/RestServiceApplicationTests.java
+
+92d0526;Use @GetMapping instead of @RequestMapping
+M	README.adoc
+M	complete/src/main/java/hello/GreetingController.java
+
+6a49f7a;Fix broken Jackson link
+M	README.adoc
+
+75caff1;Switch to tabs, and adjust tabsizing in asciidoctor.
+M	README.adoc
+M	complete/src/main/java/hello/Application.java
+M	complete/src/main/java/hello/Greeting.java
+M	complete/src/main/java/hello/GreetingController.java
+M	complete/src/test/java/hello/GreetingControllerTests.java
+
+9cd1408;Upgrade to Spring Boot 2.2.1.RELEASE.
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+254e639;Upgrade to Gradle 4.10.3.
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+9afe00e;Change Greeting application URL reference in code block to literal block.
+M	README.adoc
+
+0c29214;Updated to @OpenJDK.
+M	.travis.yml
+
+bcfa3be;Upgrade to Spring Boot 2.1.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+5fea980;Fix "Push to PWS" metadata
+M	push-to-pws/button.yml
+
+69fa407;Prepare Push to cfapps.io integration
+A	push-to-pws/button.yml
+D	run-on-pws.json
+
+c5e8323;Upgrade to Spring Boot 2.1.4.RELEASE.
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b07148d;URL Cleanup (#95)
+M	LICENSE.code.txt
+M	complete/src/test/java/hello/GreetingControllerTests.java
+
+2acf9ec;URL Cleanup (#94)
+M	LICENSE.writing.txt
+M	README.adoc
+
+1ff4fcc;Upgrade to Spring Boot 2.1.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+533b7a7;Upgrade to Spring Boot 2.0.8.RELEASE.
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3849fe3;Merge pull request #93 from spring-operator/polish-urls-xml-master
+d4ed6e6;URL Cleanup
+M	complete/pom.xml
+M	initial/pom.xml
+
+7e7a168;URL Cleanup (#92)
+M	complete/mvnw
+M	complete/mvnw.cmd
+M	initial/mvnw
+M	initial/mvnw.cmd
+
+b1415c0;Clean up repositories.
+M	complete/pom.xml
+M	initial/pom.xml
+
+e61caa9;Update README.adoc (#86)
+M	README.adoc
+
+82463c2;Update dead link for Jackson JSON
+M	README.adoc
+
+4d4c7bd;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+35e9bb9;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a1b292b;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d930b89;Upgrade to Spring Boot 2.0.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+73ccf7e;Remove front matter
+M	README.adoc
+
+330efd7;Fixes a wrong indication in the readme
+M	README.adoc
+
+00e8e46;Replace jar gradle task with bootJar task
+M	complete/build.gradle
+M	initial/build.gradle
+
+2bd6957;Polish guide to reference 2.0.0.RELEASE
+M	README.adoc
+
+fcab040;Upgrade to Spring Boot 2.0.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+abcc9f5;Upgrade to Gradle 4.6
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+06de904;Upgrade to Spring Boot 1.5.10.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d3a3d4d;Upgrade to Spring Boot 1.5.9.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+827b0de;Upgrade to Spring Boot 1.5.8.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+227e5f0;Upgrade to Spring Boot 1.5.7.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+92113c2;Added See Also links (#66)
+M	README.adoc
+
+1ed8149;Upgrade to Spring Boot 1.5.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+fb6ae95;Upgrade to Spring Boot 1.5.5.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0398a33;Upgrade to Spring Boot 1.5.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+de1507c;Upgrade to Spring Boot 1.5.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+56d74e6;Upgrade to Spring Boot 1.5.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c06db28;Upgrade to Spring Boot 1.5.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+2685f1e;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+5af160c;Upgrade to Spring Boot 1.4.4.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0a52469;Upgrade to Spring Boot 1.4.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c7eb27e;Upgrade plugin from spring-boot to o.s.boot
+M	complete/build.gradle
+M	initial/build.gradle
+
+ba00636;Upgrade to Spring Boot 1.4.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+457d20a;Upgrade to Spring Boot 1.4.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+c29a1de;Correct description of required attribute in @RequestParam
+M	README.adoc
+
+1f1b5bf;Upgrade to gradle 2.13
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+
+048783a;Add macro for @SpringBootApplication
+M	README.adoc
+
+20cfc3e;Update to Spring Boot 1.4 features
+M	complete/src/test/java/hello/GreetingControllerTests.java
+
+d56b06a;Upgrade to @SpringBoot 1.4.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d05e89d;Upgrade to Spring Boot 1.3.7.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e5aee3f;Upgrade to Spring Boot 1.3.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4e8575c;Add maven wrapper
+A	complete/.mvn/wrapper/maven-wrapper.jar
+A	complete/.mvn/wrapper/maven-wrapper.properties
+A	complete/mvnw
+A	complete/mvnw.cmd
+A	initial/.mvn/wrapper/maven-wrapper.jar
+A	initial/.mvn/wrapper/maven-wrapper.properties
+A	initial/mvnw
+A	initial/mvnw.cmd
+
+ba7f6d9;Add CONTRIBUTING doc
+A	CONTRIBUTING.adoc
+
+f3b19be;Include JSON Path test dep in gradle build
+M	complete/build.gradle
+
+cae5359;Disable AWS publishing due to invalid key
+M	test/run.sh
+
+e4c7268;Remove inline image and use just link
+M	README.adoc
+
+ff34f35;Adjust the location of the link to be GH only
+M	README.adoc
+
+a042ec1;Replace curl-based test with Spring Mock MVC
+M	complete/build.gradle
+M	complete/pom.xml
+A	complete/src/test/java/hello/GreetingControllerTests.java
+M	initial/build.gradle
+M	initial/pom.xml
+D	test/expected.json
+M	test/run.sh
+
+24f4981;Update README.adoc
+M	README.adoc
+
+da0f63e;including link
+M	README.adoc
+
+2f9f073;Add extra link to point out codenvy option
+M	README.adoc
+
+de1c81b;Merge pull request #44 from benoitf/patch-1
+2013518;Add link to execute the process in a browser IDE (Codenvy)
+M	README.adoc
+
+2cda7bc;Upgrade to Spring Boot 1.3.5.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d94f34d;Upgrade to Spring Boot 1.3.4.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+12ac8e6;Upgrade to Spring Boot 1.3.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e12a578;Migrate to container-based infrastructure
+M	.travis.yml
+
+95a5692;Upgrade to Spring Boot 1.3.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0edc8e5;Upgrade to Spring Boot 1.3.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+bb00b52;Merge pull request #39 from bclozel/pws
+581f222;Enable PWS deployment
+M	.travis.yml
+
+49ca5a4;Prepare guide for "depoy on PWS" feature
+A	run-on-pws.json
+M	test/run.sh
+
+3df6963;Increase available memory in Cloud Foundry
+M	complete/manifest.yml
+
+523b29d;Clarify required=false
+M	README.adoc
+
+5849da6;Upgrade to Spring Boot 1.3.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+57a5012;Merge pull request #35 from gberaudo/typo
+90dda8d;Fix typo
+M	README.adoc
+
+f627e05;Upgraded to Spring Boot 1.2.7.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+30c4737;Upgrade to Spring Boot 1.2.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a3086c2;Merge pull request #34 from razordaze/patch-1
+6006e33;RestController Annotation Typo
+M	README.adoc
+
+5519daf;Update README.adoc
+M	README.adoc
+
+c4888cf;Add footer
+M	README.adoc
+
+909e1e0;Update PWS manifest
+A	complete/manifest.yml
+
+a02413e;Upgrade to Spring Boot 1.2.5.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+689068b;Fix slack notifications
+M	.travis.yml
+
+1b50461;Travis caching removed
+M	.travis.yml
+
+e3c33be;Add travis caching
+M	.travis.yml
+
+6459cad;Activate travis
+A	.travis.yml
+
+5e2176f;Upgrade to Java 8
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+449099a;Upgrade to Spring Boot 1.2.4
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8609022;Upgrade to Spring Boot 1.2.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4feb3e8;Fix gradle build file to declare proper version of Java
+M	complete/build.gradle
+M	initial/build.gradle
+
+143e1b4;Upgrade guide to indicate requirement for Java 7
+M	README.adoc
+
+f9196f3;Upgrade maven build to Java 7
+M	complete/pom.xml
+M	initial/pom.xml
+
+7a75552;Upgrade to Gradle 2.3
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+3ff7ce4;Upgrade to Spring Boot 1.2.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+889fe50;Remove mavenLocal and libs-release from gradle build
+M	complete/build.gradle
+M	initial/build.gradle
+
+68fa6e9;Upgrade to @SpringBootApplication
+M	.gitignore
+M	README.adoc
+M	complete/src/main/java/hello/Application.java
+
+9273368;Upgrade to Spring Boot 1.2.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+92403fe;Remove legacy start-class property from maven builds
+M	complete/pom.xml
+M	initial/pom.xml
+
+de4e78c;Upgrade to Spring Boot 1.1.10.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+89cd08a;Convert to use https for repositories
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ab98483;Upgrade to Spring Boot 1.1.9.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+36fea05;Remove redundant required=false
+M	complete/src/main/java/hello/GreetingController.java
+
+6dd0e7f;Upgrade to Spring Boot 1.1.8.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ae95574;Remove redudant 'run the service' macro
+M	README.adoc
+
+fa1e043;Upgrade to Spring Boot 1.1.7.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+24679da;Upgrade to Spring Boot 1.1.6.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8dbde46;Enable hiding/showing build steps
+M	README.adoc
+
+68f204e;Update to Spring Boot 1.1.5.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ebdd2ae;Update to Spring Boot 1.1.4.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+1a08d99;Update to Spring Boot 1.1.3.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6571bac;Upgrade to Spring Boot 1.1.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8c0dbb1;Typo
+M	README.adoc
+
+68c254e;Clean up text based on RestController
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+97f4d02;Upgrade from @Controller/@ResponseBody to @RestController
+M	complete/src/main/java/hello/GreetingController.java
+
+4d9909d;Upgrade to Spring Boot 1.1.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+39be78e;Replace repo.spring.io/release with repo.spring.io/libs-release
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8e50a98;Upgrade to Spring Boot 1.1.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+2d967d5;Update path to macro content
+M	README.adoc
+
+b6d1b09;Upgrade to Spring Boot 1.0.2.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ae58c99;Upgrade to Spring Boot 1.0.1.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7a3b0f5;Upgrade to Spring Boot 1.0.0.RELEASE
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8d1ef64;Upgrade to Spring Boot 1.0.0.RC5
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+a7d68be;Upgrade to Spring Boot 1.0.0.RC4
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+dc90f09;Convert to mvn compile for initial codeset
+M	test/run.sh
+
+ce1440f;Replace initial gradle build with compileJava
+M	test/run.sh
+
+488b5d4;Move final build file to the beginning and update guides to reflect this
+M	README.adoc
+M	initial/build.gradle
+M	initial/pom.xml
+
+5e3093a;Remove version number from Spring Boot starters
+M	complete/build.gradle
+M	initial/build.gradle
+
+5f84fb1;Upgrade from 3.2.4.RELEASE to current for Spring javadocs
+M	README.adoc
+
+6f8ca59;Clean up guides to link to proper javadoc pages and include code instead of use pasted copies
+M	README.adoc
+
+d8abd12;Upgrade to Spring Boot 1.0.0.RC3
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d992c17;Upgrade to Spring Boot 1.0.0.RC2
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+1107e1a;Upgrade to gradle 1.11
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+94b9aa5;Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+b09fa24;Remove old SIDEBAR files
+D	SIDEBAR.ftl.md
+D	SIDEBAR.md
+
+15fea01;Initial cut of tag and project metadata
+M	README.adoc
+
+02fbbee;Remove double slashes from includes
+M	README.adoc
+
+5244889;Parameterize spring_version in the README for javadoc links
+M	README.adoc
+
+b04e5f2;Fix javadoc links Spring 4
+M	README.adoc
+
+235fc21;Add table of contents
+M	README.adoc
+
+588bd22;No longer need to move up a dir for build.gradle
+M	README.adoc
+
+154b265;Make some edits and update macro system
+M	.gitignore
+M	README.adoc
+D	macros/bootstrap_starter_pom_disclaimer.asc
+D	macros/build_an_executable_jar_mainhead.asc
+D	macros/build_an_executable_jar_subhead.asc
+D	macros/build_an_executable_jar_with_both.asc
+D	macros/build_system_intro.asc
+D	macros/create_both_builds.asc
+D	macros/create_directory_structure_hello.asc
+D	macros/how_to_complete_this_guide.asc
+D	macros/prereq_editor_jdk_buildtools.asc
+D	macros/run_the_application_with_both.asc
+D	macros/run_the_utility.asc
+
+8f89ea3;Merge pull request #16 from gregturn/master
+28baf63;Convert guide to asciidoctor
+R096	README.frontmatter	README.adoc
+D	README.disable_asc
+D	README.ftl.md
+D	README.md
+A	macros/build_an_executable_jar_mainhead.asc
+M	macros/build_an_executable_jar_with_both.asc
+M	macros/create_both_builds.asc
+M	macros/prereq_editor_jdk_buildtools.asc
+M	macros/run_the_application_with_both.asc
+A	macros/run_the_utility.asc
+
+5f4ff19;Fixed macro so it mentions M6
+M	README.md
+
+5629808;Resolves #15: Upgrade to Spring Boot 0.5.0.M6 to fix gradle build issue
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4489945;Test frontmatter support
+A	README.frontmatter
+
+9d21d22;Try prettify
+M	README.disable_asc
+
+6c71fbe;Switch to coderay
+M	README.disable_asc
+
+8a76ac8;Swap highlightjs with pygments
+M	README.disable_asc
+
+385c8f2;Add title in front of source code includes
+M	README.disable_asc
+M	macros/create_both_builds.asc
+
+d52f147;Take asciidoc offline
+R100	README.asc	README.disable_asc
+
+53f75f9;Add syntax highlighting
+M	README.asc
+
+fc1d047;Turn on fonts
+M	README.asc
+
+dda54ac;Merge branch 'master' of github.com:spring-guides/getting-started-macros
+fa5ad69;Add blank line before :linkattrs:
+M	macros/build_an_executable_jar_with_both.asc
+M	macros/build_system_intro.asc
+M	macros/prereq_editor_jdk_buildtools.asc
+
+5834369;Move extra line into macro
+M	README.asc
+M	macros/prereq_editor_jdk_buildtools.asc
+
+9fecf6b;Add space before macro inclusion
+M	README.asc
+M	macros/prereq_editor_jdk_buildtools.asc
+
+250bee0;Move :linkattrs: at the top
+M	macros/prereq_editor_jdk_buildtools.asc
+
+30f095e;Edit prereq macro and also remove link:http:
+M	README.asc
+M	macros/prereq_editor_jdk_buildtools.asc
+
+71599e8;Merge branch 'master' of github.com:spring-guides/getting-started-macros
+11451db;First asciidoc cut of gs-rest-service
+A	README.asc
+
+ce9e0b5;Fix create-both-builds macro
+M	macros/create_both_builds.asc
+
+86e42d4;Merge branch 'master' of github.com:spring-guides/getting-started-macros
+d7116e8;Initial commit of macros
+A	macros/bootstrap_starter_pom_disclaimer.asc
+A	macros/build_an_executable_jar_subhead.asc
+A	macros/build_an_executable_jar_with_both.asc
+A	macros/build_system_intro.asc
+A	macros/create_both_builds.asc
+A	macros/create_directory_structure_hello.asc
+A	macros/how_to_complete_this_guide.asc
+A	macros/prereq_editor_jdk_buildtools.asc
+A	macros/run_the_application_with_both.asc
+
+e1eaae8;Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+M	README.md
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/pom.xml
+
+65f02d9;Upgrade guide to use Gradle 1.8
+M	README.md
+M	complete/build.gradle
+M	initial/build.gradle
+
+d1571e0;Update a macro so that it properly uses spring.io
+M	README.md
+
+497c3c6;Replace repo.springsource.org with repo.spring.io
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+8a2a1d6;Upgrade to Spring Boot 0.5.0.M4
+M	README.ftl.md
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+5603266;Replace 'Spring Boot starter POM' with Spring Boot
+M	README.md
+
+6c01e91;Replace static.springsource.org with docs.spring.io
+M	README.ftl.md
+M	README.md
+
+20b3fbf;Rebuild sidebar
+M	SIDEBAR.md
+
+8782354;Rename tut-web in sidebar
+M	SIDEBAR.ftl.md
+
+fb7128b;Add tut-web to sidebar
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+a4be033;Upgrade Spring Boot javadocs to docs.spring.io
+M	README.ftl.md
+M	README.md
+
+f45d047;Upgrade to Spring Boot 0.5.0.M2
+M	README.ftl.md
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e52132b;Rollback experiment
+M	README.md
+
+07c767a;Experiment
+M	README.md
+
+972848e;Experiment
+M	README.md
+
+92068d8;Experiment
+M	README.md
+
+377e8ea;Experiment
+M	README.md
+
+b93a0b0;Experiment
+M	README.md
+
+1f25f8c;Experiment
+M	README.md
+
+55c9b88;Update guide to include like to gs-sts
+M	README.md
+
+a703fe0;Rename spring{framework-meta => -guides}
+M	README.md
+
+6d3b044;Convert guide to display both Gradle and Maven info
+M	README.ftl.md
+M	README.md
+
+6518c3d;Update SIDEBAR from edits
+M	SIDEBAR.md
+
+5875197;Merge pull request #13 from btalbott/master
+520d543;Make final edits
+M	SIDEBAR.ftl.md
+
+09b6ede;Add parameters for generating doc links
+M	README.ftl.md
+M	README.md
+
+18ef437;Apply http://creativecommons.org/licenses/by-nd/3.0/ to written work in this repo
+A	LICENSE.writing.txt
+
+d809905;Add ASLv2 license for the code in this repo
+A	LICENSE.code.txt
+
+cff9471;Clarify mods to buildscript section
+M	README.md
+
+ae382bc;Clean up gradle build steps
+M	README.md
+
+e22191c;Convert guide to gradle
+M	README.ftl.md
+M	README.md
+M	initial/build.gradle
+
+488d99b;Fix sidebars based on @beverleytalbott 's feedback on several pull requests
+M	SIDEBAR.ftl.md
+M	SIDEBAR.md
+
+0c75e83;Fix sidebar links
+M	SIDEBAR.md
+
+fd067c9;Use proper name of Git
+M	README.md
+
+0925b0f;Fix links for /undestanding/Git
+M	README.md
+
+f2682c7;Update README with edits
+M	README.md
+
+eba6644;Merge pull request #12 from btalbott/master
+ca7a329;Replace understanding docs with macros
+M	SIDEBAR.ftl.md
+A	SIDEBAR.md
+
+64c5991;Move SIDEBAR into a template file
+R100	SIDEBAR.md	SIDEBAR.ftl.md
+
+3752971;Fix understanding links
+M	README.md
+
+6a452c3;Replace understanding guide links at bototm with macros
+M	README.ftl.md
+M	README.md
+
+8ce6ca5;Make final edits.
+M	README.ftl.md
+M	SIDEBAR.md
+
+87a65d3;Add sidebar links to u-view-templates
+M	SIDEBAR.md
+
+985257d;Fix links for u-view-templates
+M	README.ftl.md
+M	README.md
+
+a213129;Replace Tutorial TBD with REST tutorial
+M	SIDEBAR.md
+
+9eabc67;Fix link to spring-boot-maven-plugin
+M	README.md
+
+4d12172;Capitalize /understanding/{subject} as approprite
+M	README.ftl.md
+M	README.md
+M	SIDEBAR.md
+
+d9a6e9a;Fix maven-compiler-plugin to version 2.3.2
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+84beb57;Upgrade to Gradle 1.7
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+7236c63;Add intro sentence
+M	README.ftl.md
+M	README.md
+
+2899952;Replace /content with / in GSG links
+M	README.md
+
+86df984;Replace /content with / in GSG links
+M	SIDEBAR.md
+
+876358e;Update run.sh
+M	test/run.sh
+
+ab88e86;Polish whitespace in sidebar
+M	SIDEBAR.md
+
+8ce72bc;Polish whitespace in sidebar
+M	SIDEBAR.md
+
+6af3e87;Polish whitespace in sidebar
+683f87f;Use libs-snapshot instead of snapshot
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+6c697d3;Remove 'TODO' from pom.xml and rebuild guide
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+ae90f89;Polish whitespace in gs-rest-service
+M	README.md
+
+4fc8405;Add gradle support
+M	.gitignore
+A	complete/build.gradle
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+A	complete/gradlew
+A	complete/gradlew.bat
+A	initial/build.gradle
+A	initial/gradle/wrapper/gradle-wrapper.jar
+A	initial/gradle/wrapper/gradle-wrapper.properties
+A	initial/gradlew
+A	initial/gradlew.bat
+
+1aa37a7;Edit guide to properly use spring-boot:run
+M	README.ftl.md
+M	README.md
+
+8eacee4;Convert spring-boot-up to spring-boot-starter
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+edf501c;Upgrade to Spring Boot
+M	README.md
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	initial/pom.xml
+
+e66c075;Increase sleep time to make sure rest service is up
+M	test/run.sh
+
+88b854c;Even more description of expected vs. actual
+M	test/run.sh
+
+a2d7beb;Add more logging to deduce CI problem
+M	test/run.sh
+
+f940e12;Add cleaning step to test run
+M	test/run.sh
+
+7431b72;Conflict resolution
+M	README.md
+
+a3f2068;Merge branch 'master' of github.com:springframework-meta/gs-rest-service
+6f0b747;Patch drone test runner
+M	test/run.sh
+
+b01fe21;Remove title from README.ftl.md
+M	README.ftl.md
+
+b5352e0;Remove title from README.md
+M	README.md
+
+d01a59d;Update README to use code fencing
+M	README.ftl.md
+M	README.md
+
+1036bc5;Convert to spring-package-maven-plugin and Spring Zero
+M	README.md
+M	complete/pom.xml
+M	complete/src/main/java/hello/Application.java
+M	initial/pom.xml
+
+f32c899;Fixed typo in macro
+M	README.md
+
+62e30c9;Regenerate guide based on macro updates from @btalbott
+M	README.md
+
+3d06699;Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+M	README.md
+M	complete/pom.xml
+
+86f8885;Typo in macro. Regenerate guides
+M	README.md
+
+3e25185;Update build_the_application macros to link in gs-convert-jar-to-war
+M	README.md
+
+c8187fe;Edited macros.md to only render only level for build_an_application
+M	README.md
+
+b96db16;Regenerate README.md based on updates
+A	README.md
+
+8af9c86;Merge pull request #11 from btalbott/master
+e6c8f4f;Revise list of GS guides to match titles.
+M	SIDEBAR.md
+
+2e654a5;Add new macro, revise sidebar.
+M	README.ftl.md
+M	SIDEBAR.md
+
+870070c;Remove files
+7da8f7e;Renegerate guides based on updated macros.md
+M	README.md
+
+cc26d4a;Delete old README.src.md
+D	README.src.md
+
+d4bf3e2;Regenerate guides based on update to macros.md
+M	README.md
+
+b90b17f;Delete old README.md to resolve conflict
+2ae136d;Adjust capitalization in sidebar
+M	SIDEBAR.md
+
+39c1379;Fix broken sidebar link
+M	SIDEBAR.md
+
+5cc07de;Update sidebar
+M	SIDEBAR.md
+
+88ab700;Revise fpp using new macros
+M	README.ftl.md
+M	README.md
+
+f813813;Update README to use macros
+M	README.ftl.md
+M	README.md
+
+e5260a9;Edit, comment on README.ftl.md and SIDEBAR.md
+M	README.ftl.md
+M	SIDEBAR.md
+
+fdf18d9;resolve conflicts with readme.md
+478e481;Update SIDEBAR.md
+M	SIDEBAR.md
+
+379c64b;Update README.md as processed by fpp 0.2.0
+M	README.md
+
+9620215;Update sidebar
+M	SIDEBAR.md
+
+4fa4d53;resolving conflict
+d4f85b7;Update macro declarations with leading markdown
+M	README.ftl.md
+M	README.md
+
+d17b250;Include sidebar content as separate file
+M	README.ftl.md
+A	SIDEBAR.md
+
+c751883;Added markdown snippet for sidebar content
+M	README.ftl.md
+
+bec634c;Add README.ftl.md
+A	README.ftl.md
+
+a7ae993;fix conflict
+47d53af;Remove include of maven-project-setup-options
+M	README.md
+M	README.src.md
+
+3b347b0;fixed conflict
+7cd24ea;Generate README.md files from README.src.md
+M	README.md
+A	README.src.md
+
+5ccf877;Refactor to new {!include} syntax
+M	README.md
+
+56aa1a0;Precede code with text, per guidelines
+M	README.md
+
+b4d39a1;correct heading level for Set up the project
+M	README.md
+
+0545ed2;Version all GS guides at 0.1.0 per http://semver.org
+M	test/run.sh
+
+133bdac;Version all GS guides at 0.1.0 per http://semver.org
+M	README.md
+M	complete/pom.xml
+M	initial/pom.xml
+
+18f652c;Update to use new {!snippet:...} syntax
+M	README.md
+
+0b189ee;Factor out additional macros
+M	README.md
+
+dbc9a41;Link to gs-consuming-rest
+M	README.md
+
+9b338b0;Revise edits
+M	README.md
+
+a099557;Edit instructions
+M	README.md
+
+5c9477b;Rename ServiceMain=>Application
+M	README.md
+M	complete/pom.xml
+R078	complete/src/main/java/hello/ServiceMain.java	complete/src/main/java/hello/Application.java
+
+a8b3402;Update README.md
+M	README.md
+
+df1be38;Generalize instructions on creating dir structure
+M	README.md
+
+f103b17;Edit content and style
+M	README.md
+D	complete/build.gradle
+D	complete/gradle/wrapper/gradle-wrapper.jar
+D	complete/gradle/wrapper/gradle-wrapper.properties
+D	complete/gradlew
+D	complete/gradlew.bat
+M	complete/pom.xml
+D	complete/settings.gradle
+M	complete/src/main/java/hello/Greeting.java
+A	complete/src/main/java/hello/GreetingController.java
+D	complete/src/main/java/hello/HelloWorldConfiguration.java
+D	complete/src/main/java/hello/HelloWorldController.java
+A	complete/src/main/java/hello/ServiceMain.java
+D	initial/build.gradle
+D	initial/gradle/wrapper/gradle-wrapper.jar
+D	initial/gradle/wrapper/gradle-wrapper.properties
+D	initial/gradlew
+D	initial/gradlew.bat
+M	initial/pom.xml
+D	initial/settings.gradle
+A	initial/src/main/java/hello/.gitignore
+D	initial/src/main/java/hello/HelloWorldConfiguration.java
+M	test/run.sh
+
+72c4941;Work around localhost link problem with <link> syntax
+M	README.md
+
+82387a6;Work around limitations of GH Markdown auto-linking
+M	README.md
+
+8a1c0f3;Try GitHub-flavored Markdown "auto-linking"
+M	README.md
+
+5766ad2;Add instructions to test the service
+M	README.md
+
+bf9a887;Extract common copy into macros
+M	README.md
+
+7ad616d;Edit README.md
+M	README.md
+
+3811ac2;Apply initial editing feedback
+M	README.md
+
+4e314e8;Edit README and update test script
+M	.gitignore
+M	README.md
+M	test/run.sh
+
+8cc595e;Drop -SNAPSHOT from artifact versioning
+M	complete/pom.xml
+M	initial/pom.xml
+
+3c52c42;Introduce test for CI
+M	README.md
+M	complete/pom.xml
+M	complete/src/main/java/hello/HelloWorldController.java
+M	initial/pom.xml
+A	test/expected.json
+A	test/run.sh
+
+1bb6c20;Remove subdir .gitignore in favor of parent
+D	complete/.gitignore
+D	initial/.gitignore
+
+49574d6;Rename start => initial
+R100	start/.gitignore	initial/.gitignore
+R100	start/build.gradle	initial/build.gradle
+R100	start/gradle/wrapper/gradle-wrapper.jar	initial/gradle/wrapper/gradle-wrapper.jar
+R100	start/gradle/wrapper/gradle-wrapper.properties	initial/gradle/wrapper/gradle-wrapper.properties
+R100	start/gradlew	initial/gradlew
+R100	start/gradlew.bat	initial/gradlew.bat
+R100	start/pom.xml	initial/pom.xml
+R100	start/settings.gradle	initial/settings.gradle
+R100	start/src/main/java/hello/HelloWorldConfiguration.java	initial/src/main/java/hello/HelloWorldConfiguration.java
+
+3d91b29;Edit README.md
+M	.gitignore
+M	README.md
+
+6990e39;Merge pull request #4 from dsyer/feature/gradle
+2533f1d;Fix gradle build dependencies
+M	complete/build.gradle
+M	complete/pom.xml
+M	start/build.gradle
+
+c9b1aa8;Fixed some small issues that made the 'start' version not runnable at the end.
+M	README.md
+M	start/pom.xml
+M	start/src/main/java/hello/HelloWorldConfiguration.java
+
+af59e05;Merge pull request #3 from dsyer/feature/repos
+f7d88a6;Add plugin repositories for snapshots
+M	complete/pom.xml
+M	start/pom.xml
+
+bff7580;Edit for content and style
+M	README.md
+M	start/pom.xml
+
+47f5f31;Merge pull request #2 from dsyer/feature/bootstrap
+4a388c8;Initial runnable app working with Maven and Gradle deps
+M	.gitignore
+M	README.md
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/main/java/hello/HelloWorldConfiguration.java
+D	complete/src/main/java/hello/HelloWorldWebAppInitializer.java
+D	complete/src/main/java/hello/Main.java
+M	start/build.gradle
+M	start/pom.xml
+M	start/src/main/java/hello/HelloWorldConfiguration.java
+D	start/src/main/java/hello/HelloWorldWebAppInitializer.java
+D	start/src/main/java/hello/Main.java
+
+102a8e6;Add .gitignore
+A	.gitignore
+
+44caa7a;Address TODO items in README.md
+M	README.md
+M	complete/.gitignore
+M	complete/pom.xml
+M	complete/src/main/java/hello/Main.java
+M	start/pom.xml
+
+b9ad6b2;Revise instructions and add TODOs
+M	README.md
+
+bceeac3;fixup! Revise instr
+M	README.md
+
+c3dea33;fixup! Revise instr
+M	start/pom.xml
+
+e9b70e7;Add final version of pom to complete
+A	complete/pom.xml
+
+28506f8;Reorder to ensure compilation works at every step
+M	README.md
+
+0e5a9e8;Revise instructions and add pom.xml
+M	README.md
+A	start/pom.xml
+
+c64215d;Add Main with embedded Tomcat to start project
+M	start/build.gradle
+A	start/src/main/java/hello/Main.java
+
+b2d6a54;Add Main class using embedded Tomcat to run app.
+M	complete/.gitignore
+M	complete/build.gradle
+M	complete/src/main/java/hello/HelloWorldController.java
+A	complete/src/main/java/hello/Main.java
+
+8e2e25a;Align start project with true start point of guide.
+D	start/src/main/java/hello/Greeting.java
+M	start/src/main/java/hello/HelloWorldConfiguration.java
+D	start/src/main/java/hello/HelloWorldController.java
+M	start/src/main/java/hello/HelloWorldWebAppInitializer.java
+
+2b702db;Polish to README.md
+M	README.md
+
+da3c9cc;Reintroduce gradle wrapper
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+A	complete/gradlew
+A	complete/gradlew.bat
+A	start/gradle/wrapper/gradle-wrapper.jar
+A	start/gradle/wrapper/gradle-wrapper.properties
+A	start/gradlew
+A	start/gradlew.bat
+
+35df3ba;Pull in start and complete branch code into master branch.
+M	README.md
+R100	.gitignore	complete/.gitignore
+R100	build.gradle	complete/build.gradle
+A	complete/settings.gradle
+R100	src/main/java/hello/Greeting.java	complete/src/main/java/hello/Greeting.java
+R100	src/main/java/hello/HelloWorldConfiguration.java	complete/src/main/java/hello/HelloWorldConfiguration.java
+R100	src/main/java/hello/HelloWorldController.java	complete/src/main/java/hello/HelloWorldController.java
+R100	src/main/java/hello/HelloWorldWebAppInitializer.java	complete/src/main/java/hello/HelloWorldWebAppInitializer.java
+A	start/.gitignore
+A	start/build.gradle
+A	start/settings.gradle
+A	start/src/main/java/hello/Greeting.java
+A	start/src/main/java/hello/HelloWorldConfiguration.java
+A	start/src/main/java/hello/HelloWorldController.java
+A	start/src/main/java/hello/HelloWorldWebAppInitializer.java
+
+c2fa3b4;Refine getting started guide text.
+M	README.md
+
+072cd2f;Add IntelliJ IDEA plugin to build.gradle.
+M	build.gradle
+
+b229ca6;Rename implementation classes and update Jackson dependency to Jackson 2.
+A	src/main/java/hello/Greeting.java
+A	src/main/java/hello/HelloWorldController.java
+
+c5b0985;Rename implementation classes
+M	README.md
+M	build.gradle
+D	src/main/java/hello/HelloWorldResource.java
+D	src/main/java/hello/Saying.java
+
+f733dd3;Flattened package structure
+M	README.md
+R088	src/main/java/org/springframework/hello/HelloWorldConfiguration.java	src/main/java/hello/HelloWorldConfiguration.java
+R095	src/main/java/org/springframework/hello/HelloWorldResource.java	src/main/java/hello/HelloWorldResource.java
+R093	src/main/java/org/springframework/hello/HelloWorldWebAppInitializer.java	src/main/java/hello/HelloWorldWebAppInitializer.java
+R088	src/main/java/org/springframework/hello/Saying.java	src/main/java/hello/Saying.java
+
+f7e7293;Flatten project and package structure
+A	.gitignore
+R097	gs-rest-service.md	README.md
+R100	hello-world-rest/build.gradle	build.gradle
+D	hello-world-rest/.gitignore
+D	hello-world-rest/.gradle/1.5/taskArtifacts/cache.properties
+D	hello-world-rest/.gradle/1.5/taskArtifacts/cache.properties.lock
+D	hello-world-rest/.gradle/1.5/taskArtifacts/fileHashes.bin
+D	hello-world-rest/.gradle/1.5/taskArtifacts/fileSnapshots.bin
+D	hello-world-rest/.gradle/1.5/taskArtifacts/outputFileStates.bin
+D	hello-world-rest/.gradle/1.5/taskArtifacts/taskArtifacts.bin
+D	hello-world-rest/gradle/wrapper/gradle-wrapper.jar
+D	hello-world-rest/gradle/wrapper/gradle-wrapper.properties
+D	hello-world-rest/gradlew
+D	hello-world-rest/gradlew.bat
+R055	hello-world-rest/src/main/java/org/springframework/hello/config/HelloWorldConfiguration.java	src/main/java/org/springframework/hello/HelloWorldConfiguration.java
+R100	hello-world-rest/src/main/java/org/springframework/hello/HelloWorldResource.java	src/main/java/org/springframework/hello/HelloWorldResource.java
+R092	hello-world-rest/src/main/java/org/springframework/hello/config/HelloWorldWebAppInitializer.java	src/main/java/org/springframework/hello/HelloWorldWebAppInitializer.java
+R100	hello-world-rest/src/main/java/org/springframework/hello/Saying.java	src/main/java/org/springframework/hello/Saying.java
+
+f1f6cca;Edits to initial text
+M	gs-rest-service.md
+
+689e933;Replaced web.xml with a web app initializer class
+M	gs-rest-service.md
+M	hello-world-rest/build.gradle
+M	hello-world-rest/src/main/java/org/springframework/hello/HelloWorldResource.java
+M	hello-world-rest/src/main/java/org/springframework/hello/Saying.java
+A	hello-world-rest/src/main/java/org/springframework/hello/config/HelloWorldWebAppInitializer.java
+D	hello-world-rest/src/main/webapp/WEB-INF/web.xml
+
+38b85f5;Added gradle wrapper files
+A	hello-world-rest/.gitignore
+A	hello-world-rest/.gradle/1.5/taskArtifacts/cache.properties
+A	hello-world-rest/.gradle/1.5/taskArtifacts/cache.properties.lock
+A	hello-world-rest/.gradle/1.5/taskArtifacts/fileHashes.bin
+A	hello-world-rest/.gradle/1.5/taskArtifacts/fileSnapshots.bin
+A	hello-world-rest/.gradle/1.5/taskArtifacts/outputFileStates.bin
+A	hello-world-rest/.gradle/1.5/taskArtifacts/taskArtifacts.bin
+A	hello-world-rest/gradle/wrapper/gradle-wrapper.jar
+A	hello-world-rest/gradle/wrapper/gradle-wrapper.properties
+A	hello-world-rest/gradlew
+A	hello-world-rest/gradlew.bat
+
+82b17e6;Added sample project
+A	hello-world-rest/build.gradle
+A	hello-world-rest/src/main/java/org/springframework/hello/HelloWorldResource.java
+A	hello-world-rest/src/main/java/org/springframework/hello/Saying.java
+A	hello-world-rest/src/main/java/org/springframework/hello/config/HelloWorldConfiguration.java
+A	hello-world-rest/src/main/webapp/WEB-INF/web.xml
+
+741fd0d;Removed spring-social-page
+D	spring-social-page/assets/css/bootstrap-responsive.css
+D	spring-social-page/assets/css/bootstrap-responsive.min.css
+D	spring-social-page/assets/css/bootstrap.css
+D	spring-social-page/assets/css/bootstrap.min.css
+D	spring-social-page/assets/img/Project_Social.png
+D	spring-social-page/assets/img/SpringSocialGraph.png
+D	spring-social-page/assets/img/Untitled.png
+D	spring-social-page/assets/img/glyphicons-halflings-white.png
+D	spring-social-page/assets/img/glyphicons-halflings.png
+D	spring-social-page/assets/js/bootstrap.js
+D	spring-social-page/assets/js/bootstrap.min.js
+D	spring-social-page/index.html
+
+4506f08;More syntax highlighting
+M	gs-rest-service.md
+
+4daac23;First attempt at syntax highlighting
+M	gs-rest-service.md
+
+0e4bd43;Renamed
+R100	GSRESTService.md	gs-rest-service.md
+
+9b8a8e1;Added Spring Social mockup page
+A	spring-social-page/assets/css/bootstrap-responsive.css
+A	spring-social-page/assets/css/bootstrap-responsive.min.css
+A	spring-social-page/assets/css/bootstrap.css
+A	spring-social-page/assets/css/bootstrap.min.css
+A	spring-social-page/assets/img/Project_Social.png
+A	spring-social-page/assets/img/SpringSocialGraph.png
+A	spring-social-page/assets/img/Untitled.png
+A	spring-social-page/assets/img/glyphicons-halflings-white.png
+A	spring-social-page/assets/img/glyphicons-halflings.png
+A	spring-social-page/assets/js/bootstrap.js
+A	spring-social-page/assets/js/bootstrap.min.js
+A	spring-social-page/index.html
+
+8d5dede;Added REST GS guide
+A	GSRESTService.md

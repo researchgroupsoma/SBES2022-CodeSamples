@@ -1,0 +1,189 @@
+a4f99c1;Update README.md
+M	README.md
+
+5ebaa93;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+520cc11;Auto-update
+M	Application/build.gradle
+M	README.md
+
+0c6dabb;Auto-update
+M	Application/build.gradle
+
+3091461;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+4c4d933;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+be814f3;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b227b82;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d44bd7e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+c0cdc14;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+a9fa2eb;Auto-update
+M	Application/build.gradle
+M	README.md
+
+c71feb3;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+12572e2;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+6b621d3;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+36fd81b;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+a983628;Auto-update
+M	LICENSE
+D	NOTICE
+
+8710227;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+171e35f;Auto-update
+M	Application/build.gradle
+M	README.md
+
+9365912;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+
+de26c27;Auto-update
+M	.google/packaging.yaml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+A	screenshots/icon-web.png
+A	screenshots/intro.png
+A	screenshots/touches.png
+
+2667825;Auto-update
+M	Application/build.gradle
+
+edb38b5;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+0e6ee31;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+0222e81;Auto-update
+R072	BasicMultitouchSample/build.gradle	Application/build.gradle
+R093	BasicMultitouchSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	BasicMultitouchSample/src/main/java/com/example/android/basicmultitouch/MainActivity.java	Application/src/main/java/com/example/android/basicmultitouch/MainActivity.java
+R100	BasicMultitouchSample/src/main/java/com/example/android/basicmultitouch/Pools.java	Application/src/main/java/com/example/android/basicmultitouch/Pools.java
+R100	BasicMultitouchSample/src/main/java/com/example/android/basicmultitouch/TouchDisplayView.java	Application/src/main/java/com/example/android/basicmultitouch/TouchDisplayView.java
+R100	BasicMultitouchSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	BasicMultitouchSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	BasicMultitouchSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	BasicMultitouchSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	BasicMultitouchSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	BasicMultitouchSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	BasicMultitouchSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	BasicMultitouchSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	BasicMultitouchSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	BasicMultitouchSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	BasicMultitouchSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	BasicMultitouchSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	BasicMultitouchSample/src/main/res/layout/layout_mainactivity.xml	Application/src/main/res/layout/layout_mainactivity.xml
+R100	BasicMultitouchSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	BasicMultitouchSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	BasicMultitouchSample/src/main/res/values-v11/styles.xml	Application/src/main/res/values-v11/styles.xml
+R100	BasicMultitouchSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+R100	BasicMultitouchSample/src/main/res/values-v14/styles.xml	Application/src/main/res/values-v14/styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	BasicMultitouchSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	BasicMultitouchSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	BasicMultitouchSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	BasicMultitouchSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	BasicMultitouchSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+M	settings.gradle
+
+1be3312;Initial Commit
+A	BasicMultitouchSample/build.gradle
+A	BasicMultitouchSample/src/main/AndroidManifest.xml
+A	BasicMultitouchSample/src/main/java/com/example/android/basicmultitouch/MainActivity.java
+A	BasicMultitouchSample/src/main/java/com/example/android/basicmultitouch/Pools.java
+A	BasicMultitouchSample/src/main/java/com/example/android/basicmultitouch/TouchDisplayView.java
+A	BasicMultitouchSample/src/main/java/com/example/android/common/logger/Log.java
+A	BasicMultitouchSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	BasicMultitouchSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	BasicMultitouchSample/src/main/java/com/example/android/common/logger/LogView.java
+A	BasicMultitouchSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	BasicMultitouchSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	BasicMultitouchSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicMultitouchSample/src/main/res/drawable-hdpi/tile.9.png
+A	BasicMultitouchSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicMultitouchSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicMultitouchSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicMultitouchSample/src/main/res/layout/activity_main.xml
+A	BasicMultitouchSample/src/main/res/layout/layout_mainactivity.xml
+A	BasicMultitouchSample/src/main/res/values-sw600dp/template-dimens.xml
+A	BasicMultitouchSample/src/main/res/values-sw600dp/template-styles.xml
+A	BasicMultitouchSample/src/main/res/values-v11/styles.xml
+A	BasicMultitouchSample/src/main/res/values-v11/template-styles.xml
+A	BasicMultitouchSample/src/main/res/values-v14/styles.xml
+A	BasicMultitouchSample/src/main/res/values/base-strings.xml
+A	BasicMultitouchSample/src/main/res/values/strings.xml
+A	BasicMultitouchSample/src/main/res/values/styles.xml
+A	BasicMultitouchSample/src/main/res/values/template-dimens.xml
+A	BasicMultitouchSample/src/main/res/values/template-styles.xml
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

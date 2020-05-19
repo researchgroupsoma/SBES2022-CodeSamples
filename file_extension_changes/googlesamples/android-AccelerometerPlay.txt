@@ -1,0 +1,29 @@
+6a4bbd8;Update README.md
+M	README.md
+
+1cc24fa;Auto-update
+A	.google/packaging.yaml
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+A	README.md
+A	app/build.gradle
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/example/android/accelerometerplay/AccelerometerPlayActivity.java
+A	app/src/main/res/drawable-hdpi/ball.png
+A	app/src/main/res/drawable-hdpi/wood.jpg
+A	app/src/main/res/layout/main.xml
+A	app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	app/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/big_icon.png
+A	screenshots/screenshot1.png
+A	settings.gradle

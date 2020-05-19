@@ -1,0 +1,705 @@
+a58d9c6;Update to Spring Boot 2.3 and use native plugin
+M	README.adoc
+A	complete/.mvn/wrapper/MavenWrapperDownloader.java
+M	complete/.mvn/wrapper/maven-wrapper.jar
+M	complete/.mvn/wrapper/maven-wrapper.properties
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	complete/mvnw
+M	complete/mvnw.cmd
+M	complete/pom.xml
+A	initial/.mvn/wrapper/MavenWrapperDownloader.java
+M	initial/.mvn/wrapper/maven-wrapper.jar
+M	initial/.mvn/wrapper/maven-wrapper.properties
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+M	initial/mvnw
+M	initial/mvnw.cmd
+M	initial/pom.xml
+
+298e1b6;Add paragraph explaining scope of guide
+M	README.adoc
+
+63b5a61;Explain why layer order matters
+M	README.adoc
+
+063bba4;Mention that the non-root user shows up in logs
+M	README.adoc
+
+ff9cd2f;Start NOTE with Uppercase
+M	README.adoc
+
+6ae1991;Add notes on non-root user in build plugins
+M	README.adoc
+
+f94a376;Make it clear that Jib runs as root
+M	README.adoc
+
+e650326;Make it clear that Jib doesn't use Dockerfile
+M	README.adoc
+
+2fbd26f;Polish
+M	README.adoc
+
+01ffe60;Update the guide to describe how to run the application with user privileges
+M	README.adoc
+
+0a2b0f0;Run application with user privileges
+M	complete/Dockerfile
+
+d145508;Remove VOLUME instruction from default Dockerfile
+M	README.adoc
+M	complete/Dockerfile
+
+181a26f;Add note about classpath ordering in exploded jar
+M	README.adoc
+
+e6c2811;Change env var name to pick up debug flags on default image
+M	README.adoc
+
+da6d84a;Fix docker command line --build-arg
+M	README.adoc
+
+c3a1346;URL Cleanup
+M	LICENSE.code.txt
+M	complete/src/test/java/hello/HelloWorldConfigurationTests.java
+
+920a260;URL Cleanup
+M	LICENSE.writing.txt
+M	README.adoc
+
+04c7c7a;Fix typo - Dockerfile now uses COPY rather than ADD
+M	README.adoc
+
+2d3f0f1;Remove "-Djava.security.egd=file:/dev/./urandom"
+M	README.adoc
+
+b617ab6;Switch to tabs, and adjust tabsizing in asciidoctor.
+M	README.adoc
+M	complete/src/main/java/hello/Application.java
+M	complete/src/test/java/hello/HelloWorldConfigurationTests.java
+
+c424188;More explicit about unpacked dependency
+M	README.adoc
+M	complete/pom.xml
+
+f6d1d87;Add explicit --build-args for Gradle users
+M	README.adoc
+
+7f4119f;Fix test script
+M	test/run.sh
+
+4ed1d3e;Fix wrong name for Jib goal
+M	README.adoc
+
+c48e336;Update to use Spring Boot 2.2.1 Jib
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+
+f9efa79;Upgrade to Spring Boot 2.2.1.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+29821cd;Upgrade to Gradle 4.10.3.
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+eb56f8f;Add content about the form of the entrypoint
+M	README.adoc
+
+1cc4f5b;Updated to @OpenJDK.
+M	.travis.yml
+
+431c284;Upgrade to Spring Boot 2.1.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+7d403e1;Upgrade to Spring Boot 2.1.4.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+68d6913;Upgrade to Spring Boot 2.1.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e19c07c;Upgrade to Spring Boot 2.0.8.RELEASE.
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+57df80a;URL Cleanup (#68)
+M	complete/pom.xml
+M	initial/pom.xml
+
+352dbda;URL Cleanup (#67)
+M	complete/mvnw
+M	complete/mvnw.cmd
+M	initial/mvnw
+M	initial/mvnw.cmd
+
+0ddb60c;Add NOTE sidebar about the topical guide
+M	README.adoc
+
+3033a0c;Upgrade Maven plugin
+M	complete/pom.xml
+
+8958ec7;Use default unpacked dependency location in pom.xml
+M	README.adoc
+M	complete/Dockerfile
+M	complete/pom.xml
+
+c116ce6;Avoid hard coding the jar file location
+M	complete/build.gradle
+
+7bf090b;Add comments on jar file format
+M	README.adoc
+
+6ceb2c8;Make gradle docker work from clean checkout
+M	complete/build.gradle
+
+bb92770;Break up docker images into layers
+M	README.adoc
+M	complete/Dockerfile
+M	complete/build.gradle
+M	complete/pom.xml
+
+5706c3f;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+833ae95;Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+08ba6bf;Revert previous attempt
+M	README.adoc
+
+fdb2bdd;Experiment
+M	README.adoc
+
+ac422b7;Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+74b5c93;make docker task dependent on build task (#49)
+M	complete/Dockerfile
+M	complete/build.gradle
+
+1c8ad64;Fix indentation
+M	complete/pom.xml
+
+b684cda;Add docker build test for maven
+M	test/run.sh
+
+5c4147a;Enable docker for travis-ci
+M	.travis.yml
+
+cc81aa9;Fix `./gradlew build docker`
+M	complete/build.gradle
+M	test/run.sh
+
+31b2122;Upgrade to Spring Boot 2.0.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+233e3f2;Remove front matter
+M	README.adoc
+
+97f1542;Replace jar gradle task with bootJar task
+M	complete/build.gradle
+M	initial/build.gradle
+
+abbda7b;Upgrade to Spring Boot 2.0.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	complete/src/test/java/hello/HelloWorldConfigurationTests.java
+M	initial/build.gradle
+M	initial/pom.xml
+M	initial/src/main/java/hello/Application.java
+
+8933f6e;Upgrade to Gradle 4.6
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	complete/gradlew.bat
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+M	initial/gradlew.bat
+
+ed22797;Upgrade to Spring Boot 1.5.10.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+
+87bbb12;Upgrade to Spring Boot 1.5.9.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+
+044f4e8;Update to latest plugins and use build arg to locate jar
+M	README.adoc
+M	complete/Dockerfile
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/pom.xml
+
+5726773;Upgrade to Spring Boot 1.5.8.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+
+85f7e42;Update README.adoc
+M	README.adoc
+
+73d2a76;Update dockerfile-maven repo quote
+M	README.adoc
+
+f955876;Fix phrasing by removal of duplicated word. (#38)
+M	README.adoc
+
+fdf64fc;Exec java instead of running sh in entrypoint
+M	complete/Dockerfile
+
+549cda9;Upgrade to Spring Boot 1.5.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+
+764bd22;Added See Also links (#35)
+M	README.adoc
+
+5105b4e;Switch to official openjdk image
+M	complete/Dockerfile
+
+8c589c1;dockerfile maven config has repository and tag
+M	README.adoc
+
+5900c67;Upgrade to Spring Boot 1.5.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+
+fbe74b1;Upgrade to Spring Boot 1.5.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+29be5ab;Align gradle with Maven (no push by default)
+M	README.adoc
+M	complete/build.gradle
+
+7f1da46;Fix dockerfile and description
+M	README.adoc
+
+07dd272;mvn -> ./mvnw
+M	README.adoc
+
+23ba9cb;Switch to dockerfile-maven-plugin v1.3.4
+M	complete/Dockerfile
+M	complete/build.gradle
+
+ff4c7dd;Update to latest Maven plugin
+M	complete/pom.xml
+
+5ddc80a;Revert file system layers (optimization)
+M	complete/Dockerfile
+
+ce5663c;Remove default push
+M	README.adoc
+M	complete/Dockerfile
+M	complete/pom.xml
+
+1d13e51;Update Spring Boot to 1.5.4
+M	complete/build.gradle
+M	complete/pom.xml
+
+cdfa4c1;Update to use most recent spotify plugin for Maven
+M	README.adoc
+R079	complete/src/main/docker/Dockerfile	complete/Dockerfile
+M	complete/build.gradle
+M	complete/pom.xml
+
+ae98e78;Upgrade to Spring Boot 1.5.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ce6dc76;Upgrade to Spring Boot 1.5.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e30f827;Upgrade to Spring Boot 1.5.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+1cec7d3;Upgrade to Spring Boot 1.5.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+bf71f13;Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+M	complete/pom.xml
+M	initial/pom.xml
+
+57ba9d2;Upgrade to Spring Boot 1.4.4.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+e550727;Upgrade to Spring Boot 1.4.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3ceea32;Upgrade plugin from spring-boot to o.s.boot
+M	complete/build.gradle
+M	initial/build.gradle
+
+51fb350;Add debug application in a Docker container section, patched a Dockerfile
+M	README.adoc
+M	complete/src/main/docker/Dockerfile
+
+9f78ee9;Upgrade to Spring Boot 1.4.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+83265f0;Upgrade to Spring Boot 1.4.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+95e7e69;Update plugin docker-maven-plugin to 0.4.11 (#20)
+M	complete/pom.xml
+
+acdb175;Upgrade to gradle 2.13
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+M	complete/gradlew
+M	initial/build.gradle
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+M	initial/gradlew
+
+95d6e6c;Update to latest plugin version
+M	README.adoc
+M	complete/pom.xml
+
+ff8e762;Update to Spring Boot 1.4 idioms
+M	complete/src/main/java/hello/Application.java
+M	complete/src/test/java/hello/HelloWorldConfigurationTests.java
+
+2b3ef32;Upgrade to @SpringBoot 1.4.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ee55206;Upgrade to Spring Boot 1.3.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+ebc1789;Upgrade to Spring Boot 1.3.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+0542b1c;Add Maven wrapper
+A	complete/.mvn/wrapper/maven-wrapper.jar
+A	complete/.mvn/wrapper/maven-wrapper.properties
+A	complete/mvnw
+A	complete/mvnw.cmd
+A	initial/.mvn/wrapper/maven-wrapper.jar
+A	initial/.mvn/wrapper/maven-wrapper.properties
+A	initial/mvnw
+A	initial/mvnw.cmd
+
+7325c76;Ignore Eclipse resources
+M	.gitignore
+D	complete/.classpath
+D	complete/.project
+D	complete/.settings/org.eclipse.core.resources.prefs
+D	complete/.settings/org.eclipse.jdt.core.prefs
+D	complete/.settings/org.eclipse.m2e.core.prefs
+
+6c7fb78;Add CONTRIBUTING doc
+A	CONTRIBUTING.adoc
+
+ac53dde;Upgrade to Spring Boot 1.3.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+6e6c3ff;Upgrade to Spring Boot 1.3.4.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+958e596;Use "sh" instead of "bash" in alpine image
+M	complete/src/main/docker/Dockerfile
+
+60d1eba;Changed base to a much slimmer Alpine Linux base
+M	complete/src/main/docker/Dockerfile
+
+6b59dc6;Upgrade to Spring Boot 1.3.3.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3f3f41c;Migrate to container-based infrastructure
+M	.travis.yml
+
+e6e709a;Upgrade to Spring Boot 1.3.2.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+4f2207e;Upgrade to Spring Boot 1.3.1.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+38251b4;Upgrade to Spring Boot 1.3.0.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+126b62a;Upgraded to Spring Boot 1.2.7.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+3b2bfb4;Upgrade to Spring Boot 1.2.6.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+d7736bb;Add footer
+M	README.adoc
+
+506bee4;Added instructions for passing Spring profile as an environment
+M	README.adoc
+
+c049f65;Upgrade to Spring Boot 1.2.5.RELEASE
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+673c3fd;Merge pull request #10 from geoand/java-8-fix
+c5420d9;Upgraded Dockerfile to Java 8
+M	complete/src/main/docker/Dockerfile
+
+a32e9c4;Remove unnecessary 'on a Mac'
+M	README.adoc
+
+0807427;Rmove .codesets.json (fixes gh-9)
+D	.codesets.json
+
+ade7ce0;Fix slack notifications
+M	.travis.yml
+
+0dc92c0;Add travis support
+A	.travis.yml
+
+242687e;Upgrade to Java 8
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+62da78f;Upgrade to Spring Boot 1.2.4
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+fd9421a;Merge pull request #7 from Riggs333/patch-1
+37777c0;Remove duplicate note
+M	README.adoc
+
+ab863a3;Reduce Tomcat startup time by using a different source of entropy
+M	README.adoc
+M	complete/src/main/docker/Dockerfile
+
+7992d19;Make docker on a Mac easier to follow
+M	README.adoc
+M	complete/src/main/java/hello/Application.java
+M	initial/src/main/java/hello/Application.java
+
+f253dd7;Add steps to double check Docker environment
+M	README.adoc
+
+5b628bc;Update to Java 7 as minimum
+M	README.adoc
+
+1b55bde;Specify version of Java since Docker constraings it to run on Java 7
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml
+
+32c8d0d;Fix formatting of admonition
+M	README.adoc
+
+0d19f23;Fix build.gradle so it does what it says it does
+M	complete/build.gradle
+
+eaaf4e3;Add VOLUME and RUN to Dockerfile
+M	README.adoc
+M	complete/src/main/docker/Dockerfile
+
+1da1dbf;Add Guardfile used for local builds to ignores
+M	.gitignore
+
+231648a;Add notes about docker ps and docker stop
+M	README.adoc
+
+e850949;Fix gradle build
+M	.gitignore
+M	complete/build.gradle
+M	complete/gradle/wrapper/gradle-wrapper.jar
+M	complete/gradle/wrapper/gradle-wrapper.properties
+
+f1f6ec0;Apply source prefix
+M	README.adoc
+
+08778d0;Wrap with source block
+M	README.adoc
+
+7425310;Push
+M	README.adoc
+
+1e2ff39;Wrap part of adminition with source block
+M	README.adoc
+
+3778f63;Push
+M	README.adoc
+
+1a622ce;Add public facing IP
+M	README.adoc
+
+e38e6bc;Remove 'out of luck' sentence
+M	README.adoc
+
+1bd1549;Add VirtualBox steps
+M	README.adoc
+
+f406c5f;More docker polish
+M	README.adoc
+
+b4dfaad;Trigger another cache reset
+M	README.adoc
+
+b8f33b7;More docker polish
+M	README.adoc
+
+e56bd01;Polish docker instructions
+M	README.adoc
+
+3ef8f32;Add link to docker installation steps
+M	README.adoc
+
+7c82a77;Clarify order during maven build
+M	README.adoc
+M	complete/build.gradle
+
+a462a78;Regenrate gradle wrapper
+M	initial/gradle/wrapper/gradle-wrapper.jar
+M	initial/gradle/wrapper/gradle-wrapper.properties
+
+b80d14f;Polish
+M	README.adoc
+A	test/run.sh
+
+2a53744;Switch off gradle/maven hiding (till it works)
+M	README.adoc
+
+7beb7ee;Switch project_id to the eventual real one
+M	README.adoc
+
+25f277e;First pass tidy up
+M	.gitignore
+M	README.adoc
+M	complete/build.gradle
+M	complete/pom.xml
+
+e4370ef;Initial state
+A	.codesets.json
+A	.gitignore
+A	LICENSE.code.txt
+A	LICENSE.writing.txt
+A	README.adoc
+A	complete/.classpath
+A	complete/.jdk8
+A	complete/.project
+A	complete/.settings/org.eclipse.core.resources.prefs
+A	complete/.settings/org.eclipse.jdt.core.prefs
+A	complete/.settings/org.eclipse.m2e.core.prefs
+A	complete/build.gradle
+A	complete/gradle/wrapper/gradle-wrapper.jar
+A	complete/gradle/wrapper/gradle-wrapper.properties
+A	complete/gradlew
+A	complete/gradlew.bat
+A	complete/pom.xml
+A	complete/src/main/docker/Dockerfile
+A	complete/src/main/java/hello/Application.java
+A	complete/src/main/resources/application.yml
+A	complete/src/test/java/hello/HelloWorldConfigurationTests.java
+A	initial/build.gradle
+A	initial/gradle/wrapper/gradle-wrapper.jar
+A	initial/gradle/wrapper/gradle-wrapper.properties
+A	initial/gradlew
+A	initial/gradlew.bat
+A	initial/pom.xml
+A	initial/src/main/java/hello/Application.java

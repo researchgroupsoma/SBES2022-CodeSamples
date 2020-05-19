@@ -1,0 +1,298 @@
+79bc030;Update README.md
+M	README.md
+
+8ab98af;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/.google/packaging.yaml
+A	kotlinApp/Application/build.gradle
+A	kotlinApp/Application/src/main/AndroidManifest.xml
+A	kotlinApp/Application/src/main/java/com/example/android/navigationdrawer/MainActivity.kt
+A	kotlinApp/Application/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.kt
+A	kotlinApp/Application/src/main/java/com/example/android/navigationdrawer/PlanetAdapter.kt
+A	kotlinApp/Application/src/main/java/com/example/android/navigationdrawer/PlanetFragment.kt
+A	kotlinApp/Application/src/main/java/com/example/android/navigationdrawer/Sample.kt
+A	kotlinApp/Application/src/main/res/drawable-hdpi/action_search.png
+A	kotlinApp/Application/src/main/res/drawable-hdpi/drawer_shadow.9.png
+A	kotlinApp/Application/src/main/res/drawable-hdpi/ic_drawer.png
+A	kotlinApp/Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-hdpi/tile.9.png
+A	kotlinApp/Application/src/main/res/drawable-mdpi/action_search.png
+A	kotlinApp/Application/src/main/res/drawable-mdpi/drawer_shadow.9.png
+A	kotlinApp/Application/src/main/res/drawable-mdpi/ic_drawer.png
+A	kotlinApp/Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-xhdpi/action_search.png
+A	kotlinApp/Application/src/main/res/drawable-xhdpi/drawer_shadow.9.png
+A	kotlinApp/Application/src/main/res/drawable-xhdpi/ic_drawer.png
+A	kotlinApp/Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable/earth.jpg
+A	kotlinApp/Application/src/main/res/drawable/jupiter.jpg
+A	kotlinApp/Application/src/main/res/drawable/mars.jpg
+A	kotlinApp/Application/src/main/res/drawable/mercury.jpg
+A	kotlinApp/Application/src/main/res/drawable/neptune.jpg
+A	kotlinApp/Application/src/main/res/drawable/saturn.jpg
+A	kotlinApp/Application/src/main/res/drawable/uranus.jpg
+A	kotlinApp/Application/src/main/res/drawable/venus.jpg
+A	kotlinApp/Application/src/main/res/layout/activity_main.xml
+A	kotlinApp/Application/src/main/res/layout/activity_navigation_drawer.xml
+A	kotlinApp/Application/src/main/res/layout/drawer_list_item.xml
+A	kotlinApp/Application/src/main/res/layout/fragment_planet.xml
+A	kotlinApp/Application/src/main/res/layout/sample_dashboard_item.xml
+A	kotlinApp/Application/src/main/res/menu/navigation_drawer.xml
+A	kotlinApp/Application/src/main/res/values-v20/styles.xml
+A	kotlinApp/Application/src/main/res/values-v21/base-template-styles.xml
+A	kotlinApp/Application/src/main/res/values/activitycards-colors.xml
+A	kotlinApp/Application/src/main/res/values/activitycards-dimens.xml
+A	kotlinApp/Application/src/main/res/values/activitycards-strings.xml
+A	kotlinApp/Application/src/main/res/values/colors.xml
+A	kotlinApp/Application/src/main/res/values/dimens.xml
+A	kotlinApp/Application/src/main/res/values/strings.xml
+A	kotlinApp/Application/src/main/res/values/template-dimens.xml
+A	kotlinApp/Application/src/main/res/values/template-styles.xml
+A	kotlinApp/CONTRIB.md
+A	kotlinApp/README.md
+A	kotlinApp/build.gradle
+A	kotlinApp/gradle/wrapper/gradle-wrapper.jar
+A	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/gradlew
+A	kotlinApp/gradlew.bat
+A	kotlinApp/settings.gradle
+
+daed687;Auto-update
+M	Application/build.gradle
+M	README.md
+
+2d3ac27;Auto-update
+M	Application/build.gradle
+
+8282e54;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+04b0811;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+549eb2e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+dc517eb;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+47c6c64;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+01d8d5e;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+79061d6;Auto-update
+M	Application/build.gradle
+M	README.md
+
+7ee77c9;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+61aca77;Auto-update
+M	Application/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java
+M	Application/src/main/res/layout/activity_navigation_drawer.xml
+
+b2127ba;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+
+27fb1df;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+D	NOTICE
+M	README.md
+
+a99ddaf;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+dbb20e1;Auto-update
+M	LICENSE
+D	NOTICE
+
+9627e57;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/navigationdrawer/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/activitycards-strings.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+9547e7c;Auto-update
+M	Application/build.gradle
+M	README.md
+
+82ab462;Auto-update
+M	Application/build.gradle
+M	Application/tests/AndroidManifest.xml
+M	Application/tests/src/com/example/android/navigationdrawer/tests/SampleTests.java
+M	README.md
+
+19b0026;Auto-update
+M	NOTICE
+
+96667b9;Auto-update
+M	Application/build.gradle
+
+8a86801;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+1e50b06;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+3321cca;Auto-update
+R081	NavigationDrawerSample/build.gradle	Application/build.gradle
+R094	NavigationDrawerSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	NavigationDrawerSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	NavigationDrawerSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	NavigationDrawerSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	NavigationDrawerSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	NavigationDrawerSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	NavigationDrawerSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R099	NavigationDrawerSample/src/main/java/com/example/android/navigationdrawer/MainActivity.java	Application/src/main/java/com/example/android/navigationdrawer/MainActivity.java
+R100	NavigationDrawerSample/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java	Application/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java
+R100	NavigationDrawerSample/src/main/java/com/example/android/navigationdrawer/PlanetAdapter.java	Application/src/main/java/com/example/android/navigationdrawer/PlanetAdapter.java
+R100	NavigationDrawerSample/src/main/res/drawable-hdpi/action_search.png	Application/src/main/res/drawable-hdpi/action_search.png
+R100	NavigationDrawerSample/src/main/res/drawable-hdpi/drawer_shadow.9.png	Application/src/main/res/drawable-hdpi/drawer_shadow.9.png
+R100	NavigationDrawerSample/src/main/res/drawable-hdpi/ic_drawer.png	Application/src/main/res/drawable-hdpi/ic_drawer.png
+R100	NavigationDrawerSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	NavigationDrawerSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	NavigationDrawerSample/src/main/res/drawable-mdpi/action_search.png	Application/src/main/res/drawable-mdpi/action_search.png
+R100	NavigationDrawerSample/src/main/res/drawable-mdpi/drawer_shadow.9.png	Application/src/main/res/drawable-mdpi/drawer_shadow.9.png
+R100	NavigationDrawerSample/src/main/res/drawable-mdpi/ic_drawer.png	Application/src/main/res/drawable-mdpi/ic_drawer.png
+R100	NavigationDrawerSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	NavigationDrawerSample/src/main/res/drawable-xhdpi/action_search.png	Application/src/main/res/drawable-xhdpi/action_search.png
+R100	NavigationDrawerSample/src/main/res/drawable-xhdpi/drawer_shadow.9.png	Application/src/main/res/drawable-xhdpi/drawer_shadow.9.png
+R100	NavigationDrawerSample/src/main/res/drawable-xhdpi/ic_drawer.png	Application/src/main/res/drawable-xhdpi/ic_drawer.png
+R100	NavigationDrawerSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	NavigationDrawerSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	NavigationDrawerSample/src/main/res/drawable/earth.jpg	Application/src/main/res/drawable/earth.jpg
+R100	NavigationDrawerSample/src/main/res/drawable/jupiter.jpg	Application/src/main/res/drawable/jupiter.jpg
+R100	NavigationDrawerSample/src/main/res/drawable/mars.jpg	Application/src/main/res/drawable/mars.jpg
+R100	NavigationDrawerSample/src/main/res/drawable/mercury.jpg	Application/src/main/res/drawable/mercury.jpg
+R100	NavigationDrawerSample/src/main/res/drawable/neptune.jpg	Application/src/main/res/drawable/neptune.jpg
+R100	NavigationDrawerSample/src/main/res/drawable/saturn.jpg	Application/src/main/res/drawable/saturn.jpg
+R100	NavigationDrawerSample/src/main/res/drawable/uranus.jpg	Application/src/main/res/drawable/uranus.jpg
+R100	NavigationDrawerSample/src/main/res/drawable/venus.jpg	Application/src/main/res/drawable/venus.jpg
+R100	NavigationDrawerSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	NavigationDrawerSample/src/main/res/layout/activity_navigation_drawer.xml	Application/src/main/res/layout/activity_navigation_drawer.xml
+R100	NavigationDrawerSample/src/main/res/layout/drawer_list_item.xml	Application/src/main/res/layout/drawer_list_item.xml
+R100	NavigationDrawerSample/src/main/res/layout/fragment_planet.xml	Application/src/main/res/layout/fragment_planet.xml
+A	Application/src/main/res/layout/sample_dashboard_item.xml
+R100	NavigationDrawerSample/src/main/res/menu/navigation_drawer.xml	Application/src/main/res/menu/navigation_drawer.xml
+R100	NavigationDrawerSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	NavigationDrawerSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	NavigationDrawerSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+R100	NavigationDrawerSample/src/main/res/values-v20/styles.xml	Application/src/main/res/values-v20/styles.xml
+R100	NavigationDrawerSample/src/main/res/values-v21/template-styles.xml	Application/src/main/res/values-v21/template-styles.xml
+A	Application/src/main/res/values/activitycards-colors.xml
+A	Application/src/main/res/values/activitycards-dimens.xml
+R099	NavigationDrawerSample/src/main/res/values/activitycards-strings.xml	Application/src/main/res/values/activitycards-strings.xml
+R099	NavigationDrawerSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	NavigationDrawerSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	NavigationDrawerSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R075	NavigationDrawerSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R095	NavigationDrawerSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	NavigationDrawerSample/tests/src/com/example/android/navigationdrawer/tests/SampleTests.java	Application/tests/src/com/example/android/navigationdrawer/tests/SampleTests.java
+D	NavigationDrawerSample/src/main/res/drawable-xhdpi/sample_dashboard_item_background.9.png
+D	NavigationDrawerSample/src/main/res/layout/sample_dashboard_item.xml
+M	README.md
+M	settings.gradle
+
+eb011bd;Update sample with latest changes from Android SDK
+A	CONTRIB.md
+A	LICENSE
+M	NavigationDrawerSample/build.gradle
+A	README.md
+D	README.txt
+A	packaging.yaml
+
+b8c2998;Initial commit
+A	NavigationDrawerSample/build.gradle
+A	NavigationDrawerSample/src/main/AndroidManifest.xml
+A	NavigationDrawerSample/src/main/java/com/example/android/common/logger/Log.java
+A	NavigationDrawerSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	NavigationDrawerSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	NavigationDrawerSample/src/main/java/com/example/android/common/logger/LogView.java
+A	NavigationDrawerSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	NavigationDrawerSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	NavigationDrawerSample/src/main/java/com/example/android/navigationdrawer/MainActivity.java
+A	NavigationDrawerSample/src/main/java/com/example/android/navigationdrawer/NavigationDrawerActivity.java
+A	NavigationDrawerSample/src/main/java/com/example/android/navigationdrawer/PlanetAdapter.java
+A	NavigationDrawerSample/src/main/res/drawable-hdpi/action_search.png
+A	NavigationDrawerSample/src/main/res/drawable-hdpi/drawer_shadow.9.png
+A	NavigationDrawerSample/src/main/res/drawable-hdpi/ic_drawer.png
+A	NavigationDrawerSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	NavigationDrawerSample/src/main/res/drawable-hdpi/tile.9.png
+A	NavigationDrawerSample/src/main/res/drawable-mdpi/action_search.png
+A	NavigationDrawerSample/src/main/res/drawable-mdpi/drawer_shadow.9.png
+A	NavigationDrawerSample/src/main/res/drawable-mdpi/ic_drawer.png
+A	NavigationDrawerSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	NavigationDrawerSample/src/main/res/drawable-xhdpi/action_search.png
+A	NavigationDrawerSample/src/main/res/drawable-xhdpi/drawer_shadow.9.png
+A	NavigationDrawerSample/src/main/res/drawable-xhdpi/ic_drawer.png
+A	NavigationDrawerSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	NavigationDrawerSample/src/main/res/drawable-xhdpi/sample_dashboard_item_background.9.png
+A	NavigationDrawerSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	NavigationDrawerSample/src/main/res/drawable/earth.jpg
+A	NavigationDrawerSample/src/main/res/drawable/jupiter.jpg
+A	NavigationDrawerSample/src/main/res/drawable/mars.jpg
+A	NavigationDrawerSample/src/main/res/drawable/mercury.jpg
+A	NavigationDrawerSample/src/main/res/drawable/neptune.jpg
+A	NavigationDrawerSample/src/main/res/drawable/saturn.jpg
+A	NavigationDrawerSample/src/main/res/drawable/uranus.jpg
+A	NavigationDrawerSample/src/main/res/drawable/venus.jpg
+A	NavigationDrawerSample/src/main/res/layout/activity_main.xml
+A	NavigationDrawerSample/src/main/res/layout/activity_navigation_drawer.xml
+A	NavigationDrawerSample/src/main/res/layout/drawer_list_item.xml
+A	NavigationDrawerSample/src/main/res/layout/fragment_planet.xml
+A	NavigationDrawerSample/src/main/res/layout/sample_dashboard_item.xml
+A	NavigationDrawerSample/src/main/res/menu/navigation_drawer.xml
+A	NavigationDrawerSample/src/main/res/values-sw600dp/template-dimens.xml
+A	NavigationDrawerSample/src/main/res/values-sw600dp/template-styles.xml
+A	NavigationDrawerSample/src/main/res/values-v11/template-styles.xml
+A	NavigationDrawerSample/src/main/res/values-v20/styles.xml
+A	NavigationDrawerSample/src/main/res/values-v21/template-styles.xml
+A	NavigationDrawerSample/src/main/res/values/activitycards-strings.xml
+A	NavigationDrawerSample/src/main/res/values/base-strings.xml
+A	NavigationDrawerSample/src/main/res/values/strings.xml
+A	NavigationDrawerSample/src/main/res/values/template-dimens.xml
+A	NavigationDrawerSample/src/main/res/values/template-styles.xml
+A	NavigationDrawerSample/tests/AndroidManifest.xml
+A	NavigationDrawerSample/tests/src/com/example/android/navigationdrawer/tests/SampleTests.java
+A	README.txt
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

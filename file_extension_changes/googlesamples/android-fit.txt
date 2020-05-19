@@ -1,0 +1,595 @@
+bdddca1;Update README.md
+M	README.md
+
+37462ab;Merge pull request #45 from mgoodridge/patch-1
+4ada53b;Update MainActivity.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+
+513f551;Merge pull request #26 from aaronj1335/master
+69a95d8;Convert StepCounter sample app to use the new Fitness RecordingClient and HistoryClient
+M	StepCounter/app/build.gradle
+M	StepCounter/app/src/main/java/com/google/android/gms/fit/samples/stepcounter/MainActivity.java
+M	StepCounter/build.gradle
+M	StepCounter/gradle.properties
+M	StepCounter/gradle/wrapper/gradle-wrapper.properties
+
+5d6717b;Convert BasicSensorsApi sample app to use the new Fitness SensorsClient
+M	BasicSensorsApi/app/build.gradle
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+M	BasicSensorsApi/build.gradle
+M	BasicSensorsApi/gradle.properties
+M	BasicSensorsApi/gradle/wrapper/gradle-wrapper.properties
+
+ec15679;Merge "update the fitness BasicHistoryApi sample app with connectionless client."
+6cc9a69;Migrating BasicHistorySessions sample to cxless
+M	BasicHistorySessions/app/build.gradle
+M	BasicHistorySessions/app/src/main/AndroidManifest.xml
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicHistorySessions/build.gradle
+M	BasicHistorySessions/gradle.properties
+M	BasicHistorySessions/gradle/wrapper/gradle-wrapper.properties
+
+a1dd75a;Migrating BasicRecordingApi sample to cxless
+M	BasicRecordingApi/app/build.gradle
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicRecordingApi/build.gradle
+M	BasicRecordingApi/gradle.properties
+M	BasicRecordingApi/gradle/wrapper/gradle-wrapper.properties
+
+4245024;update the fitness BasicHistoryApi sample app with connectionless client.
+M	BasicHistoryApi/app/build.gradle
+M	BasicHistoryApi/app/src/main/AndroidManifest.xml
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+D	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity2.java
+M	BasicHistoryApi/build.gradle
+M	BasicHistoryApi/gradle.properties
+M	BasicHistoryApi/gradle/wrapper/gradle-wrapper.properties
+
+18e94cb;Added required files for release to GitHub.
+A	StepCounter/CONTRIBUTING.md
+A	StepCounter/LICENSE
+A	StepCounter/README.md
+
+0bb0268;Adds StepCounter sample app.
+A	StepCounter/.gitignore
+A	StepCounter/app/.gitignore
+A	StepCounter/app/build.gradle
+A	StepCounter/app/proguard-rules.pro
+A	StepCounter/app/src/androidTest/java/com/google/android/gms/fit/samples/stepcounter/ApplicationTest.java
+A	StepCounter/app/src/main/AndroidManifest.xml
+A	StepCounter/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+A	StepCounter/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+A	StepCounter/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+A	StepCounter/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+A	StepCounter/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+A	StepCounter/app/src/main/java/com/google/android/gms/fit/samples/stepcounter/MainActivity.java
+A	StepCounter/app/src/main/res/layout/activity_main.xml
+A	StepCounter/app/src/main/res/menu/main.xml
+A	StepCounter/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	StepCounter/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	StepCounter/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	StepCounter/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	StepCounter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	StepCounter/app/src/main/res/values-w820dp/dimens.xml
+A	StepCounter/app/src/main/res/values/colors.xml
+A	StepCounter/app/src/main/res/values/dimens.xml
+A	StepCounter/app/src/main/res/values/strings.xml
+A	StepCounter/app/src/main/res/values/styles.xml
+A	StepCounter/build.gradle
+A	StepCounter/gradle.properties
+A	StepCounter/gradle/wrapper/gradle-wrapper.jar
+A	StepCounter/gradle/wrapper/gradle-wrapper.properties
+A	StepCounter/gradlew
+A	StepCounter/gradlew.bat
+A	StepCounter/settings.gradle
+
+dc572dc;Adds update data demo to BasicHistoryApi sample app.
+M	BasicHistoryApi/app/src/main/AndroidManifest.xml
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+A	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity2.java
+M	BasicHistoryApi/app/src/main/res/menu/main.xml
+M	BasicHistoryApi/app/src/main/res/values/strings.xml
+
+0c0dca8;Merge pull request #13 from willum070/playversion
+e96438e;Update to use Google Play services 8.4.
+M	BasicHistoryApi/gradle.properties
+M	BasicHistorySessions/gradle.properties
+M	BasicRecordingApi/gradle.properties
+M	BasicSensorsApi/gradle.properties
+
+2ad34b4;Fixing typo in code snippet name of a sample.
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+
+495627c;Update to use Google Play services 8.3.
+M	BasicHistoryApi/gradle.properties
+M	BasicHistorySessions/gradle.properties
+M	BasicRecordingApi/gradle.properties
+M	BasicSensorsApi/gradle.properties
+
+58be25d;Fixing bug with pre-M runtimes and lint errors.
+M	BasicHistoryApi/app/src/main/AndroidManifest.xml
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistoryApi/app/src/main/res/layout/activity_main.xml
+M	BasicHistorySessions/app/src/main/AndroidManifest.xml
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicHistorySessions/app/src/main/res/layout/activity_main.xml
+M	BasicHistorySessions/app/src/main/res/values/strings.xml
+M	BasicHistorySessions/gradle.properties
+M	BasicRecordingApi/app/build.gradle
+M	BasicRecordingApi/app/src/main/AndroidManifest.xml
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicRecordingApi/app/src/main/res/layout/activity_main.xml
+M	BasicSensorsApi/app/src/main/AndroidManifest.xml
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+M	BasicSensorsApi/app/src/main/res/layout/activity_main.xml
+M	BasicSensorsApi/app/src/main/res/values/strings.xml
+
+61ef8d9;Adding Runtime permissions code.
+M	BasicHistorySessions/app/build.gradle
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicHistorySessions/app/src/main/res/values/strings.xml
+M	BasicSensorsApi/app/build.gradle
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+M	BasicSensorsApi/app/src/main/res/values/strings.xml
+
+a2cebbc;Some samples require M permission requests and missing Snackbar.show().
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistorySessions/app/build.gradle
+M	BasicHistorySessions/app/src/main/AndroidManifest.xml
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicRecordingApi/app/build.gradle
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicSensorsApi/app/build.gradle
+M	BasicSensorsApi/app/src/main/AndroidManifest.xml
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+
+24d5a2a;Making previous 2 changes across all other samples.
+M	BasicHistoryApi/app/src/main/AndroidManifest.xml
+M	BasicHistoryApi/app/src/main/res/layout/activity_main.xml
+M	BasicHistoryApi/build.gradle
+A	BasicHistorySessions/.google/packaging.yaml
+M	BasicHistorySessions/README.md
+M	BasicHistorySessions/app/build.gradle
+M	BasicHistorySessions/app/src/main/AndroidManifest.xml
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicHistorySessions/app/src/main/res/layout/activity_main.xml
+M	BasicHistorySessions/build.gradle
+M	BasicHistorySessions/gradle.properties
+A	BasicRecordingApi/.google/packaging.yaml
+M	BasicRecordingApi/README.md
+M	BasicRecordingApi/app/build.gradle
+M	BasicRecordingApi/app/src/main/AndroidManifest.xml
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicRecordingApi/app/src/main/res/layout/activity_main.xml
+M	BasicRecordingApi/build.gradle
+M	BasicRecordingApi/gradle.properties
+A	BasicSensorsApi/.google/packaging.yaml
+M	BasicSensorsApi/README.md
+M	BasicSensorsApi/app/build.gradle
+M	BasicSensorsApi/app/src/main/AndroidManifest.xml
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+M	BasicSensorsApi/app/src/main/res/layout/activity_main.xml
+M	BasicSensorsApi/build.gradle
+M	BasicSensorsApi/gradle.properties
+
+8561570;Enable automanage,fix lint errors, add indexing info, and fix layout.
+A	BasicHistoryApi/.google/packaging.yaml
+M	BasicHistoryApi/README.md
+M	BasicHistoryApi/app/build.gradle
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistoryApi/app/src/main/res/layout/activity_main.xml
+
+7085e1f;Upd lib versions, upd instruct, tweak some project config items.
+M	BasicHistoryApi/README.md
+M	BasicHistoryApi/app/build.gradle
+M	BasicHistoryApi/app/src/main/AndroidManifest.xml
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistoryApi/gradle.properties
+M	README.md
+
+10439b4;Updated fitness samples to build against Google Play Services 7.
+M	BasicHistoryApi/app/build.gradle
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistorySessions/app/build.gradle
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicRecordingApi/app/build.gradle
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicSensorsApi/app/build.gradle
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+
+8a2147d;Updating sample config for compatibility with Android Studio 1.0
+M	BasicHistoryApi/app/build.gradle
+M	BasicHistoryApi/build.gradle
+M	BasicHistoryApi/gradle/wrapper/gradle-wrapper.properties
+M	BasicHistorySessions/app/build.gradle
+M	BasicHistorySessions/build.gradle
+M	BasicHistorySessions/gradle/wrapper/gradle-wrapper.properties
+M	BasicRecordingApi/app/build.gradle
+M	BasicRecordingApi/build.gradle
+M	BasicRecordingApi/gradle/wrapper/gradle-wrapper.properties
+M	BasicSensorsApi/app/build.gradle
+M	BasicSensorsApi/build.gradle
+M	BasicSensorsApi/gradle/wrapper/gradle-wrapper.properties
+
+3bb73a5;Updating for Google Play Services v6.5+ and targeting Lollipop SDK 21.
+M	BasicHistoryApi/app/build.gradle
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistoryApi/app/src/main/res/values/styles.xml
+M	BasicHistorySessions/app/build.gradle
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicHistorySessions/app/src/main/res/values/styles.xml
+M	BasicRecordingApi/app/build.gradle
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicRecordingApi/app/src/main/res/values/styles.xml
+M	BasicSensorsApi/app/build.gradle
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+M	BasicSensorsApi/app/src/main/res/values/styles.xml
+
+e5b43c0;Renaming for clarity in documentation snippet
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+
+826b163;Merge pull request #1 from googlesamples/regs/heads/master
+28f00c1;Updating Fit samples to account for breaking changes in Google Play Services v6.1.84+
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+
+0c097f1;Updating Google Play Services version number
+M	BasicHistoryApi/app/build.gradle
+M	BasicHistorySessions/app/build.gradle
+M	BasicRecordingApi/app/build.gradle
+M	BasicSensorsApi/app/build.gradle
+
+09a266b;Updating samples to support SDKs 9 to 19 instead of the L preview
+M	BasicHistoryApi/README.md
+M	BasicHistoryApi/app/build.gradle
+M	BasicHistoryApi/app/src/main/AndroidManifest.xml
+M	BasicHistoryApi/app/src/main/res/menu/main.xml
+D	BasicHistoryApi/app/src/main/res/values-v21/styles.xml
+M	BasicHistoryApi/app/src/main/res/values/styles.xml
+M	BasicHistorySessions/README.md
+M	BasicHistorySessions/app/build.gradle
+M	BasicHistorySessions/app/src/main/AndroidManifest.xml
+M	BasicHistorySessions/app/src/main/res/menu/main.xml
+D	BasicHistorySessions/app/src/main/res/values-v21/styles.xml
+M	BasicHistorySessions/app/src/main/res/values/styles.xml
+M	BasicRecordingApi/README.md
+M	BasicRecordingApi/app/build.gradle
+M	BasicRecordingApi/app/src/main/AndroidManifest.xml
+M	BasicRecordingApi/app/src/main/res/menu/main.xml
+D	BasicRecordingApi/app/src/main/res/values-v21/styles.xml
+M	BasicRecordingApi/app/src/main/res/values/styles.xml
+M	BasicSensorsApi/README.md
+M	BasicSensorsApi/app/build.gradle
+M	BasicSensorsApi/app/src/main/AndroidManifest.xml
+M	BasicSensorsApi/app/src/main/res/menu/main.xml
+D	BasicSensorsApi/app/src/main/res/values-v21/styles.xml
+M	BasicSensorsApi/app/src/main/res/values/styles.xml
+
+d8eeee7;Merge "Adding documentation snippets for auth code"
+a6c39a7;Adding documentation snippets for auth code
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+
+815979d;Correcting the Copyright text
+M	BasicHistoryApi/app/src/main/AndroidManifest.xml
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+M	BasicHistoryApi/app/src/main/res/layout/activity_main.xml
+M	BasicHistoryApi/app/src/main/res/menu/main.xml
+M	BasicHistoryApi/app/src/main/res/values-v21/styles.xml
+M	BasicHistoryApi/app/src/main/res/values-w820dp/dimens.xml
+M	BasicHistoryApi/app/src/main/res/values/dimens.xml
+M	BasicHistoryApi/app/src/main/res/values/strings.xml
+M	BasicHistoryApi/app/src/main/res/values/styles.xml
+M	BasicHistorySessions/app/src/main/AndroidManifest.xml
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+M	BasicHistorySessions/app/src/main/res/layout/activity_main.xml
+M	BasicHistorySessions/app/src/main/res/menu/main.xml
+M	BasicHistorySessions/app/src/main/res/values-v21/styles.xml
+M	BasicHistorySessions/app/src/main/res/values-w820dp/dimens.xml
+M	BasicHistorySessions/app/src/main/res/values/dimens.xml
+M	BasicHistorySessions/app/src/main/res/values/strings.xml
+M	BasicHistorySessions/app/src/main/res/values/styles.xml
+M	BasicRecordingApi/app/src/main/AndroidManifest.xml
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+M	BasicRecordingApi/app/src/main/res/layout/activity_main.xml
+M	BasicRecordingApi/app/src/main/res/menu/main.xml
+M	BasicRecordingApi/app/src/main/res/values-v21/styles.xml
+M	BasicRecordingApi/app/src/main/res/values-w820dp/dimens.xml
+M	BasicRecordingApi/app/src/main/res/values/dimens.xml
+M	BasicRecordingApi/app/src/main/res/values/strings.xml
+M	BasicRecordingApi/app/src/main/res/values/styles.xml
+M	BasicSensorsApi/app/src/main/AndroidManifest.xml
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+M	BasicSensorsApi/app/src/main/res/layout/activity_main.xml
+M	BasicSensorsApi/app/src/main/res/menu/main.xml
+M	BasicSensorsApi/app/src/main/res/values-v21/styles.xml
+M	BasicSensorsApi/app/src/main/res/values-w820dp/dimens.xml
+M	BasicSensorsApi/app/src/main/res/values/dimens.xml
+M	BasicSensorsApi/app/src/main/res/values/strings.xml
+M	BasicSensorsApi/app/src/main/res/values/styles.xml
+
+5706daa;Adding documentation snippet markup, and correcting scope list for BasicHistorySessions
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicSensorsApi/app/src/main/AndroidManifest.xml
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+
+66fde91;Updating subscribe flow and also cleaning up cancel calls for clarity
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicRecordingApi/app/src/main/res/values-v21/styles.xml
+
+d71a6ae;Updating samples for naming changes
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+
+68f2e49;Adding support for Activity Segments
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+
+dc5993d;Create README.md
+A	README.md
+
+bf8d665;Adding licenses and such to samples
+A	BasicHistoryApi/CONTRIB.md
+A	BasicHistoryApi/LICENSE
+A	BasicHistoryApi/README.md
+M	BasicHistoryApi/app/src/main/AndroidManifest.xml
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+M	BasicHistoryApi/app/src/main/res/drawable-hdpi/ic_launcher.png
+M	BasicHistoryApi/app/src/main/res/drawable-mdpi/ic_launcher.png
+M	BasicHistoryApi/app/src/main/res/drawable-xhdpi/ic_launcher.png
+M	BasicHistoryApi/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	BasicHistoryApi/app/src/main/res/layout/activity_main.xml
+M	BasicHistoryApi/app/src/main/res/menu/main.xml
+M	BasicHistoryApi/app/src/main/res/values-v21/styles.xml
+M	BasicHistoryApi/app/src/main/res/values-w820dp/dimens.xml
+M	BasicHistoryApi/app/src/main/res/values/dimens.xml
+M	BasicHistoryApi/app/src/main/res/values/strings.xml
+M	BasicHistoryApi/app/src/main/res/values/styles.xml
+A	BasicHistoryApi/big_icon.png
+A	BasicHistoryApi/packaging.yaml
+A	BasicHistorySessions/CONTRIB.md
+A	BasicHistorySessions/LICENSE
+A	BasicHistorySessions/README.md
+M	BasicHistorySessions/app/src/main/AndroidManifest.xml
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+M	BasicHistorySessions/app/src/main/res/drawable-hdpi/ic_launcher.png
+M	BasicHistorySessions/app/src/main/res/drawable-mdpi/ic_launcher.png
+M	BasicHistorySessions/app/src/main/res/drawable-xhdpi/ic_launcher.png
+M	BasicHistorySessions/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	BasicHistorySessions/app/src/main/res/layout/activity_main.xml
+M	BasicHistorySessions/app/src/main/res/menu/main.xml
+M	BasicHistorySessions/app/src/main/res/values-v21/styles.xml
+M	BasicHistorySessions/app/src/main/res/values-w820dp/dimens.xml
+M	BasicHistorySessions/app/src/main/res/values/dimens.xml
+M	BasicHistorySessions/app/src/main/res/values/strings.xml
+M	BasicHistorySessions/app/src/main/res/values/styles.xml
+A	BasicHistorySessions/big_icon.png
+A	BasicHistorySessions/packaging.yaml
+A	BasicRecordingApi/CONTRIB.md
+A	BasicRecordingApi/LICENSE
+A	BasicRecordingApi/README.md
+M	BasicRecordingApi/app/src/main/AndroidManifest.xml
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+M	BasicRecordingApi/app/src/main/res/drawable-hdpi/ic_launcher.png
+M	BasicRecordingApi/app/src/main/res/drawable-mdpi/ic_launcher.png
+M	BasicRecordingApi/app/src/main/res/drawable-xhdpi/ic_launcher.png
+M	BasicRecordingApi/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	BasicRecordingApi/app/src/main/res/layout/activity_main.xml
+M	BasicRecordingApi/app/src/main/res/menu/main.xml
+M	BasicRecordingApi/app/src/main/res/values-v21/styles.xml
+M	BasicRecordingApi/app/src/main/res/values-w820dp/dimens.xml
+M	BasicRecordingApi/app/src/main/res/values/dimens.xml
+M	BasicRecordingApi/app/src/main/res/values/strings.xml
+M	BasicRecordingApi/app/src/main/res/values/styles.xml
+A	BasicRecordingApi/big_icon.png
+A	BasicRecordingApi/packaging.yaml
+A	BasicSensorsApi/CONTRIB.md
+A	BasicSensorsApi/LICENSE
+A	BasicSensorsApi/README.md
+M	BasicSensorsApi/app/src/main/AndroidManifest.xml
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+M	BasicSensorsApi/app/src/main/res/drawable-hdpi/ic_launcher.png
+M	BasicSensorsApi/app/src/main/res/drawable-mdpi/ic_launcher.png
+M	BasicSensorsApi/app/src/main/res/drawable-xhdpi/ic_launcher.png
+M	BasicSensorsApi/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	BasicSensorsApi/app/src/main/res/layout/activity_main.xml
+M	BasicSensorsApi/app/src/main/res/menu/main.xml
+M	BasicSensorsApi/app/src/main/res/values-v21/styles.xml
+M	BasicSensorsApi/app/src/main/res/values-w820dp/dimens.xml
+M	BasicSensorsApi/app/src/main/res/values/dimens.xml
+M	BasicSensorsApi/app/src/main/res/values/strings.xml
+M	BasicSensorsApi/app/src/main/res/values/styles.xml
+A	BasicSensorsApi/big_icon.png
+A	BasicSensorsApi/packaging.yaml
+
+632283b;Merge "Revising auth flow for correctness and best practices"
+7dfc4ec;Merge "Revising auth flow for correctness and best practices"
+d50d610;Merge "Revising auth flow for correctness and best practices"
+aa62cbb;Cleaning up pending results
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+
+58cf7f8;Revising auth flow for correctness and best practices
+M	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+
+d980a8b;Revising auth flow for correctness and best practices
+M	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+
+3e94ebd;Revising auth flow for correctness and best practices
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+
+dc5b597;Merge "Updating auth flow to be a better practice"
+caa31fe;Merge "Initial import of BasicHistoryApi sample for L preview"
+543d10c;Updating auth flow to be a better practice
+M	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+
+e9abe5a;Initial import of BasicHistoryApi sample for L preview
+A	BasicHistoryApi/.gitignore
+A	BasicHistoryApi/app/.gitignore
+A	BasicHistoryApi/app/build.gradle
+A	BasicHistoryApi/app/proguard-rules.pro
+A	BasicHistoryApi/app/src/main/AndroidManifest.xml
+A	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/basichistoryapi/MainActivity.java
+A	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+A	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+A	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+A	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+A	BasicHistoryApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+A	BasicHistoryApi/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicHistoryApi/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicHistoryApi/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicHistoryApi/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicHistoryApi/app/src/main/res/layout/activity_main.xml
+A	BasicHistoryApi/app/src/main/res/menu/main.xml
+A	BasicHistoryApi/app/src/main/res/values-v21/styles.xml
+A	BasicHistoryApi/app/src/main/res/values-w820dp/dimens.xml
+A	BasicHistoryApi/app/src/main/res/values/dimens.xml
+A	BasicHistoryApi/app/src/main/res/values/strings.xml
+A	BasicHistoryApi/app/src/main/res/values/styles.xml
+A	BasicHistoryApi/build.gradle
+A	BasicHistoryApi/gradle.properties
+A	BasicHistoryApi/gradle/wrapper/gradle-wrapper.jar
+A	BasicHistoryApi/gradle/wrapper/gradle-wrapper.properties
+A	BasicHistoryApi/gradlew
+A	BasicHistoryApi/gradlew.bat
+A	BasicHistoryApi/settings.gradle
+
+09a52d2;Merge "Initial import of BasicSessions sample for L preview"
+d8d2c24;Initial import of BasicSessions sample for L preview
+A	BasicHistorySessions/.gitignore
+A	BasicHistorySessions/app/.gitignore
+A	BasicHistorySessions/app/build.gradle
+A	BasicHistorySessions/app/proguard-rules.pro
+A	BasicHistorySessions/app/src/main/AndroidManifest.xml
+A	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java
+A	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+A	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+A	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+A	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+A	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+A	BasicHistorySessions/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicHistorySessions/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicHistorySessions/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicHistorySessions/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicHistorySessions/app/src/main/res/layout/activity_main.xml
+A	BasicHistorySessions/app/src/main/res/menu/main.xml
+A	BasicHistorySessions/app/src/main/res/values-v21/styles.xml
+A	BasicHistorySessions/app/src/main/res/values-w820dp/dimens.xml
+A	BasicHistorySessions/app/src/main/res/values/dimens.xml
+A	BasicHistorySessions/app/src/main/res/values/strings.xml
+A	BasicHistorySessions/app/src/main/res/values/styles.xml
+A	BasicHistorySessions/build.gradle
+A	BasicHistorySessions/gradle.properties
+A	BasicHistorySessions/gradle/wrapper/gradle-wrapper.jar
+A	BasicHistorySessions/gradle/wrapper/gradle-wrapper.properties
+A	BasicHistorySessions/gradlew
+A	BasicHistorySessions/gradlew.bat
+A	BasicHistorySessions/settings.gradle
+
+31c6826;Merge "Initial import of BasicSensorsApi sample for L preview"
+eab1942;Initial import of BasicRecordingApi sample for L preview
+A	BasicRecordingApi/.gitignore
+A	BasicRecordingApi/app/.gitignore
+A	BasicRecordingApi/app/build.gradle
+A	BasicRecordingApi/app/proguard-rules.pro
+A	BasicRecordingApi/app/src/main/AndroidManifest.xml
+A	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/basicrecordingapi/MainActivity.java
+A	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+A	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+A	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+A	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+A	BasicRecordingApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+A	BasicRecordingApi/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicRecordingApi/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicRecordingApi/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicRecordingApi/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicRecordingApi/app/src/main/res/layout/activity_main.xml
+A	BasicRecordingApi/app/src/main/res/menu/main.xml
+A	BasicRecordingApi/app/src/main/res/values-v21/styles.xml
+A	BasicRecordingApi/app/src/main/res/values-w820dp/dimens.xml
+A	BasicRecordingApi/app/src/main/res/values/dimens.xml
+A	BasicRecordingApi/app/src/main/res/values/strings.xml
+A	BasicRecordingApi/app/src/main/res/values/styles.xml
+A	BasicRecordingApi/build.gradle
+A	BasicRecordingApi/gradle.properties
+A	BasicRecordingApi/gradle/wrapper/gradle-wrapper.jar
+A	BasicRecordingApi/gradle/wrapper/gradle-wrapper.properties
+A	BasicRecordingApi/gradlew
+A	BasicRecordingApi/gradlew.bat
+A	BasicRecordingApi/settings.gradle
+
+381c0ee;Initial import of BasicSensorsApi sample for L preview
+A	BasicSensorsApi/.gitignore
+A	BasicSensorsApi/app/.gitignore
+A	BasicSensorsApi/app/build.gradle
+A	BasicSensorsApi/app/proguard-rules.pro
+A	BasicSensorsApi/app/src/main/AndroidManifest.xml
+A	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/basicsensorsapi/MainActivity.java
+A	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/Log.java
+A	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogNode.java
+A	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogView.java
+A	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/LogWrapper.java
+A	BasicSensorsApi/app/src/main/java/com/google/android/gms/fit/samples/common/logger/MessageOnlyLogFilter.java
+A	BasicSensorsApi/app/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicSensorsApi/app/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicSensorsApi/app/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicSensorsApi/app/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicSensorsApi/app/src/main/res/layout/activity_main.xml
+A	BasicSensorsApi/app/src/main/res/menu/main.xml
+A	BasicSensorsApi/app/src/main/res/values-v21/styles.xml
+A	BasicSensorsApi/app/src/main/res/values-w820dp/dimens.xml
+A	BasicSensorsApi/app/src/main/res/values/dimens.xml
+A	BasicSensorsApi/app/src/main/res/values/strings.xml
+A	BasicSensorsApi/app/src/main/res/values/styles.xml
+A	BasicSensorsApi/build.gradle
+A	BasicSensorsApi/gradle.properties
+A	BasicSensorsApi/gradle/wrapper/gradle-wrapper.jar
+A	BasicSensorsApi/gradle/wrapper/gradle-wrapper.properties
+A	BasicSensorsApi/gradlew
+A	BasicSensorsApi/gradlew.bat
+A	BasicSensorsApi/settings.gradle
+
+3e5c959;Initial empty repository

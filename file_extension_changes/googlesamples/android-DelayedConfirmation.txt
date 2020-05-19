@@ -1,0 +1,231 @@
+7181343;Update README.md
+M	README.md
+
+58a63b9;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+2803c5d;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+
+0ecd1f0;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+092422e;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+41c84f6;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+f96d6b8;Auto-update
+M	Wearable/build.gradle
+
+abe3a1f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+d2ddf40;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+f7f85e3;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+b38a668;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+49c7053;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+0be51b8;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+M	Wearable/build.gradle
+
+ae43d09;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+da4f13d;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+M	Wearable/build.gradle
+
+2839fa5;Auto-update
+M	Application/build.gradle
+
+2b1d215;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+943f0d8;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+M	Wearable/build.gradle
+
+848c421;Auto-update
+M	Application/build.gradle
+A	NOTICE
+M	Wearable/build.gradle
+
+69e2645;Auto-update
+M	LICENSE
+D	NOTICE
+
+45be760;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+M	Wearable/build.gradle
+M	settings.gradle
+
+34e6c34;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/wearable/delayedconfirmation/MainActivity.java
+A	Application/src/main/res/values/wear.xml
+M	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/delayedconfirmation/MainActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/delayedconfirmation/WearableMessageListenerService.java
+M	Wearable/src/main/res/values/strings.xml
+
+d0ffcdc;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+M	Wearable/build.gradle
+
+f8e3a40;Auto-update
+M	NOTICE
+
+ed4da60;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+3951bbe;Auto-update
+M	Application/build.gradle
+A	CONTRIB.md
+A	NOTICE
+M	Wearable/build.gradle
+
+b4b7b9b;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+a44a206;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R098	Application/src/main/java/com/example/android/delayedconfirmation/MainActivity.java	Application/src/main/java/com/example/android/wearable/delayedconfirmation/MainActivity.java
+D	Shared/build.gradle
+D	Shared/src/main/AndroidManifest.xml
+D	Shared/src/main/res/values/strings.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+R098	Wearable/src/main/java/com/example/android/delayedconfirmation/MainActivity.java	Wearable/src/main/java/com/example/android/wearable/delayedconfirmation/MainActivity.java
+R095	Wearable/src/main/java/com/example/android/delayedconfirmation/WearableMessageListenerService.java	Wearable/src/main/java/com/example/android/wearable/delayedconfirmation/WearableMessageListenerService.java
+A	screenshots/companion_delayed_confirmation.png
+A	screenshots/delayed_confirmation_box_inset_all.png
+A	screenshots/delayed_confirmation_box_inset_top.png
+A	screenshots/delayed_confirmation_notification.png
+M	settings.gradle
+
+aa3a0b2;Initial Commit
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/delayedconfirmation/MainActivity.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/main_activity.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIB.md
+A	LICENSE
+A	Shared/build.gradle
+A	Shared/src/main/AndroidManifest.xml
+A	Shared/src/main/res/values/strings.xml
+A	Wearable/build.gradle
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/delayedconfirmation/MainActivity.java
+A	Wearable/src/main/java/com/example/android/delayedconfirmation/WearableMessageListenerService.java
+A	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Wearable/src/main/res/layout/main_activity.xml
+A	Wearable/src/main/res/values/dimens.xml
+A	Wearable/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

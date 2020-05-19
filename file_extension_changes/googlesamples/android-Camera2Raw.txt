@@ -1,0 +1,129 @@
+8ef76bb;Update README.md
+M	README.md
+
+f0ac5d0;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+053c55c;Auto-update
+M	Application/build.gradle
+M	README.md
+
+8e664ba;Auto-update
+M	Application/build.gradle
+
+6747280;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java
+M	Application/src/main/res/layout-land/fragment_camera2_basic.xml
+M	Application/src/main/res/layout/fragment_camera2_basic.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+6a67e17;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+222e265;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8a82a39;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+73f5b3d;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+db13435;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+47b13aa;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java
+M	README.md
+
+2871950;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1a9626a;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java
+M	Application/src/main/res/values/strings.xml
+
+0ea0c05;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+bdc6bad;Auto-update
+M	Application/build.gradle
+M	README.md
+
+021120e;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+195294a;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+41161c4;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/camera2raw/AutoFitTextureView.java
+A	Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java
+A	Application/src/main/java/com/example/android/camera2raw/CameraActivity.java
+A	Application/src/main/res/drawable-hdpi/ic_action_info.png
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_action_info.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_action_info.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_action_info.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout-land/fragment_camera2_basic.xml
+A	Application/src/main/res/layout/activity_camera.xml
+A	Application/src/main/res/layout/fragment_camera2_basic.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/styles.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/tests/AndroidManifest.xml
+A	Application/tests/src/com/example/android/camera2raw/tests/SampleTests.java
+A	CONTRIB.md
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	screenshots/icon-web.png
+A	screenshots/main.png
+A	settings.gradle

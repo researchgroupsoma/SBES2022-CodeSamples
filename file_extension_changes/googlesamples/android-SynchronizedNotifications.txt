@@ -1,0 +1,259 @@
+ec6a7c8;Update README.md
+M	README.md
+
+6d66347;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+74d5c57;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+65059c2;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+468b890;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+b6c88a0;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+36344fb;Auto-update
+M	.google/packaging.yaml
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+
+4918257;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+1aae78f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+b9ef38b;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+45ecc2a;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+747d999;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/synchronizednotifications/DismissListener.java
+M	Application/src/main/java/com/example/android/wearable/synchronizednotifications/SynchronizedNotificationsFragment.java
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/synchronizednotifications/NotificationUpdateService.java
+M	Wearable/src/main/java/com/example/android/wearable/synchronizednotifications/WearableActivity.java
+M	gradle/wrapper/gradle-wrapper.properties
+
+573abf3;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+
+0130046;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+f48bd1d;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+7234653;Auto-update
+M	Wearable/build.gradle
+
+96f6497;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+D	NOTICE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+9aeac4a;Auto-update
+M	Application/build.gradle
+A	NOTICE
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+fb06b76;Auto-update
+M	LICENSE
+D	NOTICE
+
+9090030;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/synchronizednotifications/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	settings.gradle
+
+1295692;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+33e702e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+22a23c2;Auto-update
+M	NOTICE
+
+bfdf2f0;Auto-update
+M	.google/packaging.yaml
+M	README.md
+A	screenshots/web-icon.png
+
+d3b28a8;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+8a8bd96;Auto-update
+M	Application/build.gradle
+A	CONTRIB.md
+A	NOTICE
+M	Wearable/build.gradle
+
+43ec892;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/wearable/synchronizednotifications/MainActivity.java
+M	Application/src/main/res/layout-sw600dp-land/activity_main.xml
+M	Application/src/main/res/layout-sw600dp/activity_main.xml
+M	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+6707818;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+R097	Application/src/main/java/com/example/android/synchronizednotifications/DismissListener.java	Application/src/main/java/com/example/android/wearable/synchronizednotifications/DismissListener.java
+R097	Application/src/main/java/com/example/android/synchronizednotifications/MainActivity.java	Application/src/main/java/com/example/android/wearable/synchronizednotifications/MainActivity.java
+R096	Application/src/main/java/com/example/android/synchronizednotifications/SynchronizedNotificationsFragment.java	Application/src/main/java/com/example/android/wearable/synchronizednotifications/SynchronizedNotificationsFragment.java
+D	Application/tests/AndroidManifest.xml
+D	Application/tests/src/com/example/android/synchronizednotifications/tests/SampleTests.java
+M	Shared/build.gradle
+M	Shared/src/main/AndroidManifest.xml
+R089	Shared/src/main/java/com/example/android/synchronizednotifications/common/Constants.java	Shared/src/main/java/com/example/android/wearable/synchronizednotifications/common/Constants.java
+M	Shared/src/main/res/values/strings.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+R097	Wearable/src/main/java/com/example/android/synchronizednotifications/NotificationUpdateService.java	Wearable/src/main/java/com/example/android/wearable/synchronizednotifications/NotificationUpdateService.java
+R093	Wearable/src/main/java/com/example/android/synchronizednotifications/WearableActivity.java	Wearable/src/main/java/com/example/android/wearable/synchronizednotifications/WearableActivity.java
+R100	Wearable/src/template/res/drawable-hdpi/ic_launcher.png	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+R100	Wearable/src/template/res/drawable-mdpi/ic_launcher.png	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+R100	Wearable/src/template/res/drawable-xhdpi/ic_launcher.png	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+M	Wearable/src/main/res/values/strings.xml
+A	screenshots/different_notifications_phone.png
+A	screenshots/different_notifications_wearable.png
+A	screenshots/notification_options.png
+A	screenshots/watch_only_notification.png
+
+6c62a43;Initial Commit
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/synchronizednotifications/DismissListener.java
+A	Application/src/main/java/com/example/android/synchronizednotifications/MainActivity.java
+A	Application/src/main/java/com/example/android/synchronizednotifications/SynchronizedNotificationsFragment.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout-sw600dp-land/activity_main.xml
+A	Application/src/main/res/layout-sw600dp/activity_main.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/menu/main.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/sample-strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/tests/AndroidManifest.xml
+A	Application/tests/src/com/example/android/synchronizednotifications/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	Shared/build.gradle
+A	Shared/src/main/AndroidManifest.xml
+A	Shared/src/main/java/com/example/android/synchronizednotifications/common/Constants.java
+A	Shared/src/main/res/values/strings.xml
+A	Wearable/build.gradle
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/synchronizednotifications/NotificationUpdateService.java
+A	Wearable/src/main/java/com/example/android/synchronizednotifications/WearableActivity.java
+A	Wearable/src/main/res/layout/activity_wearable.xml
+A	Wearable/src/main/res/values/strings.xml
+A	Wearable/src/template/res/drawable-hdpi/ic_launcher.png
+A	Wearable/src/template/res/drawable-mdpi/ic_launcher.png
+A	Wearable/src/template/res/drawable-xhdpi/ic_launcher.png
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

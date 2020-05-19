@@ -1,0 +1,190 @@
+6ff0c4a;Update README.md
+M	README.md
+
+d7570e6;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+023844d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+dd8c85b;Auto-update
+M	Application/build.gradle
+
+1569831;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/layout/sample_main.xml
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+81b79ea;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8ea71be;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+2fead30;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d9f29de;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+928990f;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+8d63bc8;Auto-update
+M	Application/build.gradle
+M	README.md
+
+ec0af4c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+449e75b;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+6d63f80;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+c168f2f;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+38b0b76;Auto-update
+M	LICENSE
+D	NOTICE
+
+ee09af6;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+1aadf5b;Auto-update
+M	Application/build.gradle
+M	README.md
+
+8dc04fc;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/src/com/example/android/basicmediarouter/tests/SampleTests.java
+M	README.md
+
+e05c243;Auto-update
+M	NOTICE
+
+2b02c5e;Auto-update
+M	Application/build.gradle
+
+edecccd;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+9b41cd9;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9772d3e;Auto-update
+R072	BasicMediaRouterSample/build.gradle	Application/build.gradle
+R093	BasicMediaRouterSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	BasicMediaRouterSample/src/main/java/com/example/android/basicmediarouter/MainActivity.java	Application/src/main/java/com/example/android/basicmediarouter/MainActivity.java
+R100	BasicMediaRouterSample/src/main/java/com/example/android/basicmediarouter/SamplePresentation.java	Application/src/main/java/com/example/android/basicmediarouter/SamplePresentation.java
+R100	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	BasicMediaRouterSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	BasicMediaRouterSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	BasicMediaRouterSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	BasicMediaRouterSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	BasicMediaRouterSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	BasicMediaRouterSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	BasicMediaRouterSample/src/main/res/layout/display.xml	Application/src/main/res/layout/display.xml
+R100	BasicMediaRouterSample/src/main/res/layout/sample_main.xml	Application/src/main/res/layout/sample_main.xml
+R100	BasicMediaRouterSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	BasicMediaRouterSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	BasicMediaRouterSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	BasicMediaRouterSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	BasicMediaRouterSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	BasicMediaRouterSample/src/main/res/values/colors.xml	Application/src/main/res/values/colors.xml
+R100	BasicMediaRouterSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	BasicMediaRouterSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	BasicMediaRouterSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	BasicMediaRouterSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R093	BasicMediaRouterSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	BasicMediaRouterSample/tests/src/com/example/android/basicmediarouter/tests/SampleTests.java	Application/tests/src/com/example/android/basicmediarouter/tests/SampleTests.java
+M	settings.gradle
+
+df1d7f0;Initial Commit
+A	BasicMediaRouterSample/build.gradle
+A	BasicMediaRouterSample/src/main/AndroidManifest.xml
+A	BasicMediaRouterSample/src/main/java/com/example/android/basicmediarouter/MainActivity.java
+A	BasicMediaRouterSample/src/main/java/com/example/android/basicmediarouter/SamplePresentation.java
+A	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/Log.java
+A	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/LogView.java
+A	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	BasicMediaRouterSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	BasicMediaRouterSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicMediaRouterSample/src/main/res/drawable-hdpi/tile.9.png
+A	BasicMediaRouterSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicMediaRouterSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicMediaRouterSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicMediaRouterSample/src/main/res/layout/activity_main.xml
+A	BasicMediaRouterSample/src/main/res/layout/display.xml
+A	BasicMediaRouterSample/src/main/res/layout/sample_main.xml
+A	BasicMediaRouterSample/src/main/res/menu/main.xml
+A	BasicMediaRouterSample/src/main/res/values-sw600dp/template-dimens.xml
+A	BasicMediaRouterSample/src/main/res/values-sw600dp/template-styles.xml
+A	BasicMediaRouterSample/src/main/res/values-v11/template-styles.xml
+A	BasicMediaRouterSample/src/main/res/values/base-strings.xml
+A	BasicMediaRouterSample/src/main/res/values/colors.xml
+A	BasicMediaRouterSample/src/main/res/values/strings.xml
+A	BasicMediaRouterSample/src/main/res/values/styles.xml
+A	BasicMediaRouterSample/src/main/res/values/template-dimens.xml
+A	BasicMediaRouterSample/src/main/res/values/template-styles.xml
+A	BasicMediaRouterSample/tests/AndroidManifest.xml
+A	BasicMediaRouterSample/tests/src/com/example/android/basicmediarouter/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

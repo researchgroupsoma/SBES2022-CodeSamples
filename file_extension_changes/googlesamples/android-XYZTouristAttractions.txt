@@ -1,0 +1,502 @@
+80f21ed;Merge pull request #12 from googlesamples/remove
+34b810f;Removes all files for migration to github.com/android/wear-os.
+D	.google/packaging.yaml
+D	Application/build.gradle
+D	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/xyztouristattractions/config/GlideConfiguration.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/provider/TouristAttractions.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/service/ListenerService.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/service/UtilityReceiver.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/service/UtilityService.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListActivity.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListFragment.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsRecyclerView.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/ui/DetailActivity.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/ui/DetailFragment.java
+D	Application/src/main/java/com/example/android/xyztouristattractions/ui/ScaleTransition.java
+D	Application/src/main/res/drawable-hdpi/ic_action_map.png
+D	Application/src/main/res/drawable-hdpi/ic_stat_maps_pin_drop.png
+D	Application/src/main/res/drawable-hdpi/tile.9.png
+D	Application/src/main/res/drawable-mdpi/ic_action_map.png
+D	Application/src/main/res/drawable-mdpi/ic_stat_maps_pin_drop.png
+D	Application/src/main/res/drawable-nodpi/empty_photo.png
+D	Application/src/main/res/drawable-xhdpi/ic_action_map.png
+D	Application/src/main/res/drawable-xhdpi/ic_stat_maps_pin_drop.png
+D	Application/src/main/res/drawable-xxhdpi/ic_action_map.png
+D	Application/src/main/res/drawable-xxhdpi/ic_stat_maps_pin_drop.png
+D	Application/src/main/res/layout/activity_main.xml
+D	Application/src/main/res/layout/fragment_detail.xml
+D	Application/src/main/res/layout/fragment_main.xml
+D	Application/src/main/res/layout/list_row.xml
+D	Application/src/main/res/menu/main.xml
+D	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+D	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+D	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+D	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+D	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+D	Application/src/main/res/transition-v21/fade.xml
+D	Application/src/main/res/transition-v21/shared_move.xml
+D	Application/src/main/res/transition-v21/window_enter.xml
+D	Application/src/main/res/transition-v21/window_return.xml
+D	Application/src/main/res/values-sw400dp-v21/dimens.xml
+D	Application/src/main/res/values-sw400dp/dimens.xml
+D	Application/src/main/res/values-sw600dp/dimens.xml
+D	Application/src/main/res/values-sw600dp/template-dimens.xml
+D	Application/src/main/res/values-sw600dp/template-styles.xml
+D	Application/src/main/res/values-sw720dp/dimens.xml
+D	Application/src/main/res/values-v11/template-styles.xml
+D	Application/src/main/res/values-v21/base-colors.xml
+D	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/dimens.xml
+D	Application/src/main/res/values-v21/styles.xml
+D	Application/src/main/res/values-w820dp/dimens.xml
+D	Application/src/main/res/values/base-strings.xml
+D	Application/src/main/res/values/colors.xml
+D	Application/src/main/res/values/dimens.xml
+D	Application/src/main/res/values/strings.xml
+D	Application/src/main/res/values/styles.xml
+D	Application/src/main/res/values/template-dimens.xml
+D	Application/src/main/res/values/template-styles.xml
+D	Application/src/main/res/values/wear.xml
+D	CONTRIBUTING.md
+D	LICENSE
+D	Shared/build.gradle
+D	Shared/proguard-rules.pro
+D	Shared/src/main/AndroidManifest.xml
+D	Shared/src/main/java/com/example/android/xyztouristattractions/common/Attraction.java
+D	Shared/src/main/java/com/example/android/xyztouristattractions/common/Constants.java
+D	Shared/src/main/java/com/example/android/xyztouristattractions/common/Utils.java
+D	Shared/src/main/res/values/colors.xml
+D	Shared/src/main/res/values/strings.xml
+D	Wearable/build.gradle
+D	Wearable/proguard-rules.pro
+D	Wearable/src/main/AndroidManifest.xml
+D	Wearable/src/main/java/com/example/android/xyztouristattractions/service/ListenerService.java
+D	Wearable/src/main/java/com/example/android/xyztouristattractions/service/UtilityService.java
+D	Wearable/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsActivity.java
+D	Wearable/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsGridPagerAdapter.java
+D	Wearable/src/main/res/drawable-hdpi/ic_full_directions_walking.png
+D	Wearable/src/main/res/drawable-hdpi/ic_full_explore.png
+D	Wearable/src/main/res/drawable-hdpi/ic_full_openonphone.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_full_directions_walking.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_full_explore.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_full_openonphone.png
+D	Wearable/src/main/res/layout/activity_main.xml
+D	Wearable/src/main/res/layout/gridpager_action.xml
+D	Wearable/src/main/res/layout/gridpager_card.xml
+D	Wearable/src/main/res/layout/gridpager_fullscreen_image.xml
+D	Wearable/src/main/res/mipmap-hdpi/ic_launcher.png
+D	Wearable/src/main/res/mipmap-xhdpi/ic_launcher.png
+D	Wearable/src/main/res/values/dimens.xml
+D	Wearable/src/main/res/values/strings.xml
+D	Wearable/src/main/res/values/styles.xml
+D	build.gradle
+D	gradle.properties
+D	gradle/wrapper/gradle-wrapper.jar
+D	gradle/wrapper/gradle-wrapper.properties
+D	gradlew
+D	gradlew.bat
+D	screenshots/composite-1-hires.png
+D	screenshots/composite-1.png
+D	screenshots/icon-web.png
+D	screenshots/mobile-1-list.png
+D	screenshots/mobile-2-detail.png
+D	screenshots/wear-round-1.png
+D	screenshots/wear-round-2.png
+D	screenshots/wear-round-3.png
+D	screenshots/wear-round-4.png
+D	screenshots/wear-round-5.png
+D	screenshots/wear-round-6.png
+D	screenshots/wear-square-1.png
+D	screenshots/wear-square-2.png
+D	screenshots/wear-square-3.png
+D	screenshots/wear-square-4.png
+D	screenshots/wear-square-5.png
+D	screenshots/wear-square-6.png
+D	settings.gradle
+
+a3698bd;Update README.md
+M	README.md
+
+703cf64;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/xyztouristattractions/service/ListenerService.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/service/UtilityReceiver.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/service/UtilityService.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListActivity.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListFragment.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsRecyclerView.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/DetailActivity.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/DetailFragment.java
+M	Application/src/main/res/layout/activity_main.xml
+M	Application/src/main/res/layout/fragment_detail.xml
+M	README.md
+M	Shared/build.gradle
+M	Shared/src/main/java/com/example/android/xyztouristattractions/common/Utils.java
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/xyztouristattractions/service/ListenerService.java
+M	Wearable/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsActivity.java
+M	gradle.properties
+M	gradle/wrapper/gradle-wrapper.jar
+M	gradle/wrapper/gradle-wrapper.properties
+M	gradlew
+M	gradlew.bat
+
+8ec0b61;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+A	gradle.properties
+
+72d63da;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+e18474b;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/xyztouristattractions/service/UtilityService.java
+M	LICENSE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+fa77a8f;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+93fabf5;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+597b769;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+e48fb07;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+e03aebc;Auto-update
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+
+cbd7d85;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+638bcd8;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+8c27e68;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+f8bbd9f;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+523f697;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/xyztouristattractions/service/UtilityService.java
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+53cc9ea;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+2c0e42a;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/xyztouristattractions/provider/TouristAttractions.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/service/UtilityService.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListActivity.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListFragment.java
+M	Application/src/main/res/layout/activity_main.xml
+M	Application/src/main/res/values/strings.xml
+M	README.md
+M	Shared/build.gradle
+M	Shared/src/main/java/com/example/android/xyztouristattractions/common/Utils.java
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/xyztouristattractions/service/ListenerService.java
+M	Wearable/src/main/res/layout/gridpager_action.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+5fcd363;Auto-update
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListFragment.java
+M	Application/src/main/res/layout/fragment_main.xml
+
+f62ac8f;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+M	Shared/build.gradle
+M	Wearable/build.gradle
+
+1c5d31a;Auto-update
+M	Wearable/build.gradle
+
+d57ea82;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/ScaleTransition.java
+M	Application/src/main/res/layout/fragment_detail.xml
+A	Application/src/main/res/values-sw400dp-v21/dimens.xml
+M	Application/src/main/res/values-sw400dp/dimens.xml
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values-v21/dimens.xml
+M	Application/src/main/res/values/dimens.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	screenshots/composite-1-hires.png
+M	screenshots/composite-1.png
+D	screenshots/mobile-1-list-unframed.png
+M	screenshots/mobile-1-list.png
+D	screenshots/mobile-2-detail-unframed.png
+M	screenshots/mobile-2-detail.png
+D	screenshots/wear-round-1-unframed.png
+M	screenshots/wear-round-1.png
+D	screenshots/wear-round-2-unframed.png
+M	screenshots/wear-round-2.png
+D	screenshots/wear-round-3-unframed.png
+M	screenshots/wear-round-3.png
+D	screenshots/wear-round-4-unframed.png
+M	screenshots/wear-round-4.png
+D	screenshots/wear-round-5-unframed.png
+M	screenshots/wear-round-5.png
+D	screenshots/wear-round-6-unframed.png
+M	screenshots/wear-round-6.png
+D	screenshots/wear-square-1-unframed.png
+M	screenshots/wear-square-1.png
+D	screenshots/wear-square-2-unframed.png
+M	screenshots/wear-square-2.png
+D	screenshots/wear-square-3-unframed.png
+M	screenshots/wear-square-3.png
+D	screenshots/wear-square-4-unframed.png
+M	screenshots/wear-square-4.png
+D	screenshots/wear-square-5-unframed.png
+M	screenshots/wear-square-5.png
+D	screenshots/wear-square-6-unframed.png
+M	screenshots/wear-square-6.png
+
+1d373aa;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListFragment.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/DetailFragment.java
+A	Application/src/main/java/com/example/android/xyztouristattractions/ui/ScaleTransition.java
+M	Application/src/main/res/layout/fragment_detail.xml
+M	Application/src/main/res/layout/list_row.xml
+D	Application/src/main/res/menu/detail.xml
+A	Application/src/main/res/transition-v21/shared_move.xml
+R076	Application/src/main/res/transition-v21/explode.xml	Application/src/main/res/transition-v21/window_enter.xml
+A	Application/src/main/res/transition-v21/window_return.xml
+M	Application/src/main/res/values-v21/styles.xml
+A	NOTICE
+M	Shared/build.gradle
+M	Shared/src/main/res/values/colors.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/xyztouristattractions/service/ListenerService.java
+
+17aed51;Auto-update
+M	LICENSE
+D	NOTICE
+
+c2ed93b;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/xyztouristattractions/config/GlideConfiguration.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListActivity.java
+M	Application/src/main/java/com/example/android/xyztouristattractions/ui/DetailActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	Application/src/main/res/values/colors.xml
+M	NOTICE
+M	README.md
+M	Shared/build.gradle
+R073	Wearable/src/main/res/color/action_color.xml	Shared/src/main/res/values/colors.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsActivity.java
+M	Wearable/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsGridPagerAdapter.java
+D	Wearable/src/main/res/drawable-hdpi/ic_full_open_on_device.png
+A	Wearable/src/main/res/drawable-hdpi/ic_full_openonphone.png
+D	Wearable/src/main/res/drawable-xhdpi/ic_full_open_on_device.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_full_openonphone.png
+M	Wearable/src/main/res/layout/activity_main.xml
+M	Wearable/src/main/res/layout/gridpager_action.xml
+D	Wearable/src/main/res/layout/gridpager_action_round.xml
+D	Wearable/src/main/res/layout/gridpager_action_square.xml
+M	Wearable/src/main/res/values/styles.xml
+M	settings.gradle
+
+1f5a0e9;Auto-update
+M	Application/build.gradle
+A	Application/src/main/res/values/wear.xml
+M	README.md
+M	Shared/build.gradle
+A	Shared/src/main/res/values/strings.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/xyztouristattractions/service/UtilityService.java
+
+863d9ca;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/xyztouristattractions/provider/TouristAttractions.java
+A	Application/src/main/java/com/example/android/xyztouristattractions/service/ListenerService.java
+A	Application/src/main/java/com/example/android/xyztouristattractions/service/UtilityReceiver.java
+A	Application/src/main/java/com/example/android/xyztouristattractions/service/UtilityService.java
+A	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListActivity.java
+A	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionListFragment.java
+A	Application/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsRecyclerView.java
+A	Application/src/main/java/com/example/android/xyztouristattractions/ui/DetailActivity.java
+A	Application/src/main/java/com/example/android/xyztouristattractions/ui/DetailFragment.java
+A	Application/src/main/res/drawable-hdpi/ic_action_map.png
+A	Application/src/main/res/drawable-hdpi/ic_stat_maps_pin_drop.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_action_map.png
+A	Application/src/main/res/drawable-mdpi/ic_stat_maps_pin_drop.png
+A	Application/src/main/res/drawable-nodpi/empty_photo.png
+A	Application/src/main/res/drawable-xhdpi/ic_action_map.png
+A	Application/src/main/res/drawable-xhdpi/ic_stat_maps_pin_drop.png
+A	Application/src/main/res/drawable-xxhdpi/ic_action_map.png
+A	Application/src/main/res/drawable-xxhdpi/ic_stat_maps_pin_drop.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/fragment_detail.xml
+A	Application/src/main/res/layout/fragment_main.xml
+A	Application/src/main/res/layout/list_row.xml
+A	Application/src/main/res/menu/detail.xml
+A	Application/src/main/res/menu/main.xml
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	Application/src/main/res/transition-v21/explode.xml
+A	Application/src/main/res/transition-v21/fade.xml
+A	Application/src/main/res/values-sw400dp/dimens.xml
+A	Application/src/main/res/values-sw600dp/dimens.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-sw720dp/dimens.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values-v21/styles.xml
+A	Application/src/main/res/values-w820dp/dimens.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/colors.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/styles.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+A	README.md
+A	Shared/build.gradle
+A	Shared/proguard-rules.pro
+A	Shared/src/main/AndroidManifest.xml
+A	Shared/src/main/java/com/example/android/xyztouristattractions/common/Attraction.java
+A	Shared/src/main/java/com/example/android/xyztouristattractions/common/Constants.java
+A	Shared/src/main/java/com/example/android/xyztouristattractions/common/Utils.java
+A	Wearable/build.gradle
+A	Wearable/proguard-rules.pro
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/xyztouristattractions/service/ListenerService.java
+A	Wearable/src/main/java/com/example/android/xyztouristattractions/service/UtilityService.java
+A	Wearable/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsActivity.java
+A	Wearable/src/main/java/com/example/android/xyztouristattractions/ui/AttractionsGridPagerAdapter.java
+A	Wearable/src/main/res/color/action_color.xml
+A	Wearable/src/main/res/drawable-hdpi/ic_full_directions_walking.png
+A	Wearable/src/main/res/drawable-hdpi/ic_full_explore.png
+A	Wearable/src/main/res/drawable-hdpi/ic_full_open_on_device.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_full_directions_walking.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_full_explore.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_full_open_on_device.png
+A	Wearable/src/main/res/layout/activity_main.xml
+A	Wearable/src/main/res/layout/gridpager_action.xml
+A	Wearable/src/main/res/layout/gridpager_action_round.xml
+A	Wearable/src/main/res/layout/gridpager_action_square.xml
+A	Wearable/src/main/res/layout/gridpager_card.xml
+A	Wearable/src/main/res/layout/gridpager_fullscreen_image.xml
+A	Wearable/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Wearable/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Wearable/src/main/res/values/dimens.xml
+A	Wearable/src/main/res/values/strings.xml
+A	Wearable/src/main/res/values/styles.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/composite-1-hires.png
+A	screenshots/composite-1.png
+A	screenshots/icon-web.png
+A	screenshots/mobile-1-list-unframed.png
+A	screenshots/mobile-1-list.png
+A	screenshots/mobile-2-detail-unframed.png
+A	screenshots/mobile-2-detail.png
+A	screenshots/wear-round-1-unframed.png
+A	screenshots/wear-round-1.png
+A	screenshots/wear-round-2-unframed.png
+A	screenshots/wear-round-2.png
+A	screenshots/wear-round-3-unframed.png
+A	screenshots/wear-round-3.png
+A	screenshots/wear-round-4-unframed.png
+A	screenshots/wear-round-4.png
+A	screenshots/wear-round-5-unframed.png
+A	screenshots/wear-round-5.png
+A	screenshots/wear-round-6-unframed.png
+A	screenshots/wear-round-6.png
+A	screenshots/wear-square-1-unframed.png
+A	screenshots/wear-square-1.png
+A	screenshots/wear-square-2-unframed.png
+A	screenshots/wear-square-2.png
+A	screenshots/wear-square-3-unframed.png
+A	screenshots/wear-square-3.png
+A	screenshots/wear-square-4-unframed.png
+A	screenshots/wear-square-4.png
+A	screenshots/wear-square-5-unframed.png
+A	screenshots/wear-square-5.png
+A	screenshots/wear-square-6-unframed.png
+A	screenshots/wear-square-6.png
+A	settings.gradle

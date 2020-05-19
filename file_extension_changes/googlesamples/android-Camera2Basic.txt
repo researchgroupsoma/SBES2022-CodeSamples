@@ -1,0 +1,271 @@
+4cc1c3e;Update README.md
+M	README.md
+
+f5212a1;Merge pull request #139 from googlesamples/kotlin-update
+34dfe4b;Minor kotline version
+M	kotlinApp/Application/build.gradle
+M	kotlinApp/build.gradle
+M	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+
+59b9889;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+A	kotlinApp/.google/packaging.yaml
+M	kotlinApp/README.md
+
+0b6a163;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/Application/build.gradle
+A	kotlinApp/Application/src/main/AndroidManifest.xml
+A	kotlinApp/Application/src/main/java/com/example/android/camera2basic/ActivityExtensions.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2basic/AutoFitTextureView.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2basic/CameraActivity.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2basic/CompareSizesByArea.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2basic/ConfirmationDialog.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2basic/Constants.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2basic/ErrorDialog.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2basic/ImageSaver.kt
+A	kotlinApp/Application/src/main/res/drawable-hdpi/ic_action_info.png
+A	kotlinApp/Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-mdpi/ic_action_info.png
+A	kotlinApp/Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-xhdpi/ic_action_info.png
+A	kotlinApp/Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-xxhdpi/ic_action_info.png
+A	kotlinApp/Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/layout-land/fragment_camera2_basic.xml
+A	kotlinApp/Application/src/main/res/layout/activity_camera.xml
+A	kotlinApp/Application/src/main/res/layout/fragment_camera2_basic.xml
+A	kotlinApp/Application/src/main/res/values/colors.xml
+A	kotlinApp/Application/src/main/res/values/dimens.xml
+A	kotlinApp/Application/src/main/res/values/strings.xml
+A	kotlinApp/Application/src/main/res/values/styles.xml
+A	kotlinApp/CONTRIB.md
+A	kotlinApp/README.md
+A	kotlinApp/build.gradle
+A	kotlinApp/gradle/wrapper/gradle-wrapper.jar
+A	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/gradlew
+A	kotlinApp/gradlew.bat
+A	kotlinApp/packaging.yaml
+A	kotlinApp/screenshots/icon-web.png
+A	kotlinApp/screenshots/main.png
+A	kotlinApp/settings.gradle
+
+73e125d;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+M	Application/src/main/java/com/example/android/camera2basic/CameraActivity.java
+M	Application/src/main/res/values/styles.xml
+M	README.md
+
+332a569;Auto-update
+M	Application/build.gradle
+
+14d242b;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+15b48a8;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+5dad16c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+dc32f2c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d1a4f53;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+c86f233;Auto-update
+M	Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+M	gradle/wrapper/gradle-wrapper.properties
+
+4e72edc;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+M	README.md
+
+21b9404;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+241c6fa;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+M	Application/src/main/res/values/strings.xml
+
+5795fc9;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+4cb1d10;Auto-update
+M	Application/build.gradle
+M	README.md
+
+5f1a1f2;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+d7a3bfd;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+M	Application/src/main/res/layout-land/fragment_camera2_basic.xml
+M	Application/src/main/res/layout/fragment_camera2_basic.xml
+A	Application/src/main/res/values/colors.xml
+A	NOTICE
+
+2b1260e;Auto-update
+M	LICENSE
+D	NOTICE
+
+b51ebca;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+608f480;Auto-update
+M	Application/build.gradle
+M	README.md
+
+b24fc44;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/AndroidManifest.xml
+M	Application/tests/src/com/example/android/camera2basic/tests/SampleTests.java
+M	README.md
+
+48629d5;Auto-update
+M	Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+M	NOTICE
+
+71375cd;Auto-update
+M	Application/build.gradle
+
+8591fcb;Auto-update
+M	.google/packaging.yaml
+M	Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+A	screenshots/icon-web.png
+A	screenshots/main.png
+
+4057be3;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8fbfb03;Auto-update
+R072	Camera2BasicSample/build.gradle	Application/build.gradle
+R095	Camera2BasicSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	Camera2BasicSample/src/main/java/com/example/android/camera2basic/AutoFitTextureView.java	Application/src/main/java/com/example/android/camera2basic/AutoFitTextureView.java
+A	Application/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+R100	Camera2BasicSample/src/main/java/com/example/android/camera2basic/CameraActivity.java	Application/src/main/java/com/example/android/camera2basic/CameraActivity.java
+R100	Camera2BasicSample/src/main/res/drawable-hdpi/ic_action_info.png	Application/src/main/res/drawable-hdpi/ic_action_info.png
+R100	Camera2BasicSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	Camera2BasicSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	Camera2BasicSample/src/main/res/drawable-mdpi/ic_action_info.png	Application/src/main/res/drawable-mdpi/ic_action_info.png
+R100	Camera2BasicSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	Camera2BasicSample/src/main/res/drawable-xhdpi/ic_action_info.png	Application/src/main/res/drawable-xhdpi/ic_action_info.png
+R100	Camera2BasicSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	Camera2BasicSample/src/main/res/drawable-xxhdpi/ic_action_info.png	Application/src/main/res/drawable-xxhdpi/ic_action_info.png
+R100	Camera2BasicSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	Camera2BasicSample/src/main/res/layout-land/fragment_camera2_basic.xml	Application/src/main/res/layout-land/fragment_camera2_basic.xml
+R100	Camera2BasicSample/src/main/res/layout/activity_camera.xml	Application/src/main/res/layout/activity_camera.xml
+R100	Camera2BasicSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	Camera2BasicSample/src/main/res/layout/fragment_camera2_basic.xml	Application/src/main/res/layout/fragment_camera2_basic.xml
+R100	Camera2BasicSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	Camera2BasicSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	Camera2BasicSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+R100	Camera2BasicSample/src/main/res/values-v21/template-styles.xml	Application/src/main/res/values-v21/template-styles.xml
+R099	Camera2BasicSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	Camera2BasicSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	Camera2BasicSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	Camera2BasicSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	Camera2BasicSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R095	Camera2BasicSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	Camera2BasicSample/tests/src/com/example/android/camera2basic/tests/SampleTests.java	Application/tests/src/com/example/android/camera2basic/tests/SampleTests.java
+D	Camera2BasicSample/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+M	README.md
+M	settings.gradle
+
+cbd1ca0;Update sample with latest changes from Android SDK
+A	CONTRIB.md
+M	Camera2BasicSample/build.gradle
+M	Camera2BasicSample/src/main/AndroidManifest.xml
+M	Camera2BasicSample/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+A	LICENSE
+A	README.md
+D	README.txt
+M	gradle/wrapper/gradle-wrapper.properties
+A	packaging.yaml
+
+b304ea9;Initial commit
+A	Camera2BasicSample/build.gradle
+A	Camera2BasicSample/src/main/AndroidManifest.xml
+A	Camera2BasicSample/src/main/java/com/example/android/camera2basic/AutoFitTextureView.java
+A	Camera2BasicSample/src/main/java/com/example/android/camera2basic/Camera2BasicFragment.java
+A	Camera2BasicSample/src/main/java/com/example/android/camera2basic/CameraActivity.java
+A	Camera2BasicSample/src/main/res/drawable-hdpi/ic_action_info.png
+A	Camera2BasicSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	Camera2BasicSample/src/main/res/drawable-hdpi/tile.9.png
+A	Camera2BasicSample/src/main/res/drawable-mdpi/ic_action_info.png
+A	Camera2BasicSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	Camera2BasicSample/src/main/res/drawable-xhdpi/ic_action_info.png
+A	Camera2BasicSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Camera2BasicSample/src/main/res/drawable-xxhdpi/ic_action_info.png
+A	Camera2BasicSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Camera2BasicSample/src/main/res/layout-land/fragment_camera2_basic.xml
+A	Camera2BasicSample/src/main/res/layout/activity_camera.xml
+A	Camera2BasicSample/src/main/res/layout/activity_main.xml
+A	Camera2BasicSample/src/main/res/layout/fragment_camera2_basic.xml
+A	Camera2BasicSample/src/main/res/values-sw600dp/template-dimens.xml
+A	Camera2BasicSample/src/main/res/values-sw600dp/template-styles.xml
+A	Camera2BasicSample/src/main/res/values-v11/template-styles.xml
+A	Camera2BasicSample/src/main/res/values-v21/template-styles.xml
+A	Camera2BasicSample/src/main/res/values/base-strings.xml
+A	Camera2BasicSample/src/main/res/values/strings.xml
+A	Camera2BasicSample/src/main/res/values/styles.xml
+A	Camera2BasicSample/src/main/res/values/template-dimens.xml
+A	Camera2BasicSample/src/main/res/values/template-styles.xml
+A	Camera2BasicSample/tests/AndroidManifest.xml
+A	Camera2BasicSample/tests/src/com/example/android/camera2basic/tests/SampleTests.java
+A	README.txt
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

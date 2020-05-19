@@ -1,0 +1,311 @@
+7315837;Update README.md
+M	README.md
+
+0e1b244;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+e71d8fc;Auto-update
+M	Application/build.gradle
+M	README.md
+
+f534abe;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/actionbarcompat/styled/MainActivity.java
+M	README.md
+
+58ba1c3;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d69f869;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b25e231;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1b0f8b3;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+6270eff;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+R100	screenshots/1-activity.png.png	screenshots/1-activity.png
+
+dd19d2e;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+dad626a;Auto-update
+M	Application/build.gradle
+M	README.md
+
+2807527;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+320398b;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+9717b4c;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+723dfd0;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+e0bc454;Auto-update
+M	LICENSE
+D	NOTICE
+
+5d86732;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+27d791d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+244b8b7;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/src/com/example/android/actionbarcompat/styled/tests/SampleTests.java
+M	README.md
+A	screenshots/1-activity.png.png
+A	screenshots/big_icon.png
+
+d3b4419;Auto-update
+M	NOTICE
+
+d4d06db;Auto-update
+M	Application/build.gradle
+
+164b391;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+0abb0db;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+6aa816d;Auto-update
+R073	ActionBarCompat-StyledSample/build.gradle	Application/build.gradle
+R095	ActionBarCompat-StyledSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	ActionBarCompat-StyledSample/src/main/java/com/example/android/actionbarcompat/styled/MainActivity.java	Application/src/main/java/com/example/android/actionbarcompat/styled/MainActivity.java
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ab_bottom_solid_styled.9.png	Application/src/main/res/drawable-hdpi/ab_bottom_solid_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ab_solid_styled.9.png	Application/src/main/res/drawable-hdpi/ab_solid_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ab_stacked_solid_styled.9.png	Application/src/main/res/drawable-hdpi/ab_stacked_solid_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ic_action_location.png	Application/src/main/res/drawable-hdpi/ic_action_location.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ic_action_refresh.png	Application/src/main/res/drawable-hdpi/ic_action_refresh.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ic_action_settings.png	Application/src/main/res/drawable-hdpi/ic_action_settings.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/list_focused_styled.9.png	Application/src/main/res/drawable-hdpi/list_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/menu_dropdown_panel_styled.9.png	Application/src/main/res/drawable-hdpi/menu_dropdown_panel_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/progress_bg_styled.9.png	Application/src/main/res/drawable-hdpi/progress_bg_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/progress_primary_styled.9.png	Application/src/main/res/drawable-hdpi/progress_primary_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/progress_secondary_styled.9.png	Application/src/main/res/drawable-hdpi/progress_secondary_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/spinner_ab_default_styled.9.png	Application/src/main/res/drawable-hdpi/spinner_ab_default_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/spinner_ab_disabled_styled.9.png	Application/src/main/res/drawable-hdpi/spinner_ab_disabled_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/spinner_ab_focused_styled.9.png	Application/src/main/res/drawable-hdpi/spinner_ab_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/spinner_ab_pressed_styled.9.png	Application/src/main/res/drawable-hdpi/spinner_ab_pressed_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_selected_focused_styled.9.png	Application/src/main/res/drawable-hdpi/tab_selected_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_selected_pressed_styled.9.png	Application/src/main/res/drawable-hdpi/tab_selected_pressed_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_selected_styled.9.png	Application/src/main/res/drawable-hdpi/tab_selected_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_unselected_focused_styled.9.png	Application/src/main/res/drawable-hdpi/tab_unselected_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_unselected_pressed_styled.9.png	Application/src/main/res/drawable-hdpi/tab_unselected_pressed_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ab_bottom_solid_styled.9.png	Application/src/main/res/drawable-mdpi/ab_bottom_solid_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ab_solid_styled.9.png	Application/src/main/res/drawable-mdpi/ab_solid_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ab_stacked_solid_styled.9.png	Application/src/main/res/drawable-mdpi/ab_stacked_solid_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ic_action_location.png	Application/src/main/res/drawable-mdpi/ic_action_location.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ic_action_refresh.png	Application/src/main/res/drawable-mdpi/ic_action_refresh.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ic_action_settings.png	Application/src/main/res/drawable-mdpi/ic_action_settings.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/list_focused_styled.9.png	Application/src/main/res/drawable-mdpi/list_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/menu_dropdown_panel_styled.9.png	Application/src/main/res/drawable-mdpi/menu_dropdown_panel_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/progress_bg_styled.9.png	Application/src/main/res/drawable-mdpi/progress_bg_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/progress_primary_styled.9.png	Application/src/main/res/drawable-mdpi/progress_primary_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/progress_secondary_styled.9.png	Application/src/main/res/drawable-mdpi/progress_secondary_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/spinner_ab_default_styled.9.png	Application/src/main/res/drawable-mdpi/spinner_ab_default_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/spinner_ab_disabled_styled.9.png	Application/src/main/res/drawable-mdpi/spinner_ab_disabled_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/spinner_ab_focused_styled.9.png	Application/src/main/res/drawable-mdpi/spinner_ab_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/spinner_ab_pressed_styled.9.png	Application/src/main/res/drawable-mdpi/spinner_ab_pressed_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_selected_focused_styled.9.png	Application/src/main/res/drawable-mdpi/tab_selected_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_selected_pressed_styled.9.png	Application/src/main/res/drawable-mdpi/tab_selected_pressed_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_selected_styled.9.png	Application/src/main/res/drawable-mdpi/tab_selected_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_unselected_focused_styled.9.png	Application/src/main/res/drawable-mdpi/tab_unselected_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_unselected_pressed_styled.9.png	Application/src/main/res/drawable-mdpi/tab_unselected_pressed_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ab_bottom_solid_styled.9.png	Application/src/main/res/drawable-xhdpi/ab_bottom_solid_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ab_solid_styled.9.png	Application/src/main/res/drawable-xhdpi/ab_solid_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ab_stacked_solid_styled.9.png	Application/src/main/res/drawable-xhdpi/ab_stacked_solid_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ic_action_location.png	Application/src/main/res/drawable-xhdpi/ic_action_location.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ic_action_refresh.png	Application/src/main/res/drawable-xhdpi/ic_action_refresh.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ic_action_settings.png	Application/src/main/res/drawable-xhdpi/ic_action_settings.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/list_focused_styled.9.png	Application/src/main/res/drawable-xhdpi/list_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/menu_dropdown_panel_styled.9.png	Application/src/main/res/drawable-xhdpi/menu_dropdown_panel_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/progress_bg_styled.9.png	Application/src/main/res/drawable-xhdpi/progress_bg_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/progress_primary_styled.9.png	Application/src/main/res/drawable-xhdpi/progress_primary_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/progress_secondary_styled.9.png	Application/src/main/res/drawable-xhdpi/progress_secondary_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/spinner_ab_default_styled.9.png	Application/src/main/res/drawable-xhdpi/spinner_ab_default_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/spinner_ab_disabled_styled.9.png	Application/src/main/res/drawable-xhdpi/spinner_ab_disabled_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/spinner_ab_focused_styled.9.png	Application/src/main/res/drawable-xhdpi/spinner_ab_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/spinner_ab_pressed_styled.9.png	Application/src/main/res/drawable-xhdpi/spinner_ab_pressed_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_selected_focused_styled.9.png	Application/src/main/res/drawable-xhdpi/tab_selected_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_selected_pressed_styled.9.png	Application/src/main/res/drawable-xhdpi/tab_selected_pressed_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_selected_styled.9.png	Application/src/main/res/drawable-xhdpi/tab_selected_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_unselected_focused_styled.9.png	Application/src/main/res/drawable-xhdpi/tab_unselected_focused_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_unselected_pressed_styled.9.png	Application/src/main/res/drawable-xhdpi/tab_unselected_pressed_styled.9.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	ActionBarCompat-StyledSample/src/main/res/drawable/pressed_background.xml	Application/src/main/res/drawable/pressed_background.xml
+R100	ActionBarCompat-StyledSample/src/main/res/drawable/progress_horizontal.xml	Application/src/main/res/drawable/progress_horizontal.xml
+R100	ActionBarCompat-StyledSample/src/main/res/drawable/selectable_background.xml	Application/src/main/res/drawable/selectable_background.xml
+R100	ActionBarCompat-StyledSample/src/main/res/drawable/spinner_background_ab.xml	Application/src/main/res/drawable/spinner_background_ab.xml
+R100	ActionBarCompat-StyledSample/src/main/res/drawable/tab_indicator_ab.xml	Application/src/main/res/drawable/tab_indicator_ab.xml
+R100	ActionBarCompat-StyledSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	ActionBarCompat-StyledSample/src/main/res/layout/sample_main.xml	Application/src/main/res/layout/sample_main.xml
+R100	ActionBarCompat-StyledSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values-v14/styles.xml	Application/src/main/res/values-v14/styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values/colors.xml	Application/src/main/res/values/colors.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	ActionBarCompat-StyledSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R093	ActionBarCompat-StyledSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	ActionBarCompat-StyledSample/tests/src/com/example/android/actionbarcompat/styled/tests/SampleTests.java	Application/tests/src/com/example/android/actionbarcompat/styled/tests/SampleTests.java
+M	settings.gradle
+
+ae13f08;Initial Commit
+A	ActionBarCompat-StyledSample/build.gradle
+A	ActionBarCompat-StyledSample/src/main/AndroidManifest.xml
+A	ActionBarCompat-StyledSample/src/main/java/com/example/android/actionbarcompat/styled/MainActivity.java
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ab_bottom_solid_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ab_solid_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ab_stacked_solid_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ic_action_location.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ic_action_refresh.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ic_action_settings.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/list_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/menu_dropdown_panel_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/progress_bg_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/progress_primary_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/progress_secondary_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/spinner_ab_default_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/spinner_ab_disabled_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/spinner_ab_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/spinner_ab_pressed_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_selected_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_selected_pressed_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_selected_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_unselected_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tab_unselected_pressed_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-hdpi/tile.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ab_bottom_solid_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ab_solid_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ab_stacked_solid_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ic_action_location.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ic_action_refresh.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ic_action_settings.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/list_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/menu_dropdown_panel_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/progress_bg_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/progress_primary_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/progress_secondary_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/spinner_ab_default_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/spinner_ab_disabled_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/spinner_ab_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/spinner_ab_pressed_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_selected_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_selected_pressed_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_selected_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_unselected_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-mdpi/tab_unselected_pressed_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ab_bottom_solid_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ab_solid_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ab_stacked_solid_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ic_action_location.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ic_action_refresh.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ic_action_settings.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/list_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/menu_dropdown_panel_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/progress_bg_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/progress_primary_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/progress_secondary_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/spinner_ab_default_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/spinner_ab_disabled_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/spinner_ab_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/spinner_ab_pressed_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_selected_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_selected_pressed_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_selected_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_unselected_focused_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xhdpi/tab_unselected_pressed_styled.9.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	ActionBarCompat-StyledSample/src/main/res/drawable/pressed_background.xml
+A	ActionBarCompat-StyledSample/src/main/res/drawable/progress_horizontal.xml
+A	ActionBarCompat-StyledSample/src/main/res/drawable/selectable_background.xml
+A	ActionBarCompat-StyledSample/src/main/res/drawable/spinner_background_ab.xml
+A	ActionBarCompat-StyledSample/src/main/res/drawable/tab_indicator_ab.xml
+A	ActionBarCompat-StyledSample/src/main/res/layout/activity_main.xml
+A	ActionBarCompat-StyledSample/src/main/res/layout/sample_main.xml
+A	ActionBarCompat-StyledSample/src/main/res/menu/main.xml
+A	ActionBarCompat-StyledSample/src/main/res/values-sw600dp/template-dimens.xml
+A	ActionBarCompat-StyledSample/src/main/res/values-sw600dp/template-styles.xml
+A	ActionBarCompat-StyledSample/src/main/res/values-v11/template-styles.xml
+A	ActionBarCompat-StyledSample/src/main/res/values-v14/styles.xml
+A	ActionBarCompat-StyledSample/src/main/res/values/base-strings.xml
+A	ActionBarCompat-StyledSample/src/main/res/values/colors.xml
+A	ActionBarCompat-StyledSample/src/main/res/values/strings.xml
+A	ActionBarCompat-StyledSample/src/main/res/values/styles.xml
+A	ActionBarCompat-StyledSample/src/main/res/values/template-dimens.xml
+A	ActionBarCompat-StyledSample/src/main/res/values/template-styles.xml
+A	ActionBarCompat-StyledSample/tests/AndroidManifest.xml
+A	ActionBarCompat-StyledSample/tests/src/com/example/android/actionbarcompat/styled/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

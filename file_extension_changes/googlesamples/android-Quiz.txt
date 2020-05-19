@@ -1,0 +1,283 @@
+360dd29;Update README.md
+M	README.md
+
+3b880c5;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+1e811b4;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+
+dedcc56;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+a5937d8;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+bb0a1c0;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+48503b5;Auto-update
+M	Wearable/build.gradle
+
+f2b5cef;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+53cdb4c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+c828f49;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+ac77542;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+4978778;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/quiz/MainActivity.java
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/quiz/DeleteQuestionService.java
+M	Wearable/src/main/java/com/example/android/wearable/quiz/UpdateQuestionService.java
+M	gradle/wrapper/gradle-wrapper.properties
+
+49a10ba;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	README.md
+M	Wearable/build.gradle
+
+cf30d37;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+4780564;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+M	Wearable/build.gradle
+
+8556e73;Auto-update
+M	Application/build.gradle
+
+0774def;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+2d11b60;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+M	Wearable/build.gradle
+
+1b16770;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/quiz/MainActivity.java
+A	NOTICE
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/quiz/QuizListenerService.java
+
+0ab6171;Auto-update
+M	LICENSE
+D	NOTICE
+
+9aafb0e;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+M	Wearable/build.gradle
+M	settings.gradle
+
+c9885e7;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/wearable/quiz/MainActivity.java
+A	Application/src/main/res/values/wear.xml
+M	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/quiz/Constants.java
+M	Wearable/src/main/java/com/example/android/wearable/quiz/DeleteQuestionService.java
+M	Wearable/src/main/java/com/example/android/wearable/quiz/QuizListenerService.java
+M	Wearable/src/main/java/com/example/android/wearable/quiz/QuizReportActionService.java
+M	Wearable/src/main/java/com/example/android/wearable/quiz/UpdateQuestionService.java
+
+f68915c;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+M	Wearable/build.gradle
+
+53dd097;Auto-update
+M	NOTICE
+
+2909fa0;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+90d6bf9;Auto-update
+M	Application/build.gradle
+A	CONTRIB.md
+A	NOTICE
+M	Wearable/build.gradle
+
+77e79d4;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+1fb5286;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R097	Application/src/main/java/com/example/android/quiz/Constants.java	Application/src/main/java/com/example/android/wearable/quiz/Constants.java
+R097	Application/src/main/java/com/example/android/quiz/JsonUtils.java	Application/src/main/java/com/example/android/wearable/quiz/JsonUtils.java
+R096	Application/src/main/java/com/example/android/quiz/MainActivity.java	Application/src/main/java/com/example/android/wearable/quiz/MainActivity.java
+D	Shared/build.gradle
+D	Shared/src/main/AndroidManifest.xml
+D	Shared/src/main/res/values/strings.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+R097	Wearable/src/main/java/com/example/android/quiz/Constants.java	Wearable/src/main/java/com/example/android/wearable/quiz/Constants.java
+R094	Wearable/src/main/java/com/example/android/quiz/DeleteQuestionService.java	Wearable/src/main/java/com/example/android/wearable/quiz/DeleteQuestionService.java
+R091	Wearable/src/main/java/com/example/android/quiz/QuizListenerService.java	Wearable/src/main/java/com/example/android/wearable/quiz/QuizListenerService.java
+R091	Wearable/src/main/java/com/example/android/quiz/QuizReportActionService.java	Wearable/src/main/java/com/example/android/wearable/quiz/QuizReportActionService.java
+R093	Wearable/src/main/java/com/example/android/quiz/UpdateQuestionService.java	Wearable/src/main/java/com/example/android/wearable/quiz/UpdateQuestionService.java
+A	screenshots/companion_quiz.png
+A	screenshots/companion_quiz_correct_status.png
+A	screenshots/wearable_quiz.png
+A	screenshots/wearable_quiz_answer.png
+A	screenshots/wearable_quiz_report.png
+M	settings.gradle
+
+8bd1ba9;Initial Commit
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/assets/Quiz.json
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/quiz/Constants.java
+A	Application/src/main/java/com/example/android/quiz/JsonUtils.java
+A	Application/src/main/java/com/example/android/quiz/MainActivity.java
+A	Application/src/main/res/drawable-hdpi/ic_choice_a.png
+A	Application/src/main/res/drawable-hdpi/ic_choice_b.png
+A	Application/src/main/res/drawable-hdpi/ic_choice_c.png
+A	Application/src/main/res/drawable-hdpi/ic_choice_d.png
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/ic_unknown_choice.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_choice_a.png
+A	Application/src/main/res/drawable-mdpi/ic_choice_b.png
+A	Application/src/main/res/drawable-mdpi/ic_choice_c.png
+A	Application/src/main/res/drawable-mdpi/ic_choice_d.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-mdpi/ic_unknown_choice.png
+A	Application/src/main/res/drawable-xhdpi/ic_choice_a.png
+A	Application/src/main/res/drawable-xhdpi/ic_choice_b.png
+A	Application/src/main/res/drawable-xhdpi/ic_choice_c.png
+A	Application/src/main/res/drawable-xhdpi/ic_choice_d.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/drawable/selected_background.xml
+A	Application/src/main/res/drawable/unselected_background.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/main.xml
+A	Application/src/main/res/layout/question_status_element.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/styles.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIB.md
+A	LICENSE
+A	Shared/build.gradle
+A	Shared/src/main/AndroidManifest.xml
+A	Shared/src/main/res/values/strings.xml
+A	Wearable/build.gradle
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/quiz/Constants.java
+A	Wearable/src/main/java/com/example/android/quiz/DeleteQuestionService.java
+A	Wearable/src/main/java/com/example/android/quiz/QuizListenerService.java
+A	Wearable/src/main/java/com/example/android/quiz/QuizReportActionService.java
+A	Wearable/src/main/java/com/example/android/quiz/UpdateQuestionService.java
+A	Wearable/src/main/res/drawable-hdpi/ic_choice_a.png
+A	Wearable/src/main/res/drawable-hdpi/ic_choice_b.png
+A	Wearable/src/main/res/drawable-hdpi/ic_choice_c.png
+A	Wearable/src/main/res/drawable-hdpi/ic_choice_d.png
+A	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-hdpi/ic_unknown_choice.png
+A	Wearable/src/main/res/drawable-mdpi/ic_choice_a.png
+A	Wearable/src/main/res/drawable-mdpi/ic_choice_b.png
+A	Wearable/src/main/res/drawable-mdpi/ic_choice_c.png
+A	Wearable/src/main/res/drawable-mdpi/ic_choice_d.png
+A	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-mdpi/ic_unknown_choice.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_choice_a.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_choice_b.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_choice_c.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_choice_d.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_unknown_choice.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Wearable/src/main/res/values/colors.xml
+A	Wearable/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

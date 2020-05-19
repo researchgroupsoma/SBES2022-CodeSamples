@@ -1,0 +1,65 @@
+b330828;Fix example for latest OAuth library
+99b1a64;Merge pull request #49 from NilLlisterri/patch-1
+357e081;Fix "Invalid value for versionCodes: [XXX]"
+M	v3/python/basic_upload_apks.py
+
+1e7d129;Add sample code for android-publisher API V3.
+a5524f5;Add sample code for android-publisher API V3.
+A	v3/java/.gitignore
+A	v3/java/README.md
+A	v3/java/src/com/google/play/developerapi/samples/AndroidPublisherHelper.java
+A	v3/java/src/com/google/play/developerapi/samples/ApplicationConfig.java
+A	v3/java/src/com/google/play/developerapi/samples/BasicUploadApk.java
+A	v3/java/src/com/google/play/developerapi/samples/ListApks.java
+A	v3/java/src/com/google/play/developerapi/samples/UpdateListing.java
+A	v3/java/src/com/google/play/developerapi/samples/UploadApkWithListing.java
+A	v3/java/src/resources/client_secrets.json
+A	v3/python/README.md
+A	v3/python/basic_list_apks.py
+A	v3/python/basic_list_apks_service_account.py
+A	v3/python/basic_upload_apks.py
+A	v3/python/client_secrets.json
+A	v3/python/update_listings.py
+A	v3/python/upload_apks_rollout.py
+A	v3/python/upload_apks_with_listing.py
+
+9d7dd65;Fix example for latest OAuth library
+M	v2/python/basic_list_apks_service_account.py
+
+05f7cf2;Merge pull request #9 from mg6maciej/patch-1
+39492d5;corrected confusing documentation
+M	v2/python/README.md
+
+fbb3ca4;Merge pull request #3 from robisaks/patch-1
+704847c;Added license file
+A	LICENSE
+
+93ec6e2;Update README.md
+M	v2/python/README.md
+
+8e56e9d;Fixes broken link in README.
+M	v2/java/README.md
+
+3b40e64;Added Java samples for v2 of the android-publisher API.
+A	v2/java/.gitignore
+A	v2/java/README.md
+A	v2/java/src/com/google/play/developerapi/samples/AndroidPublisherHelper.java
+A	v2/java/src/com/google/play/developerapi/samples/ApplicationConfig.java
+A	v2/java/src/com/google/play/developerapi/samples/BasicUploadApk.java
+A	v2/java/src/com/google/play/developerapi/samples/ListApks.java
+A	v2/java/src/com/google/play/developerapi/samples/UpdateListing.java
+A	v2/java/src/com/google/play/developerapi/samples/UploadApkWithListing.java
+A	v2/java/src/resources/client_secrets.json
+
+b0a047e;Changes the names of the description fields in the Python samples for android-publisher.
+M	v2/python/update_listings.py
+
+cce56ec;Initial commit of the Python samples for the android-publisher API v2
+A	v2/python/README.md
+A	v2/python/basic_list_apks.py
+A	v2/python/basic_list_apks_service_account.py
+A	v2/python/basic_upload_apks.py
+A	v2/python/client_secrets.json
+A	v2/python/update_listings.py
+A	v2/python/upload_apks_rollout.py
+A	v2/python/upload_apks_with_listing.py

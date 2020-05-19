@@ -1,0 +1,209 @@
+639a5c5;Update README.md
+M	README.md
+
+3e4b161;Auto-update
+M	LICENSE
+M	NOTICE
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+7575034;Auto-update
+M	README.md
+M	Wearable/build.gradle
+
+ed23208;Auto-update
+M	Wearable/build.gradle
+
+795b754;Auto-update
+M	Wearable/build.gradle
+
+9ccd541;Auto-update
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+a162e79;Auto-update
+M	NOTICE
+M	Wearable/build.gradle
+
+575f760;Auto-update
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+c9b733c;Auto-update
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+93c1f1f;Auto-update
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+28621a4;Auto-update
+M	.google/packaging.yaml
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+3f2419d;Auto-update
+M	NOTICE
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+6635333;Auto-update
+M	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+
+875fa8f;Auto-update
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+93b3bde;Auto-update
+M	Wearable/build.gradle
+
+8b35ebf;Auto-update
+M	Wearable/build.gradle
+
+db25109;Auto-update
+M	README.md
+M	Wearable/build.gradle
+
+e38b28a;Auto-update
+M	Wearable/build.gradle
+
+2745547;Auto-update
+M	LICENSE
+
+e5ccd11;Auto-update
+M	.google/packaging.yaml
+M	NOTICE
+M	README.md
+M	Wearable/build.gradle
+M	settings.gradle
+
+dafefec;Auto-update
+M	README.md
+M	Wearable/build.gradle
+
+f40f2da;Auto-update
+D	Application/build.gradle
+D	Application/src/main/AndroidManifest.xml
+D	Application/src/main/res/drawable-hdpi/ic_launcher.png
+D	Application/src/main/res/drawable-hdpi/tile.9.png
+D	Application/src/main/res/drawable-mdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+D	Application/src/main/res/layout/activity_main.xml
+D	Application/src/main/res/values-sw600dp/template-dimens.xml
+D	Application/src/main/res/values-sw600dp/template-styles.xml
+D	Application/src/main/res/values-v11/template-styles.xml
+D	Application/src/main/res/values-v21/base-colors.xml
+D	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values/base-strings.xml
+D	Application/src/main/res/values/template-dimens.xml
+D	Application/src/main/res/values/template-styles.xml
+M	README.md
+M	Wearable/build.gradle
+M	settings.gradle
+
+3f78575;Auto-update
+M	NOTICE
+
+67684f0;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+e5ad404;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+M	Wearable/build.gradle
+
+69d4ef5;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/google/wearable/app/GridExampleActivity.java
+M	gradle/wrapper/gradle-wrapper.properties
+
+670dfbb;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+D	Shared/build.gradle
+D	Shared/src/main/AndroidManifest.xml
+D	Shared/src/main/res/values/strings.xml
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+R098	Wearable/src/main/java/com/example/android/skeletonwearableapp/GridExampleActivity.java	Wearable/src/main/java/com/example/android/google/wearable/app/GridExampleActivity.java
+R098	Wearable/src/main/java/com/example/android/skeletonwearableapp/MainActivity.java	Wearable/src/main/java/com/example/android/google/wearable/app/MainActivity.java
+A	screenshots/delayed_confirmation.png
+A	screenshots/dismiss_overlay.png
+A	screenshots/grid_view_pager.png
+A	screenshots/skeleton_wearable_app.png
+M	settings.gradle
+
+548c475;Initial Commit
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIB.md
+A	LICENSE
+A	Shared/build.gradle
+A	Shared/src/main/AndroidManifest.xml
+A	Shared/src/main/res/values/strings.xml
+A	Wearable/build.gradle
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/skeletonwearableapp/GridExampleActivity.java
+A	Wearable/src/main/java/com/example/android/skeletonwearableapp/MainActivity.java
+A	Wearable/src/main/res/drawable-hdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-mdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Wearable/src/main/res/layout/grid_activity.xml
+A	Wearable/src/main/res/layout/main_activity.xml
+A	Wearable/src/main/res/values/dimens.xml
+A	Wearable/src/main/res/values/strings.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

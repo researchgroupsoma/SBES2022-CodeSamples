@@ -1,0 +1,172 @@
+a8ba08e;Update README.md
+M	README.md
+
+72b2aa7;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/directoryselection/DirectoryEntryAdapter.java
+M	Application/src/main/java/com/example/android/directoryselection/DirectorySelectionActivity.java
+M	Application/src/main/java/com/example/android/directoryselection/DirectorySelectionFragment.java
+M	Application/src/main/res/layout/fragment_directory_selection.xml
+D	Application/tests/src/com/example/android/directoryselection/DirectoryEntryAdapterTest.java
+D	Application/tests/src/com/example/android/directoryselection/DirectorySelectionActivityTest.java
+D	Application/tests/src/com/example/android/directoryselection/DirectorySelectionFragmentTest.java
+M	README.md
+A	gradle.properties
+M	gradle/wrapper/gradle-wrapper.jar
+M	gradle/wrapper/gradle-wrapper.properties
+M	gradlew
+M	gradlew.bat
+
+b406953;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a2693d1;Auto-update
+M	Application/build.gradle
+M	README.md
+
+1d15049;Auto-update
+M	Application/build.gradle
+
+0d6e959;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+f5869e4;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+4f3025c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+bf00fc9;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8843ea6;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+d1b6ade;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+18cabfa;Auto-update
+M	Application/build.gradle
+M	README.md
+
+6d882b1;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+f2a40fd;Auto-update
+M	Application/src/main/java/com/example/android/directoryselection/DirectorySelectionFragment.java
+M	Application/src/main/res/layout/fragment_directory_selection.xml
+
+8af2ff5;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+2f2f295;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+a9e4786;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+afc45fc;Auto-update
+M	LICENSE
+D	NOTICE
+
+d79ee11;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+13755d4;Auto-update
+M	Application/build.gradle
+M	README.md
+
+00307d9;Auto-update
+D	Application/Application.iml
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+
+d30539a;Auto-update
+A	Application/Application.iml
+M	NOTICE
+
+7a3c8fb;Initial Commit
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/directoryselection/DirectoryEntry.java
+A	Application/src/main/java/com/example/android/directoryselection/DirectoryEntryAdapter.java
+A	Application/src/main/java/com/example/android/directoryselection/DirectorySelectionActivity.java
+A	Application/src/main/java/com/example/android/directoryselection/DirectorySelectionFragment.java
+A	Application/src/main/res/drawable-hdpi/ic_description_grey600_36dp.png
+A	Application/src/main/res/drawable-hdpi/ic_folder_grey600_36dp.png
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_description_grey600_36dp.png
+A	Application/src/main/res/drawable-mdpi/ic_folder_grey600_36dp.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_description_grey600_36dp.png
+A	Application/src/main/res/drawable-xhdpi/ic_folder_grey600_36dp.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_description_grey600_36dp.png
+A	Application/src/main/res/drawable-xxhdpi/ic_folder_grey600_36dp.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout/activity_directory_selection.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/directory_item.xml
+A	Application/src/main/res/layout/fragment_directory_selection.xml
+A	Application/src/main/res/menu/main.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/styles.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/tests/src/com/example/android/directoryselection/DirectoryEntryAdapterTest.java
+A	Application/tests/src/com/example/android/directoryselection/DirectorySelectionActivityTest.java
+A	Application/tests/src/com/example/android/directoryselection/DirectorySelectionFragmentTest.java
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/screenshot-1.png
+A	screenshots/screenshot-2.png
+A	screenshots/screenshot-3.png
+A	screenshots/web-icon.png
+A	settings.gradle

@@ -1,0 +1,150 @@
+22f0466;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+2e73fa6;Auto-update
+M	Application/build.gradle
+M	README.md
+
+051875e;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/appusagestatistics/AppUsageStatisticsActivity.java
+
+a35bc1a;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+747b998;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+bd45266;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+40efe6b;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+18e6a2c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1907b18;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+5f7d827;Auto-update
+M	Application/build.gradle
+M	README.md
+
+3ec6cee;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/appusagestatistics/AppUsageStatisticsFragment.java
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+691b064;Auto-update
+M	Application/src/main/java/com/example/android/appusagestatistics/AppUsageStatisticsFragment.java
+M	Application/src/main/res/layout/fragment_app_usage_statistics.xml
+
+e1d899f;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+16c2b68;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+abc5216;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+9ad2e76;Auto-update
+M	LICENSE
+D	NOTICE
+
+62e61e9;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+29822f5;Auto-update
+M	Application/build.gradle
+M	README.md
+
+7e4ade5;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/src/com/example/android/appusagestatistics/AppUsageStatisticsFragmentTests.java
+M	README.md
+
+ff90fd8;Auto-update
+M	Application/src/main/java/com/example/android/appusagestatistics/AppUsageStatisticsFragment.java
+M	Application/src/main/res/values/strings.xml
+M	NOTICE
+
+aac80cf;Initial Commit
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/appusagestatistics/AppUsageStatisticsActivity.java
+A	Application/src/main/java/com/example/android/appusagestatistics/AppUsageStatisticsFragment.java
+A	Application/src/main/java/com/example/android/appusagestatistics/CustomUsageStats.java
+A	Application/src/main/java/com/example/android/appusagestatistics/UsageListAdapter.java
+A	Application/src/main/res/drawable-hdpi/ic_default_app_launcher.png
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_default_app_launcher.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_default_app_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_default_app_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout/activity_app_usage_statistics.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/fragment_app_usage_statistics.xml
+A	Application/src/main/res/layout/usage_row.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/navigation_items.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/styles.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/tests/src/com/example/android/appusagestatistics/AppUsageStatisticsActivityTests.java
+A	Application/tests/src/com/example/android/appusagestatistics/AppUsageStatisticsFragmentTests.java
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/screenshot-1.png
+A	screenshots/screenshot-2.png
+A	screenshots/web-icon.png
+A	settings.gradle

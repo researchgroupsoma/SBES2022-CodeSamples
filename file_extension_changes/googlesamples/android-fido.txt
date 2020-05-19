@@ -1,0 +1,146 @@
+ec32d9f;Update README.md
+M	README.md
+
+aae13dc;Merge pull request #5 from yaraki/fido2
+d74d600;Merge pull request #1 from agektmr/fido2
+d7eca03;Update README for FIDO2
+M	README.md
+
+0b4ca5f;Update to FIDO2
+M	app/build.gradle
+A	app/fido-example.jks
+D	app/fido-example.keystore
+D	app/libs/u2fRequestHandler-v1-1.22.0-SNAPSHOT.jar
+A	app/libs/webauthndemo-sdk.jar
+M	app/src/main/AndroidManifest.xml
+R078	app/src/main/java/com/fido/example/fidoapiexample/Constants.java	app/src/main/java/com/fido/example/fido2apiexample/Constants.java
+A	app/src/main/java/com/fido/example/fido2apiexample/Fido2DemoActivity.java
+A	app/src/main/java/com/fido/example/fido2apiexample/GAEService.java
+A	app/src/main/java/com/fido/example/fido2apiexample/SecurityTokenAdapter.java
+R099	app/src/main/java/com/fido/example/fidoapiexample/utils/CustomItemAnimator.java	app/src/main/java/com/fido/example/fido2apiexample/utils/CustomItemAnimator.java
+D	app/src/main/java/com/fido/example/fidoapiexample/GAEService.java
+D	app/src/main/java/com/fido/example/fidoapiexample/U2FDemoActivity.java
+D	app/src/main/java/com/fido/example/fidoapiexample/utils/SecurityTokenAdapter.java
+M	app/src/main/res/layout/activity_main.xml
+M	app/src/main/res/layout/content_main.xml
+M	app/src/main/res/layout/nav_header.xml
+M	app/src/main/res/layout/row_token.xml
+M	app/src/main/res/menu/activity_navigation_drawer.xml
+M	app/src/main/res/values/strings.xml
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+a6cae1b;Added Toast with message to inform user of aborting the generation of sign request when no tokens are present. (#4)
+M	app/src/main/java/com/fido/example/fidoapiexample/U2FDemoActivity.java
+
+a38a19a;Fix typo (#3)
+M	app/src/main/java/com/fido/example/fidoapiexample/U2FDemoActivity.java
+
+3bec6a7;Fix typo. (#2)
+M	README.md
+
+41cdb55;Merge pull request #1 from mg6maciej/patch-1
+b05bc92;Fix typo.
+M	app/src/main/res/layout/nav_header.xml
+
+574770e;Prepare for release
+A	CONTRIBUTING.md
+A	LICENSE
+D	app/src/main/gen/com/fido/example/fidoapiexample/BuildConfig.java
+D	app/src/main/gen/com/fido/example/fidoapiexample/Manifest.java
+D	app/src/main/gen/com/fido/example/fidoapiexample/R.java
+
+36fccef;Use GoogleSignInApi instead of SharedPreferences to determine login status
+M	app/src/main/java/com/fido/example/fidoapiexample/Constants.java
+M	app/src/main/java/com/fido/example/fidoapiexample/GAEService.java
+M	app/src/main/java/com/fido/example/fidoapiexample/U2FDemoActivity.java
+
+1bc57fc;Replace AsyncTasks with ThreadPoolExecutor and Tasks.call(Callable, Executor).
+M	app/src/main/java/com/fido/example/fidoapiexample/GAEService.java
+M	app/src/main/java/com/fido/example/fidoapiexample/U2FDemoActivity.java
+
+371364b;Put signing config in build.gradle
+M	README.md
+M	app/build.gradle
+R100	fido-example.keystore	app/fido-example.keystore
+
+2cc4000;Modify README file with comprehensive instructions.
+M	README.md
+
+f9a280e;Make compatible with Android Studio 2.3
+D	README
+A	README.md
+M	app/build.gradle
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.jar
+M	gradle/wrapper/gradle-wrapper.properties
+M	gradlew
+M	gradlew.bat
+
+4a65271;Fix a lot of small lint issues
+M	app/src/main/java/com/fido/example/fidoapiexample/GAEService.java
+M	app/src/main/java/com/fido/example/fidoapiexample/U2FDemoActivity.java
+M	app/src/main/java/com/fido/example/fidoapiexample/utils/CustomItemAnimator.java
+M	app/src/main/java/com/fido/example/fidoapiexample/utils/SecurityTokenAdapter.java
+
+02f0601;Add copyright to Java files
+M	app/src/main/java/com/fido/example/fidoapiexample/Constants.java
+M	app/src/main/java/com/fido/example/fidoapiexample/GAEService.java
+M	app/src/main/java/com/fido/example/fidoapiexample/U2FDemoActivity.java
+M	app/src/main/java/com/fido/example/fidoapiexample/utils/CustomItemAnimator.java
+M	app/src/main/java/com/fido/example/fidoapiexample/utils/SecurityTokenAdapter.java
+
+bbbfe85;Initial import
+A	.gitignore
+A	README
+A	app/build.gradle
+A	app/libs/u2fRequestHandler-v1-1.22.0-SNAPSHOT.jar
+A	app/proguard-rules.pro
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/gen/com/fido/example/fidoapiexample/BuildConfig.java
+A	app/src/main/gen/com/fido/example/fidoapiexample/Manifest.java
+A	app/src/main/gen/com/fido/example/fidoapiexample/R.java
+A	app/src/main/java/com/fido/example/fidoapiexample/Constants.java
+A	app/src/main/java/com/fido/example/fidoapiexample/GAEService.java
+A	app/src/main/java/com/fido/example/fidoapiexample/U2FDemoActivity.java
+A	app/src/main/java/com/fido/example/fidoapiexample/utils/CustomItemAnimator.java
+A	app/src/main/java/com/fido/example/fidoapiexample/utils/SecurityTokenAdapter.java
+A	app/src/main/res/drawable-v21/ic_menu_camera.xml
+A	app/src/main/res/drawable-v21/ic_menu_gallery.xml
+A	app/src/main/res/drawable-v21/ic_menu_manage.xml
+A	app/src/main/res/drawable-v21/ic_menu_send.xml
+A	app/src/main/res/drawable-v21/ic_menu_share.xml
+A	app/src/main/res/drawable-v21/ic_menu_slideshow.xml
+A	app/src/main/res/drawable/button_rect_list_normal.xml
+A	app/src/main/res/drawable/github_icon.png
+A	app/src/main/res/drawable/github_octocat.png
+A	app/src/main/res/drawable/ic_menu_login.png
+A	app/src/main/res/drawable/side_nav_bar.xml
+A	app/src/main/res/drawable/yubikey.png
+A	app/src/main/res/drawable/yubikey_nano.png
+A	app/src/main/res/layout/activity_main.xml
+A	app/src/main/res/layout/activity_navigation.xml
+A	app/src/main/res/layout/content_main.xml
+A	app/src/main/res/layout/nav_header.xml
+A	app/src/main/res/layout/row_token.xml
+A	app/src/main/res/menu/activity_navigation_drawer.xml
+A	app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	app/src/main/res/values-v21/styles.xml
+A	app/src/main/res/values-w820dp/dimens.xml
+A	app/src/main/res/values/colors.xml
+A	app/src/main/res/values/dimens.xml
+A	app/src/main/res/values/drawables.xml
+A	app/src/main/res/values/strings.xml
+A	app/src/main/res/values/styles.xml
+A	build.gradle
+A	fido-example.keystore
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

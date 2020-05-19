@@ -1,0 +1,221 @@
+96612da;Update README.md
+M	README.md
+
+230cecd;Auto-update
+M	LICENSE
+M	NOTICE
+M	README.md
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/.google/packaging.yaml
+A	kotlinApp/README.md
+M	kotlinApp/build.gradle
+M	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+
+6a94bb0;Auto-update
+D	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+D	Application/src/main/java/com/example/android/common/logger/Log.java
+D	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+D	Application/src/main/java/com/example/android/common/logger/LogNode.java
+D	Application/src/main/java/com/example/android/common/logger/LogView.java
+D	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+D	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+M	Application/src/main/java/com/example/android/system/runtimepermissions/MainActivity.java
+M	Application/src/main/java/com/example/android/system/runtimepermissions/PermissionUtil.java
+M	Application/src/main/java/com/example/android/system/runtimepermissions/camera/CameraPreview.java
+M	Application/src/main/java/com/example/android/system/runtimepermissions/camera/CameraPreviewFragment.java
+M	Application/src/main/java/com/example/android/system/runtimepermissions/contacts/ContactsFragment.java
+D	Application/src/main/java/common/activities/SampleActivityBase.java
+D	Application/src/main/res/layout-w720dp/activity_main.xml
+M	Application/src/main/res/layout/activity_main.xml
+M	Application/src/main/res/layout/fragment_camera.xml
+M	Application/src/main/res/layout/fragment_camera_unavailable.xml
+M	Application/src/main/res/layout/fragment_contacts.xml
+M	Application/src/main/res/layout/fragment_main.xml
+D	Application/src/main/res/menu/main.xml
+D	Application/src/main/res/values-v21/base-colors.xml
+D	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values/base-strings.xml
+R091	Application/src/main/res/values/template-dimens.xml	Application/src/main/res/values/dimens.xml
+D	Application/src/main/res/values/fragmentview_strings.xml
+M	Application/src/main/res/values/strings.xml
+R052	Application/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values/styles.xml
+A	NOTICE
+M	README.md
+M	build.gradle
+A	kotlinApp/app/build.gradle
+A	kotlinApp/app/proguard-rules.pro
+A	kotlinApp/app/src/main/AndroidManifest.xml
+A	kotlinApp/app/src/main/java/com/example/android/system/runtimepermissions/MainActivity.kt
+A	kotlinApp/app/src/main/java/com/example/android/system/runtimepermissions/RuntimePermissionsFragment.kt
+A	kotlinApp/app/src/main/java/com/example/android/system/runtimepermissions/camera/CameraPreview.kt
+A	kotlinApp/app/src/main/java/com/example/android/system/runtimepermissions/camera/CameraPreviewFragment.kt
+A	kotlinApp/app/src/main/java/com/example/android/system/runtimepermissions/contacts/ContactsFragment.kt
+A	kotlinApp/app/src/main/java/com/example/android/system/runtimepermissions/extensions/AppCompatActivityExts.kt
+A	kotlinApp/app/src/main/java/com/example/android/system/runtimepermissions/extensions/CameraExts.kt
+A	kotlinApp/app/src/main/java/com/example/android/system/runtimepermissions/extensions/CollectionsExts.kt
+R100	Application/src/main/res/drawable-hdpi/tile.9.png	kotlinApp/app/src/main/res/drawable/tile.9.png
+A	kotlinApp/app/src/main/res/layout/activity_main.xml
+A	kotlinApp/app/src/main/res/layout/fragment_camera.xml
+A	kotlinApp/app/src/main/res/layout/fragment_camera_unavailable.xml
+A	kotlinApp/app/src/main/res/layout/fragment_contacts.xml
+A	kotlinApp/app/src/main/res/layout/fragment_main.xml
+A	kotlinApp/app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	kotlinApp/app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	kotlinApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	kotlinApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	kotlinApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+R071	Application/src/main/res/values-v11/template-styles.xml	kotlinApp/app/src/main/res/values/colors.xml
+R058	Application/src/main/res/values-sw600dp/template-dimens.xml	kotlinApp/app/src/main/res/values/dimens.xml
+A	kotlinApp/app/src/main/res/values/strings.xml
+R094	Application/src/main/res/values/template-styles.xml	kotlinApp/app/src/main/res/values/styles.xml
+A	kotlinApp/build.gradle
+A	kotlinApp/gradle.properties
+A	kotlinApp/gradle/wrapper/gradle-wrapper.jar
+A	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/gradlew
+A	kotlinApp/gradlew.bat
+A	kotlinApp/settings.gradle
+
+b752c3d;Auto-update
+M	Application/build.gradle
+
+425c7b8;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+6ca0541;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1f37185;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8c6b49e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a47842c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+7051509;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+de65f5d;Auto-update
+M	Application/build.gradle
+M	README.md
+
+952e8d8;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1e5f30f;Auto-update
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+5a837e2;Auto-update
+D	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+
+e459ec4;Auto-update
+M	.google/packaging.yaml
+D	.gradle/2.2.1/taskArtifacts/cache.properties
+D	.gradle/2.2.1/taskArtifacts/cache.properties.lock
+D	.gradle/2.2.1/taskArtifacts/fileHashes.bin
+D	.gradle/2.2.1/taskArtifacts/fileSnapshots.bin
+D	.gradle/2.2.1/taskArtifacts/outputFileStates.bin
+D	.gradle/2.2.1/taskArtifacts/taskArtifacts.bin
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/system/runtimepermissions/MainActivity.java
+M	Application/src/main/java/com/example/android/system/runtimepermissions/PermissionUtil.java
+M	Application/src/main/java/com/example/android/system/runtimepermissions/RuntimePermissionsFragment.java
+A	Application/src/main/java/common/activities/SampleActivityBase.java
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	Application/src/main/res/values/strings.xml
+M	Application/src/main/res/values/template-styles.xml
+M	README.md
+D	screenshots/screenshot-1.png.png
+D	screenshots/screenshot-2.png.png
+D	screenshots/web-icon.png
+
+3ce4c34;Auto-update
+A	.gradle/2.2.1/taskArtifacts/cache.properties
+A	.gradle/2.2.1/taskArtifacts/cache.properties.lock
+A	.gradle/2.2.1/taskArtifacts/fileHashes.bin
+A	.gradle/2.2.1/taskArtifacts/fileSnapshots.bin
+A	.gradle/2.2.1/taskArtifacts/outputFileStates.bin
+A	.gradle/2.2.1/taskArtifacts/taskArtifacts.bin
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/system/runtimepermissions/MainActivity.java
+M	Application/src/main/java/com/example/android/system/runtimepermissions/camera/CameraPreviewFragment.java
+M	Application/src/main/res/values/strings.xml
+M	README.md
+A	screenshots/screenshot-1.png.png
+A	screenshots/screenshot-2.png.png
+A	screenshots/web-icon.png
+
+b8e5e3a;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	Application/src/main/java/com/example/android/common/logger/Log.java
+A	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+A	Application/src/main/java/com/example/android/common/logger/LogNode.java
+A	Application/src/main/java/com/example/android/common/logger/LogView.java
+A	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	Application/src/main/java/com/example/android/system/runtimepermissions/MainActivity.java
+A	Application/src/main/java/com/example/android/system/runtimepermissions/PermissionUtil.java
+A	Application/src/main/java/com/example/android/system/runtimepermissions/RuntimePermissionsFragment.java
+A	Application/src/main/java/com/example/android/system/runtimepermissions/camera/CameraPreview.java
+A	Application/src/main/java/com/example/android/system/runtimepermissions/camera/CameraPreviewFragment.java
+A	Application/src/main/java/com/example/android/system/runtimepermissions/contacts/ContactsFragment.java
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/layout-w720dp/activity_main.xml
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/fragment_camera.xml
+A	Application/src/main/res/layout/fragment_camera_unavailable.xml
+A	Application/src/main/res/layout/fragment_contacts.xml
+A	Application/src/main/res/layout/fragment_main.xml
+A	Application/src/main/res/menu/main.xml
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/fragmentview_strings.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/big_icon.png
+A	screenshots/screenshot-1.png
+A	screenshots/screenshot-2.png
+A	settings.gradle

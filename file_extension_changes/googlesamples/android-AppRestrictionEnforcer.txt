@@ -1,0 +1,202 @@
+58749f0;Update README.md
+M	README.md
+
+751e0c2;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a2bca5c;Auto-update
+M	Application/build.gradle
+M	README.md
+
+f84b421;Auto-update
+M	Application/build.gradle
+
+300e38a;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+3f096a8;Auto-update
+M	.google/packaging.yaml
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/Constants.java
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/ItemAddFragment.java
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/MainActivity.java
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/SetupProfileFragment.java
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/StatusFragment.java
+D	Application/src/main/res/drawable-hdpi/ic_launcher.png
+D	Application/src/main/res/drawable-mdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+D	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+M	Application/src/main/res/layout/fragment_setup_profile.xml
+D	Application/src/main/res/layout/separator.xml
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+M	Application/src/main/res/values/base-strings.xml
+M	Application/src/main/res/values/strings.xml
+D	Application/tests/src/com/example/android/apprestrictionenforcer/tests/SampleTests.java
+M	README.md
+A	screenshots/big_icon.png
+A	screenshots/main.png
+
+1fa4605;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/AppRestrictionEnforcerFragment.java
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/ItemAddFragment.java
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/MainActivity.java
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/SetupProfileFragment.java
+M	Application/src/main/res/layout/fragment_app_restriction_enforcer.xml
+M	Application/src/main/res/values/strings.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+1a0b5b0;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+011a673;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+36e47b4;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+593de1d;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+cf0b3f3;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/AppRestrictionEnforcerFragment.java
+M	Application/src/main/res/layout/fragment_app_restriction_enforcer.xml
+M	README.md
+
+0912d83;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/AppRestrictionEnforcerFragment.java
+A	Application/src/main/java/com/example/android/apprestrictionenforcer/ItemAddFragment.java
+M	Application/src/main/res/layout/fragment_app_restriction_enforcer.xml
+A	Application/src/main/res/layout/fragment_item_add.xml
+A	Application/src/main/res/layout/item.xml
+M	Application/src/main/res/values/strings.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+bcf873d;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+b860371;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+f0a8664;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+2da7dbc;Auto-update
+M	LICENSE
+D	NOTICE
+
+43202bb;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+2ee2173;Auto-update
+M	Application/build.gradle
+M	README.md
+
+7f675b7;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/src/main/res/layout/fragment_setup_profile.xml
+M	Application/tests/src/com/example/android/apprestrictionenforcer/tests/SampleTests.java
+M	README.md
+
+b5fd832;Auto-update
+M	NOTICE
+
+7e1ef1e;Auto-update
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/AppRestrictionEnforcerFragment.java
+A	Application/src/main/java/com/example/android/apprestrictionenforcer/Constants.java
+A	Application/src/main/java/com/example/android/apprestrictionenforcer/EasyTextWatcher.java
+M	Application/src/main/java/com/example/android/apprestrictionenforcer/MainActivity.java
+A	Application/src/main/java/com/example/android/apprestrictionenforcer/StatusFragment.java
+M	Application/src/main/res/layout/fragment_app_restriction_enforcer.xml
+A	Application/src/main/res/layout/fragment_status.xml
+A	Application/src/main/res/layout/separator.xml
+A	Application/src/main/res/values/ids.xml
+M	Application/src/main/res/values/strings.xml
+M	gradle/wrapper/gradle-wrapper.properties
+
+a822f42;Auto-update
+M	Application/build.gradle
+
+90e2cb6;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+39dffa4;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+A	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+bf59bac;Auto-update
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/apprestrictionenforcer/AppRestrictionEnforcerFragment.java
+A	Application/src/main/java/com/example/android/apprestrictionenforcer/EnableProfileActivity.java
+A	Application/src/main/java/com/example/android/apprestrictionenforcer/EnforcerDeviceAdminReceiver.java
+A	Application/src/main/java/com/example/android/apprestrictionenforcer/MainActivity.java
+A	Application/src/main/java/com/example/android/apprestrictionenforcer/SetupProfileFragment.java
+A	Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/layout/activity_main_real.xml
+A	Application/src/main/res/layout/fragment_app_restriction_enforcer.xml
+A	Application/src/main/res/layout/fragment_setup_profile.xml
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/strings.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/src/main/res/xml/enforcer_device_admin_receiver.xml
+A	Application/tests/src/com/example/android/apprestrictionenforcer/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

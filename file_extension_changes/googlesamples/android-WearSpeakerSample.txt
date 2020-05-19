@@ -1,0 +1,157 @@
+313f49b;Merge pull request #4 from googlesamples/remove
+82f707e;Removes all files for migration to github.com/android/wear-os.
+D	.google/packaging.yaml
+D	CONTRIBUTING
+D	CONTRIBUTING.md
+D	LICENSE
+D	build.gradle
+D	gradle.properties
+D	gradle/wrapper/gradle-wrapper.jar
+D	gradle/wrapper/gradle-wrapper.properties
+D	gradlew
+D	gradlew.bat
+D	screenshots/1.png
+D	screenshots/2.png
+D	screenshots/3.png
+D	screenshots/4.png
+D	settings.gradle
+D	wear/build.gradle
+D	wear/proguard-rules.pro
+D	wear/src/main/AndroidManifest.xml
+D	wear/src/main/java/com/example/android/wearable/speaker/MainActivity.java
+D	wear/src/main/java/com/example/android/wearable/speaker/SoundRecorder.java
+D	wear/src/main/java/com/example/android/wearable/speaker/UIAnimation.java
+D	wear/src/main/res/drawable/color_circle.xml
+D	wear/src/main/res/drawable/grey_circle.xml
+D	wear/src/main/res/drawable/ic_audiotrack_120dp.xml
+D	wear/src/main/res/drawable/ic_audiotrack_32dp.xml
+D	wear/src/main/res/drawable/ic_mic_120dp.xml
+D	wear/src/main/res/drawable/ic_mic_32dp.xml
+D	wear/src/main/res/drawable/ic_play_arrow_120dp.xml
+D	wear/src/main/res/drawable/ic_play_arrow_32dp.xml
+D	wear/src/main/res/layout/main_activity.xml
+D	wear/src/main/res/mipmap-hdpi/ic_launcher.png
+D	wear/src/main/res/mipmap-mdpi/ic_launcher.png
+D	wear/src/main/res/mipmap-xhdpi/ic_launcher.png
+D	wear/src/main/res/mipmap-xxhdpi/ic_launcher.png
+D	wear/src/main/res/raw/sound.mp3
+D	wear/src/main/res/values/colors.xml
+D	wear/src/main/res/values/strings.xml
+
+60d396b;Update README.md
+M	README.md
+
+e3bc7aa;Auto-update
+M	README.md
+M	build.gradle
+M	gradle.properties
+M	gradle/wrapper/gradle-wrapper.properties
+M	wear/build.gradle
+M	wear/src/main/java/com/example/android/wearable/speaker/MainActivity.java
+
+9139131;Auto-update
+M	build.gradle
+M	wear/build.gradle
+M	wear/src/main/java/com/example/android/wearable/speaker/MainActivity.java
+M	wear/src/main/java/com/example/android/wearable/speaker/SoundRecorder.java
+
+6061dfc;Auto-update
+M	README.md
+M	wear/build.gradle
+
+529d130;Auto-update
+M	LICENSE
+M	README.md
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+M	wear/build.gradle
+
+fa50d84;Auto-update
+M	build.gradle
+M	wear/build.gradle
+M	wear/src/main/java/com/example/android/wearable/speaker/MainActivity.java
+R100	wear/src/main/res/drawable/circle.xml	wear/src/main/res/drawable/color_circle.xml
+A	wear/src/main/res/drawable/grey_circle.xml
+M	wear/src/main/res/layout/main_activity.xml
+
+2a2edf9;Auto-update
+M	README.md
+
+8848610;Auto-update
+M	build.gradle
+
+ae9b702;Auto-update
+M	build.gradle
+M	wear/build.gradle
+
+6f816fb;Auto-update
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+86ed543;Auto-update
+M	wear/build.gradle
+M	wear/src/main/AndroidManifest.xml
+
+fa4ab0d;Auto-update
+M	README.md
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+7eef219;Auto-update
+M	README.md
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+cb812e9;Auto-update
+M	README.md
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+M	wear/build.gradle
+
+f6640b7;Auto-update
+M	README.md
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+M	wear/build.gradle
+
+623e291;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+f21e8f1;Auto-update
+A	.google/packaging.yaml
+A	CONTRIBUTING
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/1.png
+A	screenshots/2.png
+A	screenshots/3.png
+A	screenshots/4.png
+A	settings.gradle
+A	wear/build.gradle
+A	wear/proguard-rules.pro
+A	wear/src/main/AndroidManifest.xml
+A	wear/src/main/java/com/example/android/wearable/speaker/MainActivity.java
+A	wear/src/main/java/com/example/android/wearable/speaker/SoundRecorder.java
+A	wear/src/main/java/com/example/android/wearable/speaker/UIAnimation.java
+A	wear/src/main/res/drawable/circle.xml
+A	wear/src/main/res/drawable/ic_audiotrack_120dp.xml
+A	wear/src/main/res/drawable/ic_audiotrack_32dp.xml
+A	wear/src/main/res/drawable/ic_mic_120dp.xml
+A	wear/src/main/res/drawable/ic_mic_32dp.xml
+A	wear/src/main/res/drawable/ic_play_arrow_120dp.xml
+A	wear/src/main/res/drawable/ic_play_arrow_32dp.xml
+A	wear/src/main/res/layout/main_activity.xml
+A	wear/src/main/res/mipmap-hdpi/ic_launcher.png
+A	wear/src/main/res/mipmap-mdpi/ic_launcher.png
+A	wear/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	wear/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	wear/src/main/res/raw/sound.mp3
+A	wear/src/main/res/values/colors.xml
+A	wear/src/main/res/values/strings.xml

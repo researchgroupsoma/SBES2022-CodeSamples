@@ -1,0 +1,101 @@
+2adac55;Update README.md
+M	README.md
+
+f4c7a55;Removed unncessary v.invalidate lines in onDrag
+M	app/src/main/java/com/hadrosaur/draganddropdemo/MainActivity.java
+A	build/android-profile/profile-2018-03-19-10-14-29-888.json
+A	build/android-profile/profile-2018-03-19-10-14-29-888.rawproto
+
+0f8aa42;Updated licenses to Google LLC
+M	app/src/androidTest/java/com/hadrosaur/draganddropdemo/ExampleInstrumentedTest.java
+M	app/src/test/java/com/hadrosaur/draganddropdemo/ExampleUnitTest.java
+
+b8b57d3;Updated license files to Google LLC
+A	DragAndDropDemo.iml
+A	app/app.iml
+M	app/build.gradle
+M	app/src/main/AndroidManifest.xml
+M	app/src/main/java/com/hadrosaur/draganddropdemo/MainActivity.java
+M	app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+M	app/src/main/res/drawable/ic_launcher_background.xml
+M	app/src/main/res/layout/activity_main.xml
+M	app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+M	app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+M	app/src/main/res/values/colors.xml
+M	app/src/main/res/values/strings.xml
+M	app/src/main/res/values/styles.xml
+M	build.gradle
+A	build/android-profile/profile-2018-03-16-16-42-56-474.json
+A	build/android-profile/profile-2018-03-16-16-42-56-474.rawproto
+A	local.properties
+M	settings.gradle
+
+70b0025;Updating License Information
+M	.google/packaging.yaml
+M	app/src/androidTest/java/com/hadrosaur/draganddropdemo/ExampleInstrumentedTest.java
+M	app/src/test/java/com/hadrosaur/draganddropdemo/ExampleUnitTest.java
+
+e37863b;Updated README.md
+M	README.md
+
+8a522a3;Preparing for launch
+A	.google/packaging.yaml
+
+9e4f492;Preparing for launch
+M	app/build.gradle
+M	app/src/main/AndroidManifest.xml
+M	app/src/main/java/com/hadrosaur/draganddropdemo/MainActivity.java
+M	app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+M	app/src/main/res/drawable/ic_launcher_background.xml
+M	app/src/main/res/layout/activity_main.xml
+M	app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+M	app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+M	app/src/main/res/values/colors.xml
+M	app/src/main/res/values/strings.xml
+M	app/src/main/res/values/styles.xml
+
+eab0fa7;Update comments
+M	app/src/main/java/com/hadrosaur/draganddropdemo/MainActivity.java
+
+4ab6ae7;Minor formatting, updating README.md
+A	CONTRIBUTING.md
+R100	LICENSE-2.0.txt	LICENSE
+A	README.md
+M	app/src/main/java/com/hadrosaur/draganddropdemo/MainActivity.java
+
+fbfe5f4;Initial commit
+A	LICENSE-2.0.txt
+A	app/.gitignore
+A	app/build.gradle
+A	app/proguard-rules.pro
+A	app/src/androidTest/java/com/hadrosaur/draganddropdemo/ExampleInstrumentedTest.java
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/hadrosaur/draganddropdemo/MainActivity.java
+A	app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+A	app/src/main/res/drawable/ic_launcher_background.xml
+A	app/src/main/res/layout/activity_main.xml
+A	app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+A	app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+A	app/src/main/res/mipmap-hdpi/ic_launcher.png
+A	app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+A	app/src/main/res/values/colors.xml
+A	app/src/main/res/values/strings.xml
+A	app/src/main/res/values/styles.xml
+A	app/src/test/java/com/hadrosaur/draganddropdemo/ExampleUnitTest.java
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle
+
+a3b66c4;Initial empty repository

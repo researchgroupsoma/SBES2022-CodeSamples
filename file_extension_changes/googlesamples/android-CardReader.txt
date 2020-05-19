@@ -1,0 +1,196 @@
+5c64a11;Update README.md
+M	README.md
+
+2717e8e;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+fd5ac26;Auto-update
+M	Application/build.gradle
+M	README.md
+
+25bb058;Auto-update
+M	Application/build.gradle
+
+249738c;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/menu/main.xml
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+bb84ff6;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+08fd2dc;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ffcddce;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+17dce48;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+065bd28;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+fc95ef8;Auto-update
+M	Application/build.gradle
+M	README.md
+
+303ea60;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+57bc373;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+8f6b12a;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+fa3d5f8;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+ea808e6;Auto-update
+M	LICENSE
+D	NOTICE
+
+91423b1;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/cardreader/MainActivity.java
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+44b3bd5;Auto-update
+M	Application/build.gradle
+M	README.md
+
+9697d36;Auto-update
+M	Application/build.gradle
+M	Application/tests/AndroidManifest.xml
+M	README.md
+
+25d66f4;Auto-update
+M	NOTICE
+
+e5f03ce;Auto-update
+M	Application/build.gradle
+
+60fc5d5;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+f779403;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+a9a45fc;Auto-update
+R072	CardReaderSample/build.gradle	Application/build.gradle
+R096	CardReaderSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	CardReaderSample/src/main/java/com/example/android/cardreader/CardReaderFragment.java	Application/src/main/java/com/example/android/cardreader/CardReaderFragment.java
+R100	CardReaderSample/src/main/java/com/example/android/cardreader/LoyaltyCardReader.java	Application/src/main/java/com/example/android/cardreader/LoyaltyCardReader.java
+R092	CardReaderSample/src/main/java/com/example/android/cardreader/MainActivity.java	Application/src/main/java/com/example/android/cardreader/MainActivity.java
+R100	CardReaderSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java	Application/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+R100	CardReaderSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	CardReaderSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	CardReaderSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	CardReaderSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	CardReaderSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	CardReaderSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	CardReaderSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	CardReaderSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	CardReaderSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	CardReaderSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	CardReaderSample/src/main/res/drawable-xxhdpi/card_background.png	Application/src/main/res/drawable-xxhdpi/card_background.png
+R100	CardReaderSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	CardReaderSample/src/main/res/layout-w720dp/activity_main.xml	Application/src/main/res/layout-w720dp/activity_main.xml
+R100	CardReaderSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	CardReaderSample/src/main/res/layout/main_fragment.xml	Application/src/main/res/layout/main_fragment.xml
+R100	CardReaderSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	CardReaderSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	CardReaderSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	CardReaderSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	CardReaderSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	CardReaderSample/src/main/res/values/fragmentview_strings.xml	Application/src/main/res/values/fragmentview_strings.xml
+R100	CardReaderSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	CardReaderSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	CardReaderSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R100	CardReaderSample/src/main/res/xml/nfc_tech_filter.xml	Application/src/main/res/xml/nfc_tech_filter.xml
+R095	CardReaderSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	CardReaderSample/tests/src/com/example/android/cardreader/tests/SampleTests.java	Application/tests/src/com/example/android/cardreader/tests/SampleTests.java
+M	gradle/wrapper/gradle-wrapper.properties
+M	settings.gradle
+
+d045090;Initial Commit
+A	CONTRIB.md
+A	CardReaderSample/build.gradle
+A	CardReaderSample/src/main/AndroidManifest.xml
+A	CardReaderSample/src/main/java/com/example/android/cardreader/CardReaderFragment.java
+A	CardReaderSample/src/main/java/com/example/android/cardreader/LoyaltyCardReader.java
+A	CardReaderSample/src/main/java/com/example/android/cardreader/MainActivity.java
+A	CardReaderSample/src/main/java/com/example/android/common/activities/SampleActivityBase.java
+A	CardReaderSample/src/main/java/com/example/android/common/logger/Log.java
+A	CardReaderSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	CardReaderSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	CardReaderSample/src/main/java/com/example/android/common/logger/LogView.java
+A	CardReaderSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	CardReaderSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	CardReaderSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	CardReaderSample/src/main/res/drawable-hdpi/tile.9.png
+A	CardReaderSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	CardReaderSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	CardReaderSample/src/main/res/drawable-xxhdpi/card_background.png
+A	CardReaderSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	CardReaderSample/src/main/res/layout-w720dp/activity_main.xml
+A	CardReaderSample/src/main/res/layout/activity_main.xml
+A	CardReaderSample/src/main/res/layout/main_fragment.xml
+A	CardReaderSample/src/main/res/menu/main.xml
+A	CardReaderSample/src/main/res/values-sw600dp/template-dimens.xml
+A	CardReaderSample/src/main/res/values-sw600dp/template-styles.xml
+A	CardReaderSample/src/main/res/values-v11/template-styles.xml
+A	CardReaderSample/src/main/res/values/base-strings.xml
+A	CardReaderSample/src/main/res/values/fragmentview_strings.xml
+A	CardReaderSample/src/main/res/values/strings.xml
+A	CardReaderSample/src/main/res/values/template-dimens.xml
+A	CardReaderSample/src/main/res/values/template-styles.xml
+A	CardReaderSample/src/main/res/xml/nfc_tech_filter.xml
+A	CardReaderSample/tests/AndroidManifest.xml
+A	CardReaderSample/tests/src/com/example/android/cardreader/tests/SampleTests.java
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

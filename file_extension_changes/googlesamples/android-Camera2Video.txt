@@ -1,0 +1,254 @@
+626fb6c;Update README.md
+M	README.md
+
+6f1457c;Merge pull request #95 from googlesamples/kotlin-update
+c0f8b6b;kotlin version update to 1.3.0 test: Pixel3 + GSI
+M	kotlinApp/Application/build.gradle
+M	kotlinApp/build.gradle
+M	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+
+c5029e6;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/.google/packaging.yaml
+A	kotlinApp/Application/build.gradle
+A	kotlinApp/Application/src/main/AndroidManifest.xml
+A	kotlinApp/Application/src/main/java/com/example/android/camera2video/AutoFitTextureView.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2video/CameraActivity.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2video/CompareSizesByArea.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2video/ConfirmationDialog.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2video/Constants.kt
+A	kotlinApp/Application/src/main/java/com/example/android/camera2video/ErrorDialog.kt
+A	kotlinApp/Application/src/main/res/drawable-hdpi/ic_action_info.png
+A	kotlinApp/Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-hdpi/tile.9.png
+A	kotlinApp/Application/src/main/res/drawable-mdpi/ic_action_info.png
+A	kotlinApp/Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-xhdpi/ic_action_info.png
+A	kotlinApp/Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-xxhdpi/ic_action_info.png
+A	kotlinApp/Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/layout-land/fragment_camera2_video.xml
+A	kotlinApp/Application/src/main/res/layout/activity_camera.xml
+A	kotlinApp/Application/src/main/res/layout/fragment_camera2_video.xml
+A	kotlinApp/Application/src/main/res/values-v21/base-template-styles.xml
+A	kotlinApp/Application/src/main/res/values/base-strings.xml
+A	kotlinApp/Application/src/main/res/values/colors.xml
+A	kotlinApp/Application/src/main/res/values/dimens.xml
+A	kotlinApp/Application/src/main/res/values/strings.xml
+A	kotlinApp/Application/src/main/res/values/styles.xml
+A	kotlinApp/CONTRIB.md
+A	kotlinApp/README.md
+A	kotlinApp/build.gradle
+A	kotlinApp/gradle/wrapper/gradle-wrapper.jar
+A	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/gradlew
+A	kotlinApp/gradlew.bat
+A	kotlinApp/packaging.yaml
+A	kotlinApp/screenshots/1-launch.png
+A	kotlinApp/screenshots/2-record.png
+A	kotlinApp/screenshots/3-save.png
+A	kotlinApp/screenshots/icon-web.png
+A	kotlinApp/settings.gradle
+
+ac4324a;Auto-update
+M	Application/build.gradle
+M	README.md
+
+a9fb396;Auto-update
+M	Application/build.gradle
+
+0b419c8;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+2f390c8;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+5f4308e;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9763069;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+05d1e58;Auto-update
+M	Application/build.gradle
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+145d766;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+60d142b;Auto-update
+M	Application/build.gradle
+M	README.md
+
+829eee5;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+ec99302;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java
+M	Application/src/main/res/values/strings.xml
+
+5b445a5;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+9dd1b73;Auto-update
+M	Application/build.gradle
+M	README.md
+
+42e6be2;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+824e0c2;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+4365149;Auto-update
+M	LICENSE
+D	NOTICE
+
+372500b;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+3dbce81;Auto-update
+M	Application/build.gradle
+M	README.md
+
+a1f8f6a;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+
+54cc4f3;Auto-update
+M	NOTICE
+
+b934312;Auto-update
+M	Application/build.gradle
+
+53203be;Auto-update
+M	.google/packaging.yaml
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+A	screenshots/1-launch.png
+A	screenshots/2-record.png
+A	screenshots/3-save.png
+A	screenshots/icon-web.png
+
+07778c9;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+cfe40cb;Auto-update
+R072	Camera2VideoSample/build.gradle	Application/build.gradle
+R095	Camera2VideoSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	Camera2VideoSample/src/main/java/com/example/android/camera2video/AutoFitTextureView.java	Application/src/main/java/com/example/android/camera2video/AutoFitTextureView.java
+R064	Camera2VideoSample/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java	Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java
+R100	Camera2VideoSample/src/main/java/com/example/android/camera2video/CameraActivity.java	Application/src/main/java/com/example/android/camera2video/CameraActivity.java
+R100	Camera2VideoSample/src/main/res/drawable-hdpi/ic_action_info.png	Application/src/main/res/drawable-hdpi/ic_action_info.png
+R100	Camera2VideoSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	Camera2VideoSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	Camera2VideoSample/src/main/res/drawable-mdpi/ic_action_info.png	Application/src/main/res/drawable-mdpi/ic_action_info.png
+R100	Camera2VideoSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	Camera2VideoSample/src/main/res/drawable-xhdpi/ic_action_info.png	Application/src/main/res/drawable-xhdpi/ic_action_info.png
+R100	Camera2VideoSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	Camera2VideoSample/src/main/res/drawable-xxhdpi/ic_action_info.png	Application/src/main/res/drawable-xxhdpi/ic_action_info.png
+R100	Camera2VideoSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	Camera2VideoSample/src/main/res/layout-land/fragment_camera2_video.xml	Application/src/main/res/layout-land/fragment_camera2_video.xml
+R100	Camera2VideoSample/src/main/res/layout/activity_camera.xml	Application/src/main/res/layout/activity_camera.xml
+R100	Camera2VideoSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	Camera2VideoSample/src/main/res/layout/fragment_camera2_video.xml	Application/src/main/res/layout/fragment_camera2_video.xml
+R100	Camera2VideoSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	Camera2VideoSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	Camera2VideoSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+R100	Camera2VideoSample/src/main/res/values-v21/template-styles.xml	Application/src/main/res/values-v21/template-styles.xml
+R099	Camera2VideoSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	Camera2VideoSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	Camera2VideoSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	Camera2VideoSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	Camera2VideoSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+M	README.md
+M	settings.gradle
+
+7f10147;Update sample with latest changes from Android SDK
+A	CONTRIB.md
+M	Camera2VideoSample/build.gradle
+M	Camera2VideoSample/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java
+A	LICENSE
+A	README.md
+D	README.txt
+M	gradle/wrapper/gradle-wrapper.properties
+A	packaging.yaml
+
+1aa227f;Initial commit
+A	Camera2VideoSample/build.gradle
+A	Camera2VideoSample/src/main/AndroidManifest.xml
+A	Camera2VideoSample/src/main/java/com/example/android/camera2video/AutoFitTextureView.java
+A	Camera2VideoSample/src/main/java/com/example/android/camera2video/Camera2VideoFragment.java
+A	Camera2VideoSample/src/main/java/com/example/android/camera2video/CameraActivity.java
+A	Camera2VideoSample/src/main/res/drawable-hdpi/ic_action_info.png
+A	Camera2VideoSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	Camera2VideoSample/src/main/res/drawable-hdpi/tile.9.png
+A	Camera2VideoSample/src/main/res/drawable-mdpi/ic_action_info.png
+A	Camera2VideoSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	Camera2VideoSample/src/main/res/drawable-xhdpi/ic_action_info.png
+A	Camera2VideoSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	Camera2VideoSample/src/main/res/drawable-xxhdpi/ic_action_info.png
+A	Camera2VideoSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	Camera2VideoSample/src/main/res/layout-land/fragment_camera2_video.xml
+A	Camera2VideoSample/src/main/res/layout/activity_camera.xml
+A	Camera2VideoSample/src/main/res/layout/activity_main.xml
+A	Camera2VideoSample/src/main/res/layout/fragment_camera2_video.xml
+A	Camera2VideoSample/src/main/res/values-sw600dp/template-dimens.xml
+A	Camera2VideoSample/src/main/res/values-sw600dp/template-styles.xml
+A	Camera2VideoSample/src/main/res/values-v11/template-styles.xml
+A	Camera2VideoSample/src/main/res/values-v21/template-styles.xml
+A	Camera2VideoSample/src/main/res/values/base-strings.xml
+A	Camera2VideoSample/src/main/res/values/strings.xml
+A	Camera2VideoSample/src/main/res/values/styles.xml
+A	Camera2VideoSample/src/main/res/values/template-dimens.xml
+A	Camera2VideoSample/src/main/res/values/template-styles.xml
+A	README.txt
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

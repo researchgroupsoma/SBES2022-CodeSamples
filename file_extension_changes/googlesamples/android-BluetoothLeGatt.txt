@@ -1,0 +1,184 @@
+1f0e90a;Update README.md
+M	README.md
+
+74c0006;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+975ae58;Auto-update
+M	Application/build.gradle
+M	README.md
+
+84ba544;Auto-update
+M	Application/build.gradle
+
+6bef696;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+b9b94b3;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+0404c42;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+4958032;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+3073e02;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+0c4d76e;Auto-update
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+559163e;Update README.md
+M	README.md
+
+7362def;Auto-update
+M	Application/build.gradle
+M	README.md
+
+53b1869;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+155ec35;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+ff84542;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+d8e73d0;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+be591d1;Auto-update
+M	LICENSE
+D	NOTICE
+
+9232285;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+a4796de;Auto-update
+M	Application/build.gradle
+M	README.md
+
+68cc20e;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	README.md
+
+493d28e;Auto-update
+M	NOTICE
+
+ce96974;Auto-update
+M	Application/build.gradle
+
+21721e8;Auto-update
+M	.google/packaging.yaml
+A	CONTRIB.md
+A	NOTICE
+M	README.md
+A	screenshots/1-main.png
+A	screenshots/2-detail.png
+A	screenshots/icon-web.png
+
+b527776;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+646f225;Auto-update
+R072	BluetoothLeGattSample/build.gradle	Application/build.gradle
+R096	BluetoothLeGattSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	BluetoothLeGattSample/src/main/java/com/example/android/bluetoothlegatt/BluetoothLeService.java	Application/src/main/java/com/example/android/bluetoothlegatt/BluetoothLeService.java
+R100	BluetoothLeGattSample/src/main/java/com/example/android/bluetoothlegatt/DeviceControlActivity.java	Application/src/main/java/com/example/android/bluetoothlegatt/DeviceControlActivity.java
+R100	BluetoothLeGattSample/src/main/java/com/example/android/bluetoothlegatt/DeviceScanActivity.java	Application/src/main/java/com/example/android/bluetoothlegatt/DeviceScanActivity.java
+R100	BluetoothLeGattSample/src/main/java/com/example/android/bluetoothlegatt/SampleGattAttributes.java	Application/src/main/java/com/example/android/bluetoothlegatt/SampleGattAttributes.java
+R100	BluetoothLeGattSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	BluetoothLeGattSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	BluetoothLeGattSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	BluetoothLeGattSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	BluetoothLeGattSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	BluetoothLeGattSample/src/main/res/layout/actionbar_indeterminate_progress.xml	Application/src/main/res/layout/actionbar_indeterminate_progress.xml
+R100	BluetoothLeGattSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	BluetoothLeGattSample/src/main/res/layout/gatt_services_characteristics.xml	Application/src/main/res/layout/gatt_services_characteristics.xml
+R100	BluetoothLeGattSample/src/main/res/layout/listitem_device.xml	Application/src/main/res/layout/listitem_device.xml
+R100	BluetoothLeGattSample/src/main/res/menu/gatt_services.xml	Application/src/main/res/menu/gatt_services.xml
+R100	BluetoothLeGattSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	BluetoothLeGattSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	BluetoothLeGattSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	BluetoothLeGattSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	BluetoothLeGattSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	BluetoothLeGattSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	BluetoothLeGattSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	BluetoothLeGattSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+M	settings.gradle
+
+c8cd6a3;Initial Commit
+A	BluetoothLeGattSample/build.gradle
+A	BluetoothLeGattSample/src/main/AndroidManifest.xml
+A	BluetoothLeGattSample/src/main/java/com/example/android/bluetoothlegatt/BluetoothLeService.java
+A	BluetoothLeGattSample/src/main/java/com/example/android/bluetoothlegatt/DeviceControlActivity.java
+A	BluetoothLeGattSample/src/main/java/com/example/android/bluetoothlegatt/DeviceScanActivity.java
+A	BluetoothLeGattSample/src/main/java/com/example/android/bluetoothlegatt/SampleGattAttributes.java
+A	BluetoothLeGattSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	BluetoothLeGattSample/src/main/res/drawable-hdpi/tile.9.png
+A	BluetoothLeGattSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	BluetoothLeGattSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BluetoothLeGattSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BluetoothLeGattSample/src/main/res/layout/actionbar_indeterminate_progress.xml
+A	BluetoothLeGattSample/src/main/res/layout/activity_main.xml
+A	BluetoothLeGattSample/src/main/res/layout/gatt_services_characteristics.xml
+A	BluetoothLeGattSample/src/main/res/layout/listitem_device.xml
+A	BluetoothLeGattSample/src/main/res/menu/gatt_services.xml
+A	BluetoothLeGattSample/src/main/res/menu/main.xml
+A	BluetoothLeGattSample/src/main/res/values-sw600dp/template-dimens.xml
+A	BluetoothLeGattSample/src/main/res/values-sw600dp/template-styles.xml
+A	BluetoothLeGattSample/src/main/res/values-v11/template-styles.xml
+A	BluetoothLeGattSample/src/main/res/values/base-strings.xml
+A	BluetoothLeGattSample/src/main/res/values/strings.xml
+A	BluetoothLeGattSample/src/main/res/values/template-dimens.xml
+A	BluetoothLeGattSample/src/main/res/values/template-styles.xml
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle

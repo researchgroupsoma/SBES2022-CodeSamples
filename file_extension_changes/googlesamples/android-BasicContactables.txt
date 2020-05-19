@@ -1,0 +1,203 @@
+67bfc79;Update README.md
+M	README.md
+
+5205dc2;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+958705c;Auto-update
+M	Application/build.gradle
+M	README.md
+
+2e088eb;Auto-update
+M	Application/build.gradle
+
+0e2c0f9;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+600f5fe;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+8bad0b5;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+2991b16;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+9babb4c;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+61d5cf8;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+218a294;Auto-update
+M	Application/build.gradle
+M	README.md
+
+e631450;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+fbecc41;Auto-update
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+
+7332e65;Auto-update
+M	Application/build.gradle
+
+f035d88;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values-v11/template-styles.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/template-styles.xml
+D	NOTICE
+M	README.md
+
+5044265;Auto-update
+M	Application/build.gradle
+A	NOTICE
+
+2f5cf08;Auto-update
+M	LICENSE
+D	NOTICE
+
+2740dd3;Auto-update
+M	.google/packaging.yaml
+M	Application/build.gradle
+M	Application/src/main/res/values-v21/base-colors.xml
+M	Application/src/main/res/values-v21/base-template-styles.xml
+M	Application/src/main/res/values/base-strings.xml
+M	NOTICE
+M	README.md
+
+bdfdf9b;Auto-update
+M	Application/build.gradle
+M	README.md
+
+6846eac;Auto-update
+M	Application/build.gradle
+D	Application/src/main/res/layout/activity_main.xml
+M	Application/tests/src/com/example/android/basiccontactables/tests/SampleTests.java
+M	README.md
+
+70c9cdf;Auto-update
+M	NOTICE
+
+7365b4a;Auto-update
+M	.google/packaging.yaml
+M	README.md
+A	screenshots/1-main.png
+A	screenshots/2-search.png
+A	screenshots/3-results.png
+A	screenshots/icon-web.png
+
+72544b4;Auto-update
+M	Application/build.gradle
+
+56bba64;Auto-update
+A	CONTRIB.md
+A	NOTICE
+
+8d3c993;Auto-update
+A	.google/packaging.yaml
+M	Application/build.gradle
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+D	Application/src/main/res/values-v21/template-styles.xml
+R092	CONTRIB.md	CONTRIBUTING.md
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+
+c077597;Auto-update
+R072	BasicContactablesSample/build.gradle	Application/build.gradle
+R095	BasicContactablesSample/src/main/AndroidManifest.xml	Application/src/main/AndroidManifest.xml
+R100	BasicContactablesSample/src/main/java/com/example/android/basiccontactables/ContactablesLoaderCallbacks.java	Application/src/main/java/com/example/android/basiccontactables/ContactablesLoaderCallbacks.java
+R100	BasicContactablesSample/src/main/java/com/example/android/basiccontactables/MainActivity.java	Application/src/main/java/com/example/android/basiccontactables/MainActivity.java
+R100	BasicContactablesSample/src/main/java/com/example/android/common/logger/Log.java	Application/src/main/java/com/example/android/common/logger/Log.java
+R100	BasicContactablesSample/src/main/java/com/example/android/common/logger/LogFragment.java	Application/src/main/java/com/example/android/common/logger/LogFragment.java
+R100	BasicContactablesSample/src/main/java/com/example/android/common/logger/LogNode.java	Application/src/main/java/com/example/android/common/logger/LogNode.java
+R100	BasicContactablesSample/src/main/java/com/example/android/common/logger/LogView.java	Application/src/main/java/com/example/android/common/logger/LogView.java
+R100	BasicContactablesSample/src/main/java/com/example/android/common/logger/LogWrapper.java	Application/src/main/java/com/example/android/common/logger/LogWrapper.java
+R100	BasicContactablesSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java	Application/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+R100	BasicContactablesSample/src/main/res/drawable-hdpi/ic_launcher.png	Application/src/main/res/drawable-hdpi/ic_launcher.png
+R100	BasicContactablesSample/src/main/res/drawable-hdpi/ic_search_api_holo_light.png	Application/src/main/res/drawable-hdpi/ic_search_api_holo_light.png
+R100	BasicContactablesSample/src/main/res/drawable-hdpi/tile.9.png	Application/src/main/res/drawable-hdpi/tile.9.png
+R100	BasicContactablesSample/src/main/res/drawable-mdpi/ic_launcher.png	Application/src/main/res/drawable-mdpi/ic_launcher.png
+R100	BasicContactablesSample/src/main/res/drawable-mdpi/ic_search_api_holo_light.png	Application/src/main/res/drawable-mdpi/ic_search_api_holo_light.png
+R100	BasicContactablesSample/src/main/res/drawable-xhdpi/ic_launcher.png	Application/src/main/res/drawable-xhdpi/ic_launcher.png
+R100	BasicContactablesSample/src/main/res/drawable-xhdpi/ic_search_api_holo_light.png	Application/src/main/res/drawable-xhdpi/ic_search_api_holo_light.png
+R100	BasicContactablesSample/src/main/res/drawable-xxhdpi/ic_launcher.png	Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+R100	BasicContactablesSample/src/main/res/layout/activity_main.xml	Application/src/main/res/layout/activity_main.xml
+R100	BasicContactablesSample/src/main/res/layout/sample_main.xml	Application/src/main/res/layout/sample_main.xml
+R100	BasicContactablesSample/src/main/res/menu/main.xml	Application/src/main/res/menu/main.xml
+R100	BasicContactablesSample/src/main/res/values-sw600dp/template-dimens.xml	Application/src/main/res/values-sw600dp/template-dimens.xml
+R100	BasicContactablesSample/src/main/res/values-sw600dp/template-styles.xml	Application/src/main/res/values-sw600dp/template-styles.xml
+R100	BasicContactablesSample/src/main/res/values-v11/template-styles.xml	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/template-styles.xml
+R100	BasicContactablesSample/src/main/res/values/base-strings.xml	Application/src/main/res/values/base-strings.xml
+R100	BasicContactablesSample/src/main/res/values/strings.xml	Application/src/main/res/values/strings.xml
+R100	BasicContactablesSample/src/main/res/values/styles.xml	Application/src/main/res/values/styles.xml
+R100	BasicContactablesSample/src/main/res/values/template-dimens.xml	Application/src/main/res/values/template-dimens.xml
+R100	BasicContactablesSample/src/main/res/values/template-styles.xml	Application/src/main/res/values/template-styles.xml
+R100	BasicContactablesSample/src/main/res/xml/searchable.xml	Application/src/main/res/xml/searchable.xml
+R093	BasicContactablesSample/tests/AndroidManifest.xml	Application/tests/AndroidManifest.xml
+R100	BasicContactablesSample/tests/src/com/example/android/basiccontactables/tests/SampleTests.java	Application/tests/src/com/example/android/basiccontactables/tests/SampleTests.java
+M	settings.gradle
+
+0efe652;Initial Commit
+A	BasicContactablesSample/build.gradle
+A	BasicContactablesSample/src/main/AndroidManifest.xml
+A	BasicContactablesSample/src/main/java/com/example/android/basiccontactables/ContactablesLoaderCallbacks.java
+A	BasicContactablesSample/src/main/java/com/example/android/basiccontactables/MainActivity.java
+A	BasicContactablesSample/src/main/java/com/example/android/common/logger/Log.java
+A	BasicContactablesSample/src/main/java/com/example/android/common/logger/LogFragment.java
+A	BasicContactablesSample/src/main/java/com/example/android/common/logger/LogNode.java
+A	BasicContactablesSample/src/main/java/com/example/android/common/logger/LogView.java
+A	BasicContactablesSample/src/main/java/com/example/android/common/logger/LogWrapper.java
+A	BasicContactablesSample/src/main/java/com/example/android/common/logger/MessageOnlyLogFilter.java
+A	BasicContactablesSample/src/main/res/drawable-hdpi/ic_launcher.png
+A	BasicContactablesSample/src/main/res/drawable-hdpi/ic_search_api_holo_light.png
+A	BasicContactablesSample/src/main/res/drawable-hdpi/tile.9.png
+A	BasicContactablesSample/src/main/res/drawable-mdpi/ic_launcher.png
+A	BasicContactablesSample/src/main/res/drawable-mdpi/ic_search_api_holo_light.png
+A	BasicContactablesSample/src/main/res/drawable-xhdpi/ic_launcher.png
+A	BasicContactablesSample/src/main/res/drawable-xhdpi/ic_search_api_holo_light.png
+A	BasicContactablesSample/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	BasicContactablesSample/src/main/res/layout/activity_main.xml
+A	BasicContactablesSample/src/main/res/layout/sample_main.xml
+A	BasicContactablesSample/src/main/res/menu/main.xml
+A	BasicContactablesSample/src/main/res/values-sw600dp/template-dimens.xml
+A	BasicContactablesSample/src/main/res/values-sw600dp/template-styles.xml
+A	BasicContactablesSample/src/main/res/values-v11/template-styles.xml
+A	BasicContactablesSample/src/main/res/values/base-strings.xml
+A	BasicContactablesSample/src/main/res/values/strings.xml
+A	BasicContactablesSample/src/main/res/values/styles.xml
+A	BasicContactablesSample/src/main/res/values/template-dimens.xml
+A	BasicContactablesSample/src/main/res/values/template-styles.xml
+A	BasicContactablesSample/src/main/res/xml/searchable.xml
+A	BasicContactablesSample/tests/AndroidManifest.xml
+A	BasicContactablesSample/tests/src/com/example/android/basiccontactables/tests/SampleTests.java
+A	CONTRIB.md
+A	LICENSE
+A	README.md
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	packaging.yaml
+A	settings.gradle
