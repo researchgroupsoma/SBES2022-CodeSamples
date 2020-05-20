@@ -67,54 +67,18 @@ def create_output_directory(owner):
     subprocess.call(["bash", "-c", "mkdir -p file_extension_changes/"+owner])
 
 
-def extract_changes_log(directory, sample):
-    repositories_path = "repositories/"
+def extract_changes_log(repositories_path, directory, sample):
     create_output_directory(sample.split("/")[0])
     output_directory = directory + "/" + sample + ".txt"
     sample_path = repositories_path + sample
     sample_repository = Repo(repositories_path + sample)
     active_branch = sample_repository.active_branch
     git_checkout(active_branch, sample_path)
-    subprocess.call(["bash", "-c",
-                     "git -C {0} log --name-status --stat --pretty=format:'%h;%s' > {1}".format(sample_path,
-                                                                                                output_directory)])
+    subprocess.call(["bash", "-c", "git -C {0} log --name-status --stat --pretty=format:'%h;%s' > {1}".format(sample_path,output_directory)])
 
 
 def git_checkout(active_branch, sample_path):
     subprocess.call(["bash", "-c", "git -C {0} checkout -f {1}".format(sample_path, active_branch)])
-
-
-def file_extension_changes_forks(framework, projects, githubtoken):
-    samples = get_samples(projects)
-    g = get_py_github_instance(githubtoken)
-    configuration_files = create_configuration_dict()
-    extension_files = create_extension_dict()
-    write_header(configuration_files, extension_files, framework, "file_extension_changes_forks")
-    for i, sample in enumerate(samples):
-        configuration_files = create_configuration_dict()
-        extension_files = create_extension_dict()
-        manage_limit_rate(len(samples))
-        print_status_samples(i, len(samples))
-        r = g.get_repo(sample)
-        forks = r.get_forks()
-        for f, fork in enumerate(forks):
-            manage_limit_rate(forks.totalCount)
-            print("{0}% forks completed from sample {1}".format(((f+1)/forks.totalCount), sample))
-            try:
-                comparation = r.compare(r.default_branch, fork.owner.login + ":" + fork.default_branch)
-                if comparation.ahead_by < 1:
-                    continue
-            except:
-                continue
-            commits = comparation.commits
-            for commit in commits:
-                manage_limit_rate(len(commits))
-                for file in commit.files:
-                    manage_limit_rate(len(commit.files))
-                    filename = get_file_name(file.filename)
-                    calculate_configuration_files(configuration_files, filename)
-                    calculate_extension_files(filename, extension_files)
-            write_content(configuration_files, extension_files, framework, fork.full_name, "file_extension_changes_forks")
 
 
 def file_extension_changes(framework, projects):
@@ -125,7 +89,7 @@ def file_extension_changes(framework, projects):
     action_in_files = {"A": 0, "M": 0, "D": 0}
     write_header(action_in_files, configuration_files, extension_files, framework, "file_extension_changes")
     for sample in samples:
-        extract_changes_log("file_extension_changes", sample)
+        extract_changes_log("repositories/", "file_extension_changes", sample)
         configuration_files = create_configuration_dict()
         extension_files = create_extension_dict()
         action_in_files = {"A": 0, "M": 0, "D": 0}
