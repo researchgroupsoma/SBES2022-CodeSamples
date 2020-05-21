@@ -1,5 +1,5 @@
 from utils import output_write, find_paths, get_samples
-from utils.utils import print_status_samples
+from utils.utils import print_status_samples, deal_with_empty_repo
 
 
 def create_extension_files():
@@ -41,7 +41,7 @@ def count_others(extensions):
 def count_extension_files(extensions, sample):
     for extension in extensions:
         extensions[extension] = len(
-            find_paths(extension, "/home/gabriel.menezes/Documentos/gabriel/pesquisamestrado/repositories/" + sample))
+            find_paths(extension, "repositories/" + sample))
 
 
 def numberofextensionfile(framework, projects):
@@ -54,6 +54,7 @@ def numberofextensionfile(framework, projects):
     samples = get_samples(projects)
     for index, sample in enumerate(samples):
         print_status_samples(index+1, len(samples))
+        deal_with_empty_repo(sample)
         count_extension_files(extensions, sample)
         others = count_others(extensions)
         output = concat_output(extensions) + str(others)
