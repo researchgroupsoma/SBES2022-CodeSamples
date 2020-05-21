@@ -2,7 +2,7 @@ from git import Repo
 import xml.etree.ElementTree
 import re
 from utils import remove_next_line, output_write, find_paths, get_samples
-from utils.utils import print_status_samples
+from utils.utils import print_status_samples, deal_with_empty_repo
 
 
 def find_config_file(framework):
@@ -62,7 +62,7 @@ def write_output_header(configuration_file_key_words, framework):
     header = "framework,path"
     for config in configuration_file_key_words:
         header = header + "," + config
-    output_write(framework, "currentframeworkversion", header, True)
+    output_write(framework, "currentframeworkversion", "currentframeworkversion", header, True)
 
 
 def get_key_words(framework):
@@ -74,7 +74,7 @@ def get_key_words(framework):
 
 def checkout_default_branch_repository(sample):
     repository = Repo("repositories/" + sample)
-    repository.git.checkout(repository.active_branch, "-f")
+    repository.git.checkout("master", "-f")
 
 
 def currentframeworkversion(framework, projects):
@@ -86,10 +86,12 @@ def currentframeworkversion(framework, projects):
     for index, sample in enumerate(samples):
         print_status_samples(index+1, len(samples))
         checkout_default_branch_repository(sample)
+        deal_with_empty_repo(sample)
         configuration_files_paths = find_paths(configuration_file, "repositories/" + sample)
         for path in configuration_files_paths:
             output = framework + "," + path
             for key, value in configuration_file_key_words.items():
                 version = get_framework_version(framework, path, key)
                 output = output + "," + version
-            output_write(framework, "currentframeworkversion", output, False)
+            if ",,," not in output and (framework != "spring" or "RELEASE" in output):
+                output_write(framework, "currentframeworkversion", "currentframeworkversion", output, False)
