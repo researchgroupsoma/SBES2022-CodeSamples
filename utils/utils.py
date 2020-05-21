@@ -2,6 +2,7 @@ import fnmatch
 import os
 from github import Github
 import time
+from git import Repo
 
 
 def remove_next_line(sample):
@@ -54,3 +55,25 @@ def manage_limit_rate(value):
 
 def print_status_samples(index, size):
     print("{0}% Completed samples".format((index / size) * 100))
+
+def repo_is_empty(project):
+    project_path = "/home/gabriel/Documentos/gabrielsmenezes/pesquisamestrado/repositories/"+project
+    files = find_paths("*.*", project_path)
+    return len(files) == 1 and files[0].split("/")[-1] == "README.md"
+
+def deal_with_empty_repo(project):
+    project_path = "/home/gabriel/Documentos/gabrielsmenezes/pesquisamestrado/repositories/"+project
+    repository = Repo(project_path)
+    repository.git.checkout("master", "-f")
+    iter_commits = repository.iter_commits()
+    commits = []
+    for c in iter_commits:
+        commits.append(c)
+    count = 0
+    while repo_is_empty(project):
+        sha = commits[count]
+        repository.git.checkout(sha, "-f")
+        count += 1
+
+
+deal_with_empty_repo("googlesamples/android-WearStandaloneGoogleSignIn")
