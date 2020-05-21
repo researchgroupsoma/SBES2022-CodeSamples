@@ -56,10 +56,12 @@ def manage_limit_rate(value):
 def print_status_samples(index, size):
     print("{0}% Completed samples".format((index / size) * 100))
 
+
 def repo_is_empty(project):
     project_path = "repositories/"+project
     files = find_paths("*.*", project_path)
     return len(files) == 1 and files[0].split("/")[-1] == "README.md"
+
 
 def deal_with_empty_repo(project):
     project_path = "repositories/"+project
@@ -74,6 +76,3 @@ def deal_with_empty_repo(project):
         sha = commits[count]
         repository.git.checkout(sha, "-f")
         count += 1
-
-
-deal_with_empty_repo("googlesamples/android-WearStandaloneGoogleSignIn")

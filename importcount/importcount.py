@@ -1,5 +1,5 @@
 from utils import remove_next_line, output_write, find_paths, get_samples
-from utils.utils import print_status_samples
+from utils.utils import print_status_samples, deal_with_empty_repo
 
 
 def create_output(framework, imports, java_files_path, relative, sample):
@@ -56,6 +56,7 @@ def importcount(framework, projects):
     samples = get_samples(projects)
     for index, sample in enumerate(samples):
         print_status_samples(index+1, len(samples))
+        deal_with_empty_repo(sample)
         java_files_path = find_paths("*.java", "repositories/" + sample)
         imports = get_imports(framework, java_files_path)
         relative = calculate_relative(imports, java_files_path)
