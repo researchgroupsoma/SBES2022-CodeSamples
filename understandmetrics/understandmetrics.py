@@ -1,6 +1,5 @@
 import subprocess
-import os
-from utils import get_samples, output_write, remove_next_line
+from utils import get_samples, output_write, remove_next_line, deal_with_empty_repo
 
 
 def create_output_directory(owner):
@@ -50,6 +49,7 @@ def understandmetrics(framework, projects):
         repositories_path = "/home/gabriel/Documentos/gabrielsmenezes/pesquisamestrado/repositories/"
         sample_path = repositories_path+sample
         udb_path = "understandmetrics/" + sample
+        deal_with_empty_repo(sample)
         extract_metrics_with_understand(understand_path, udb_path, sample_path)
 
         with open(udb_path+".csv") as file:
