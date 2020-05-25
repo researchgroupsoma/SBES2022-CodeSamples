@@ -201,6 +201,7 @@ repositories
 
 forks_repositories
 
+*/.Rhistory
 /venv
 understandmetrics/understand
 /understandmetrics/spring-guides/
