@@ -1,0 +1,10 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-WearAccessibilityApp,49999cea31903f4a14770abba2f65bda6cd93ef0,2017-12-18 14:23:29-08:00,33,52.78787878787879,1.226027397260274
+android,googlesamples/android-WearAccessibilityApp,8afd29d63296274fa4a41a1ee8d264eaafae94f4,2017-12-18 19:09:23-08:00,33,52.696969696969695,1.226027397260274
+android,googlesamples/android-WearAccessibilityApp,c99bbd9a8257953c8e642a8d1b2542bc98deb5c0,2018-01-25 09:37:07-08:00,32,53.6875,1.2291666666666667
+android,googlesamples/android-WearAccessibilityApp,a399fd60cc2a523ce1f763cdd92da41e673f89b5,2018-03-28 09:34:12-07:00,32,53.6875,1.2291666666666667
+android,googlesamples/android-WearAccessibilityApp,f84042f182cd63ef5a56ef03146f36d62f2efc4a,2018-07-27 21:57:43-07:00,32,54.0625,1.2291666666666667
+android,googlesamples/android-WearAccessibilityApp,24bd5d75c1cd5b423bd5908218cc0ec87e250e2a,2019-04-11 13:58:59-07:00,33,55.03030303030303,1.2297297297297298
+android,googlesamples/android-WearAccessibilityApp,55de6c5ae9226fc5edf5694f07822e7404bb963a,2019-09-02 15:14:29-07:00,33,55.03030303030303,1.2297297297297298
+android,googlesamples/android-WearAccessibilityApp,c1c611c9e6cf64095de32a77f7b4420c7dc0288c,2019-09-05 11:16:23-07:00,0,0,0
+android,googlesamples/android-WearAccessibilityApp,cec732ec345e31e81e263e8081226c4a929fe0cb,2019-09-05 11:38:57-07:00,0,0,0

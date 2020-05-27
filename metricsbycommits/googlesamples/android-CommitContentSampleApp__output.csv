@@ -1,0 +1,9 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-CommitContentSampleApp,8cb922c1beba2c0a1c260b302648297dc106b362,2016-10-19 14:08:07-07:00,1,165.0,2.75
+android,googlesamples/android-CommitContentSampleApp,dfa46e30abcc36435f02c4fe1ef8d3a934608c9d,2016-10-19 14:26:30-07:00,1,165.0,2.75
+android,googlesamples/android-CommitContentSampleApp,67a980558c8b560590f06e9d1f2dd8883509c2c7,2016-12-13 09:39:22-08:00,1,165.0,2.75
+android,googlesamples/android-CommitContentSampleApp,e45cf7c1732d093785f1fc17da26343c419984d6,2017-02-09 09:17:34-08:00,1,165.0,2.75
+android,googlesamples/android-CommitContentSampleApp,a66dd6965db5dbdc73915220291a27c9bbe147dc,2017-05-17 13:32:27-07:00,1,165.0,2.75
+android,googlesamples/android-CommitContentSampleApp,aeb1a50067fb3f191a51473a5559a08f4da446bb,2017-10-10 17:51:58-07:00,1,165.0,2.75
+android,googlesamples/android-CommitContentSampleApp,e60081b8f150e4853f5b0609c366957034bbae4a,2018-02-15 16:35:38-08:00,1,165.0,2.75
+android,googlesamples/android-CommitContentSampleApp,85f3ffb277b7c9b5a66359825194c132eb087f1c,2019-09-16 15:34:05-07:00,1,165.0,2.75

@@ -1,0 +1,4 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/androidtv-VisualGameController,e407cefcc67b4c14db53c8819711fa8eb0ae5cdc,2014-06-13 21:15:59+00:00,0,0,0
+android,googlesamples/androidtv-VisualGameController,1662b997ab85e2ab2a3bbd7c54d615220f554a91,2014-06-13 15:09:56-07:00,5,171.0,2.169491525423729
+android,googlesamples/androidtv-VisualGameController,fbc1634c5839be8e3db5f9b974bd2232c6475cbe,2019-09-19 16:21:32-07:00,5,171.0,2.169491525423729

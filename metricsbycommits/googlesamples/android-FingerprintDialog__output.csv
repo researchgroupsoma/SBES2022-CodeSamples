@@ -1,0 +1,27 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-FingerprintDialog,e5cccaa03d91b391998a4d764802f3a64241e225,2015-05-28 11:59:29-07:00,5,95.0,1.3773584905660377
+android,googlesamples/android-FingerprintDialog,b8073ad5ecbb2326996b4930a26b916b688a8692,2015-07-09 11:21:32-07:00,6,97.5,1.4745762711864407
+android,googlesamples/android-FingerprintDialog,7ced3e796955836daafcdac2d4430d76c3f224d7,2015-08-17 09:54:50-07:00,6,98.5,1.45
+android,googlesamples/android-FingerprintDialog,e303b55557d2df985bd193639f397f686fea28e7,2015-08-20 23:46:20-07:00,6,98.5,1.45
+android,googlesamples/android-FingerprintDialog,257d0f4e4cce629dffc1399588d2c4a7478e6a57,2015-10-08 17:43:02-07:00,6,98.5,1.45
+android,googlesamples/android-FingerprintDialog,b80048f153d13b98c82bc724e536cee23e112f27,2015-10-20 10:42:55+09:00,6,98.5,1.45
+android,googlesamples/android-FingerprintDialog,4fc5df641bec4274d5d776edb632485236f6d50a,2015-10-20 10:45:43+09:00,6,98.5,1.45
+android,googlesamples/android-FingerprintDialog,e86daa0174352f8b1c391e4f17a820f3481ee4f0,2015-10-21 21:08:45+09:00,6,97.0,1.4406779661016949
+android,googlesamples/android-FingerprintDialog,c4cea42f29251515f75e77e4abd97fa96c0a67a3,2015-10-22 13:14:15+09:00,6,97.0,1.4406779661016949
+android,googlesamples/android-FingerprintDialog,4a5777085b478fda047b055385d8c54740f0487b,2015-10-27 11:29:20+09:00,6,97.0,1.4406779661016949
+android,googlesamples/android-FingerprintDialog,7f6bbbc00796adcff209463bd9ec49bd32c9a74b,2015-10-27 11:30:05+09:00,6,97.0,1.4406779661016949
+android,googlesamples/android-FingerprintDialog,33b2625df9c0075b233a9c64cd3d3b9d182c1411,2015-11-18 09:33:49-08:00,6,96.66666666666667,1.4406779661016949
+android,googlesamples/android-FingerprintDialog,7aed209a7b56ed7dd526bed7e5143394a629335d,2016-01-11 18:26:24-08:00,6,96.66666666666667,1.4406779661016949
+android,googlesamples/android-FingerprintDialog,7ecf00bb1302686cab9d1c03ecadc7788cc4313c,2016-04-20 12:26:41-07:00,6,96.66666666666667,1.4406779661016949
+android,googlesamples/android-FingerprintDialog,4d8a13317acaf75e786dc48aab1c0fe41cc243b4,2016-05-18 11:38:43-07:00,6,96.66666666666667,1.4406779661016949
+android,googlesamples/android-FingerprintDialog,f9a2d35edab173705bfa83e8818726cebf0ea372,2016-08-12 15:18:49-07:00,4,131.75,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,83b02c510d738fc0a98316456bded25f61ad2c9f,2016-12-13 09:39:58-08:00,4,131.75,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,41070bc9e78c519d1c481161118b23e11828aac4,2017-02-09 09:17:50-08:00,4,131.75,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,2cab3e50162b7faec49cc614e62424ec20fa9127,2017-05-17 13:33:22-07:00,4,131.75,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,2feb02945ae220ebd1bc2c2b620a1d43e30daea8,2017-06-08 09:34:29-07:00,4,131.75,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,9316633ed69e91cf7789af93d0f554a277e60f0a,2017-10-10 17:52:59-07:00,4,131.75,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,8ae67aac698c2c2d9bef70bf5b86ce6012092ddf,2017-10-25 09:47:58-07:00,4,131.75,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,f0a58c198c5c902be37e84fcaea52cccb30583f3,2017-11-09 00:45:15-08:00,4,132.25,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,83a53f2895799b23426dc3b69f8c3dfde095a6c0,2017-12-08 08:39:29-08:00,4,132.25,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,4b89afb161da61c69687181bbe90ff5379e226ee,2018-02-15 16:36:36-08:00,4,132.25,1.5777777777777777
+android,googlesamples/android-FingerprintDialog,27a08f047090b5e0ab59cca3efd22754c1fea16a,2019-09-06 08:45:58-07:00,4,132.25,1.5777777777777777

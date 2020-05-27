@@ -1,0 +1,27 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-ActionBarCompat-Basic,c1a107aea8d8e667ae71139b9a0035abc6341c5a,2014-09-02 10:56:00-07:00,2,27.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,e38fae179469ee851540f40f6d84325f5cf9b5a8,2014-11-18 15:32:39-08:00,2,27.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,afa0b3a292ed18e96df07bcb5376f975c137bbf1,2014-12-03 01:40:39-08:00,2,27.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,7c4395986ab152367ee95a59d0ab51a53cfb2110,2014-12-03 04:45:43-08:00,2,27.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,162dfe9fcc7457074a841e4b89c4cd62b93cf25b,2014-12-05 15:02:38-08:00,2,27.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,7735a601967ea1e636e63811e215ee79fbb9b198,2014-12-08 17:47:02-08:00,2,27.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,71b0947e42a8e4b625e62b6755a41ad498208d43,2015-01-21 12:13:20-08:00,2,27.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,818ac84f80142b7ed933692d710fbe4e97c34234,2015-03-30 17:42:17-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,1bfe279a1d5e8c336538ce6e23aa0fe090cbbebb,2015-04-28 10:52:47-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,a0b3bf57f6209e54081895a0b7425c1a3786a596,2015-05-21 10:03:09-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,e56bb66c9188ddd81d6639f0ea29567593d6a077,2015-05-28 11:57:41-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,f5a0d8c88b14b3dc0b536550a9872f7d7ea651dd,2015-07-09 11:09:32-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,779dcf51d3bb28a079dd0cb876a8f4c292bdaae7,2015-08-17 09:53:37-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,3f38ec1709fe638e720a58d2d5b51b2a23b254e6,2015-08-20 23:45:08-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,7af4e6b7442f1d33d29bbcb9c359266231b7d4de,2015-10-08 17:41:39-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,41f0d87c9e74ce63319e9f30e461c2ff57d7eb2a,2015-11-18 09:32:21-08:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,b1d4a19667e6a4692c00147ff7173a2116864e51,2016-01-11 18:24:12-08:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,aaa501c03847cbc86fb72fcedc1473a31b45d7c2,2016-04-20 12:25:13-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,fc66062207bbac794b310724b4bc35725b610341,2016-05-18 11:37:20-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,66ad6a56ecefd74d089ad769a281f8387746065e,2016-08-12 15:16:59-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,a6880479f52216ce68c1e9f90400a9245007811a,2016-12-13 09:38:09-08:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,dfab7e41b497e9f8e04f61bf6a1cae51d14375ef,2017-05-17 13:30:49-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,5eab5f30c0379710171969de17b19b3446d7bd80,2017-06-08 09:32:01-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,27deae43bb737e7b04e51fa475f0df5494ac15d9,2017-10-10 17:50:12-07:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,4bebeb9f8b852231701719cc644141deaec77821,2018-02-15 16:33:54-08:00,2,25.0,1.1666666666666667
+android,googlesamples/android-ActionBarCompat-Basic,f1cecb9f58f0cbe48a4c64616df023b87d186925,2019-10-18 09:11:14-07:00,2,25.0,1.1666666666666667

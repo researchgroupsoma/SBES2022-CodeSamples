@@ -1,0 +1,13 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-WearCompanionLibrary,099ac763a733ba50faab09d54be2937e58beedfe,2015-11-03 10:35:11-08:00,20,145.45,1.5671641791044777
+android,googlesamples/android-WearCompanionLibrary,097455a3c4162d85415bbff12fb0b2ab8e53863d,2015-11-03 12:16:00-08:00,20,145.45,1.5671641791044777
+android,googlesamples/android-WearCompanionLibrary,be1697f67b62476836faf7b98e6e34f78b8fa6ef,2015-11-03 12:17:24-08:00,20,145.45,1.5671641791044777
+android,googlesamples/android-WearCompanionLibrary,086b0fdf592c2adedf264fdde7185fd05d2ce74b,2015-11-07 12:57:06-08:00,20,145.65,1.5701492537313433
+android,googlesamples/android-WearCompanionLibrary,bfb058db61aa9451aa34aa5484cf754555c62ed7,2016-02-03 15:44:11+01:00,20,146.7,1.5601173020527859
+android,googlesamples/android-WearCompanionLibrary,98a2004fd56abbe4ccf85a6c07db16cc151325b1,2016-03-28 16:01:43+02:00,20,145.65,1.5701492537313433
+android,googlesamples/android-WearCompanionLibrary,654ad27ca938f8b46b92214a1a532583c392be33,2016-03-28 07:44:15-07:00,20,145.65,1.5701492537313433
+android,googlesamples/android-WearCompanionLibrary,9b6da8ad1cad58d15d9404472ea43f19f2800789,2016-03-28 22:44:27-07:00,20,146.7,1.5601173020527859
+android,googlesamples/android-WearCompanionLibrary,e0bd4ef0e97d78b76ad370d9d05ab9ba9a6f2014,2016-03-31 00:13:56+02:00,20,148.2,1.5594202898550724
+android,googlesamples/android-WearCompanionLibrary,3a095f0278f5c2ca125c4dccd5ecf3c005e0b937,2016-03-31 09:31:16-07:00,20,148.2,1.5594202898550724
+android,googlesamples/android-WearCompanionLibrary,a636b523585b64834011dd9fca906ec5bd51d5e9,2016-03-31 09:33:59-07:00,20,148.2,1.5594202898550724
+android,googlesamples/android-WearCompanionLibrary,b97c36badad6c5994d7f4f7e7f3491299f57200d,2019-10-08 09:37:55-07:00,20,148.2,1.5594202898550724

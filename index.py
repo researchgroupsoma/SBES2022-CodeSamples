@@ -10,7 +10,7 @@ import maintainers
 import file_extension_changes
 import understandmetrics
 import file_extension_changes_forks
-
+import metricsbycommits
 
 def main(args):
     if args.download or args.all:
@@ -35,6 +35,8 @@ def main(args):
         file_extension_changes_forks.file_extension_changes_forks(args.framework, args.projects, args.githubtoken)
     if args.understandmetrics or args.all:
         understandmetrics.understandmetrics(args.framework, args.projects)
+    if args.metricsbycommit or args.all:
+        metricsbycommits.metrics_by_commits(args.framework, args.projects)
 
 
 if __name__ == '__main__':
@@ -42,7 +44,7 @@ if __name__ == '__main__':
 
     parser.add_argument("-framework", "-f", type=str, required=True, help="framework")
     parser.add_argument("-projects", "-p", type=str, required=True, help="File's path that's contains the list of projects to analyze")
-    parser.add_argument("-all", "-a", action="store_true", required=False, help="Do you want to get all?")
+    parser.add_argument("-all", action="store_true", required=False, help="Do you want to get all?")
     parser.add_argument("-githubtoken", "-t", type=str, required=True, help="https://github.com/settings/tokens")
     parser.add_argument("-download", "-d", action="store_true", required=False, help="Do you want to download the repositories?")
     parser.add_argument("-delay", "-e", action="store_true", required=False, help="Do you want to computed the delay?")
@@ -55,6 +57,7 @@ if __name__ == '__main__':
     parser.add_argument("-file_extension_changes", "-o", action="store_true", required=False, help="Do you want to get metrics over the time?")
     parser.add_argument("-file_extension_changes_forks", action="store_true", required=False, help="Do you want to get metrics of forks over the time?")
     parser.add_argument("-understandmetrics", "-u", action="store_true", required=False, help="Do you want to get metrics from Understand SciTool?")
+    parser.add_argument("-metricsbycommit", action="store_true", required=False, help="Do you want to get metrics by commits?")
     args = parser.parse_args()
 
     main(args)

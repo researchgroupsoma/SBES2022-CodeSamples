@@ -1,0 +1,16 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-play-publisher-api,cce56ec118c9ae66c3a11078aa20b01c17ce91c9,2014-07-16 13:59:28+01:00,0,0,0
+android,googlesamples/android-play-publisher-api,b0a047e77768f6b726893bae77b62ef3489e4046,2014-07-22 16:26:53+01:00,0,0,0
+android,googlesamples/android-play-publisher-api,3b40e64fe44543329facbd52a4fe6a815fd0bb32,2014-07-22 17:59:48+01:00,6,63.333333333333336,1.7272727272727273
+android,googlesamples/android-play-publisher-api,8e56e9d37c1f2f7afe0875f703ce5f5691b9f17d,2014-08-01 10:19:01+01:00,6,63.333333333333336,1.7272727272727273
+android,googlesamples/android-play-publisher-api,93ec6e212def2c5188fb8991119abe9e4ac4b30b,2014-08-08 14:19:37-05:00,6,63.333333333333336,1.7272727272727273
+android,googlesamples/android-play-publisher-api,704847c1623a751d8591a5ccb263fe96f8782eab,2014-08-08 22:52:24+01:00,6,63.333333333333336,1.7272727272727273
+android,googlesamples/android-play-publisher-api,fbb3ca462404982bf16d1917746be731b9710d4c,2014-08-10 17:32:31+01:00,6,63.333333333333336,1.7272727272727273
+android,googlesamples/android-play-publisher-api,39492d531087185d20a496ce706e9effbffd1eb0,2014-11-23 11:38:01+01:00,6,63.333333333333336,1.7272727272727273
+android,googlesamples/android-play-publisher-api,05f7cf2fe3dec84b2d8d77642eec9e3d62ca6ad9,2014-11-23 11:47:15+00:00,6,63.333333333333336,1.7272727272727273
+android,googlesamples/android-play-publisher-api,9d7dd65aa0e3f4e7d91905c1edfbca5976f2c6df,2018-04-27 15:37:33+01:00,6,63.333333333333336,1.7272727272727273
+android,googlesamples/android-play-publisher-api,a5524f5871bf0a8a7bf8d05d7ffd85a11dfa1832,2018-05-18 12:35:44+01:00,12,64.25,1.7272727272727273
+android,googlesamples/android-play-publisher-api,1e7d12936686b6bd21a1d1f5c9038b6484425fbb,2018-05-22 11:28:07+01:00,12,64.25,1.7272727272727273
+android,googlesamples/android-play-publisher-api,357e081c4adb3e6773444f9b93fda443a8256c8a,2019-01-31 11:42:42+01:00,12,64.25,1.7272727272727273
+android,googlesamples/android-play-publisher-api,99b1a647e8a471bb2ec1acb8e92c3c36b0ee121b,2019-02-04 21:21:32+00:00,12,64.25,1.7272727272727273
+android,googlesamples/android-play-publisher-api,b3308287946cbb477ba967d492210434c1957bd0,2019-02-25 11:50:23+00:00,12,64.25,1.7272727272727273

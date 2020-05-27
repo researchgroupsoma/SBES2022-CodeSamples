@@ -1,0 +1,7 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-play-games-in-motion,144049f6e1fcf32220a7214f5676bf90f0eeb3e8,2015-04-11 05:01:50+00:00,0,0,0
+android,googlesamples/android-play-games-in-motion,2f169caf8a4373b022ec67ded40691319e12b89d,2015-04-16 11:59:00-07:00,31,115.74193548387096,1.5052631578947369
+android,googlesamples/android-play-games-in-motion,5ff7877bf50bd48109374d36f6a3d8b85fbf81b0,2015-04-17 16:41:11-07:00,31,115.74193548387096,1.5052631578947369
+android,googlesamples/android-play-games-in-motion,15155e7c6d85477794904b4e367885c70768e93c,2015-04-17 17:42:59-07:00,31,115.74193548387096,1.5052631578947369
+android,googlesamples/android-play-games-in-motion,441bb7893f21b73fe611bc7e7885775ffe8570a5,2015-04-27 10:34:25-07:00,31,115.74193548387096,1.5052631578947369
+android,googlesamples/android-play-games-in-motion,f422166d2f149ee465cd518cdbbf809038aa39db,2015-04-30 12:19:37-07:00,31,115.74193548387096,1.5052631578947369

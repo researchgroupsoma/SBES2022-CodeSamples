@@ -1,0 +1,27 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-ElevationBasic,d55f4b4e9f9d6981e29f5b9999b6f623c715bd52,2014-06-26 08:56:05-07:00,10,41.5,1.2241379310344827
+android,googlesamples/android-ElevationBasic,c8212dbad2da5bc88f21502cc0dea35579f370ff,2014-08-25 22:42:35-07:00,10,41.5,1.2241379310344827
+android,googlesamples/android-ElevationBasic,7acefeee55391d8019004bb7441d1f1111af0992,2014-11-18 16:18:46-08:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,a8f92e8507d9af7801cadf941c03dfa2d13910de,2014-12-03 01:51:32-08:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,ecbab139cb6e6c7fd811f0d4d5f86a8cdbcce329,2014-12-05 15:05:17-08:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,a74ed8de059c7d296cc8ef897fe2f676adbc6ef6,2014-12-08 17:50:28-08:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,64cb540e3bcbf7b7fdbcb87b29f3a768c6fafdf4,2015-01-21 12:14:24-08:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,37e37ec6af194c80e2a980916251c650ec7a93f4,2015-03-30 17:44:07-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,5120633a22c120e4a2cfbcdf4c144bae53b175b2,2015-04-28 10:54:58-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,a8e821f0b70b8ab019bdc0cf5397e94257cb4870,2015-05-21 10:04:40-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,66a8841ce8883bb0d6cfdca7e71890f639d55f04,2015-05-28 11:59:22-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,bf2a3889e45d5ab0a31b05e6966137752ad586ca,2015-07-09 11:10:37-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,9b9bddd0608db860e2614e3424b317326157080f,2015-08-17 09:54:45-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,a8a3a6d139590945791ff6bc622d9a2aa7cf49d0,2015-08-20 23:46:15-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,c521182e16fba2200f453969d0bc8755ffc9db52,2015-10-08 17:42:57-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,49762a890deb9d43b0503bb6e857cb655dff17cb,2015-11-18 09:33:43-08:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,8408e4d8ff7d0cb970822a9041761e5d1e80786b,2016-01-11 18:26:16-08:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,4fffb5c5c371bdd25ad8df65a2499ce799994742,2016-04-20 12:26:36-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,8094e1a8ea80df0883ecd9555089bbfbf200b18b,2016-05-18 11:38:38-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,6765cf4a6e68e7de20fa00e604b5893abb08d37d,2016-08-12 15:18:43-07:00,10,41.7,1.2413793103448276
+android,googlesamples/android-ElevationBasic,27a46e1611577c459c3364543f1ce9da8dfef35e,2016-12-13 09:39:52-08:00,10,41.6,1.2413793103448276
+android,googlesamples/android-ElevationBasic,25744e959402c75416ce88850249f0c10cee4566,2017-05-17 13:33:11-07:00,10,41.6,1.2413793103448276
+android,googlesamples/android-ElevationBasic,1a4b3efd5264e170a54f0d325e6654ed7d0a4b04,2017-06-08 09:34:13-07:00,10,41.6,1.2413793103448276
+android,googlesamples/android-ElevationBasic,09a8c6b650793afa5c672fcc10e9d5fbaf642c07,2017-10-10 17:52:47-07:00,10,41.6,1.2413793103448276
+android,googlesamples/android-ElevationBasic,f197f4c39c9f0a1c62b6da3e8aaf433494a0caa0,2018-02-15 16:36:25-08:00,10,41.6,1.2413793103448276
+android,googlesamples/android-ElevationBasic,da35a0716e2505046e2e98c365da46321b1ddfff,2019-09-10 14:33:33-07:00,10,41.6,1.2413793103448276

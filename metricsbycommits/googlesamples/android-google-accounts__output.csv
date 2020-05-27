@@ -1,0 +1,13 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-google-accounts,20e3686698cb04ee6cbe9ab2cb10576846be69b7,2014-09-12 00:15:06+00:00,0,0,0
+android,googlesamples/android-google-accounts,3dfb6cee0b3eabb4baa013fed301b87b977bd148,2014-09-22 15:08:12-07:00,2,109.0,1.7647058823529411
+android,googlesamples/android-google-accounts,6d24072919f5201bd97ea66b1c4996a6c9ba9388,2014-09-26 17:14:49-07:00,2,109.0,1.7647058823529411
+android,googlesamples/android-google-accounts,7ef2eafd9b9b8c2c02a2484572b7ed8440348dff,2014-10-02 13:48:17-07:00,2,109.0,1.7647058823529411
+android,googlesamples/android-google-accounts,b0ff0265053e44787f4c2f6adbcf7630a5972966,2014-10-02 17:05:40-07:00,2,109.5,1.8235294117647058
+android,googlesamples/android-google-accounts,847dec90614fedd0b4e0045f4c541a020c297901,2014-11-14 16:16:06-08:00,2,109.5,1.8235294117647058
+android,googlesamples/android-google-accounts,d093100a01d197360029ab6f00166e4257faae5f,2014-11-17 15:48:28-08:00,2,109.5,1.8235294117647058
+android,googlesamples/android-google-accounts,7a2877c6da0b00c82f854059f38d4b2f1ddca566,2015-01-13 16:15:37-08:00,2,108.5,1.7647058823529411
+android,googlesamples/android-google-accounts,a67f8083bad0770178ab1e4efa12afddfc6c4495,2014-10-13 15:52:14-07:00,4,88.25,1.5862068965517242
+android,googlesamples/android-google-accounts,315a5949fd6f1a0a999b25fa93ae83b064832365,2015-03-02 14:54:57-08:00,4,93.75,1.5625
+android,googlesamples/android-google-accounts,97f39df6ed188cf403a1b061b5ccee64d39d493c,2015-03-09 13:29:16-07:00,4,93.75,1.5625
+android,googlesamples/android-google-accounts,0a22d76a914f1c884d1149ed842a416027c43a1f,2019-10-04 11:05:24-07:00,4,93.75,1.5625

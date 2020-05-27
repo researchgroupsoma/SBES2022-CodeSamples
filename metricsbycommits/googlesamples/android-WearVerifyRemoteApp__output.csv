@@ -1,0 +1,18 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-WearVerifyRemoteApp,bd1fbaad88a9b779cd25c116f5013f2e01f25bb3,2016-12-13 09:41:42-08:00,2,212.0,1.7586206896551724
+android,googlesamples/android-WearVerifyRemoteApp,1a3264332cb61a66dcf473d176dc7c3f8a92afb4,2017-02-09 09:18:59-08:00,2,217.5,1.7586206896551724
+android,googlesamples/android-WearVerifyRemoteApp,f7f368e7a440d69361ecb44584815432800a996f,2017-05-17 13:35:40-07:00,2,217.5,1.7586206896551724
+android,googlesamples/android-WearVerifyRemoteApp,ff6d4ea68027802237f4ca9dba4766bed7c3e440,2017-06-08 09:36:45-07:00,2,217.5,1.7586206896551724
+android,googlesamples/android-WearVerifyRemoteApp,5c15769025b696d903649b9eba3f1870bb9181db,2017-08-11 17:25:40-07:00,2,217.5,1.7586206896551724
+android,googlesamples/android-WearVerifyRemoteApp,cec28ed53a7cc2cc6b2508a98dcde2a04b6d8a57,2017-10-10 17:55:29-07:00,2,217.5,1.7586206896551724
+android,googlesamples/android-WearVerifyRemoteApp,0f2e83ad0237873df65e4ce2560a1e43a40d2c32,2017-10-25 09:48:15-07:00,2,226.5,1.6875
+android,googlesamples/android-WearVerifyRemoteApp,022bb35d19bc518b4214b6342c93a712615b091f,2017-11-09 00:45:20-08:00,2,226.5,1.6875
+android,googlesamples/android-WearVerifyRemoteApp,40b4f30e39693bfdc9869cb9b0159abcbe873500,2017-11-13 18:36:47-08:00,2,226.0,1.6875
+android,googlesamples/android-WearVerifyRemoteApp,f8214fb36b8ff38b3288e158d41211c6cba9f212,2017-12-08 08:39:39-08:00,2,226.0,1.6875
+android,googlesamples/android-WearVerifyRemoteApp,53cfb2c68c4b61e10767b9108b11e040fa36bf59,2018-01-25 09:37:21-08:00,2,226.0,1.6875
+android,googlesamples/android-WearVerifyRemoteApp,35d657219060a1c5d01b4966cd418d6a01f56039,2018-03-28 09:34:27-07:00,2,226.0,1.6875
+android,googlesamples/android-WearVerifyRemoteApp,04f84edaf77834f6fc0fce51574a7e24000c5c3e,2018-07-27 21:58:00-07:00,2,187.0,1.6923076923076923
+android,googlesamples/android-WearVerifyRemoteApp,ffa082c528f63b16ec19aa5de860eb9b9193720a,2019-04-11 13:59:14-07:00,2,187.0,1.6923076923076923
+android,googlesamples/android-WearVerifyRemoteApp,0c85cfbf499db5376e4b1c9a39a53f27c3d19532,2019-09-05 11:05:05-07:00,2,187.0,1.6923076923076923
+android,googlesamples/android-WearVerifyRemoteApp,8ee1d2201bf8e997fbd19c68c9ce688ee8f1440c,2019-09-05 11:16:17-07:00,0,0,0
+android,googlesamples/android-WearVerifyRemoteApp,01b5c5851aba13489cb2b1aaf420ed0a9880d1c7,2019-09-05 11:39:50-07:00,0,0,0

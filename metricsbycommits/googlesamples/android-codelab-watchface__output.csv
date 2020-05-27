@@ -1,0 +1,3 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-codelab-watchface,3cccee709ed3b5960ebef16dd9f7755e99c2e0c9,2015-03-03 14:15:00+00:00,5,198.8,1.6296296296296295
+android,googlesamples/android-codelab-watchface,5fc095fbb95a7c3ed5b17dfc905f9ed384b4b266,2019-10-18 09:42:50-07:00,5,198.8,1.6296296296296295

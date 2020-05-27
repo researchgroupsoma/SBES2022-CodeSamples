@@ -1,0 +1,3 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/android-WifiRttScan,5cd1cd61a108d4962160f290003d73b997f0d0e5,2018-08-27 11:10:23-07:00,4,119.25,1.7428571428571429
+android,googlesamples/android-WifiRttScan,31408d83d93aa1297219dd628b8952a8340ef100,2019-09-10 14:50:36-07:00,4,119.25,1.7428571428571429

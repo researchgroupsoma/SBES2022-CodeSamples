@@ -1,0 +1,5 @@
+framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
+android,googlesamples/androidtv-daydream,b4ed9be7eff09e8b1876ad500e1f3aa051481c91,2015-05-20 02:17:36+00:00,0,0,0
+android,googlesamples/androidtv-daydream,d2ff58e3bdbdd9e0d654f0338569f11e70cea705,2015-05-22 16:13:38-07:00,13,36.15384615384615,1.3404255319148937
+android,googlesamples/androidtv-daydream,b3882d8d39e7120b2a342829eb365877af007a5b,2015-06-12 16:33:50-07:00,13,36.15384615384615,1.3404255319148937
+android,googlesamples/androidtv-daydream,895a7b22dfd3449db2ef56c09e848ce5895f2485,2019-09-19 16:20:25-07:00,13,36.15384615384615,1.3404255319148937
