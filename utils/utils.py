@@ -63,7 +63,7 @@ def repo_is_empty(project):
     return len(files) == 1 and files[0].split("/")[-1] == "README.md"
 
 
-def deal_with_empty_repo(project):
+def get_commits_from(project):
     project_path = "repositories/"+project
     repository = Repo(project_path)
     repository.git.checkout("master", "-f")
@@ -71,6 +71,20 @@ def deal_with_empty_repo(project):
     commits = []
     for c in iter_commits:
         commits.append(c)
+    return commits
+
+
+def checkout_to(project, sha):
+    project_path = "repositories/" + project
+    repository = Repo(project_path)
+    repository.git.checkout(sha, "-f")
+
+
+def deal_with_empty_repo(project):
+    project_path = "repositories/"+project
+    repository = Repo(project_path)
+    repository.git.checkout("master", "-f")
+    commits = get_commits_from(project)
     count = 0
     while repo_is_empty(project):
         sha = commits[count]
