@@ -43,7 +43,7 @@ def metrics_by_commits(framework, projects):
     for sample in samples:
         owner = sample.split("/")[0]
         create_output_directory("metricsbycommits", owner)
-        output_write(sample, "metricsbycommits", "", "framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod",True)
+        output_write(sample, "metricsbycommits", "", "framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod",True)
         repositories_path = "/home/gabriel/Documentos/gabrielsmenezes/pesquisamestrado/repositories/"
         sample_path = repositories_path + sample
         udb_path = "metricsbycommits/" + sample
