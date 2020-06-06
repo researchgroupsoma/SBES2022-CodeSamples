@@ -11,6 +11,9 @@ import file_extension_changes
 import understandmetrics
 import file_extension_changes_forks
 import metricsbycommits
+import stackoverflow
+import generalprojects
+
 
 def main(args):
     if args.download or args.all:
@@ -37,6 +40,10 @@ def main(args):
         understandmetrics.understandmetrics(args.framework, args.projects)
     if args.metricsbycommit or args.all:
         metricsbycommits.metrics_by_commits(args.framework, args.projects)
+    if args.stackoverflow:
+        stackoverflow.stackoverflow(args.framework, args.projects)
+    if args.generalprojects:
+        generalprojects.generalprojects(args.projects)
 
 
 if __name__ == '__main__':
@@ -58,6 +65,8 @@ if __name__ == '__main__':
     parser.add_argument("-file_extension_changes_forks", action="store_true", required=False, help="Do you want to get metrics of forks over the time?")
     parser.add_argument("-understandmetrics", "-u", action="store_true", required=False, help="Do you want to get metrics from Understand SciTool?")
     parser.add_argument("-metricsbycommit", action="store_true", required=False, help="Do you want to get metrics by commits?")
+    parser.add_argument("-stackoverflow", action="store_true", required=False, help="Do you want to get metrics of stackoverflow?")
+    parser.add_argument("-generalprojects", action="store_true", required=False, help="General Projects")
     args = parser.parse_args()
 
     main(args)
