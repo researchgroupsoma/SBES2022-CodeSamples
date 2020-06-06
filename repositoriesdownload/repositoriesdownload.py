@@ -8,7 +8,7 @@ def download(git_url, repo_dir, sample):
     Repo.clone_from(git_url, repo_dir + sample)
 
 
-def criate_url_from_github(sample):
+def create_url_from_github(sample):
     return "https://github.com/" + sample + ".git"
 
 
@@ -21,7 +21,7 @@ def repositoriesdownload(framework, projects):
     samples = get_samples(projects)
     for sample in samples:
         sample = remove_especial_caracters(sample)
-        git_url = criate_url_from_github(sample)
+        git_url = create_url_from_github(sample)
         print("Downloading %s" % sample)
         repo_dir = "repositories/"
         isdir = os.path.isdir(repo_dir+sample)
