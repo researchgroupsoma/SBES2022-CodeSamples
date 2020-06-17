@@ -1,3 +1,5 @@
+import installpackages
+installpackages.installpackages()
 import argparse
 import repositoriesdownload
 import delay
