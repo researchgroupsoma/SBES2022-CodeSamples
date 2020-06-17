@@ -236,3 +236,219 @@ android,googlesamples/android-WearCompanionLibrary,42490488,java;android;wear-os
 android,googlesamples/identity-toolkit-android,50220557,android;oauth;socialauth;social-authentication;,35,0,1,2018-05-07 14:41:40,https://stackoverflow.com/questions/50220557/what-is-the-2018-way-to-implement-social-media-logins-on-android,2324388,10666,2013-04-26 11:06:20,android;notifications;android-notifications;dismiss;java;,,,,,,,[]
 android,googlesamples/identity-toolkit-android,30888646,android;api;exception;,430,1,2,2015-06-17 06:16:12,https://stackoverflow.com/questions/30888646/identity-toolkit-api-for-android,4057371,43,2014-09-19 03:10:46,api;android;exception;html;javascript;,,,,,,,[]
 android,googlesamples/android-WclDemoSample,42490488,java;android;wear-os;wear-companion-library;,121,0,0,2017-02-27 12:12:06,https://stackoverflow.com/questions/42490488/why-googleapiclient-is-not-connected-in-android-wear-app-while-using-wearcompani,292502,7282,2010-03-12 12:59:44,visual-studio-2015;c#;visual-studio;git-pull;git-revert;,,,,,,,[]
+andoid,googlesamples/android-play-location,28272454,<android><location><sample>,734,2,0,2015-02-02 06:52:10,link,4278669,5,2014-11-21 13:00:41,tags,28272528,0,2015-02-02 06:58:43,683691,745,2011-03-30 09:53:20,preencher
+andoid,googlesamples/android-play-location,31188849,<android><android-studio><gradle>,5299,5,4,2015-07-02 15:33:40,link,510981,7567,2010-11-17 15:41:14,tags,31191045,4,2015-07-02 17:31:31,510981,7567,2010-11-17 15:41:14,preencher
+andoid,googlesamples/android-play-location,32629113,<java><android><button><gps><location>,96,2,0,2015-09-17 11:21:32,link,750200,2074,2011-05-12 08:27:44,tags,32629631,1,2015-09-17 11:50:07,718764,19900,2011-04-21 10:31:04,preencher
+andoid,googlesamples/android-play-location,33149700,<android><android-permissions><android-6.0-marshmallow><activity-recognition>,3184,2,5,2015-10-15 13:20:21,link,4227647,121,2014-11-07 15:49:22,tags,33150597,2,2015-10-15 14:01:33,2944616,18996,2013-11-01 10:26:30,preencher
+andoid,googlesamples/android-play-location,32833945,<android><location><google-play-services><reverse-geocoding>,1052,2,0,2015-09-29 00:47:18,link,3988970,137,2014-08-29 04:25:38,tags,33458516,0,2015-11-01 02:02:25,3988970,137,2014-08-29 04:25:38,preencher
+andoid,googlesamples/android-play-location,38884177,<android>,103,1,0,2016-08-10 21:53:24,link,3166716,313,2014-01-06 19:52:27,tags,38884241,1,2016-08-10 21:57:56,115145,856678,2009-05-31 16:20:08,preencher
+andoid,googlesamples/android-play-location,42751848,<android><android-gps>,446,1,0,2017-03-12 19:10:17,link,2677801,1336,2013-08-13 08:31:45,tags,42751935,0,2017-03-12 19:18:08,6222564,51,2016-04-19 02:19:56,preencher
+andoid,googlesamples/android-play-location,42999266,<android><android-intent><google-api><android-pendingintent><resume>,486,3,0,2017-03-24 12:15:08,link,2747717,13,2013-09-04 16:20:33,tags,42999701,0,2017-03-24 12:36:25,3728591,1139,2014-06-11 05:16:33,preencher
+andoid,googlesamples/android-play-location,43961483,<location><google-play-services><android-7.0-nougat><android-8.0-oreo>,129,1,-1,2017-05-14 07:36:21,link,305135,10888,2010-03-30 13:30:56,tags,43965195,1,2017-05-14 14:43:33,115145,856678,2009-05-31 16:20:08,preencher
+andoid,googlesamples/android-play-location,44948245,<android><service><location><google-play-services>,5833,1,4,2017-07-06 11:58:20,link,1635488,2673,2012-08-30 08:49:55,tags,44949641,3,2017-07-06 12:59:38,1635488,2673,2012-08-30 08:49:55,preencher
+andoid,googlesamples/android-play-location,46111860,<android><android-notifications><android-8.0-oreo><foreground-service>,22687,3,24,2017-09-08 08:20:06,link,1439522,13104,2012-06-06 10:42:43,tags,46111993,21,2017-09-08 08:27:50,7679573,1611,2017-03-08 16:39:52,preencher
+andoid,googlesamples/android-play-location,55769601,<android><android-intent><android-pendingintent><android-task>,25,1,0,2019-04-20 01:56:04,link,6167341,60,2016-04-06 14:25:49,tags,55769757,0,2019-04-20 02:33:26,6167341,60,2016-04-06 14:25:49,preencher
+andoid,googlesamples/android-play-location,56830127,<android>,209,4,3,2019-07-01 04:52:50,link,10365888,301,2018-09-14 21:48:22,tags,56830263,5,2019-07-01 05:12:34,5876513,1970,2016-02-03 07:00:00,preencher
+andoid,googlesamples/android-play-location,28035910,<android><geolocation>,445,1,0,2015-01-20 00:31:24,link,2909692,5145,2013-10-23 03:50:33,tags,,,,,,,
+andoid,googlesamples/android-play-location,29578606,<android><location><genymotion><genymotion-gps>,1906,4,3,2015-04-11 13:48:27,link,4747586,59,2015-04-03 20:00:52,tags,,,,,,,
+andoid,googlesamples/android-play-location,29625476,<android><google-play-services><geofencing>,799,2,0,2015-04-14 10:51:17,link,4786817,1,2015-04-14 10:20:18,tags,,,,,,,
+andoid,googlesamples/android-play-location,29704938,<android><android-emulator><google-play-services>,210,1,0,2015-04-17 16:40:31,link,4802025,1,2015-04-17 16:22:49,tags,,,,,,,
+andoid,googlesamples/android-play-location,29730077,<android><gps><location><google-play-services>,219,0,2,2015-04-19 12:49:59,link,4789408,1105,2015-04-14 22:02:28,tags,,,,,,,
+andoid,googlesamples/android-play-location,29748872,<android><gps><location><google-play-services>,61,0,0,2015-04-20 13:11:46,link,4789408,1105,2015-04-14 22:02:28,tags,,,,,,,
+andoid,googlesamples/android-play-location,29988597,<android><google-play-services><location-services>,1888,1,0,2015-05-01 14:19:11,link,1206748,1133,2012-02-13 12:14:50,tags,,,,,,,
+andoid,googlesamples/android-play-location,30868194,<xamarin><xamarin.android><geofencing>,836,0,2,2015-06-16 12:54:47,link,1099262,21,2011-12-15 06:34:30,tags,,,,,,,
+andoid,googlesamples/android-play-location,31186248,<android><google-play-services>,95,0,0,2015-07-02 13:40:59,link,785535,2949,2011-04-16 08:34:23,tags,,,,,,,
+andoid,googlesamples/android-play-location,31233540,<android><android-location>,119,0,1,2015-07-05 18:20:19,link,2545964,2424,2013-07-03 09:47:47,tags,,,,,,,
+andoid,googlesamples/android-play-location,32018619,<android><gps><position><location>,169,0,2,2015-08-14 21:03:46,link,5105904,139,2015-07-11 13:02:54,tags,,,,,,,
+andoid,googlesamples/android-play-location,37014990,<java><android><multithreading><android-activity>,1449,1,4,2016-05-03 21:50:32,link,5641865,4934,2015-12-05 04:05:43,tags,,,,,,,
+andoid,googlesamples/android-play-location,40820560,<android><android-studio><google-play-services>,316,1,0,2016-11-26 16:38:23,link,5596834,193,2015-11-23 20:20:40,tags,,,,,,,
+andoid,googlesamples/android-play-location,43251528,<android><location><android-8.0-oreo>,46984,8,37,2017-04-06 09:46:47,link,487812,2510,2010-10-26 15:39:33,tags,,,,,,,
+andoid,googlesamples/android-play-location,44615150,<java><android><android-studio><location>,73,0,2,2017-06-18 12:49:55,link,1231192,914,2012-02-24 16:16:57,tags,,,,,,,
+andoid,googlesamples/android-play-location,47528461,<android><gps><location><google-play-services><android-fusedlocation>,207,2,1,2017-11-28 09:51:17,link,3469444,114,2014-03-27 16:08:57,tags,,,,,,,
+andoid,googlesamples/android-play-location,48675221,<android><memory-leaks><google-api-client><fusedlocationproviderclient><location-updates>,1403,1,7,2018-02-07 23:45:11,link,8073535,71,2017-05-27 06:57:01,tags,,,,,,,
+andoid,googlesamples/android-play-location,48977377,<android><geolocation><google-play-services><android-location>,502,1,0,2018-02-25 19:13:04,link,2354952,716,2013-05-06 14:01:36,tags,,,,,,,
+andoid,googlesamples/android-play-location,50834589,<android><location>,254,0,0,2018-06-13 10:10:38,link,9840029,43,2018-05-24 10:00:40,tags,,,,,,,
+andoid,googlesamples/android-play-location,51227477,<java><android><kotlin><android-location><android-geofence>,73,0,3,2018-07-07 22:47:54,link,1819747,746,2012-11-13 02:03:22,tags,,,,,,,
+andoid,googlesamples/android-play-location,53069414,<java><android><android-geofence>,913,1,3,2018-10-30 17:02:27,link,1827727,1535,2012-11-15 19:26:26,tags,,,,,,,
+andoid,googlesamples/android-play-location,55361740,<qt5><android-service><qt-creator><android-geofence><foreground-service>,316,1,1,2019-03-26 16:16:02,link,11261401,11,2019-03-26 15:43:25,tags,,,,,,,
+andoid,googlesamples/android-play-location,57014390,<android-intent><android-pendingintent><fusedlocationproviderapi><fusedlocationproviderclient><location-updates>,434,0,2,2019-07-12 21:51:02,link,8762103,87,2017-10-11 23:28:55,tags,,,,,,,
+andoid,googlesamples/android-play-location,57908911,<android><geolocation><android-location><android-wake-lock><jobintentservice>,170,1,1,2019-09-12 14:27:31,link,4857016,432,2015-05-02 12:58:16,tags,,,,,,,
+andoid,googlesamples/google-services,31916111,<android><google-cloud-messaging>,1880,1,-2,2015-08-10 09:31:44,link,1665465,2589,2012-09-12 10:40:10,tags,31916544,0,2015-08-10 09:55:11,1665465,2589,2012-09-12 10:40:10,preencher
+andoid,googlesamples/google-services,32164336,<android><google-app-invites>,124,1,2,2015-08-23 07:41:26,link,3178944,17200,2014-01-09 18:47:10,tags,32164463,1,2015-08-23 07:58:55,49489,16104,2008-12-28 10:00:39,preencher
+andoid,googlesamples/google-services,32200703,<google-cloud-messaging>,114,1,0,2015-08-25 09:46:26,link,3354820,216,2014-02-26 07:56:16,tags,32408904,0,2015-09-05 02:19:57,3354820,216,2014-02-26 07:56:16,preencher
+andoid,googlesamples/google-services,32663597,<ios><objective-c><xcode><annotations>,412,2,3,2015-09-19 02:41:02,link,5182010,283,2015-08-02 03:43:33,tags,32663981,4,2015-09-19 03:48:38,643383,116821,2011-03-03 17:10:06,preencher
+andoid,googlesamples/google-services,32932935,<android><google-cloud-messaging>,1711,1,1,2015-10-04 11:26:15,link,4177344,101,2014-10-24 10:28:26,tags,32940082,0,2015-10-05 01:20:37,4328123,21389,2014-12-05 09:46:10,preencher
+andoid,googlesamples/google-services,33288089,<android><google-app-engine><android-studio>,1476,1,1,2015-10-22 18:25:21,link,4666566,95,2015-03-13 09:27:03,tags,33388840,0,2015-10-28 10:39:26,4666566,95,2015-03-13 09:27:03,preencher
+andoid,googlesamples/google-services,34507180,<android><google-cloud-messaging>,51,1,-2,2015-12-29 08:19:06,link,5719982,174,2015-12-27 06:25:23,tags,34507300,0,2015-12-29 08:28:49,3069305,869,2013-12-05 08:34:37,preencher
+andoid,googlesamples/google-services,34808531,<android><google-authentication><google-plus-signin>,7265,1,4,2016-01-15 10:00:43,link,4314465,319,2014-12-02 06:25:49,tags,34821294,14,2016-01-15 22:58:39,4062630,5033,2014-09-21 03:40:37,preencher
+andoid,googlesamples/google-services,35305507,<java><android><google-cloud-messaging>,243,2,0,2016-02-10 01:47:04,link,1753319,616,2012-10-17 13:28:02,tags,35305626,2,2016-02-10 02:01:20,4738175,5201,2015-04-01 12:21:54,preencher
+andoid,googlesamples/google-services,35370580,<ios><swift>,168,1,0,2016-02-12 19:19:51,link,4662074,2466,2015-03-12 09:13:09,tags,35370957,2,2016-02-12 19:43:59,4461437,3625,2015-01-16 11:40:58,preencher
+andoid,googlesamples/google-services,35515764,<android><push-notification><google-cloud-messaging>,2419,3,2,2016-02-19 21:53:49,link,1896312,255,2012-12-12 00:22:53,tags,35555930,4,2016-02-22 14:17:25,5018257,610,2015-06-17 06:33:25,preencher
+andoid,googlesamples/google-services,35902708,<java><android><jakarta-ee><push-notification><google-cloud-messaging>,1180,7,2,2016-03-09 21:11:58,link,4534276,23,2015-02-05 18:27:46,tags,35925691,0,2016-03-10 19:38:42,325479,11076,2010-04-25 17:27:11,preencher
+andoid,googlesamples/google-services,36869633,<android><performance><google-signin>,45,1,0,2016-04-26 15:39:33,link,5889869,732,2016-02-05 19:40:02,tags,36871900,1,2016-04-26 17:33:14,4670053,61,2015-03-14 07:59:17,preencher
+andoid,googlesamples/google-services,37652526,<android><firebase><firebase-dynamic-links>,1720,1,7,2016-06-06 08:14:08,link,3360424,2215,2014-02-27 12:18:31,tags,37689525,4,2016-06-07 21:18:09,6436132,56,2016-06-07 15:30:34,preencher
+andoid,googlesamples/google-services,39830457,<ios><swift><google-signin><googlesigninapi>,2211,4,2,2016-10-03 11:24:28,link,2126233,1252,2013-03-02 08:30:01,tags,39830521,5,2016-10-03 11:28:16,4601170,20396,2015-02-24 12:33:49,preencher
+andoid,googlesamples/google-services,41443438,<android><api><youtube><google-signin><oauth2>,226,1,0,2017-01-03 12:19:25,link,3436603,447,2014-03-19 08:16:16,tags,41465832,0,2017-01-04 14:10:13,3436603,447,2014-03-19 08:16:16,preencher
+andoid,googlesamples/google-services,50960601,<ios><google-signin>,7911,3,4,2018-06-21 04:52:37,link,9600234,1514,2018-04-05 04:48:17,tags,50961069,4,2018-06-21 05:38:26,9600234,1514,2018-04-05 04:48:17,preencher
+andoid,googlesamples/google-services,53989113,<android><google-drive-android-api>,2694,1,0,2018-12-31 15:39:59,link,10852372,61,2018-12-31 15:36:47,tags,54002295,1,2019-01-02 06:45:19,10549958,619,2018-10-24 05:41:35,preencher
+andoid,googlesamples/google-services,56927404,<android><google-signin>,114,1,0,2019-07-08 01:34:54,link,5282850,41,2015-08-30 22:22:21,tags,57000015,0,2019-07-12 03:58:26,5282850,41,2015-08-30 22:22:21,preencher
+andoid,googlesamples/google-services,30681126,<android-studio><google-cloud-messaging>,839,0,1,2015-06-06 09:24:44,link,2753345,96,2013-09-06 07:06:12,tags,,,,,,,[]
+andoid,googlesamples/google-services,30794626,<google-cloud-messaging>,408,1,0,2015-06-12 02:53:42,link,1062198,31,2011-11-23 15:20:45,tags,,,,,,,[]
+andoid,googlesamples/google-services,32189148,<ios><objective-c><youtube><google-api>,112,0,0,2015-08-24 18:24:13,link,5236261,1,2015-08-17 17:33:50,tags,,,,,,,[]
+andoid,googlesamples/google-services,32494505,<android><google-play-services><google-app-invites>,824,1,17,2015-09-10 06:18:36,link,2021293,13450,2013-01-29 10:20:45,tags,,,,,,,[]
+andoid,googlesamples/google-services,33590813,<java><android>,220,1,-1,2015-11-08 04:40:33,link,5378673,51,2015-09-26 07:01:50,tags,,,,,,,[]
+andoid,googlesamples/google-services,33957492,<php><android><push-notification><server><google-cloud-messaging>,1496,2,-3,2015-11-27 12:31:09,link,4693767,79,2015-03-20 11:26:23,tags,,,,,,,[]
+andoid,googlesamples/google-services,34139274,<android><android-intent><google-cloud-messaging>,471,0,0,2015-12-07 17:11:48,link,1472186,5131,2012-06-21 13:04:06,tags,,,,,,,[]
+andoid,googlesamples/google-services,34765067,<java><android><reactjs><react-native><google-signin>,2737,1,2,2016-01-13 11:08:03,link,4963727,493,2015-06-02 04:51:12,tags,,,,,,,[]
+andoid,googlesamples/google-services,35006055,<ios><swift><google-cloud-messaging>,602,0,0,2016-01-26 02:22:30,link,4890090,199,2015-05-12 06:17:54,tags,,,,,,,[]
+andoid,googlesamples/google-services,35115812,<android><google-signin>,8103,1,3,2016-01-31 15:53:41,link,648746,5762,2011-03-07 19:46:19,tags,,,,,,,[]
+andoid,googlesamples/google-services,35749842,<ios><google-cloud-messaging><apple-push-notifications>,68,1,1,2016-03-02 14:23:03,link,5182010,283,2015-08-02 03:43:33,tags,,,,,,,[]
+andoid,googlesamples/google-services,36069202,<ios><swift><appdelegate><google-signin><googlesigninapi>,928,0,3,2016-03-17 18:46:40,link,3766930,4469,2014-06-23 09:48:58,tags,,,,,,,[]
+andoid,googlesamples/google-services,36277533,<android><push-notification><google-cloud-messaging>,1972,4,6,2016-03-29 07:02:25,link,2636829,1049,2013-07-31 06:29:23,tags,,,,,,,[]
+andoid,googlesamples/google-services,36638959,<android><google-login>,250,0,1,2016-04-15 05:34:54,link,6207457,103,2016-04-15 05:18:09,tags,,,,,,,[]
+andoid,googlesamples/google-services,36849825,<android><google-cloud-messaging>,214,1,0,2016-04-25 19:51:23,link,3988604,263,2014-08-29 00:23:23,tags,,,,,,,[]
+andoid,googlesamples/google-services,37302386,<android><push-notification><google-cloud-messaging><android-notifications><android-permissions>,702,0,1,2016-05-18 14:20:01,link,3239481,51,2014-01-27 07:02:25,tags,,,,,,,[]
+andoid,googlesamples/google-services,37611050,<google-cloud-messaging>,100,1,0,2016-06-03 09:45:55,link,6418735,1,2016-06-03 09:15:15,tags,,,,,,,[]
+andoid,googlesamples/google-services,38415926,<android><build><firebase><dependencies><google-cloud-messaging>,225,0,2,2016-07-16 21:44:23,link,2342806,647,2013-05-02 10:59:13,tags,,,,,,,[]
+andoid,googlesamples/google-services,38420928,<android><google-cloud-messaging>,2327,1,11,2016-07-17 11:57:06,link,2342806,647,2013-05-02 10:59:13,tags,,,,,,,[]
+andoid,googlesamples/google-services,38542757,<android>,199,0,1,2016-07-23 14:17:18,link,5680962,11,2015-12-15 07:06:01,tags,,,,,,,[]
+andoid,googlesamples/google-services,40039632,<android><google-signin>,205,1,0,2016-10-14 09:26:35,link,7017828,21,2016-10-14 07:24:28,tags,,,,,,,[]
+andoid,googlesamples/google-services,40862400,<ios><swift><google-cloud-messaging><objc-bridging-header>,142,1,2,2016-11-29 09:40:02,link,705617,1394,2011-04-13 08:46:14,tags,,,,,,,[]
+andoid,googlesamples/google-services,43080290,<c#><android><xamarin><googlesigninapi>,187,1,0,2017-03-28 21:29:07,link,7782426,1,2017-03-28 21:21:22,tags,,,,,,,[]
+andoid,googlesamples/google-services,44030888,<android><firebase><firebase-authentication><google-login>,32,0,0,2017-05-17 16:59:47,link,7805756,1,2017-04-02 19:54:04,tags,,,,,,,[]
+andoid,googlesamples/google-services,51958252,<android><google-signin><google-authentication>,57,0,0,2018-08-22 00:09:10,link,5063263,1091,2015-06-29 23:00:50,tags,,,,,,,[]
+andoid,googlesamples/android-Camera2Basic,30195940,<android><android-camera><android-5.0-lollipop>,10940,1,15,2015-05-12 15:57:08,link,1520263,358,2012-07-12 09:09:57,tags,30197939,16,2015-05-12 17:42:00,4379248,1483,2014-12-19 20:45:43,preencher
+andoid,googlesamples/android-Camera2Basic,31797821,<android><android-camera>,852,2,1,2015-08-03 22:32:17,link,1580268,21,2012-08-06 20:15:13,tags,31839641,1,2015-08-05 18:00:34,1580268,21,2012-08-06 20:15:13,preencher
+andoid,googlesamples/android-Camera2Basic,32108318,<android><android-camera>,2711,1,5,2015-08-20 01:50:49,link,969986,722,2011-09-28 21:22:48,tags,32110832,10,2015-08-20 06:17:46,4379248,1483,2014-12-19 20:45:43,preencher
+andoid,googlesamples/android-Camera2Basic,34485680,<android>,714,1,0,2015-12-27 22:48:52,link,1223747,2603,2010-09-16 19:47:31,tags,34485764,1,2015-12-27 22:58:55,804967,18534,2011-06-19 00:20:23,preencher
+andoid,googlesamples/android-Camera2Basic,36204550,<android><android-fragments><fragment><android-fragmentactivity><android-camera2>,4908,2,1,2016-03-24 15:55:14,link,5939975,31,2016-02-17 10:45:51,tags,36206257,0,2016-03-24 17:20:56,2308683,110295,2013-04-22 19:10:38,preencher
+andoid,googlesamples/android-Camera2Basic,36051791,<android><android-5.1.1-lollipop><android-camera2>,1528,1,0,2016-03-17 04:38:19,link,3424397,23,2014-03-15 22:17:56,tags,36574577,2,2016-04-12 13:19:28,1245573,264,2012-03-02 16:53:06,preencher
+andoid,googlesamples/android-Camera2Basic,35620400,<java><android><mobile><android-camera2>,5940,3,5,2016-02-25 06:56:21,link,1601974,192,2012-08-16 01:03:21,tags,36716795,4,2016-04-19 11:16:49,2801482,3113,2013-09-21 06:17:52,preencher
+andoid,googlesamples/android-Camera2Basic,37144657,<android><android-camera><android-camera2><camera-flash>,3284,1,4,2016-05-10 16:56:34,link,1679732,822,2012-09-18 08:50:40,tags,37149446,6,2016-05-10 21:41:20,1344825,13769,2012-04-19 18:47:29,preencher
+andoid,googlesamples/android-Camera2Basic,37996387,<android><opengl-es><android-ndk><xamarin.android><camera2>,802,2,0,2016-06-23 15:52:02,link,2088066,147,2013-02-19 17:13:11,tags,38053051,1,2016-06-27 11:41:37,2088066,147,2013-02-19 17:13:11,preencher
+andoid,googlesamples/android-Camera2Basic,41790052,<java><android><android-layout><android-fragments><android-camera2>,1307,2,3,2017-01-22 10:59:10,link,2216919,169,2013-03-27 18:16:48,tags,41790239,1,2017-01-22 11:19:49,5219576,74,2015-08-12 13:38:14,preencher
+andoid,googlesamples/android-Camera2Basic,36055167,<android><android-studio><android-camera2>,3596,3,1,2016-03-17 08:30:21,link,5225911,35,2015-08-14 04:13:02,tags,41862649,0,2017-01-25 22:14:05,6100645,64,2016-03-22 19:18:20,preencher
+andoid,googlesamples/android-Camera2Basic,43052236,<java><android><android-studio><camera><camera2>,251,1,1,2017-03-27 16:54:17,link,5339746,137,2015-09-15 20:50:59,tags,43080639,0,2017-03-28 21:55:02,1344825,13769,2012-04-19 18:47:29,preencher
+andoid,googlesamples/android-Camera2Basic,43386725,<android><android-camera2>,1134,1,1,2017-04-13 08:03:36,link,7860452,13,2017-04-13 06:58:50,tags,43626098,0,2017-04-26 05:54:35,4116560,856,2014-10-07 09:42:34,preencher
+andoid,googlesamples/android-Camera2Basic,44208122,<android><overlay><preview><camera2>,7207,1,6,2017-05-26 18:33:03,link,2970357,195,2013-11-08 20:03:28,tags,44285588,4,2017-05-31 13:02:26,1758744,513,2012-10-19 08:53:41,preencher
+andoid,googlesamples/android-Camera2Basic,44749473,<android><nullpointerexception><android-camera>,2464,1,3,2017-06-25 18:48:08,link,3816569,619,2014-07-08 13:27:46,tags,44769286,4,2017-06-26 21:57:46,3816569,619,2014-07-08 13:27:46,preencher
+andoid,googlesamples/android-Camera2Basic,45797605,<android><delete-file><android-camera2><save-image>,479,1,0,2017-08-21 12:50:42,link,7581695,147,2017-02-17 15:47:52,tags,45800940,0,2017-08-21 15:33:52,7581695,147,2017-02-17 15:47:52,preencher
+andoid,googlesamples/android-Camera2Basic,48094952,<android><android-camera><android-camera2>,4903,4,10,2018-01-04 12:06:41,link,1281930,4455,2012-03-20 20:44:25,tags,48095129,8,2018-01-04 12:15:44,885028,23980,2011-08-09 00:18:58,preencher
+andoid,googlesamples/android-Camera2Basic,48707665,<java><android><android-camera2><android-developer-api>,997,1,0,2018-02-09 14:04:55,link,9338741,48,2018-02-09 13:52:33,tags,48708694,2,2018-02-09 15:07:25,2108972,10359,2013-02-25 21:45:48,preencher
+andoid,googlesamples/android-Camera2Basic,51139091,<android><android-camera><android-camera2>,423,1,0,2018-07-02 15:05:30,link,345048,3471,2010-05-19 12:45:49,tags,51143433,1,2018-07-02 20:39:56,1344825,13769,2012-04-19 18:47:29,preencher
+andoid,googlesamples/android-Camera2Basic,55168391,<android><android-camera2><textureview>,364,1,0,2019-03-14 17:09:08,link,10391394,211,2018-09-20 12:40:15,tags,55168596,1,2019-03-14 17:21:54,10391394,211,2018-09-20 12:40:15,preencher
+andoid,googlesamples/android-Camera2Basic,55636748,<android><kotlin><raspberry-pi><raspberry-pi2><android-things>,741,1,0,2019-04-11 16:00:54,link,5471095,1176,2015-10-21 10:27:28,tags,55648042,2,2019-04-12 09:02:12,656408,10200,2011-03-12 07:57:22,preencher
+andoid,googlesamples/android-Camera2Basic,55887807,<android-camera2>,66,1,1,2019-04-28 06:57:57,link,11422056,23,2019-04-28 06:46:12,tags,55887841,0,2019-04-28 07:01:56,440780,1015,2010-09-06 15:53:16,preencher
+andoid,googlesamples/android-Camera2Basic,55803627,<android><android-jetpack><android-camerax>,5139,3,5,2019-04-23 02:51:52,link,2749406,2688,2013-09-05 05:55:49,tags,56013705,10,2019-05-06 23:46:10,440780,1015,2010-09-06 15:53:16,preencher
+andoid,googlesamples/android-Camera2Basic,56645941,<android><design-patterns><android-camera2><state-pattern>,232,1,1,2019-06-18 09:29:30,link,1615070,552,2012-08-21 18:43:31,tags,56985723,0,2019-07-11 09:15:59,1615070,552,2012-08-21 18:43:31,preencher
+andoid,googlesamples/android-Camera2Basic,57307365,<android><android-camera2>,227,1,0,2019-08-01 10:50:54,link,1615070,552,2012-08-21 18:43:31,tags,57307450,1,2019-08-01 10:56:48,1615070,552,2012-08-21 18:43:31,preencher
+andoid,googlesamples/android-Camera2Basic,27529852,<android><android-camera>,5590,4,3,2014-12-17 16:09:39,link,1246746,8160,2012-03-03 11:18:42,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,29556406,<android><camera>,203,1,1,2015-04-10 08:09:11,link,1735499,5553,2012-10-10 16:03:27,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,31229953,<android><image-processing><android-camera><android-5.0-lollipop>,2597,2,3,2015-07-05 11:39:36,link,2924714,1418,2013-10-27 08:59:06,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,31232008,<android><image-processing><android-camera><surfaceview>,5223,1,6,2015-07-05 15:36:48,link,2924714,1418,2013-10-27 08:59:06,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,31240067,<android><android-camera>,2026,0,9,2015-07-06 07:31:46,link,2924714,1418,2013-10-27 08:59:06,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,31340746,<android><camera><android-camera>,591,0,2,2015-07-10 12:26:22,link,4969863,59,2015-06-03 13:28:38,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,33006238,<android><face-detection><camera2>,3502,0,2,2015-10-08 03:43:15,link,5421207,21,2015-10-08 03:27:52,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,33127258,<android>,5734,5,10,2015-10-14 13:53:14,link,5137755,343,2015-07-21 06:26:12,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,33151244,<android>,10742,3,12,2015-10-15 14:30:00,link,5137755,343,2015-07-21 06:26:12,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,36172831,<android><android-camera>,293,0,1,2016-03-23 08:13:34,link,6102041,11,2016-03-23 03:06:55,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,36440019,<java><android><camera2>,427,1,2,2016-04-06 01:45:08,link,6072423,21,2016-03-16 15:08:23,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,36964572,<android><multithreading><android-camera2><android-looper><android-handlerthread>,891,2,2,2016-05-01 08:18:53,link,4812993,31,2015-04-21 03:25:32,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,38698739,<java><android><camera><android-camera>,128,1,0,2016-08-01 12:20:41,link,6266987,49,2016-04-28 13:50:35,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,39369745,<android><camera><galaxy><android-camera2>,586,0,2,2016-09-07 12:16:45,link,5607230,1561,2015-11-26 06:53:32,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,43553893,<android><android-camera2><google-vision>,2034,0,1,2017-04-22 00:28:19,link,7868376,615,2017-04-14 16:53:05,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,43580809,<android><android-camera2><camera2>,1336,0,0,2017-04-24 06:02:57,link,6830811,11,2016-09-14 12:05:00,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,43586567,<android><textureview>,237,1,0,2017-04-24 11:13:18,link,3409503,6362,2014-03-12 07:41:28,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,44527420,<android><android-camera2>,1999,2,9,2017-06-13 16:56:29,link,5472479,1563,2015-10-21 16:22:42,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,45161876,<android><camera><android-camera2><android-textureview>,413,0,0,2017-07-18 08:51:01,link,6419129,157,2016-06-03 10:55:57,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,45439087,<java><android><android-camera><android-camera2>,1014,2,0,2017-08-01 13:22:26,link,7364774,39,2017-01-02 10:06:17,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,47248029,<java><android><memory-leaks>,777,1,1,2017-11-12 11:05:07,link,1238164,7403,2012-02-28 15:06:15,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,47621046,<android><android-camera2>,251,1,1,2017-12-03 17:21:02,link,741920,1741,2011-05-06 14:15:12,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,47663132,<android><overlay><fullscreen><android-camera2>,205,1,0,2017-12-05 21:43:18,link,9058667,1,2017-12-05 21:39:52,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,48691587,<android><android-fragments><android-camera-intent><android-camera2>,279,1,-1,2018-02-08 17:38:26,link,6763568,431,2016-08-27 03:13:29,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,49510515,<android><android-camera2>,352,1,0,2018-03-27 10:29:45,link,1497597,2388,2012-07-03 03:12:37,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,49511840,<java><android><android-camera2>,415,1,0,2018-03-27 11:35:09,link,7660506,1,2017-03-05 05:37:32,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,49547673,<android><android-camera2>,1538,1,0,2018-03-29 03:44:00,link,1497597,2388,2012-07-03 03:12:37,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,51892029,<android><android-camera2>,368,1,1,2018-08-17 09:11:10,link,5209766,2799,2013-06-23 03:04:58,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,52125605,<android><camera><android-camera2><google-cardboard><uvc>,1110,0,1,2018-09-01 06:43:05,link,5373607,61,2015-09-24 19:11:11,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,52374888,<android><android-camera2>,562,1,3,2018-09-17 20:00:30,link,9766649,505,2018-05-09 18:04:54,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,52842291,<android><camera><landscape><preview><android-camera2>,867,1,0,2018-10-16 18:59:27,link,10511475,1,2018-10-16 07:38:18,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,53103837,<android><android-camera2>,477,0,3,2018-11-01 14:58:12,link,4293473,3694,2014-11-25 21:07:15,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,53296311,<android><android-camera2>,68,1,0,2018-11-14 08:58:56,link,7468130,43,2017-01-25 09:17:52,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,53914346,<media-player><wifi-direct>,55,1,0,2018-12-24 13:55:38,link,10829224,1,2018-12-24 13:29:33,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,54073476,<android><camera><storage><external>,744,1,2,2019-01-07 11:25:41,link,7640725,319,2017-03-01 10:34:52,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,54517166,<android><camera><textureview>,272,1,0,2019-02-04 13:27:40,link,1125061,557,2012-01-01 12:14:02,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,56237595,<java><android><bitmap><android-camera2>,140,0,0,2019-05-21 11:45:03,link,7947113,392,2017-05-01 12:19:23,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,57512168,<android><android-camera2>,252,1,1,2019-08-15 15:32:51,link,10468569,187,2018-10-07 10:25:06,tags,,,,,,,
+andoid,googlesamples/android-Camera2Basic,57716484,<java><android><android-camera2><landscape-portrait>,349,1,2,2019-08-29 19:09:14,link,7350834,303,2016-12-28 17:05:03,tags,,,,,,,
+andoid,googlesamples/android-vision,32021193,<android><google-play-services><google-vision>,29841,1,29,2015-08-15 03:22:56,link,3576831,3162,2014-04-26 19:37:21,tags,32029162,40,2015-08-15 20:43:58,5231007,2797,2015-08-15 19:49:06,preencher
+andoid,googlesamples/android-vision,32051973,<android><camera><google-play-services><google-vision><android-vision>,18530,3,13,2015-08-17 13:41:50,link,932052,4362,2011-09-07 05:34:05,tags,32051974,19,2015-08-17 13:41:50,932052,4362,2011-09-07 05:34:05,preencher
+andoid,googlesamples/android-vision,35757052,<java><android><android-studio><android-gradle-plugin><google-vision>,5361,1,5,2016-03-02 20:06:06,link,6009679,49,2016-03-02 19:18:23,tags,35757934,12,2016-03-02 21:00:36,3042873,506,2013-11-27 17:25:52,preencher
+andoid,googlesamples/android-vision,37300874,<android><google-play-services><face-detection>,2642,2,4,2016-05-18 13:18:46,link,878126,100621,2011-08-04 08:05:33,tags,37310467,0,2016-05-18 21:34:06,878126,100621,2011-08-04 08:05:33,preencher
+andoid,googlesamples/android-vision,37559401,<android><android-vision>,2425,3,12,2016-06-01 04:24:43,link,6369323,422,2016-05-23 03:33:35,tags,41712772,1,2017-01-18 06:30:54,2301721,538,2013-04-20 08:55:55,preencher
+andoid,googlesamples/android-vision,42420540,<android><barcode><android-vision><vision-api>,733,1,4,2017-02-23 15:57:20,link,1652657,3500,2012-09-06 16:38:46,tags,42448872,1,2017-02-24 21:48:10,1652657,3500,2012-09-06 16:38:46,preencher
+andoid,googlesamples/android-vision,52367169,<android><crop><face-detection>,2163,2,6,2018-09-17 11:54:09,link,6000190,440,2016-03-01 00:49:59,tags,52420312,1,2018-09-20 07:59:56,6000190,440,2016-03-01 00:49:59,preencher
+andoid,googlesamples/android-vision,55876514,<android><computer-vision><google-play-services><ocr><text-recognition>,247,1,0,2019-04-27 01:27:49,link,897007,3533,2011-08-16 15:36:31,tags,57596278,1,2019-08-21 17:04:37,11637587,51,2019-06-12 14:48:40,preencher
+andoid,googlesamples/android-vision,61055800,<android><firebase><qr-code><barcode-scanner><firebase-mlkit>,79,1,0,2020-04-06 08:32:25,link,1748342,123,2012-10-15 21:28:26,tags,61414738,2,2020-04-24 18:08:06,11997127,96,2019-08-30 01:33:13,preencher
+andoid,googlesamples/android-vision,32105785,<android><android-studio><google-vision><android-vision>,8851,2,6,2015-08-19 21:15:14,link,832442,609,2011-07-06 21:30:33,tags,,,,,,,
+andoid,googlesamples/android-vision,32525489,<android>,1111,3,1,2015-09-11 14:09:07,link,1007522,6138,2011-10-21 16:41:18,tags,,,,,,,
+andoid,googlesamples/android-vision,32988308,<android><google-api><google-play-services><face-detection><android-vision>,788,1,2,2015-10-07 09:13:46,link,4477690,91,2015-01-21 10:04:51,tags,,,,,,,
+andoid,googlesamples/android-vision,33176583,<android>,791,1,-1,2015-10-16 17:49:04,link,5454865,1,2015-10-16 17:36:42,tags,,,,,,,
+andoid,googlesamples/android-vision,35056994,<android><android-camera>,1680,2,2,2016-01-28 09:03:39,link,1068397,4068,2011-11-27 22:13:13,tags,,,,,,,
+andoid,googlesamples/android-vision,35811411,<android><android-camera><barcode-scanner><camera-flash>,6988,2,8,2016-03-05 07:31:48,link,922584,8300,2011-08-31 23:01:33,tags,,,,,,,
+andoid,googlesamples/android-vision,36235320,<javascript><android><cordova><phonegap-plugins>,45,1,-2,2016-03-26 12:31:45,link,3649938,17,2014-05-18 14:43:50,tags,,,,,,,
+andoid,googlesamples/android-vision,36251940,<javascript><android><cordova><phonegap-cli>,25,1,-1,2016-03-27 19:56:38,link,3649938,17,2014-05-18 14:43:50,tags,,,,,,,
+andoid,googlesamples/android-vision,36715739,<java><android><android-camera>,2001,1,2,2016-04-19 10:29:43,link,5524420,355,2015-11-04 11:27:33,tags,,,,,,,
+andoid,googlesamples/android-vision,37327891,<android><google-play-services><google-vision>,5436,2,2,2016-05-19 15:32:50,link,1532642,407,2012-07-17 18:09:06,tags,,,,,,,
+andoid,googlesamples/android-vision,37371844,<android><android-vision>,1097,3,5,2016-05-22 07:51:42,link,5667742,51,2015-12-11 07:27:34,tags,,,,,,,
+andoid,googlesamples/android-vision,37909346,<android-camera><video-capture><face-detection>,428,0,3,2016-06-19 16:22:45,link,5784262,31,2016-01-13 12:23:57,tags,,,,,,,
+andoid,googlesamples/android-vision,39075163,<android-vision>,890,1,3,2016-08-22 08:57:05,link,4070636,171,2014-09-23 13:08:10,tags,,,,,,,
+andoid,googlesamples/android-vision,40783903,<java><android><google-vision>,1635,2,4,2016-11-24 10:26:44,link,6769942,132,2016-08-29 11:16:58,tags,,,,,,,
+andoid,googlesamples/android-vision,42418470,<android><xamarin><torch><flashlight><vision>,1145,2,3,2017-02-23 14:25:42,link,1792386,972,2012-11-01 19:23:38,tags,,,,,,,
+andoid,googlesamples/android-vision,42690402,<java><android><face-detection><vision><face>,1150,1,0,2017-03-09 08:36:17,link,4945158,11,2015-05-27 14:20:12,tags,,,,,,,
+andoid,googlesamples/android-vision,43159280,<android><android-vision><google-vision><android-textureview>,2813,1,12,2017-04-01 16:28:21,link,2455259,24447,2013-06-05 10:43:50,tags,,,,,,,
+andoid,googlesamples/android-vision,43335897,<android><face-detection><sony><sony-smarteyeglass><face-api>,597,0,2,2017-04-11 02:39:48,link,5979190,81,2016-02-25 08:29:12,tags,,,,,,,
+andoid,googlesamples/android-vision,43361706,<android><face-detection><google-vision>,1196,1,0,2017-04-12 06:17:46,link,4997636,1225,2015-06-11 05:12:09,tags,,,,,,,
+andoid,googlesamples/android-vision,43553893,<android><android-camera2><google-vision>,2034,0,1,2017-04-22 00:28:19,link,7868376,615,2017-04-14 16:53:05,tags,,,,,,,
+andoid,googlesamples/android-vision,44144954,<ocr><google-vision><google-ios-vision>,227,0,1,2017-05-23 21:01:58,link,7308262,59,2016-12-16 19:33:10,tags,,,,,,,
+andoid,googlesamples/android-vision,44249483,<android><image-processing><mobile><android-vision>,1053,1,2,2017-05-29 19:43:47,link,8082968,21,2017-05-29 18:36:13,tags,,,,,,,
+andoid,googlesamples/android-vision,44784502,<android><google-vision><android-vision>,360,1,0,2017-06-27 15:40:26,link,2399352,339,2013-05-19 17:07:32,tags,,,,,,,
+andoid,googlesamples/android-vision,45245686,<android><android-camera><face>,167,0,1,2017-07-21 19:51:13,link,2479581,113,2013-06-12 18:23:10,tags,,,,,,,
+andoid,googlesamples/android-vision,46375016,<android><google-vision>,753,0,1,2017-09-23 01:05:12,link,8658771,11,2017-09-23 00:17:32,tags,,,,,,,
+andoid,googlesamples/android-vision,47368195,<java><android><vision-api>,1930,1,2,2017-11-18 16:14:48,link,1712934,2621,2012-10-01 20:51:29,tags,,,,,,,
+andoid,googlesamples/android-vision,47405228,<android>,34,1,0,2017-11-21 04:32:42,link,8516268,1,2017-08-25 10:51:30,tags,,,,,,,
+andoid,googlesamples/android-vision,47839974,<java><android><android-vision>,925,1,1,2017-12-15 21:18:03,link,1850484,306,2012-11-25 02:16:52,tags,,,,,,,
+andoid,googlesamples/android-vision,47888146,<camera><raspberry-pi3><face-detection><android-things>,621,1,0,2017-12-19 13:31:41,link,7474147,11,2017-01-26 14:16:29,tags,,,,,,,
+andoid,googlesamples/android-vision,50700241,<android-vision>,2512,3,2,2018-06-05 12:35:52,link,6818714,41,2016-09-11 08:32:32,tags,,,,,,,
+andoid,googlesamples/android-vision,51336265,<android><google-vision>,167,0,0,2018-07-14 07:23:54,link,755371,2915,2011-05-16 08:51:25,tags,,,,,,,
+andoid,googlesamples/android-vision,54608165,<android><barcode-scanner><android-vision><firebase-mlkit>,1918,1,4,2019-02-09 16:25:59,link,618437,1281,2011-02-15 19:25:38,tags,,,,,,,
+andoid,googlesamples/android-vision,54788081,<android><preview><face-detection><google-vision><face>,82,0,0,2019-02-20 13:57:02,link,9364229,17,2018-02-15 10:11:23,tags,,,,,,,
+andoid,googlesamples/android-vision,55208143,<android><barcode-scanner>,169,0,1,2019-03-17 14:28:51,link,11216528,11,2019-03-17 14:21:20,tags,,,,,,,
+andoid,googlesamples/android-vision,55364986,<android><firebase><firebase-mlkit>,223,1,0,2019-03-26 19:33:08,link,11262232,1,2019-03-26 18:37:15,tags,,,,,,,
+andoid,googlesamples/android-vision,56804169,<face-detection><face-recognition><android-vision>,102,0,0,2019-06-28 09:16:47,link,9276591,1,2018-01-27 13:57:58,tags,,,,,,,
+andoid,googlesamples/android-vision,57866618,<android><google-vision><android-vision>,780,2,1,2019-09-10 08:15:05,link,4904995,1849,2015-05-15 18:25:14,tags,,,,,,,
+andoid,googlesamples/android-vision,58003564,<android><retrofit2><azure-cognitive-services><face-api>,27,0,0,2019-09-19 04:02:50,link,603324,502,2011-02-04 14:46:23,tags,,,,,,,
+andoid,googlesamples/android-vision,59071717,<android><barcode><android-vision>,59,0,0,2019-11-27 13:50:21,link,861646,7181,2011-07-25 13:22:00,tags,,,,,,,
+andoid,googlesamples/android-BluetoothChat,32736708,<android><bluetooth><chat><bluetooth-lowenergy>,4898,3,2,2015-09-23 10:09:21,link,4684069,1103,2015-03-18 07:18:54,tags,,,,,,,
+andoid,googlesamples/android-BluetoothChat,36399758,<android><bluetooth>,437,0,2,2016-04-04 10:06:53,link,5681348,153,2015-12-15 09:13:42,tags,,,,,,,
+andoid,googlesamples/android-BluetoothChat,37105065,<javascript><android><android-studio><bluetooth>,388,0,2,2016-05-08 21:34:54,link,3509046,48,2014-04-08 01:08:57,tags,,,,,,,
+andoid,googlesamples/android-BluetoothChat,38809845,<android><bluetooth>,1816,1,2,2016-08-07 00:29:28,link,6686875,31,2016-08-07 00:05:02,tags,,,,,,,
+andoid,googlesamples/android-BluetoothChat,47993431,<java><android><bluetooth><android-bluetooth>,520,0,0,2017-12-27 13:55:18,link,9145442,11,2017-12-27 13:48:35,tags,,,,,,,
+andoid,googlesamples/android-BluetoothChat,48450709,<android><bluetooth><wear-os><android-bluetooth><wearables>,2972,1,0,2018-01-25 19:43:40,link,9078874,13,2017-12-10 06:59:55,tags,48469066,2,2018-01-26 20:28:23,543136,4037,2010-12-15 09:19:19,preencher
+andoid,googlesamples/android-BluetoothChat,54883157,<android><bluetooth>,147,1,0,2019-02-26 10:17:46,link,7854022,21,2017-04-12 03:06:10,tags,,,,,,,
+andoid,googlesamples/android-BluetoothChat,55351397,<java><android><bluetooth><serial-port><rfcomm>,162,1,0,2019-03-26 06:58:54,link,407759,23,2010-08-01 03:30:38,tags,,,,,,,
+andoid,googlesamples/android-BluetoothChat,56665807,<android><bluetooth><android-bluetooth>,36,1,0,2019-06-19 10:43:24,link,10181236,312,2018-08-04 21:24:18,tags,56672004,0,2019-06-19 16:14:50,10181236,312,2018-08-04 21:24:18,preencher
+andoid,googlesamples/android-play-places,29327324,<android><google-maps><google-places-api>,474,2,0,2015-03-29 08:58:53,link,1912077,3094,2012-12-18 07:09:41,tags,29427054,1,2015-04-03 06:06:50,1912077,3094,2012-12-18 07:09:41,preencher
+andoid,googlesamples/android-play-places,29744045,<android><google-play-services><google-places-api>,1809,2,1,2015-04-20 09:30:40,link,1596679,925,2012-08-13 22:51:26,tags,29750984,4,2015-04-20 14:40:56,188779,898,2009-10-13 01:37:17,preencher
+andoid,googlesamples/android-play-places,30228374,<autocomplete><google-places-api>,552,1,0,2015-05-14 02:37:12,link,4648421,163,2015-03-09 04:52:48,tags,30382068,0,2015-05-21 18:53:37,1211831,1621,2012-02-15 16:23:19,preencher
+andoid,googlesamples/android-play-places,30444150,<google-places-api>,718,1,1,2015-05-25 18:31:37,link,2080970,45,2013-02-17 17:51:01,tags,31858505,1,2015-08-06 14:31:27,3178944,17200,2014-01-09 18:47:10,preencher
+andoid,googlesamples/android-play-places,51832965,<autocomplete><google-places-api><googleplacesautocomplete>,723,1,0,2018-08-14 02:38:51,link,2722568,1273,2013-08-27 17:18:42,tags,51836721,0,2018-08-14 08:13:15,2722568,1273,2013-08-27 17:18:42,preencher
+andoid,googlesamples/android-play-places,29542859,<android><autocomplete><google-places-api>,2643,1,3,2015-04-09 15:32:20,link,3891283,609,2014-07-30 11:37:23,tags,,,,,,,
+andoid,googlesamples/android-play-places,31640783,<google-maps><google-maps-android-api-2><google-places-api>,2737,1,2,2015-07-26 19:00:46,link,5012866,703,2015-06-15 20:04:30,tags,,,,,,,
+andoid,googlesamples/android-play-places,31656342,<android><google-maps-api-3><google-maps-android-api-2><google-places-api>,856,1,-1,2015-07-27 14:50:59,link,5012866,703,2015-06-15 20:04:30,tags,,,,,,,
+andoid,googlesamples/android-play-places,32252306,<java><android><google-maps><google-play-services><google-places-api>,587,1,-1,2015-08-27 14:35:37,link,2080233,1018,2013-02-17 10:22:25,tags,,,,,,,
+andoid,googlesamples/android-play-places,32486732,<api><autocomplete><key><google-places-api><sha1>,516,0,1,2015-09-09 18:25:42,link,5318134,11,2015-09-09 17:05:31,tags,,,,,,,
+andoid,googlesamples/android-play-places,33115337,<android><google-places-api>,12339,8,8,2015-10-14 01:53:44,link,1114591,111,2011-12-24 13:29:57,tags,,,,,,,
+andoid,googlesamples/android-play-places,40723092,<android><google-maps><google-play-services><google-places-api><gmsplacepicker>,646,0,3,2016-11-21 14:58:26,link,2957956,1097,2013-11-05 20:35:04,tags,,,,,,,
+andoid,googlesamples/android-play-places,48323477,<java><android><multithreading>,63,1,0,2018-01-18 14:22:50,link,5940334,480,2016-02-17 12:08:50,tags,,,,,,,
+andoid,googlesamples/android-play-places,54783052,<android><google-play-services><google-places-api><googleplacesautocomplete>,1101,1,1,2019-02-20 09:36:26,link,5371609,517,2015-09-24 10:19:37,tags,,,,,,,

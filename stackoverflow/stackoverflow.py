@@ -66,7 +66,7 @@ def stackoverflow(framework, projects):
     global api
     api = StackAPI("stackoverflow")
     samples = get_samples(projects)
-    output_write(framework, directory, "questions_and_answers", get_header(), False)
+    output_write(framework, directory, "questions_and_answers", get_header(), True)
     for sample in samples:
         questions = get_questions_when_body_has(sample)
         for question in questions["items"]:
