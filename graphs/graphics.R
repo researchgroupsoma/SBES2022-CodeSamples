@@ -2,10 +2,10 @@ library(ggplot2)
 library(scales)
 
 typeOfFramework = "Code Samples"
-frameworkName1 = "android"
-frameworkName2 = "spring"
+frameworkName1 = "Android"
+frameworkName2 = "Spring"
 factorPositionMedianLabel = 1.4
-mainDirectory = "../"
+mainDirectory = "Documentos/gabrielsmenezes/pesquisamestrado/"
 
 plotGraphic <- function ()  {
   p1 <- ggplot(all, aes) + 
@@ -258,3 +258,36 @@ framework2_median = median(unlist(dataFramework2), na.rm = TRUE)
 aes = aes(factor(framework,levels = c(frameworkName1, frameworkName2)), number_of_forks)
 plotGraphic()
 ggsave(paste(mainDirectory, "forksahead/number_of_forks.pdf", sep = ""), width = 4.5, height = 4.5)
+
+
+############################# Stack Overflow ###########################################
+######## reputation de quem pergunta sobre os code samples
+
+framework1=read.csv(paste(mainDirectory, "stackoverflow/android_questions_and_answers_output.csv", sep = ""), sep=",",header=T)
+framework2=read.csv(paste(mainDirectory, "stackoverflow/spring_questions_and_answers_output.csv", sep = ""), sep=",",header=T)
+all=rbind.data.frame(framework1, framework2)
+dataFramework1=framework1$question_owner_reputation
+dataFramework2=framework2$question_owner_reputation
+title = "Reputação de quem\npergunta"
+verticalTitle = "Reputação em escala log"
+framework1_median = median(unlist(dataFramework1), na.rm = TRUE)
+framework2_median = median(unlist(dataFramework2), na.rm = TRUE)
+aes = aes(factor(framework,levels = c(frameworkName1, frameworkName2)), question_owner_reputation)
+plotGraphic()
+ggsave(paste(mainDirectory, "stackoverflow/question_reputation.pdf", sep = ""), width = 4.5, height = 4.5)
+
+
+######## reputation de quem responde perguntas sobre os code samples
+
+framework1=read.csv(paste(mainDirectory, "stackoverflow/android_questions_and_answers_output.csv", sep = ""), sep=",",header=T)
+framework2=read.csv(paste(mainDirectory, "stackoverflow/spring_questions_and_answers_output.csv", sep = ""), sep=",",header=T)
+all=rbind.data.frame(framework1, framework2)
+dataFramework1=framework1$answer_owner_reputation
+dataFramework2=framework2$answer_owner_reputation
+title = "Reputação de quem\nresponde"
+verticalTitle = "Reputação em escala log"
+framework1_median = median(unlist(dataFramework1), na.rm = TRUE)
+framework2_median = median(unlist(dataFramework2), na.rm = TRUE)
+aes = aes(factor(framework,levels = c(frameworkName1, frameworkName2)), question_owner_reputation)
+plotGraphic()
+ggsave(paste(mainDirectory, "stackoverflow/answer_reputation.pdf", sep = ""), width = 4.5, height = 4.5)
