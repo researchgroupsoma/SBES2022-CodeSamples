@@ -5,11 +5,11 @@ typeOfFramework = "Code Samples"
 frameworkName1 = "Android"
 frameworkName2 = "Spring"
 factorPositionMedianLabel = 1.4
-mainDirectory = "Documentos/gabrielsmenezes/pesquisamestrado/"
+mainDirectory = "/home/gabriel/Documentos/gabrielsmenezes/pesquisamestrado/"
 
 plotGraphic <- function ()  {
   p1 <- ggplot(all, aes) + 
-    scale_y_log10() +
+    scale_y_log10(labels = comma) +
     geom_violin(width=1, trim=TRUE, fill="#87CEFA") + 
     geom_boxplot(width=0.7,alpha=0.7) + ggtitle(title) + xlab(typeOfFramework) + ylab(verticalTitle) + 
     annotate("text", x = 1, y = framework1_median*factorPositionMedianLabel, label = round(framework1_median, 2), size = 8) + annotate("text", x = 2, y = framework2_median*factorPositionMedianLabel, label = round(framework2_median, 2), size = 8) +
