@@ -288,6 +288,6 @@ title = "Reputação de quem\nresponde"
 verticalTitle = "Reputação em escala log"
 framework1_median = median(unlist(dataFramework1), na.rm = TRUE)
 framework2_median = median(unlist(dataFramework2), na.rm = TRUE)
-aes = aes(factor(framework,levels = c(frameworkName1, frameworkName2)), question_owner_reputation)
+aes = aes(factor(framework,levels = c(frameworkName1, frameworkName2)), answer_owner_reputation)
 plotGraphic()
 ggsave(paste(mainDirectory, "stackoverflow/answer_reputation.pdf", sep = ""), width = 4.5, height = 4.5)
