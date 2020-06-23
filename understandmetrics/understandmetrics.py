@@ -12,7 +12,7 @@ def extract_metrics_with_understand(udb_path, sample_path):
     subprocess.call(["bash", "-c", "{0} add {1} {2}".format(understand_path, sample_path, udb_path)])
     subprocess.call(["bash", "-c", "{0} settings -metrics all {1}".format(understand_path, udb_path)])
     subprocess.call(["bash", "-c", "{0} settings -metricsOutputFile {1}.csv {1}".format(understand_path, udb_path)])
-    subprocess.call(["bash", "-c", "{0} analyze {1}".format(understand_path, udb_path)])
+    subprocess.call(["bash", "-c", "{0}  -quiet analyze {1}".format(understand_path, udb_path)])
     subprocess.call(["bash", "-c", "{0} metrics {1}".format(understand_path, udb_path)])
 
 
