@@ -1,9 +1,15 @@
-from pip import main as pipmain
+import subprocess
+import sys
 
 def install(package):
-    pipmain(['install', "-q", package])
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
 def installpackages():
+    print("Installing PyGithub")
     install("PyGithub")
+    print("Installing GitPython")
     install("GitPython")
+    print("Installing stackapi")
     install("stackapi")
+    print("Installing JPype1")
+    install("JPype1")
