@@ -2,7 +2,8 @@ import os
 from understandmetrics.understandmetrics import get_understand_metrics, create_output_directory, create_output
 from utils import get_samples
 from utils.utils import get_commits_from, output_write, checkout_to
-
+from readability import Readability
+from utils.utils import print_status_samples
 
 def adding_commit_data(commit, metrics):
     metrics_aux = metrics[:2]
@@ -30,6 +31,10 @@ def get_metrics(commit, framework, sample, sample_path, udb_path):
     metrics = get_understand_metrics(framework, sample, udb_path, sample_path)
     metrics = get_necessary_metrics(metrics)
     metrics = adding_commit_data(commit, metrics)
+    r = Readability(sample)
+    readability = r.getReadability()
+    del r
+    metrics.append(readability)
     return metrics
 
 
@@ -40,17 +45,19 @@ def delete_unused_files(sample):
 
 def metrics_by_commits(framework, projects):
     samples = get_samples(projects)
-    for sample in samples:
+    for index, sample in enumerate(samples):
+        print_status_samples(index+1, len(samples))
         owner = sample.split("/")[0]
         create_output_directory("metricsbycommits", owner)
-        output_write(sample, "metricsbycommits", "", "framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod",True)
+        output_write(sample, "metricsbycommits", "", "framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability",True)
         repositories_path = "/home/gabriel/Documentos/gabrielsmenezes/pesquisamestrado/repositories/"
         sample_path = repositories_path + sample
         udb_path = "metricsbycommits/" + sample
         commits = get_commits_from(sample)
         commits.reverse()
-        for commit in commits:
+        for index, commit in enumerate(commits):
             checkout_to(sample, commit.hexsha)
             metrics = get_metrics(commit, framework, sample, sample_path, udb_path)
             output_write(sample, "metricsbycommits", "", create_output(metrics), False)
             delete_unused_files(sample)
+            print("{0}% of commits completed from sample {1}".format((index/len(commits) * 100), sample))
