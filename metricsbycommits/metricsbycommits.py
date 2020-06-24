@@ -1,5 +1,5 @@
 import os
-from understandmetrics.understandmetrics import get_understand_metrics, create_output_directory, create_output
+from understandmetrics.understandmetrics import get_understand_metrics, create_output_directory
 from utils import get_samples
 from utils.utils import get_commits_from, output_write, checkout_to
 from readability import Readability
@@ -41,9 +41,14 @@ def get_metrics(commit, framework, sample, sample_path, udb_path):
 
 
 def delete_unused_files(sample):
-    pass
     os.remove("metricsbycommits/" + sample + ".csv")
     os.remove("metricsbycommits/" + sample + ".udb")
+
+def create_output(metrics):
+    output = ""
+    for metric in metrics:
+        output += str(metric) + ","
+    return output[:-1]
 
 
 def metrics_by_commits(framework, projects):
