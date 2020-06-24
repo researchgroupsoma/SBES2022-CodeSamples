@@ -65,3 +65,8 @@ class UnderstandMetrics(object):
 		self.sumCyclomaticStrict = metrics[60]
 		self.sumEssential = metrics[61]
 		self.countJavaFile = metrics[63]
+
+
+	def __iter__(self):
+        for attr, value in self.__dict__.iteritems():
+            yield attr, value
