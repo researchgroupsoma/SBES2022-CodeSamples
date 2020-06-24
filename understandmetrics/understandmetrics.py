@@ -1,5 +1,7 @@
 import subprocess
 from utils import get_samples, output_write, remove_next_line, deal_with_empty_repo
+from understandmetrics.UnderstandMetrics import UnderstandMetrics
+
 
 
 def create_output_directory(metric, owner):
@@ -18,8 +20,8 @@ def extract_metrics_with_understand(udb_path, sample_path):
 
 def create_output(metrics):
     output = ""
-    for metric in metrics:
-        output += str(metric) + ","
+    for metric, value in metrics:
+        output += str(value) + ","
     return output[:-1]
 
 
@@ -44,8 +46,7 @@ def sum_metrics_per_sample(framework, sample, udb_path):
 def get_understand_metrics(framework, sample, udb_path, sample_path):
     extract_metrics_with_understand(udb_path, sample_path)
     metrics = sum_metrics_per_sample(framework, sample, udb_path)
-    return metrics
-
+    return UnderstandMetrics(metrics)
 
 def understandmetrics(framework, projects):
     samples = get_samples(projects)
