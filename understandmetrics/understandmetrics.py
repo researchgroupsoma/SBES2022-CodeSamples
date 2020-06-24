@@ -20,7 +20,7 @@ def extract_metrics_with_understand(udb_path, sample_path):
 
 def create_output(metrics):
     output = ""
-    for metric, value in metrics:
+    for metric, value in dict(metrics):
         output += str(value) + ","
     return output[:-1]
 
