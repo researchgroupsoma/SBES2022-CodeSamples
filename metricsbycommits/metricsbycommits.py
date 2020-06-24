@@ -13,15 +13,17 @@ def adding_commit_data(commit, metrics):
     return metrics_aux
 
 
-def get_necessary_metrics(metrics):
-    metrics_aux = metrics[:2]
-    metrics_aux.append(metrics[-1])
+def get_necessary_metrics(understandmetrics):
+    metrics_aux = []
+    metrics_aux.append(understandmetrics.framework)
+    metrics_aux.append(understandmetrics.sample)
+    metrics_aux.append(understandmetrics.countJavaFile)
     try:
-        metrics_aux.append(metrics[31]/metrics[-1])
+        metrics_aux.append(understandmetrics.countLineCode/understandmetrics.countJavaFile)
     except:
         metrics_aux.append(0)
     try:
-        metrics_aux.append(metrics[60]/metrics[22])
+        metrics_aux.append(understandmetrics.sumCyclomaticStrict/understandmetrics.countDeclMethod)
     except:
         metrics_aux.append(0)
     return metrics_aux
@@ -39,6 +41,7 @@ def get_metrics(commit, framework, sample, sample_path, udb_path):
 
 
 def delete_unused_files(sample):
+    pass
     os.remove("metricsbycommits/" + sample + ".csv")
     os.remove("metricsbycommits/" + sample + ".udb")
 
