@@ -1,6 +1,2 @@
-googlesamples/android-play-location
-googlesamples/google-services
-googlesamples/android-Camera2Basic
-googlesamples/android-vision
-googlesamples/android-BluetoothChat
-googlesamples/android-play-places
+googlesamples/android-testdpc
+googlesamples/androidtv-sample-inputs
