@@ -34,7 +34,7 @@ def allanswers(framework, projects):
 	global api
 	api = StackAPI("stackoverflow")
 	samples = get_samples(projects)
-	# output_write(framework, directory, "all_answers", get_header(), True)
+	output_write(framework, directory, "all_answers", get_header(), True)
 	with open("stackoverflow/"+framework+"_questions_and_answers_output.csv") as questions:
 		for index, question in enumerate(questions):
 			if index == 0: continue
@@ -44,7 +44,6 @@ def allanswers(framework, projects):
 			answers = api.fetch("questions/" + question_id + "/answers")["items"]
 			print(len(answers))
 			for indx,answer in enumerate(answers):
-				if answer["is_accepted"]: continue
 				print("{0}% answers analysed of question {1}".format( (indx+1)/len(answers)*100, question_id))
 				try:
 					answer_owner = get_owner_by_user_id(api, answer["owner"]["user_id"])
