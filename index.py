@@ -1,5 +1,5 @@
 import installpackages
-installpackages.installpackages()
+# installpackages.installpackages()
 import argparse
 import repositoriesdownload
 import delay
@@ -15,6 +15,7 @@ import file_extension_changes_forks
 import metricsbycommits
 import stackoverflow
 import generalprojects
+import allanswers
 
 
 def main(args):
@@ -46,6 +47,8 @@ def main(args):
         stackoverflow.stackoverflow(args.framework, args.projects)
     if args.generalprojects:
         generalprojects.generalprojects(args.projects)
+    if args.allanswers:
+        allanswers.allanswers(args.framework, args.projects)
 
 
 if __name__ == '__main__':
@@ -69,6 +72,7 @@ if __name__ == '__main__':
     parser.add_argument("-metricsbycommit", action="store_true", required=False, help="Do you want to get metrics by commits?")
     parser.add_argument("-stackoverflow", action="store_true", required=False, help="Do you want to get metrics of stackoverflow?")
     parser.add_argument("-generalprojects", action="store_true", required=False, help="General Projects")
+    parser.add_argument("-allanswers", action="store_true", required=False)
     args = parser.parse_args()
 
     main(args)
