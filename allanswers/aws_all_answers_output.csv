@@ -1,0 +1,6 @@
+framework,path,question_id,answer_id,answer_score,answer_creation_date,answer_owner_id,answer_owner_reputation,answer_owner_creation_date,answer_owner_tags
+aws,aws-samples/alexa-web-information-service-api-samples,56782949,56953134,1,2019-07-09 08:56:25,11647688,60,2019-06-14 07:31:33,php;json;amazon-web-services;alexa;reverse-proxy;
+aws,aws-samples/aws-cognito-java-desktop-app,56813312,56813565,0,2019-06-28 18:02:00,6657172,646,2016-07-30 05:16:19,ios;swift;amazon-web-services;java;amazon-cognito;
+aws,aws-samples/aws-cloudhsm-jce-examples,57189318,62169796,0,2020-06-03 05:45:08,5483809,179,2015-10-24 13:00:35,java;gwt;iframe;pdf-generation;itext;
+aws,aws-samples/amazon-ecs-java-microservices,57786244,57789139,0,2019-09-04 09:09:52,5436755,1226,2015-10-12 08:53:05,entity-framework;entity-framework-4;entity-framework-4.1;entity-framework-5;asp.net-core;
+aws,aws-samples/aws-dynamodb-examples,61346821,61352705,1,2020-04-21 16:32:36,3416135,2598,2014-03-13 11:27:09,couchbase;amazon-dynamodb;amazon-web-services;nosql;redis;
