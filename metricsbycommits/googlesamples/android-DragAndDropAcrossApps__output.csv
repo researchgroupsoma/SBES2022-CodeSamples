@@ -1,6 +1,6 @@
-framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
-android,googlesamples/android-DragAndDropAcrossApps,5e945255f324209461fbb74a31430f77f133d7aa,2017-02-09 09:17:44-08:00,20,51.9,1.4206349206349207
-android,googlesamples/android-DragAndDropAcrossApps,aa3712f43ba673e0080677c70cd7bb7a850c480d,2017-05-17 13:33:07-07:00,20,51.9,1.4206349206349207
-android,googlesamples/android-DragAndDropAcrossApps,a1e1d18f8ebb4bb81d22a89d5257bf9d97c77e9f,2017-10-10 17:52:43-07:00,20,51.9,1.4206349206349207
-android,googlesamples/android-DragAndDropAcrossApps,eff2abf28ffbd92551abb709fd7da48497c7a1ea,2018-02-15 16:36:20-08:00,20,51.9,1.4206349206349207
-android,googlesamples/android-DragAndDropAcrossApps,b32c2d0e4d85aebc0f7fe0223a91b34d35410bdf,2019-09-18 10:37:03-07:00,20,51.9,1.4206349206349207
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+android,googlesamples/android-DragAndDropAcrossApps,5e945255f324209461fbb74a31430f77f133d7aa,2017-02-09 09:17:44-08:00,20,51.9,1.4206349206349207,0.00010818847658811137
+android,googlesamples/android-DragAndDropAcrossApps,aa3712f43ba673e0080677c70cd7bb7a850c480d,2017-05-17 13:33:07-07:00,20,51.9,1.4206349206349207,0.00010818847658811137
+android,googlesamples/android-DragAndDropAcrossApps,a1e1d18f8ebb4bb81d22a89d5257bf9d97c77e9f,2017-10-10 17:52:43-07:00,20,51.9,1.4206349206349207,0.00010818847658811137
+android,googlesamples/android-DragAndDropAcrossApps,eff2abf28ffbd92551abb709fd7da48497c7a1ea,2018-02-15 16:36:20-08:00,20,51.9,1.4206349206349207,0.00010818847658811137
+android,googlesamples/android-DragAndDropAcrossApps,b32c2d0e4d85aebc0f7fe0223a91b34d35410bdf,2019-09-18 10:37:03-07:00,20,51.9,1.4206349206349207,0.00010818847658811137

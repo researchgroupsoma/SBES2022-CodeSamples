@@ -1,5 +1,5 @@
-framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
-android,googlesamples/attendee-checkin,4980dd3615d0af9c1926bdf38260cdbbbae27f4f,2015-04-24 17:37:40+09:00,0,0,0
-android,googlesamples/attendee-checkin,6c07c9b89abee2a0ad48acf4d32aa780faa7f40f,2015-04-24 17:39:22+09:00,45,97.88888888888889,1.8045112781954886
-android,googlesamples/attendee-checkin,4a5ce1f429f564f8c31e087292d5a2046b14cd98,2019-10-07 09:34:37-07:00,45,97.88888888888889,1.8045112781954886
-android,googlesamples/attendee-checkin,3c891aa6ce3a9ea75daf897a9db52914799d2bb4,2019-10-07 09:35:19-07:00,45,97.88888888888889,1.8045112781954886
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+android,googlesamples/attendee-checkin,4980dd3615d0af9c1926bdf38260cdbbbae27f4f,2015-04-24 17:37:40+09:00,0,0,0,0
+android,googlesamples/attendee-checkin,6c07c9b89abee2a0ad48acf4d32aa780faa7f40f,2015-04-24 17:39:22+09:00,45,97.88888888888889,1.8045112781954886,0.01346258250479069
+android,googlesamples/attendee-checkin,4a5ce1f429f564f8c31e087292d5a2046b14cd98,2019-10-07 09:34:37-07:00,45,97.88888888888889,1.8045112781954886,0.01346258250479069
+android,googlesamples/attendee-checkin,3c891aa6ce3a9ea75daf897a9db52914799d2bb4,2019-10-07 09:35:19-07:00,45,97.88888888888889,1.8045112781954886,0.01346258250479069

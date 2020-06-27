@@ -1,8 +1,8 @@
-framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
-android,googlesamples/android-PictureInPicture,5c3473926d6bccedb1f7573b6e3458ad3f2b183b,2017-03-21 09:54:22-07:00,3,214.66666666666666,1.65625
-android,googlesamples/android-PictureInPicture,4fb077d32f5066c2a01ad6f5b784928aa77bf23e,2017-05-17 13:34:23-07:00,3,214.66666666666666,1.65625
-android,googlesamples/android-PictureInPicture,6bcdb7b8c4dcb76c6a8e5a09b14cc4f03a8198de,2017-06-08 09:35:27-07:00,3,216.33333333333334,1.671875
-android,googlesamples/android-PictureInPicture,87fdb7f0d17276bae068dbe95f812d5a36c289f7,2017-10-10 17:54:09-07:00,5,219.0,1.509090909090909
-android,googlesamples/android-PictureInPicture,b3db8b0268073e45b3b75220e39517cb023483a8,2017-12-08 08:39:34-08:00,5,221.8,1.5
-android,googlesamples/android-PictureInPicture,e6fc2de8fb6ca870faeeabeec95a8f60756b1f5a,2018-02-15 16:37:38-08:00,5,221.8,1.5
-android,googlesamples/android-PictureInPicture,b4e5a04523081d95f3679106e771813f68a88dc8,2019-09-24 11:58:40-07:00,5,221.8,1.5
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+android,googlesamples/android-PictureInPicture,5c3473926d6bccedb1f7573b6e3458ad3f2b183b,2017-03-21 09:54:22-07:00,3,214.66666666666666,1.65625,0.0
+android,googlesamples/android-PictureInPicture,4fb077d32f5066c2a01ad6f5b784928aa77bf23e,2017-05-17 13:34:23-07:00,3,214.66666666666666,1.65625,0.0
+android,googlesamples/android-PictureInPicture,6bcdb7b8c4dcb76c6a8e5a09b14cc4f03a8198de,2017-06-08 09:35:27-07:00,3,216.33333333333334,1.671875,0.0
+android,googlesamples/android-PictureInPicture,87fdb7f0d17276bae068dbe95f812d5a36c289f7,2017-10-10 17:54:09-07:00,5,219.0,1.509090909090909,0.0
+android,googlesamples/android-PictureInPicture,b3db8b0268073e45b3b75220e39517cb023483a8,2017-12-08 08:39:34-08:00,5,221.8,1.5,0.0
+android,googlesamples/android-PictureInPicture,e6fc2de8fb6ca870faeeabeec95a8f60756b1f5a,2018-02-15 16:37:38-08:00,5,221.8,1.5,0.0
+android,googlesamples/android-PictureInPicture,b4e5a04523081d95f3679106e771813f68a88dc8,2019-09-24 11:58:40-07:00,5,221.8,1.5,0.0

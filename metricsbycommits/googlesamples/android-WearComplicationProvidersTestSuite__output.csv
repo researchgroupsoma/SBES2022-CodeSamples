@@ -1,12 +1,12 @@
-framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
-android,googlesamples/android-WearComplicationProvidersTestSuite,18d4cf4f17de1c87aec91521ec295f82e9fcb2df,2017-05-17 13:35:28-07:00,8,58.125,2.2
-android,googlesamples/android-WearComplicationProvidersTestSuite,ce30cf4af43a1f7ad72752b1591e7e32fe48bf94,2017-06-08 09:36:33-07:00,8,58.125,2.2
-android,googlesamples/android-WearComplicationProvidersTestSuite,c06bd1b97a04c29d24a70f1f3b00ea90dfbae21b,2017-08-11 17:25:29-07:00,8,58.125,2.2
-android,googlesamples/android-WearComplicationProvidersTestSuite,5fe2e6be62b7bcb3425e6e77d5a874585288fb54,2017-10-10 17:55:17-07:00,8,58.125,2.2
-android,googlesamples/android-WearComplicationProvidersTestSuite,89b260fa6184397d1b112f0f8165ed85b50691d3,2018-01-25 09:37:09-08:00,8,58.125,2.2
-android,googlesamples/android-WearComplicationProvidersTestSuite,b69bb3f6bf07f034d6ff3e8fe4754d5aa03a9b27,2018-03-28 09:34:14-07:00,8,58.125,2.2
-android,googlesamples/android-WearComplicationProvidersTestSuite,25ce449cfe4dd6b96a4fa604df63af93d516628c,2018-07-27 21:57:46-07:00,8,58.125,2.2
-android,googlesamples/android-WearComplicationProvidersTestSuite,0230131b5c8534f3e9ee5b55c68df8e9d8a77566,2019-04-11 13:59:01-07:00,8,58.125,2.2
-android,googlesamples/android-WearComplicationProvidersTestSuite,0c4fc93cb4b6a3b1bae9b3f660014f63007d5cc7,2019-09-05 11:07:57-07:00,8,58.125,2.2
-android,googlesamples/android-WearComplicationProvidersTestSuite,5d7f501905d657b657653e75578a92db13f7e303,2019-09-05 11:16:14-07:00,0,0,0
-android,googlesamples/android-WearComplicationProvidersTestSuite,122d2f3302ff650d39017e1675f83b0e1fb84129,2019-09-05 11:18:31-07:00,0,0,0
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+android,googlesamples/android-WearComplicationProvidersTestSuite,18d4cf4f17de1c87aec91521ec295f82e9fcb2df,2017-05-17 13:35:28-07:00,8,58.125,2.2,0.0017232932150363922
+android,googlesamples/android-WearComplicationProvidersTestSuite,ce30cf4af43a1f7ad72752b1591e7e32fe48bf94,2017-06-08 09:36:33-07:00,8,58.125,2.2,0.0017232932150363922
+android,googlesamples/android-WearComplicationProvidersTestSuite,c06bd1b97a04c29d24a70f1f3b00ea90dfbae21b,2017-08-11 17:25:29-07:00,8,58.125,2.2,0.0017232932150363922
+android,googlesamples/android-WearComplicationProvidersTestSuite,5fe2e6be62b7bcb3425e6e77d5a874585288fb54,2017-10-10 17:55:17-07:00,8,58.125,2.2,0.0017232932150363922
+android,googlesamples/android-WearComplicationProvidersTestSuite,89b260fa6184397d1b112f0f8165ed85b50691d3,2018-01-25 09:37:09-08:00,8,58.125,2.2,0.0017232932150363922
+android,googlesamples/android-WearComplicationProvidersTestSuite,b69bb3f6bf07f034d6ff3e8fe4754d5aa03a9b27,2018-03-28 09:34:14-07:00,8,58.125,2.2,0.0017232932150363922
+android,googlesamples/android-WearComplicationProvidersTestSuite,25ce449cfe4dd6b96a4fa604df63af93d516628c,2018-07-27 21:57:46-07:00,8,58.125,2.2,0.0017232932150363922
+android,googlesamples/android-WearComplicationProvidersTestSuite,0230131b5c8534f3e9ee5b55c68df8e9d8a77566,2019-04-11 13:59:01-07:00,8,58.125,2.2,0.0017232932150363922
+android,googlesamples/android-WearComplicationProvidersTestSuite,0c4fc93cb4b6a3b1bae9b3f660014f63007d5cc7,2019-09-05 11:07:57-07:00,8,58.125,2.2,0.0017232932150363922
+android,googlesamples/android-WearComplicationProvidersTestSuite,5d7f501905d657b657653e75578a92db13f7e303,2019-09-05 11:16:14-07:00,0,0,0,0
+android,googlesamples/android-WearComplicationProvidersTestSuite,122d2f3302ff650d39017e1675f83b0e1fb84129,2019-09-05 11:18:31-07:00,0,0,0,0

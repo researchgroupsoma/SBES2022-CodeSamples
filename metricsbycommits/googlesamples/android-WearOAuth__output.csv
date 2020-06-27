@@ -1,9 +1,9 @@
-framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
-android,googlesamples/android-WearOAuth,58c58530ba53ea988cedebcc0167030ff9c05185,2016-12-09 04:29:49+00:00,0,0,0
-android,googlesamples/android-WearOAuth,6249cfe07055abde9b7df7a2a15a79e29f9f301a,2016-12-12 16:54:53-08:00,1,168.0,1.7142857142857142
-android,googlesamples/android-WearOAuth,a010ab48b43c9321afc6efefba5b7cfd7c18fa0f,2017-02-02 16:18:21-08:00,1,171.0,1.7142857142857142
-android,googlesamples/android-WearOAuth,2d837698a9b96ef3920c5c7039dd8e9bf2cd8287,2019-09-02 15:15:56-07:00,1,171.0,1.7142857142857142
-android,googlesamples/android-WearOAuth,a8b9a90ddea3b02953459402fa860aa1d2742caf,2019-09-02 15:37:52-07:00,0,0,0
-android,googlesamples/android-WearOAuth,149222a033575d1e97165ba0da6995fae4d5765e,2019-09-02 15:39:40-07:00,0,0,0
-android,googlesamples/android-WearOAuth,e44e64184881c87d74a8cd93c7cd6a7b9ea58e96,2019-09-05 11:16:48-07:00,0,0,0
-android,googlesamples/android-WearOAuth,96b2f2e308d514df9934bac8b5594772f16e4847,2019-09-05 11:20:58-07:00,0,0,0
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+android,googlesamples/android-WearOAuth,58c58530ba53ea988cedebcc0167030ff9c05185,2016-12-09 04:29:49+00:00,0,0,0,0
+android,googlesamples/android-WearOAuth,6249cfe07055abde9b7df7a2a15a79e29f9f301a,2016-12-12 16:54:53-08:00,1,168.0,1.7142857142857142,0.0
+android,googlesamples/android-WearOAuth,a010ab48b43c9321afc6efefba5b7cfd7c18fa0f,2017-02-02 16:18:21-08:00,1,171.0,1.7142857142857142,0.0
+android,googlesamples/android-WearOAuth,2d837698a9b96ef3920c5c7039dd8e9bf2cd8287,2019-09-02 15:15:56-07:00,1,171.0,1.7142857142857142,0.0
+android,googlesamples/android-WearOAuth,a8b9a90ddea3b02953459402fa860aa1d2742caf,2019-09-02 15:37:52-07:00,0,0,0,0
+android,googlesamples/android-WearOAuth,149222a033575d1e97165ba0da6995fae4d5765e,2019-09-02 15:39:40-07:00,0,0,0,0
+android,googlesamples/android-WearOAuth,e44e64184881c87d74a8cd93c7cd6a7b9ea58e96,2019-09-05 11:16:48-07:00,0,0,0,0
+android,googlesamples/android-WearOAuth,96b2f2e308d514df9934bac8b5594772f16e4847,2019-09-05 11:20:58-07:00,0,0,0,0

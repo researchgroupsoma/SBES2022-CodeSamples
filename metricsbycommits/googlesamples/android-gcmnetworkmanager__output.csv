@@ -1,9 +1,9 @@
-framework,projeto,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod
-android,googlesamples/android-gcmnetworkmanager,934f67bfb731ba0720844b822108b5c3707fb056,2015-12-14 23:33:34+00:00,0,0,0
-android,googlesamples/android-gcmnetworkmanager,8ef78057483a4953cd97f55633e0be2679b8f3a6,2015-12-15 10:12:32-08:00,2,93.0,1.4666666666666666
-android,googlesamples/android-gcmnetworkmanager,a07aed07ff4a95a6d7d2d49a4c3ac997a09b44a6,2015-12-15 12:41:41-08:00,2,93.0,1.4666666666666666
-android,googlesamples/android-gcmnetworkmanager,ac4c2e9437d7a96e1cc0012e9f23555049725bad,2015-12-15 13:44:33-08:00,2,93.0,1.4666666666666666
-android,googlesamples/android-gcmnetworkmanager,8569555ec8546b6e4a1cc09274550d12df42d0fe,2015-12-17 11:46:32-08:00,2,100.5,1.5625
-android,googlesamples/android-gcmnetworkmanager,0a4877456700943a3dd61c7769ae07704c4ad6ac,2016-01-25 15:13:57-08:00,2,100.5,1.5625
-android,googlesamples/android-gcmnetworkmanager,7359f808b92bd135d2be35a07477e4d96f49cf1c,2016-01-25 17:23:04-06:00,2,100.5,1.5625
-android,googlesamples/android-gcmnetworkmanager,7d381cb7ed5e9a9d14fbe6028a4c543c10c9f248,2019-06-06 15:06:34-07:00,2,100.5,1.5625
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+android,googlesamples/android-gcmnetworkmanager,934f67bfb731ba0720844b822108b5c3707fb056,2015-12-14 23:33:34+00:00,0,0,0,0
+android,googlesamples/android-gcmnetworkmanager,8ef78057483a4953cd97f55633e0be2679b8f3a6,2015-12-15 10:12:32-08:00,2,93.0,1.4666666666666666,0.0
+android,googlesamples/android-gcmnetworkmanager,a07aed07ff4a95a6d7d2d49a4c3ac997a09b44a6,2015-12-15 12:41:41-08:00,2,93.0,1.4666666666666666,0.0
+android,googlesamples/android-gcmnetworkmanager,ac4c2e9437d7a96e1cc0012e9f23555049725bad,2015-12-15 13:44:33-08:00,2,93.0,1.4666666666666666,0.0
+android,googlesamples/android-gcmnetworkmanager,8569555ec8546b6e4a1cc09274550d12df42d0fe,2015-12-17 11:46:32-08:00,2,100.5,1.5625,0.0
+android,googlesamples/android-gcmnetworkmanager,0a4877456700943a3dd61c7769ae07704c4ad6ac,2016-01-25 15:13:57-08:00,2,100.5,1.5625,0.0
+android,googlesamples/android-gcmnetworkmanager,7359f808b92bd135d2be35a07477e4d96f49cf1c,2016-01-25 17:23:04-06:00,2,100.5,1.5625,0.0
+android,googlesamples/android-gcmnetworkmanager,7d381cb7ed5e9a9d14fbe6028a4c543c10c9f248,2019-06-06 15:06:34-07:00,2,100.5,1.5625,0.0
