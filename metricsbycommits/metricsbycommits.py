@@ -63,8 +63,14 @@ def metrics_by_commits(framework, projects):
         udb_path = "metricsbycommits/" + sample
         commits = get_commits_from(sample)
         commits.reverse()
+        ########## é so rodar, esta com a hash certa para o proximo
+        # for index, commit in enumerate(commits):
+        #     if commit.hexsha == "dfe62cb3e72c7a9cfd759dc7411197d9a629f813":
+        #         position = index
+        # commits = commits[position+1:]
         for index, commit in enumerate(commits):
             checkout_to(sample, commit.hexsha)
+            print("commit ======= " + commit.hexsha)
             metrics = get_metrics(commit, framework, sample, sample_path, udb_path)
             output_write(sample, "metricsbycommits", "", create_output(metrics), False)
             delete_unused_files(sample)
