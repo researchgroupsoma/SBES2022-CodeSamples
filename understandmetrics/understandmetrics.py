@@ -9,7 +9,7 @@ def create_output_directory(metric, owner):
 
 
 def extract_metrics_with_understand(udb_path, sample_path):
-    understand_path = "/home/gabriel/Documentos/gabrielsmenezes/pesquisamestrado/understandmetrics/understand/scitools/bin/linux64/und"
+    understand_path = "understandmetrics/understand/scitools/bin/linux64/und"
     subprocess.call(["bash", "-c", "{0} create -languages java {1}".format(understand_path, udb_path) ])
     subprocess.call(["bash", "-c", "{0} add {1} {2}".format(understand_path, sample_path, udb_path)])
     subprocess.call(["bash", "-c", "{0} settings -metrics all {1}".format(understand_path, udb_path)])
