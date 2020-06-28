@@ -1,5 +1,5 @@
 import installpackages
-# installpackages.installpackages()
+installpackages.installpackages()
 import argparse
 import repositoriesdownload
 import delay
@@ -65,7 +65,7 @@ if __name__ == '__main__':
     parser.add_argument("-currentframeworkversion", "-v", action="store_true", required=False, help="Do you want to get the current version of framework?")
     parser.add_argument("-forksahead", "-k", action="store_true", required=False, help="Do you want to get the number of forks and forks ahead?")
     parser.add_argument("-importcount", "-i", action="store_true", required=False, help="Do you want to get the number imports of the framework into sample?")
-    parser.add_argument("-maintainers", "-m", action="store_true", required=False, help="Do you want to get maintainers stats?")
+    parser.add_argument("-maintainers", action="store_true", required=False, help="Do you want to get maintainers stats?")
     parser.add_argument("-file_extension_changes", "-o", action="store_true", required=False, help="Do you want to get metrics over the time?")
     parser.add_argument("-file_extension_changes_forks", action="store_true", required=False, help="Do you want to get metrics of forks over the time?")
     parser.add_argument("-understandmetrics", "-u", action="store_true", required=False, help="Do you want to get metrics from Understand SciTool?")
