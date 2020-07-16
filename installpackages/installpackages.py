@@ -13,3 +13,5 @@ def installpackages():
     install("stackapi")
     print("Installing JPype1")
     install("JPype1")
+    print("Installing Pandas")
+    install("pandas")
