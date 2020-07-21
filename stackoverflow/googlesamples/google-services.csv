@@ -1,0 +1,45 @@
+framework,path,question_id,question_tags,question_view_count,question_answer_count,question_score,question_creation_date,question_link,question_owner_id,question_owner_reputation,question_owner_creation_date,question_owner_tags,answer_id,answer_score,answer_creation_date,answer_owner_id,answer_owner_reputation,answer_owner_creation_date,answer_owner_tags
+Android,googlesamples/google-services,31916111,<android><google-cloud-messaging>,1880,1,-2,2015-08-10 09:31:44,link,1665465,2589,2012-09-12 10:40:10,tags,31916544,0,2015-08-10 09:55:11,1665465,2589,2012-09-12 10:40:10,preencher
+Android,googlesamples/google-services,32164336,<android><google-app-invites>,124,1,2,2015-08-23 07:41:26,link,3178944,17200,2014-01-09 18:47:10,tags,32164463,1,2015-08-23 07:58:55,49489,16104,2008-12-28 10:00:39,preencher
+Android,googlesamples/google-services,32200703,<google-cloud-messaging>,114,1,0,2015-08-25 09:46:26,link,3354820,216,2014-02-26 07:56:16,tags,32408904,0,2015-09-05 02:19:57,3354820,216,2014-02-26 07:56:16,preencher
+Android,googlesamples/google-services,32663597,<ios><objective-c><xcode><annotations>,412,2,3,2015-09-19 02:41:02,link,5182010,283,2015-08-02 03:43:33,tags,32663981,4,2015-09-19 03:48:38,643383,116821,2011-03-03 17:10:06,preencher
+Android,googlesamples/google-services,32932935,<android><google-cloud-messaging>,1711,1,1,2015-10-04 11:26:15,link,4177344,101,2014-10-24 10:28:26,tags,32940082,0,2015-10-05 01:20:37,4328123,21389,2014-12-05 09:46:10,preencher
+Android,googlesamples/google-services,33288089,<android><google-app-engine><android-studio>,1476,1,1,2015-10-22 18:25:21,link,4666566,95,2015-03-13 09:27:03,tags,33388840,0,2015-10-28 10:39:26,4666566,95,2015-03-13 09:27:03,preencher
+Android,googlesamples/google-services,34507180,<android><google-cloud-messaging>,51,1,-2,2015-12-29 08:19:06,link,5719982,174,2015-12-27 06:25:23,tags,34507300,0,2015-12-29 08:28:49,3069305,869,2013-12-05 08:34:37,preencher
+Android,googlesamples/google-services,34808531,<android><google-authentication><google-plus-signin>,7265,1,4,2016-01-15 10:00:43,link,4314465,319,2014-12-02 06:25:49,tags,34821294,14,2016-01-15 22:58:39,4062630,5033,2014-09-21 03:40:37,preencher
+Android,googlesamples/google-services,35305507,<java><android><google-cloud-messaging>,243,2,0,2016-02-10 01:47:04,link,1753319,616,2012-10-17 13:28:02,tags,35305626,2,2016-02-10 02:01:20,4738175,5201,2015-04-01 12:21:54,preencher
+Android,googlesamples/google-services,35370580,<ios><swift>,168,1,0,2016-02-12 19:19:51,link,4662074,2466,2015-03-12 09:13:09,tags,35370957,2,2016-02-12 19:43:59,4461437,3625,2015-01-16 11:40:58,preencher
+Android,googlesamples/google-services,35515764,<android><push-notification><google-cloud-messaging>,2419,3,2,2016-02-19 21:53:49,link,1896312,255,2012-12-12 00:22:53,tags,35555930,4,2016-02-22 14:17:25,5018257,610,2015-06-17 06:33:25,preencher
+Android,googlesamples/google-services,35902708,<java><android><jakarta-ee><push-notification><google-cloud-messaging>,1180,7,2,2016-03-09 21:11:58,link,4534276,23,2015-02-05 18:27:46,tags,35925691,0,2016-03-10 19:38:42,325479,11076,2010-04-25 17:27:11,preencher
+Android,googlesamples/google-services,36869633,<android><performance><google-signin>,45,1,0,2016-04-26 15:39:33,link,5889869,732,2016-02-05 19:40:02,tags,36871900,1,2016-04-26 17:33:14,4670053,61,2015-03-14 07:59:17,preencher
+Android,googlesamples/google-services,37652526,<android><firebase><firebase-dynamic-links>,1720,1,7,2016-06-06 08:14:08,link,3360424,2215,2014-02-27 12:18:31,tags,37689525,4,2016-06-07 21:18:09,6436132,56,2016-06-07 15:30:34,preencher
+Android,googlesamples/google-services,39830457,<ios><swift><google-signin><googlesigninapi>,2211,4,2,2016-10-03 11:24:28,link,2126233,1252,2013-03-02 08:30:01,tags,39830521,5,2016-10-03 11:28:16,4601170,20396,2015-02-24 12:33:49,preencher
+Android,googlesamples/google-services,41443438,<android><api><youtube><google-signin><oauth2>,226,1,0,2017-01-03 12:19:25,link,3436603,447,2014-03-19 08:16:16,tags,41465832,0,2017-01-04 14:10:13,3436603,447,2014-03-19 08:16:16,preencher
+Android,googlesamples/google-services,50960601,<ios><google-signin>,7911,3,4,2018-06-21 04:52:37,link,9600234,1514,2018-04-05 04:48:17,tags,50961069,4,2018-06-21 05:38:26,9600234,1514,2018-04-05 04:48:17,preencher
+Android,googlesamples/google-services,53989113,<android><google-drive-android-api>,2694,1,0,2018-12-31 15:39:59,link,10852372,61,2018-12-31 15:36:47,tags,54002295,1,2019-01-02 06:45:19,10549958,619,2018-10-24 05:41:35,preencher
+Android,googlesamples/google-services,56927404,<android><google-signin>,114,1,0,2019-07-08 01:34:54,link,5282850,41,2015-08-30 22:22:21,tags,57000015,0,2019-07-12 03:58:26,5282850,41,2015-08-30 22:22:21,preencher
+Android,googlesamples/google-services,30681126,<android-studio><google-cloud-messaging>,839,0,1,2015-06-06 09:24:44,link,2753345,96,2013-09-06 07:06:12,tags,,,,,,,[]
+Android,googlesamples/google-services,30794626,<google-cloud-messaging>,408,1,0,2015-06-12 02:53:42,link,1062198,31,2011-11-23 15:20:45,tags,,,,,,,[]
+Android,googlesamples/google-services,32189148,<ios><objective-c><youtube><google-api>,112,0,0,2015-08-24 18:24:13,link,5236261,1,2015-08-17 17:33:50,tags,,,,,,,[]
+Android,googlesamples/google-services,32494505,<android><google-play-services><google-app-invites>,824,1,17,2015-09-10 06:18:36,link,2021293,13450,2013-01-29 10:20:45,tags,,,,,,,[]
+Android,googlesamples/google-services,33590813,<java><android>,220,1,-1,2015-11-08 04:40:33,link,5378673,51,2015-09-26 07:01:50,tags,,,,,,,[]
+Android,googlesamples/google-services,33957492,<php><android><push-notification><server><google-cloud-messaging>,1496,2,-3,2015-11-27 12:31:09,link,4693767,79,2015-03-20 11:26:23,tags,,,,,,,[]
+Android,googlesamples/google-services,34139274,<android><android-intent><google-cloud-messaging>,471,0,0,2015-12-07 17:11:48,link,1472186,5131,2012-06-21 13:04:06,tags,,,,,,,[]
+Android,googlesamples/google-services,34765067,<java><android><reactjs><react-native><google-signin>,2737,1,2,2016-01-13 11:08:03,link,4963727,493,2015-06-02 04:51:12,tags,,,,,,,[]
+Android,googlesamples/google-services,35006055,<ios><swift><google-cloud-messaging>,602,0,0,2016-01-26 02:22:30,link,4890090,199,2015-05-12 06:17:54,tags,,,,,,,[]
+Android,googlesamples/google-services,35115812,<android><google-signin>,8103,1,3,2016-01-31 15:53:41,link,648746,5762,2011-03-07 19:46:19,tags,,,,,,,[]
+Android,googlesamples/google-services,35749842,<ios><google-cloud-messaging><apple-push-notifications>,68,1,1,2016-03-02 14:23:03,link,5182010,283,2015-08-02 03:43:33,tags,,,,,,,[]
+Android,googlesamples/google-services,36069202,<ios><swift><appdelegate><google-signin><googlesigninapi>,928,0,3,2016-03-17 18:46:40,link,3766930,4469,2014-06-23 09:48:58,tags,,,,,,,[]
+Android,googlesamples/google-services,36277533,<android><push-notification><google-cloud-messaging>,1972,4,6,2016-03-29 07:02:25,link,2636829,1049,2013-07-31 06:29:23,tags,,,,,,,[]
+Android,googlesamples/google-services,36638959,<android><google-login>,250,0,1,2016-04-15 05:34:54,link,6207457,103,2016-04-15 05:18:09,tags,,,,,,,[]
+Android,googlesamples/google-services,36849825,<android><google-cloud-messaging>,214,1,0,2016-04-25 19:51:23,link,3988604,263,2014-08-29 00:23:23,tags,,,,,,,[]
+Android,googlesamples/google-services,37302386,<android><push-notification><google-cloud-messaging><android-notifications><android-permissions>,702,0,1,2016-05-18 14:20:01,link,3239481,51,2014-01-27 07:02:25,tags,,,,,,,[]
+Android,googlesamples/google-services,37611050,<google-cloud-messaging>,100,1,0,2016-06-03 09:45:55,link,6418735,1,2016-06-03 09:15:15,tags,,,,,,,[]
+Android,googlesamples/google-services,38415926,<android><build><firebase><dependencies><google-cloud-messaging>,225,0,2,2016-07-16 21:44:23,link,2342806,647,2013-05-02 10:59:13,tags,,,,,,,[]
+Android,googlesamples/google-services,38420928,<android><google-cloud-messaging>,2327,1,11,2016-07-17 11:57:06,link,2342806,647,2013-05-02 10:59:13,tags,,,,,,,[]
+Android,googlesamples/google-services,38542757,<android>,199,0,1,2016-07-23 14:17:18,link,5680962,11,2015-12-15 07:06:01,tags,,,,,,,[]
+Android,googlesamples/google-services,40039632,<android><google-signin>,205,1,0,2016-10-14 09:26:35,link,7017828,21,2016-10-14 07:24:28,tags,,,,,,,[]
+Android,googlesamples/google-services,40862400,<ios><swift><google-cloud-messaging><objc-bridging-header>,142,1,2,2016-11-29 09:40:02,link,705617,1394,2011-04-13 08:46:14,tags,,,,,,,[]
+Android,googlesamples/google-services,43080290,<c#><android><xamarin><googlesigninapi>,187,1,0,2017-03-28 21:29:07,link,7782426,1,2017-03-28 21:21:22,tags,,,,,,,[]
+Android,googlesamples/google-services,44030888,<android><firebase><firebase-authentication><google-login>,32,0,0,2017-05-17 16:59:47,link,7805756,1,2017-04-02 19:54:04,tags,,,,,,,[]
+Android,googlesamples/google-services,51958252,<android><google-signin><google-authentication>,57,0,0,2018-08-22 00:09:10,link,5063263,1091,2015-06-29 23:00:50,tags,,,,,,,[]
