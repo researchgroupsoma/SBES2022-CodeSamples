@@ -1,0 +1,9 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/monitor-java-activitylog-alerts-on-security-breach-or-risk,77f1d881de8553aee6179d6013046ef13452a1a8,2018-09-26 15:53:30-07:00,2,1262.5,3.8444444444444446,0.0
+azure,Azure-Samples/monitor-java-activitylog-alerts-on-security-breach-or-risk,361ec54d0d417ea2673e2142494ac32f4cbefde8,2019-06-17 13:55:42-07:00,2,1262.5,3.8444444444444446,0.0
+azure,Azure-Samples/monitor-java-activitylog-alerts-on-security-breach-or-risk,715593b7f076d4fc468ec003e98f7a773a80f3e6,2019-08-09 19:40:19+08:00,2,1262.5,3.8444444444444446,0.0
+azure,Azure-Samples/monitor-java-activitylog-alerts-on-security-breach-or-risk,3fcee2a56f71ba9222e6d2c1824361785d575485,2019-08-14 10:37:22+08:00,2,1262.5,3.8444444444444446,0.0
+azure,Azure-Samples/monitor-java-activitylog-alerts-on-security-breach-or-risk,57a1e5fa891df356a273e53fc64499c59f5fd529,2019-08-15 11:09:52+08:00,2,1262.5,3.8444444444444446,0.0
+azure,Azure-Samples/monitor-java-activitylog-alerts-on-security-breach-or-risk,11d05675bc694446cf3b22cb24ed9151e6e8ff6b,2019-09-14 02:21:33+05:18,2,1262.5,3.8444444444444446,0.0
+azure,Azure-Samples/monitor-java-activitylog-alerts-on-security-breach-or-risk,4978e6be63e5c6c72a9686fd0eac35c4a9131bdf,2019-10-01 16:45:49-07:00,2,1262.5,3.8444444444444446,0.0
+azure,Azure-Samples/monitor-java-activitylog-alerts-on-security-breach-or-risk,bf56e395db7f0efa39f20748da6977416bba3ec7,2020-01-14 16:21:59+08:00,2,1270.0,3.8666666666666667,0.0

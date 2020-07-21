@@ -1,0 +1,22 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/cognitive-services-face-android-detect,f8ddecf106cc3ed005efffc25d6e9509da83bde2,2018-05-25 14:51:24-07:00,0,0,0,0
+azure,Azure-Samples/cognitive-services-face-android-detect,c6460c0287667ce1e48d9455e7063967dd49657d,2018-05-25 14:51:27-07:00,0,0,0,0
+azure,Azure-Samples/cognitive-services-face-android-detect,90a0924af885ae37bc612ac24d7d75efae01d211,2018-05-25 14:51:28-07:00,0,0,0,0
+azure,Azure-Samples/cognitive-services-face-android-detect,70dcadd66dbc3c3a0f765463a2d2c4b9303af1b9,2018-05-25 14:51:29-07:00,0,0,0,0
+azure,Azure-Samples/cognitive-services-face-android-detect,66e4b3d82e858708e243e8549ad19f30b93b0232,2018-05-25 14:51:30-07:00,0,0,0,0
+azure,Azure-Samples/cognitive-services-face-android-detect,fd361420157d0685fd9d269ba83f9236766695c9,2018-05-25 14:51:30-07:00,0,0,0,0
+azure,Azure-Samples/cognitive-services-face-android-detect,e3a64efbb2d2e2063854bc14266382a2d767eaae,2018-05-25 14:51:31-07:00,0,0,0,0
+azure,Azure-Samples/cognitive-services-face-android-detect,568834243602e11a1f8d9ea62fb8b394a18c2ba8,2018-07-10 22:01:40-07:00,3,11.333333333333334,1.0,0.5359762577960888
+azure,Azure-Samples/cognitive-services-face-android-detect,18fb1569f755f6b411d16bd9afcaa72abf9a1fe0,2018-07-11 08:03:20-07:00,3,23.0,1.4,0.3092743955203332
+azure,Azure-Samples/cognitive-services-face-android-detect,41092d6c1bc0aa4e679cc5fff9fbad05762b7308,2018-07-11 08:11:07-07:00,3,23.0,1.4,0.3092743955203332
+azure,Azure-Samples/cognitive-services-face-android-detect,c180d1976264c2fa4cea7db935756248ec576e5f,2018-07-11 08:28:58-07:00,3,24.333333333333332,1.4,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,5ae0b74f3c39df748a7cfd35b146da6e05d0e9a7,2018-07-11 08:39:49-07:00,3,48.666666666666664,1.6363636363636365,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,bd94dd35f1daa5bd322a2ec6976b23b904a0d6b5,2018-07-11 08:51:04-07:00,3,49.0,1.6363636363636365,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,a19c8d8688bb1c88184844f9234787ac17ae4dfd,2018-07-11 12:38:43-07:00,3,54.333333333333336,1.6153846153846154,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,d3147b39f8394a68ee2f36ada4f0d7a2e8b6566a,2018-07-13 10:05:28-07:00,3,54.333333333333336,1.6153846153846154,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,1eb81438f41df388614d7348efa8fd7edddcbd73,2018-07-16 07:19:55-07:00,3,54.666666666666664,1.6153846153846154,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,f6a39f7c6eb842cc850b5d633c1cdfa97c9efb27,2019-08-23 17:46:27-07:00,3,54.666666666666664,1.6153846153846154,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,033a9cd4f102da4d770208d0649bbf563f2329ea,2019-08-23 17:48:43-07:00,3,55.0,1.6153846153846154,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,768dd7fc64bcb4ce0564dfd154ee397ae0d16691,2019-09-06 15:21:05-07:00,3,55.0,1.6153846153846154,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,c9b2812a675e4f9bc080d28654eb7ffe9c588fb9,2019-09-06 16:05:43-07:00,3,55.0,1.6153846153846154,0.3091044494261344
+azure,Azure-Samples/cognitive-services-face-android-detect,6c74d6979b25d1498de095bfd5c65ebd4e38b0e5,2019-09-13 04:15:19+05:18,3,55.0,1.6153846153846154,0.3091044494261344

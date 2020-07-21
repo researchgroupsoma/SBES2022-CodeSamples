@@ -1,0 +1,9 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/couchbaseTocosmosdb,6932ec3d580967af38ac711d68b6956d49eaf683,2020-01-20 03:32:04+00:00,0,0,0,0
+azure,Azure-Samples/couchbaseTocosmosdb,7a879bdaf979d2a3d9f704a0026161160e76e6e5,2020-01-19 19:32:07-08:00,0,0,0,0
+azure,Azure-Samples/couchbaseTocosmosdb,54653ab586a67d9080cc71cfcd5c971978da568b,2020-01-19 19:32:09-08:00,0,0,0,0
+azure,Azure-Samples/couchbaseTocosmosdb,e7167acdd6d8c59b5f415d0e16f8d0584e1c565f,2020-01-19 19:32:10-08:00,0,0,0,0
+azure,Azure-Samples/couchbaseTocosmosdb,4d5a51038cf6e3de5aea7c0484db10ce49470dde,2020-01-19 19:32:11-08:00,0,0,0,0
+azure,Azure-Samples/couchbaseTocosmosdb,ce1aecc37ef16d857534d870fcf6f4d0389e7e27,2020-01-20 18:59:15+05:18,17,43.76470588235294,1.7647058823529411,0.3132409306571764
+azure,Azure-Samples/couchbaseTocosmosdb,f1b9a57298d41e23b6beabe48a550b3dd55ac7df,2020-01-20 19:45:50+05:18,17,43.76470588235294,1.7647058823529411,0.3132409306571764
+azure,Azure-Samples/couchbaseTocosmosdb,51cfab1a51e7c3af415b753525caec805c546645,2020-01-20 19:47:44+05:18,17,43.76470588235294,1.7647058823529411,0.3132409306571764

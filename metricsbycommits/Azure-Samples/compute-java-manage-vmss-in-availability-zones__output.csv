@@ -1,0 +1,18 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,346994ef2c23ffdbaf129a882707336802eb1150,2017-10-05 11:30:51-07:00,2,987.0,3.6470588235294117,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,929711ac184e87ac20b7558e351384bbb98eb1e2,2017-11-17 13:37:10-08:00,2,1011.0,3.6285714285714286,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,e7084a80e7e0e66fc45e2738d5cdb2ec51a55323,2017-12-12 12:33:50-08:00,2,1011.0,3.6285714285714286,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,b82089e714d6cfd26e8e2bae892fae7c4270db9e,2018-02-09 20:33:30-08:00,2,1059.0,3.712328767123288,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,b768dfe3a201745fe900886d2e9c07870156e2ff,2018-02-12 19:24:01-08:00,2,1059.5,3.7260273972602738,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,3737db1b9a589d543e5fc6ec1e15a513ee009579,2018-03-04 10:27:40-08:00,2,1099.5,3.5569620253164556,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,6f31254f59e5188c95a38041ad28ce325d9315fe,2018-03-26 18:49:14-07:00,2,1199.5,3.477272727272727,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,9fcc51eb537029c28258ea8d3fccf6b7e18fef4b,2018-06-25 12:02:37-07:00,2,1211.5,3.534090909090909,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,e02d5d420e962e7b4862160864f981a4b47a74dc,2018-08-01 11:55:15-07:00,2,1211.5,3.534090909090909,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,178d0245e01831d41725dae6492c733a88fa8f13,2018-09-25 14:22:16-07:00,2,1298.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,a75a9817712445b5cba8d5ac7742d0fa96a0206e,2019-06-17 13:52:27-07:00,2,1298.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,02eb88981816c70bbd8a22ce69382741620a573a,2019-08-09 19:37:01+08:00,2,1298.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,c7346bd18795c20136afb1e2173a5910db179f0c,2019-08-14 10:33:51+08:00,2,1298.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,fcd13dd393d100bcdf6e224c3d12604e0d34f5b5,2019-08-15 11:06:04+08:00,2,1298.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,2aaf94d65b431bce85f9f47cfa1073737fa2ef93,2019-09-14 02:34:51+05:18,2,1298.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,d7d4a0efb8b3bf0f6d27bd00d0503e00989eb6a9,2019-10-16 11:16:57-07:00,2,1298.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-vmss-in-availability-zones,22a2ccc2d59e30bf12a381359e15b828a0efb88c,2020-01-14 16:18:21+08:00,2,1305.5,3.8241758241758244,0.0

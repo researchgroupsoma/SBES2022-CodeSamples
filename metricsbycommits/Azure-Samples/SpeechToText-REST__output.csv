@@ -1,0 +1,7 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/SpeechToText-REST,28eaf23c560aee6af9700c2c05ee7f5d23920068,2017-06-20 21:17:43-07:00,0,0,0,0
+azure,Azure-Samples/SpeechToText-REST,db28903074d893041c85443e3f2cf52e57c02280,2017-06-20 21:18:00-07:00,0,0,0,0
+azure,Azure-Samples/SpeechToText-REST,563571f5f8bc57cb8b4edcd8881862b6cfba6413,2017-06-20 21:18:01-07:00,0,0,0,0
+azure,Azure-Samples/SpeechToText-REST,b19c93a28987d52d4230db85730bcac646d4c014,2017-06-20 21:19:48-07:00,0,0,0,0
+azure,Azure-Samples/SpeechToText-REST,30a9c4da801ae7bedd11b392b8436baebb49babc,2017-06-20 21:22:29-07:00,0,0,0,0
+azure,Azure-Samples/SpeechToText-REST,d57587c002019eeae9805bd225528bb0ff0b69c1,2017-09-26 10:05:37+02:00,6,67.83333333333333,1.6944444444444444,0.0007626996763671438

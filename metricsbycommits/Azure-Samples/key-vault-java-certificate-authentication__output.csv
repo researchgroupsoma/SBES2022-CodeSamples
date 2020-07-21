@@ -1,0 +1,17 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/key-vault-java-certificate-authentication,ea099948d1bb208b83e0ee56e0e4729c9d618418,2017-06-26 16:17:55-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-certificate-authentication,024c69614d2cc94a776c1f76fd6007e2f7ea8437,2017-06-26 16:18:37-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-certificate-authentication,3813080ed4acfa017fb22c82a75db398bdf5f0e2,2017-06-26 16:18:40-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-certificate-authentication,4b3a973f6b7a7b1012bd4dcc73c72bd52e413436,2017-06-26 16:32:08-07:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,880346e5b74dc94b0829f26d3bc556116c30b750,2017-06-27 10:10:31-07:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,d8ebed8fc1972e32d2b5619a28fd045f6336b839,2017-07-07 16:42:25-07:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,9a1352915df466284ce330df95fffff11c33bafc,2017-07-07 16:43:42-07:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,23554cdfc15411fb9059e7bf1f8dca128f06148c,2017-07-07 16:57:37-07:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,ec8441981ca1de6dc9da520661f72c2c786cde9d,2017-07-07 16:58:54-07:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,e1ee9112b36c1c49abf795589a0e335f2d93f4ac,2017-08-28 13:49:24-07:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,437248678e9c4e9e8b1cf87422a81af3ce8a7e80,2017-08-28 16:59:43-07:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,0dc8d8d90d5f529c8e7f2f3fd473ff1c2139b796,2018-01-25 15:11:42-08:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,c114b56415d6114473e3f042d9cb1a205372ca1f,2018-01-25 15:19:25-08:00,3,82.33333333333333,1.368421052631579,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,4921e24e700cdef20f1bbc9adc48f8cb97d9ae7a,2018-03-01 14:47:18-08:00,3,85.66666666666667,1.4736842105263157,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,53cc2bdcc358e0a7aea5fd60e8b5e00b2fa02660,2018-03-02 11:02:30-08:00,3,85.66666666666667,1.4736842105263157,0.0
+azure,Azure-Samples/key-vault-java-certificate-authentication,1bb29c68ac121f799b68f32ca812a1aeccd6006a,2018-06-29 11:56:17-07:00,3,85.66666666666667,1.4736842105263157,0.0

@@ -1,0 +1,3 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/aws-codecommit-pull-request-approver-demo,b6ebc37972bfe016a19822775202f211d7af41a7,2019-12-06 14:44:54-08:00,0,0,0,0
+aws,aws-samples/aws-codecommit-pull-request-approver-demo,7015cee1002a09cb80ad5742f8177956d6cb6748,2019-12-09 14:57:22-08:00,2,13.5,1.0,0.5245913416147232

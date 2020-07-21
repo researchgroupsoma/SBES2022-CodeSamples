@@ -1,0 +1,7 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/aws-device-farm-sample-web-app-using-appium,98af1b9591bff17465d1cecf65beb5d3f1289b3f,2016-01-08 11:09:32-08:00,0,0,0,0
+aws,aws-samples/aws-device-farm-sample-web-app-using-appium,084b9e678489368e0da0c47be8d01428f74027d1,2016-01-08 18:33:45-08:00,2,22.5,1.25,0.0001694082748144865
+aws,aws-samples/aws-device-farm-sample-web-app-using-appium,3b9ed3ed50c4347ad3ca508231e71e5299b7ce86,2016-01-12 11:39:55-08:00,2,23.0,1.25,0.0001279708230867982
+aws,aws-samples/aws-device-farm-sample-web-app-using-appium,af0a676caca2dddc02d5d01cbdccada9327acfd2,2016-01-12 11:41:33-08:00,2,23.0,1.25,0.0001279708230867982
+aws,aws-samples/aws-device-farm-sample-web-app-using-appium,10d0557eb89e8cd947cb444a49234ee32cc9c738,2016-01-22 13:53:42-08:00,2,23.0,1.25,0.00012836129462812096
+aws,aws-samples/aws-device-farm-sample-web-app-using-appium,d873a15c06abb4eeead65466c5091b70d4a59fb5,2016-01-22 13:55:19-08:00,2,23.0,1.25,0.00012836129462812096

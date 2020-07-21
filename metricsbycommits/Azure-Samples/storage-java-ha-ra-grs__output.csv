@@ -1,0 +1,20 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/storage-java-ha-ra-grs,73b008892e042b1d38278d0449580375b1f16052,2018-03-16 16:08:47-07:00,0,0,0,0
+azure,Azure-Samples/storage-java-ha-ra-grs,123834831ccfe5fc25fbd61f98498b92da2831bb,2018-03-16 16:08:50-07:00,0,0,0,0
+azure,Azure-Samples/storage-java-ha-ra-grs,602e6fcb41072d870097dc22d24feae303b25323,2018-03-16 16:08:51-07:00,0,0,0,0
+azure,Azure-Samples/storage-java-ha-ra-grs,d051e4f64865f9d06bc4a4fa91b3b4a569a2cea4,2018-03-16 16:08:52-07:00,0,0,0,0
+azure,Azure-Samples/storage-java-ha-ra-grs,04d963721068b109c9751aae9c991324e21f347f,2018-03-16 16:08:53-07:00,0,0,0,0
+azure,Azure-Samples/storage-java-ha-ra-grs,3fe20fc474bee0b52d3ce251b3dd719b20198ac0,2018-03-16 16:08:54-07:00,0,0,0,0
+azure,Azure-Samples/storage-java-ha-ra-grs,c9475eb9643ce1b870abeaf3407b2d80c8e36402,2018-03-16 16:08:55-07:00,0,0,0,0
+azure,Azure-Samples/storage-java-ha-ra-grs,0a34f00726c3cbdddcbd47a020af65262519c05d,2018-03-16 16:11:54-07:00,1,115.0,14.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,79c2e7c7f0bc971287f79c72c04565cd2c2d500c,2018-03-19 09:54:33-07:00,1,115.0,14.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,87fd6bbff45e8438a9e6dac665a27d7d95e86aa9,2018-03-21 11:47:07-07:00,1,120.0,15.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,9b0d57bf2f2fff77066ed9add99993f64a620ea5,2018-03-28 17:26:26-07:00,1,120.0,15.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,f231eb9a5296abf45f8f0288d284b7ff7711aeb2,2018-04-02 11:14:33-07:00,1,120.0,15.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,03faa35e21935529201d77155790161058306d45,2018-04-02 11:14:38-07:00,1,120.0,15.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,ce372a1dac82722cbf31626b384b26ea9246e31c,2018-04-02 11:16:25-07:00,1,120.0,15.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,7ede2c37da3f53917482da62423dd41444a457b5,2018-04-02 13:29:09-07:00,1,120.0,15.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,a1ef639bb261f883f09741f42359ea5886519664,2018-04-02 13:29:15-07:00,1,120.0,15.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,2ea662589780d54f569fc846258d2c30b0e3ff83,2018-04-02 13:29:55-07:00,1,120.0,15.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,1e595ed62a4435d98681c27747180c34c9d9e6b4,2019-02-25 11:44:43-08:00,1,120.0,15.0,0.0
+azure,Azure-Samples/storage-java-ha-ra-grs,308cfe5c0ae5d9779c3a3a1778e194bab13c4899,2019-02-27 15:00:29-08:00,1,120.0,15.0,0.0

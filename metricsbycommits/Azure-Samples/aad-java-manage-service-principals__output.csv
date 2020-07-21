@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/aad-java-manage-service-principals,92857e654fb46f9ea804b9830ba68e8064103b64,2017-06-12 14:52:38-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-service-principals,c33cba4c07394a76ec9d8ac7d21cf6d916dda103,2017-06-12 14:52:44-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-service-principals,14951aa1752ba91b601edc783a8eaf89c20baa13,2017-06-12 14:52:45-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-service-principals,43d7a6138869002c8bb9f4f34ea9ddb88cfd79b6,2017-06-15 23:53:17-07:00,2,835.0,3.246153846153846,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,e956ea32f1443aed60c09bae639516b5b9023378,2017-06-22 09:24:37-07:00,2,835.0,3.246153846153846,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,a32a9e3958a2d18b683f6ddf6792a8ae343b1291,2017-08-29 17:07:28-07:00,2,923.0,3.0933333333333333,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,0c7be01c208b7a299669f5a75b1fbbe77ef91e47,2017-10-05 11:29:24-07:00,2,977.5,3.2948717948717947,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,36f3eb1687922e1fd8fa588ec692b3e17a6eb15c,2017-11-17 13:41:16-08:00,2,1001.5,3.2875,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,a78de45c91924ecea9d63270c2186d4869be8b11,2017-12-12 12:37:56-08:00,2,1001.5,3.2875,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,a405c95953b80520a68a207d7e7b0aea0666ce01,2018-02-09 20:46:13-08:00,2,1049.5,3.3734939759036147,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,e5b046054acfeb83ffa13e470637e943ce27febf,2018-02-12 19:29:03-08:00,2,1050.0,3.3855421686746987,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,33d3d4de1fea4ba63bbbdc708af54c0c6125431e,2018-03-04 10:32:49-08:00,2,1090.0,3.258426966292135,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,aab8dd1c77a0d04db2abe85a529a63448539b125,2018-03-26 18:55:04-07:00,2,1190.0,3.2142857142857144,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,66f59396b93ab813735773a96d2ccd347d1f30f5,2018-06-25 12:07:23-07:00,2,1202.0,3.2653061224489797,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,9027fb32df5e90334aa9ca4c50a9017b3f13eed8,2018-08-01 12:00:18-07:00,2,1202.0,3.2653061224489797,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,348ad916e0d6f0e31cd1e636272cfe55ac7ce585,2018-09-25 14:33:22-07:00,2,1288.5,3.514851485148515,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,bdb86ce24141af7eb682be52198184b430c16fc5,2019-06-17 13:57:51-07:00,2,1288.5,3.514851485148515,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,af80213482f18be42c482f5ca8f4b23c0910ab05,2019-08-09 19:42:49+08:00,2,1288.5,3.514851485148515,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,d8e5e90b8dfa32017c5f34ef1dedb3a6b64a6540,2019-08-14 10:39:40+08:00,2,1288.5,3.514851485148515,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,7719343f1fa281fa985f03fad80bb625c6aa7073,2019-08-15 11:12:24+08:00,2,1288.5,3.514851485148515,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,b9bf9a71cc96cbbb224fa7311133a2f016c2964d,2019-09-13 05:28:01+05:18,2,1288.5,3.514851485148515,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,d6b4640aa07185f9f53b54323ada69dfdedb5306,2019-10-01 11:19:40-07:00,2,1288.5,3.514851485148515,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,7378c4b2bdbe2c841a30168bbf5666ac21430c1a,2019-10-01 11:20:01-07:00,2,1288.5,3.514851485148515,0.0
+azure,Azure-Samples/aad-java-manage-service-principals,d450bb853449a53df19416074e882aae326f4fc6,2020-01-14 16:25:15+08:00,2,1296.0,3.5346534653465347,0.0

@@ -1,0 +1,18 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,11ac63f698f84bd4e5f179ee1f55341017ae1af1,2017-11-17 13:43:02-08:00,3,720.0,3.4302325581395348,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,86e7bbe7091b4662c87ba58b0c2a2adfe420f6ec,2017-12-12 12:39:54-08:00,3,720.0,3.4302325581395348,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,d4a3dadb5655f241ebc05f8794dce21ae7614671,2018-02-09 20:51:48-08:00,3,752.0,3.50561797752809,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,6d2654c7239f3efc68d57c95ca76c2272713bd4a,2018-02-12 19:30:59-08:00,3,752.3333333333334,3.5168539325842696,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,f51bfff5f6e015032b3e4c40e124e609c524c7e9,2018-03-04 10:34:36-08:00,3,780.3333333333334,3.4,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,889bdcdfaf3042b4bd07ef273df49d502564087d,2018-03-26 18:57:23-07:00,3,847.0,3.3461538461538463,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,bd306d5bc05097e5248dab35c71cb1c91d90fad8,2018-06-25 12:09:02-07:00,3,855.0,3.394230769230769,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,52aabf063bb4c672f3a4606a510ad57fc4d36cbd,2018-08-01 12:02:03-07:00,3,855.0,3.394230769230769,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,cf407a053fd0ecc1b8de5dc0dcb42d659701c540,2018-09-25 14:37:25-07:00,3,912.6666666666666,3.6261682242990654,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,4cbe9f3f657d3bb600b187e5ef1eb6fa482cdc4e,2019-06-17 13:59:31-07:00,3,912.6666666666666,3.6261682242990654,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,25ba9280d1cb1e9bacfcf1090328e4dc74f085a4,2019-08-09 19:44:43+08:00,3,912.6666666666666,3.6261682242990654,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,4f161dd2bada2b70dd2f5ae79dde548cdce612aa,2019-08-14 10:41:30+08:00,3,912.6666666666666,3.6261682242990654,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,f42cefec6a0e7f3e24f89225a258c293b06d88bc,2019-08-15 11:14:24+08:00,3,912.6666666666666,3.6261682242990654,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,5995b14fbe34e001e3a8add0ab447904b36ea96b,2019-09-13 05:34:44+05:18,3,912.6666666666666,3.6261682242990654,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,fb21bfc0a563d55b8c5a35069bab6c11995c6145,2019-10-14 16:46:58-07:00,3,912.6666666666666,3.6261682242990654,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,55fe5ad56d74d555f71caefc16e550f924b1e2ea,2019-10-14 16:48:55-07:00,3,912.6666666666666,3.6261682242990654,0.0
+azure,Azure-Samples/acs-java-manage-azure-container-service-with-kubernetes-orchestrator,5fe5a4adc2e13791092c4fc53cba58892d92aacb,2020-01-14 16:27:24+08:00,3,917.6666666666666,3.6448598130841123,0.0

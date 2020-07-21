@@ -1,0 +1,2 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps-on-linux,1d92bd39519683821a91c781a6646440bfe68452,2020-01-14 16:22:44+08:00,4,792.0,3.6608695652173915,0.0

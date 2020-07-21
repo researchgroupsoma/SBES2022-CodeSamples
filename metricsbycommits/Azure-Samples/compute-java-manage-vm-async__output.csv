@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/compute-java-manage-vm-async,0c4e13a4685965f5e65944579bdcb067bf57ac6c,2017-04-11 12:01:36-07:00,0,0,0,0
+azure,Azure-Samples/compute-java-manage-vm-async,3fd86d09678787868f1df9b399f9e2341aa95127,2017-04-11 12:01:39-07:00,0,0,0,0
+azure,Azure-Samples/compute-java-manage-vm-async,11d121ee39262a1bc51cb300e9ad7a88b118fcde,2017-04-11 12:01:40-07:00,0,0,0,0
+azure,Azure-Samples/compute-java-manage-vm-async,bb213613521c47c1d9ff8e6f3628ddd61a76b990,2017-04-14 17:55:54-07:00,2,747.0,3.66,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,f858901031b24150d1175bfd7d384f10e9f2376f,2017-04-14 18:27:55-07:00,2,747.0,3.66,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,f57991efd93088e805ed418ce88e137ce8bf323a,2017-06-15 23:55:53-07:00,2,849.0,3.4193548387096775,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,dc8b24eef206f92575583f054aa4ccb459abcf81,2017-08-29 16:52:03-07:00,2,933.5,3.267605633802817,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,d7e3649e87571b8288fb76871519de8b3bbd1e5c,2017-10-05 11:27:25-07:00,2,988.0,3.472972972972973,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,d474758740258f323b646833d651ffe4269a085c,2017-11-17 13:38:32-08:00,2,1012.0,3.460526315789474,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,97098cf367a7f5b0ecebd07e508c76f92d7bda09,2017-12-12 12:35:10-08:00,2,1012.0,3.460526315789474,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,5b27f1bc0ecf8f8aae975f722532c9803de0f9b0,2018-02-09 20:38:42-08:00,2,1060.0,3.5443037974683542,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,b3a6a8f0e6d38c849ac9a66946f5286acc5ce157,2018-02-12 19:25:42-08:00,2,1060.5,3.5569620253164556,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,a1c81b6d55f81b670831fa023b48e435772c1aa2,2018-03-04 10:29:39-08:00,2,1100.5,3.411764705882353,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,99a1b3b2ca7edb4b3fffed0b69eb8c4be9bcf3e5,2018-03-26 18:51:58-07:00,2,1200.5,3.351063829787234,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,e945ef73225c393d72ffc8914400ad38fa86ce48,2018-06-25 12:04:56-07:00,2,1212.5,3.404255319148936,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,c0752ceaa0e3e6d2730c55c8ec1024f557785603,2018-08-01 11:57:27-07:00,2,1212.5,3.404255319148936,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,da229030270bb7d294e4f35cf7378d5205ddcb5c,2018-09-25 14:27:29-07:00,2,1299.0,3.6597938144329896,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,0340c0928705ae3a3455035d8121eda634803830,2019-06-17 13:54:50-07:00,2,1299.0,3.6597938144329896,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,ef4aa1c3db752259c4baa147dfd5a6e67325c3ad,2019-08-09 19:39:33+08:00,2,1299.0,3.6597938144329896,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,9cb13c92868160a10668939783724ba80e513bb4,2019-08-14 10:36:28+08:00,2,1299.0,3.6597938144329896,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,2a16c9999a7ed699429061f3012eb77bb9305ef5,2019-08-15 11:08:38+08:00,2,1299.0,3.6597938144329896,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,7c9e36250f938cbe4f5058949e0e02169cd53ca3,2019-09-13 22:12:12+05:18,2,1299.0,3.6597938144329896,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,6fb5d48e4d6c42bdd666db38ba4f5476d5754d09,2019-10-01 11:33:04-07:00,2,1299.0,3.6597938144329896,0.0
+azure,Azure-Samples/compute-java-manage-vm-async,cd9ee7470bb7fea5ebddb5453ccc69a81b20360c,2020-01-14 16:21:08+08:00,2,1306.5,3.6804123711340204,0.0

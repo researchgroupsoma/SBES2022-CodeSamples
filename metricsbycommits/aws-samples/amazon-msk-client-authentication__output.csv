@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/amazon-msk-client-authentication,35036182037a8d4b8bee9046bac404e824a5db43,2020-03-11 15:29:48-04:00,1,329.0,4.142857142857143,0.0
+aws,aws-samples/amazon-msk-client-authentication,d5facaf725c13fd865d5a6cdba59626849a5b0a0,2020-03-13 10:41:26-04:00,1,266.0,1.7058823529411764,0.0
+aws,aws-samples/amazon-msk-client-authentication,b3f77b130635bd6adf676976ca65173347680887,2020-03-13 14:35:52-04:00,1,230.0,1.8571428571428572,0.0
+aws,aws-samples/amazon-msk-client-authentication,47072de4c6899a0c107aa48cfc0faf447bd5acf0,2020-03-13 14:46:28-04:00,1,215.0,1.8461538461538463,0.0
+aws,aws-samples/amazon-msk-client-authentication,960733014d79077833850ffcf30ff4b43fb7a131,2020-03-13 16:41:17-04:00,1,217.0,1.8461538461538463,0.0
+aws,aws-samples/amazon-msk-client-authentication,cf0e2e83c4ad3dcd6c3074d62ba1552cc211931c,2020-03-14 12:05:36-04:00,1,225.0,2.3333333333333335,0.0
+aws,aws-samples/amazon-msk-client-authentication,e60217cb942a3771a17ad69fb6bf589f5233ddad,2020-03-17 12:39:05-04:00,1,290.0,2.3125,0.0
+aws,aws-samples/amazon-msk-client-authentication,2068a533a363ea54e7f4dbb3f0bb00a19758accd,2020-03-17 15:07:59-04:00,1,319.0,2.2941176470588234,0.0
+aws,aws-samples/amazon-msk-client-authentication,ee8ebad9f330efda84e3e891029c87cf29de32c7,2020-03-19 10:33:07-04:00,1,317.0,2.2941176470588234,0.0
+aws,aws-samples/amazon-msk-client-authentication,d6133c50a6af742bb1ad7b061e8b4f0264e8946f,2020-03-31 14:32:28-04:00,1,305.0,2.375,0.0
+aws,aws-samples/amazon-msk-client-authentication,000b4f17b54d940c57713e53dc83560ddc7e3012,2020-04-01 09:30:12-04:00,1,305.0,2.375,0.0
+aws,aws-samples/amazon-msk-client-authentication,523576299caa85b89bac9f1b56c7a45c81135ec1,2020-04-02 12:46:15-04:00,1,303.0,2.375,0.0
+aws,aws-samples/amazon-msk-client-authentication,751c9a798dc628bc4c75c24dc6fcb2cf001d0fe1,2020-04-02 16:44:21-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,50c8898ba9d278d37e89bb1f0a81c151417c4c8e,2020-04-07 14:09:00-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,a87d26f3713ed845436c7b0718703690454e7c2f,2020-04-10 13:04:33-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,2a3af626081fe66944e58aaf658231504f34254a,2020-04-17 10:12:55-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,0d315fab382e50c02b47350bcde43be9d6aaa998,2020-04-17 15:37:47-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,c51f2c1c12172995ec16383b1f7c79c3525b2b5a,2020-04-17 17:26:50-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,07c1ef0fd2813bcf20563f182974425eb227e1f2,2020-04-22 12:27:50-07:00,0,0,0,0
+aws,aws-samples/amazon-msk-client-authentication,ac2cefff294e6eeedfb9411f3ab8457f71e1e21a,2020-04-22 15:58:43-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,24ca94552246eb94c54d62be1f94a136d53718d7,2020-04-22 16:34:49-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,627b9970b46f55c5a7a293de8a345d14961ca9ec,2020-04-22 16:36:09-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,aa2ce1d88a563a4a2236c55a2cf4cf1d6743c20f,2020-04-22 16:37:22-04:00,5,68.2,2.375,0.00019437090959399937
+aws,aws-samples/amazon-msk-client-authentication,7b00932910243f6bc537573b592743ab95e63395,2020-04-24 11:51:56-04:00,5,68.0,2.4375,0.0001350669306702912

@@ -1,0 +1,2 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/cosmosdb-java-create-cosmosdb-and-get-mongodb-connection-string,5adaff481f4e12b0e19802b330f7792a0c56e59f,2020-01-14 16:16:08+08:00,2,1251.5,3.8131868131868134,0.0

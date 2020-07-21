@@ -1,0 +1,26 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,50b62252a7c9077d5626dbbb56d87095fedb5657,2017-02-06 12:36:56-08:00,0,0,0,0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,a475536c57c6e1f4167203c2c0b93507b6fb01cf,2017-02-07 09:46:07-08:00,3,804.3333333333334,4.6716417910447765,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,847c31fcabb9d4dc1c4fbae4e3eb85df66b29e71,2017-02-07 10:41:37-08:00,3,454.6666666666667,4.219512195121951,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,34c0ad419d87dfefe4b893b566a02b6845621d2f,2017-02-07 11:57:58-08:00,3,454.6666666666667,4.219512195121951,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,3ab7bdc9b26ceb5b82a3922fb93704425236ed88,2017-04-14 17:56:42-07:00,3,514.0,3.72,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,f4de515df2688d084436cb062f2a7a986a7fbb58,2017-04-14 18:26:35-07:00,3,514.0,3.72,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,9961457715560bc1ff100788b7a4b78baaaa1363,2017-06-15 23:55:34-07:00,3,582.0,3.467741935483871,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,9058e472df3299279ee3e7bac87acfd1178ebf0e,2017-08-29 16:46:03-07:00,2,915.5,3.4307692307692306,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,88750bf07e48598b9108d328bdac37be6e4fc7d0,2017-10-05 11:25:15-07:00,2,970.0,3.6470588235294117,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,3274dbde83be3064880ed47ad60b436a31907fe9,2017-11-17 13:36:20-08:00,2,994.0,3.6285714285714286,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,1039e5f93126faba1a7fa9a06c79d8f759e6929e,2017-12-12 12:32:53-08:00,2,994.0,3.6285714285714286,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,83e857e4eff68721b37eb31991fcada920980de2,2018-02-09 20:31:42-08:00,2,1042.0,3.712328767123288,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,02c7193ad387541dcbd0e7cee44e62a72d87998d,2018-02-12 19:23:14-08:00,2,1042.5,3.7260273972602738,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,d7f9386febdb5bd8ca9d485b95d93c8fab2028ab,2018-03-04 10:26:47-08:00,2,1082.5,3.5569620253164556,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,4dec4dba4b7b230a6e641c6b84d3ca9ae2a12e4d,2018-03-26 18:48:25-07:00,2,1182.5,3.477272727272727,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,0b1f88fafa1d4d66720290e7820cd60617664fe9,2018-06-25 12:01:51-07:00,2,1194.5,3.534090909090909,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,c75527d45f96962cc8ab84ecc17b41d4c6a9bec1,2018-08-01 11:54:32-07:00,2,1194.5,3.534090909090909,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,73de0480837c9bb55c1142f8870e54c54d4966ca,2018-09-25 14:20:00-07:00,2,1281.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,411d80f09c72067bea260e9b5ea16c4a135693b9,2019-06-17 13:51:41-07:00,2,1281.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,60de1924299c14f5ebb58c20ae6ced457dc0b49e,2019-08-09 19:36:13+08:00,2,1281.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,27f756fe15e144d96e9115d0125fc85c77cd6a9e,2019-08-14 10:32:59+08:00,2,1281.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,def3107776212c88e5883fae3778388f9cf77bc7,2019-08-15 11:05:15+08:00,2,1281.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,c8820d80f432bd85ac591b453de83ba5bf075c32,2019-09-13 22:10:02+05:18,2,1281.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,f3143fdb68fc40ae3ca653f238806553027b8880,2019-10-01 11:35:40-07:00,2,1281.0,3.802197802197802,0.0
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-unmanaged-disks,3cca0a2c94a4cd81e553a2e5bf7444071d1bc5d3,2020-01-14 16:17:45+08:00,2,1288.5,3.8241758241758244,0.0

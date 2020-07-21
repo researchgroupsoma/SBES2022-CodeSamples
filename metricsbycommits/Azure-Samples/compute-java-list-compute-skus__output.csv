@@ -1,0 +1,16 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/compute-java-list-compute-skus,d4f64b42f7d80ddbe756a7384da7f3ac50d5b9ff,2018-02-09 20:34:27-08:00,2,1009.5,3.72972972972973,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,f9def5e52a204838bb13e0ef65719ec197c5eaab,2018-02-12 19:24:19-08:00,2,1010.0,3.7432432432432434,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,eb87a63ec517e293417097bc43c2ee28d333aabf,2018-03-04 10:27:57-08:00,2,1050.0,3.575,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,3fa122119644cba98c028bd159cecdd4918c398c,2018-03-26 18:49:38-07:00,2,1150.0,3.49438202247191,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,92c6568208e29b2411e89887ddbc8a988f0125d5,2018-06-25 12:02:53-07:00,2,1162.0,3.550561797752809,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,5216091e3e27fcd8a2526952372b2fb6e9c1dcdb,2018-08-01 11:55:37-07:00,2,1162.0,3.550561797752809,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,d27ac39c8552a0bfe9d9e5a675a771fa5eead5cd,2018-09-25 14:22:16-07:00,2,1248.5,3.8152173913043477,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,3c9f5c7ba3fa287330a83ba2a07817ba123a28fc,2019-06-17 13:52:49-07:00,2,1248.5,3.8152173913043477,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,5903ade41f9cbbc06047c09060f66576c6202520,2019-08-09 19:37:20+08:00,2,1248.5,3.8152173913043477,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,3987ca0aaecbcde1bf546b8ce3064cd40d91e9db,2019-08-14 10:34:16+08:00,2,1248.5,3.8152173913043477,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,0456e780ce6f88426ece80ac92475da431b1e057,2019-08-15 11:06:27+08:00,2,1248.5,3.8152173913043477,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,77d836a0d0304dc1c909a37c8f91392a73843984,2019-09-13 21:53:25+05:18,2,1248.5,3.8152173913043477,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,04257754b0620984a3f80704ab2231e03ca265a1,2019-10-01 11:03:48-07:00,2,1248.5,3.8152173913043477,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,567e7385ca153322718f17faf46684eda619ab53,2019-10-16 11:53:34-07:00,2,1248.5,3.8152173913043477,0.0
+azure,Azure-Samples/compute-java-list-compute-skus,95229d300e5b12e070754e6ac83cbbba4872a798,2020-01-14 16:18:43+08:00,2,1256.0,3.8369565217391304,0.0

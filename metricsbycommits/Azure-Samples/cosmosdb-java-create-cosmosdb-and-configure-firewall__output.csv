@@ -1,0 +1,2 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/cosmosdb-java-create-cosmosdb-and-configure-firewall,f411eb47a0e100ebd3d6ba1d33e1fe008f13cbc3,2020-01-14 16:16:04+08:00,2,1248.5,3.8131868131868134,0.0

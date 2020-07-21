@@ -1,0 +1,9 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/monitor-java-metric-alerts-on-critical-performance,dbcb6b0d9fac969e3c62896832b46cb27dc77628,2018-09-26 15:53:30-07:00,2,1250.0,3.8,0.0
+azure,Azure-Samples/monitor-java-metric-alerts-on-critical-performance,f378781d175e9724c18dd18cf5024858b44f1f5b,2019-06-17 13:55:43-07:00,2,1250.0,3.8,0.0
+azure,Azure-Samples/monitor-java-metric-alerts-on-critical-performance,10d91636659dec285aa071efc410e475e1813659,2019-08-09 19:40:31+08:00,2,1250.0,3.8,0.0
+azure,Azure-Samples/monitor-java-metric-alerts-on-critical-performance,9e9da3a08a5f672662c6c2d6cf90c0187ada7f0e,2019-08-14 10:37:25+08:00,2,1250.0,3.8,0.0
+azure,Azure-Samples/monitor-java-metric-alerts-on-critical-performance,1b6e174494172e644862a8fd0e9ce6417183a96f,2019-08-15 11:09:54+08:00,2,1250.0,3.8,0.0
+azure,Azure-Samples/monitor-java-metric-alerts-on-critical-performance,f0aed2ec228a166b2444baf5485f23f613c9d9c8,2019-09-14 02:20:20+05:18,2,1250.0,3.8,0.0
+azure,Azure-Samples/monitor-java-metric-alerts-on-critical-performance,eaf5e8894714649a24ccd0e88a0426811d728001,2019-10-15 11:29:23-07:00,2,1250.0,3.8,0.0
+azure,Azure-Samples/monitor-java-metric-alerts-on-critical-performance,f902e7a930b86ea98a488b2aa6109f23e4c5e35e,2020-01-14 16:22:16+08:00,2,1257.5,3.8222222222222224,0.0

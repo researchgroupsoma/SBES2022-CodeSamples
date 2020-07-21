@@ -1,0 +1,12 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,7a41a2be26fdeb73eab6c470cec564b7822d7b34,2019-10-30 21:26:05+00:00,0,0,0,0
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,79308fed23ef5d9acdcd3b36fa3ea08d50b2fc55,2019-10-30 14:26:10-07:00,0,0,0,0
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,0b112fe3f420a7f84440ca09fc1b138eb1a91d22,2019-10-30 14:26:11-07:00,0,0,0,0
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,c076769f64fd0cf76eaf24e280b8dbdd8de10bc1,2019-10-30 14:26:12-07:00,0,0,0,0
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,abf36fa52a7c34662811dcc6849c604da9946b7b,2019-10-30 14:26:13-07:00,0,0,0,0
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,dd0bef251c9509deac26e847d19880576a5187da,2019-10-30 16:25:36-07:00,2,51.0,1.2307692307692308,0.00024236139142885804
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,efe187bb2aa4a4572e3070833f68cfec319fbfcf,2019-10-30 17:34:53-07:00,2,51.0,1.2307692307692308,0.00024236139142885804
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,9a6695868093bd22f835f85b1aeacc68a14c59a6,2019-10-30 20:31:28-07:00,2,51.0,1.2307692307692308,0.00024236139142885804
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,84d442b26c31a13cde71fc873017322115185271,2019-10-30 21:13:46-07:00,2,51.0,1.2307692307692308,0.00024236139142885804
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,8d9326937619bb77badf8066594c9e85bee19c24,2019-10-30 21:14:11-07:00,2,51.0,1.2307692307692308,0.00024236139142885804
+azure,Azure-Samples/java-functions-eventhub-cosmosdb,6dba8f4a06623478c889c08f0b93beaab54d7994,2019-11-11 10:28:03-08:00,2,51.0,1.2307692307692308,0.00024236139142885804

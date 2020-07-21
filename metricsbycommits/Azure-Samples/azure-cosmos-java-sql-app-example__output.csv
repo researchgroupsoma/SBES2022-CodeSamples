@@ -1,0 +1,16 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,e242e7cd89aa18d782d172a0bce0a07d4ecab3df,2020-03-30 12:39:18+00:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,f9987f1e1e64b655eebdf4b91a1211493da3a5f1,2020-03-30 05:39:23-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,ff5c894c26622207e8b63a42066477157a076265,2020-03-30 05:39:24-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,7a48c9a0e832cd56fbb39bc7d51b0bf2bd3ff074,2020-03-30 05:39:25-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,de08bf811a82fd8598b68e7b48c17b9ad62d4287,2020-03-30 05:39:26-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,709c391350d49f83fb4894caa46290771170118a,2020-03-30 05:42:21-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,a5a47b39b1464e5fffa40469bbad40b95b5ee88d,2020-03-30 05:47:48-07:00,2,125.0,3.8,0.023701118305325508
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,123f53f1a0961383394c8753b3a73c13ce483162,2020-03-30 07:20:36-07:00,2,126.0,3.7,0.023701118305325508
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,85e4aa2978b88baa67ebc81059b530ab349809da,2020-03-30 08:36:59-07:00,2,127.0,3.7,0.023701118305325508
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,1abef7cb6c435e1551d4c94391625a4d6a55aed2,2020-03-30 13:00:31-07:00,2,144.0,3.6363636363636362,0.023701118305325508
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,ec20c676a91b5b35d80dd990bc7c62893b4cd657,2020-03-30 13:09:39-07:00,2,144.0,3.6363636363636362,0.023701118305325508
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,131a673a290c3c0e6dc7aaac11170c2ee2545c30,2020-03-30 13:10:24-07:00,2,144.0,3.6363636363636362,0.023701118305325508
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,d49957f37e06e1217a3a57dbff64ffc9d3b51614,2020-03-30 13:45:34-07:00,2,144.0,3.6363636363636362,0.023701118305325508
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,c0213a5dd388bb758132bb40a703540e6963fa27,2020-03-30 13:56:15-07:00,2,127.5,3.4,0.023701118305325508
+azure,Azure-Samples/azure-cosmos-java-sql-app-example,fb950561173c14f341690c33c167dc545a260d01,2020-03-30 14:05:28-07:00,2,127.5,3.4,0.023701118305325508

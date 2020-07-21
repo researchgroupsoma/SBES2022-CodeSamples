@@ -1,0 +1,13 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/hdinsight-java-hive-jdbc,6956d3e21245388f6f2116b4d4236c15e23a2049,2016-01-27 12:20:01-08:00,0,0,0,0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,b06e3276fbd42759b6b12a39aa0c772586403a9d,2016-01-27 12:20:01-08:00,0,0,0,0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,e2e8acefbb872593263410bd743326994c50d366,2016-01-27 12:20:01-08:00,0,0,0,0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,ccb586c78f5e6bee80062201e25d484a0a725496,2016-01-29 10:10:41-05:00,0,0,0,0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,445ad6883c2996e9562cacd86bfc53f0043b4026,2016-01-29 10:15:24-05:00,1,74.0,10.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,9f53d2a32b5d8586bfe43ed697c42649fa60c5c3,2016-01-29 10:20:19-05:00,1,74.0,10.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,cc5712746c5be91941970f49351c4f8b950d3530,2016-06-22 09:35:29-04:00,1,74.0,10.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,68c349c7d03beb0d56ba328b065d04a234f12084,2017-05-22 14:39:26-04:00,1,74.0,10.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,adc47b8af6691492c2c36e348b328392453eebc2,2017-05-22 14:39:55-04:00,1,74.0,10.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,f8069c3f2afb09bfd4ff9ac934c5cfa934a4b493,2017-09-06 15:36:12-04:00,1,74.0,10.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,6e0133b3cf19d6370d7bb916cab43fc071dd587d,2017-09-06 15:36:49-04:00,1,74.0,10.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-jdbc,a4f7e48ea3e97d36a7627e972b584d1d1164a049,2018-04-05 13:08:14-04:00,1,74.0,10.0,0.0

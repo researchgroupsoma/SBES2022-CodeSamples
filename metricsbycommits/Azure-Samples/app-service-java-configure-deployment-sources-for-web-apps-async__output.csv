@@ -1,0 +1,24 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,c3934a9cc737359a3d3217363c16ff2464431b68,2017-04-11 12:03:45-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,9859f91b5e6f7cf77703769b72e96820e9689363,2017-04-11 12:03:51-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,c8df20a975efe61a4564339924c64c78551c2161,2017-04-11 12:03:52-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,8e1854a79858400519cab34c6fa5c9cd9c9f737c,2017-04-14 17:58:37-07:00,2,759.5,3.7142857142857144,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,eb30d210f5d608edfa518d95292b976d99f32330,2017-04-14 18:23:14-07:00,2,759.5,3.7142857142857144,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,b45c7e248bf944e67dea7d260a22bd9363fed49a,2017-06-15 23:53:33-07:00,2,861.5,3.459016393442623,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,057feb231aeaf72ed0298390ba656d697745a948,2017-08-29 16:58:03-07:00,2,946.0,3.3,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,ea38dcd0a7c1c6076e7e0f8e7ba5ad7a9f20dd09,2017-10-05 11:28:00-07:00,2,1000.5,3.506849315068493,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,b8939c0aebe5f9e71fcb153439b753a69df31ed8,2017-11-17 13:38:59-08:00,2,1024.5,3.493333333333333,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,c389bff91dcaf6a3e18ac339c1385d15d01123ae,2017-12-12 12:35:35-08:00,2,1024.5,3.493333333333333,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,000f69709c3896f8195512a29b8d49fb8ce0add7,2018-02-12 19:26:08-08:00,2,1073.0,3.58974358974359,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,da9a879ef8cbdb95b7743ea1c0fb9262544050f0,2018-03-04 10:30:03-08:00,2,1113.0,3.4404761904761907,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,868339d2541dbb25a0dcd2583b34412a14b56796,2018-03-26 18:52:20-07:00,2,1213.0,3.3763440860215055,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,1cf5c1a9f7e1d5bf898063198676c46f1847fbfc,2018-06-25 12:29:24-07:00,2,1225.0,3.4301075268817205,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,8ef53a719391faa0328d4fea645d4eb6ef5000f8,2018-08-01 11:57:49-07:00,2,1225.0,3.4301075268817205,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,3d77fa54ab155e7403d270b3fc3eea0da419fe60,2018-09-25 14:28:28-07:00,2,1311.5,3.6875,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,33e3003ea72113180a250b213fda5e0983950838,2019-06-17 13:55:13-07:00,2,1311.5,3.6875,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,f153dbdbaf8abfbac670007b690cae847b387292,2019-08-09 19:39:55+08:00,2,1311.5,3.6875,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,d5c9cff95853ad185c164ade357f9efd142042da,2019-08-14 10:36:51+08:00,2,1311.5,3.6875,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,80e1e37e4fb8d12b497196d856b764a96708d630,2019-08-15 11:09:05+08:00,2,1311.5,3.6875,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,d48b0ee5640962bf1f4c687954cc329865fe1e9f,2019-09-13 05:41:41+05:18,2,1311.5,3.6875,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,b7fbd1bfcd22d0234e6aa110a8f5510a21f58724,2019-10-15 11:59:06-07:00,2,1311.5,3.6875,0.0
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-web-apps-async,038b5aa806c995a89c9d856ef22404ea4db490a6,2020-01-14 16:21:34+08:00,2,1319.0,3.7083333333333335,0.0

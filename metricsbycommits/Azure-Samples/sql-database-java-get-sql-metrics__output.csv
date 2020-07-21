@@ -1,0 +1,12 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/sql-database-java-get-sql-metrics,af5ab5d35d4a4d1286a0ef61eca311341ff2c8f7,2018-03-26 18:51:08-07:00,2,1233.5,3.689655172413793,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,5f3e6ccd6b4ff2e463428d459721ae6478a6d642,2018-06-25 12:04:10-07:00,2,1245.5,3.7471264367816093,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,4afcbc2a4af373df58f8c9cdc2419543fb7f636c,2018-08-01 11:56:44-07:00,2,1245.5,3.7471264367816093,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,8e73ce2895fc25dbd5bd2d6e3172cce2438c8868,2018-09-25 14:25:23-07:00,2,1332.0,4.011111111111111,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,487db2088cb42cd0deae82df8f009e8ec74921de,2019-06-17 13:54:10-07:00,2,1332.0,4.011111111111111,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,e49d81857f20a46a527b61ba834f3b2134db5627,2019-08-09 19:38:48+08:00,2,1332.0,4.011111111111111,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,dac6bfaa6b829545a0a8926992fd66c3eb7a39a4,2019-08-14 10:35:43+08:00,2,1332.0,4.011111111111111,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,a28b7661b473d48a711a3bc250b3881fb1060f61,2019-08-15 11:07:47+08:00,2,1332.0,4.011111111111111,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,59bc5a5c7ce3d1df0d219a92b5ec0059274b0495,2019-09-14 01:49:31+05:18,2,1332.0,4.011111111111111,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,89233d23019a5f9120b0f3845c26ec784e2634a8,2019-10-16 11:52:07-07:00,2,1332.0,4.011111111111111,0.0
+azure,Azure-Samples/sql-database-java-get-sql-metrics,739297254416a6ae0aa1b92e6c0daebd492b572d,2020-01-14 16:20:12+08:00,2,1339.5,4.033333333333333,0.0

@@ -1,0 +1,11 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/aws-dms-cdc-sample,d8b2ddd377807d8b17278286fd4a8ac696d1d353,2018-06-28 13:04:28-07:00,0,0,0,0
+aws,aws-samples/aws-dms-cdc-sample,823257140afb697b36089ecee3a647f09061254e,2018-06-28 13:04:29-07:00,0,0,0,0
+aws,aws-samples/aws-dms-cdc-sample,d6f261dc4a5fbd15cbf0e2be1e4f8faf477f66ac,2018-06-28 13:04:30-07:00,0,0,0,0
+aws,aws-samples/aws-dms-cdc-sample,120b78b83689417e62673b63f5ad3c3cc0d82e95,2018-06-28 13:04:30-07:00,0,0,0,0
+aws,aws-samples/aws-dms-cdc-sample,09dd1ad69fdf8f491b295199d5db86d347f6cc5c,2018-06-28 13:04:31-07:00,0,0,0,0
+aws,aws-samples/aws-dms-cdc-sample,2c7b157375d75b3d93db9e7f8d1f363520e74a5d,2018-06-28 13:04:32-07:00,0,0,0,0
+aws,aws-samples/aws-dms-cdc-sample,fa2de970de8e88df4de6040c18b7a36f7e30d231,2018-06-28 18:20:43-04:00,2,34.5,2.0,0.0
+aws,aws-samples/aws-dms-cdc-sample,dbf2df1a8d4a46ede1b6d8b3bf23d45d3cbd90ce,2018-06-29 22:27:21-04:00,2,34.5,2.0,0.0
+aws,aws-samples/aws-dms-cdc-sample,edf960e7e339677079dcdda2c2d7ad54b1928588,2020-04-03 12:07:54-05:00,2,34.5,2.0,0.0
+aws,aws-samples/aws-dms-cdc-sample,0b186e93f6c9ba54daf9ef3ebee801520b4b894a,2020-04-03 15:08:03-05:00,2,34.5,2.0,0.0

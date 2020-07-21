@@ -1,0 +1,18 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/key-vault-java-network-acl,32b5d391d5e608d6976e37893d6c6c478c07c51a,2018-05-14 12:29:19-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-network-acl,1c4da8625266efc3c99e0ea4cc2b7163445b2970,2018-05-14 12:29:27-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-network-acl,61bdb4add27d2afd17f8194e59714ef4891a9021,2018-05-14 12:29:28-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-network-acl,c3fdc321596f66dce6930794cf229bf036edec28,2018-05-14 12:29:29-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-network-acl,ef23f60a9d7e820a26e041438c37abd6176e00cc,2018-05-14 12:29:29-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-network-acl,74a843a4f1599d4ca61528bdd5af9aca321e66ec,2018-05-14 12:29:30-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-network-acl,0185356dbb684d6c4d49d32adf6686ad171fd495,2018-05-14 12:29:31-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-network-acl,4bf552429baf66d938166bbbbf71d38499d81d43,2018-05-14 16:11:23-07:00,2,37.0,1.3333333333333333,0.3805408775806427
+azure,Azure-Samples/key-vault-java-network-acl,192547a3e20723f4dc5b270f161d543346fb8c71,2018-05-14 16:17:01-07:00,2,37.0,1.3333333333333333,0.3805408775806427
+azure,Azure-Samples/key-vault-java-network-acl,0f0efa0fa30a5a4952d3fe1ffca554456f421576,2018-05-18 09:44:22-07:00,2,44.5,1.3333333333333333,0.3805408775806427
+azure,Azure-Samples/key-vault-java-network-acl,4c16b43042dc9e5c3eefaf2905b93bbb60a5a992,2018-05-18 09:44:32-07:00,2,44.5,1.3333333333333333,0.3805408775806427
+azure,Azure-Samples/key-vault-java-network-acl,bbf99714f00d71730aa235aaafb9e8a457f46660,2018-05-18 11:53:56-07:00,2,44.5,1.3333333333333333,0.3805408775806427
+azure,Azure-Samples/key-vault-java-network-acl,d800d96f8757104eaa1a7d51f47fbcf4e66f7f5b,2018-05-22 16:59:22-07:00,2,44.5,1.3333333333333333,0.3805408775806427
+azure,Azure-Samples/key-vault-java-network-acl,22295f549ffe57be3447bae923c2f285ee047a19,2018-05-23 16:40:19-07:00,2,44.5,1.3333333333333333,0.3805408775806427
+azure,Azure-Samples/key-vault-java-network-acl,e20eca11b353158bb05d3cee15c1a077813dcf3e,2018-06-29 12:16:35-07:00,2,44.5,1.3333333333333333,0.3805408775806427
+azure,Azure-Samples/key-vault-java-network-acl,6f565dd48fcda85eb9516f0c58dafd0f43f4e220,2018-07-02 15:55:06-07:00,2,44.0,1.3333333333333333,0.4288962185382843
+azure,Azure-Samples/key-vault-java-network-acl,e17234851d57dc150a18d3457c85247bb86ee177,2018-07-02 15:57:03-07:00,2,44.0,1.3333333333333333,0.4288962185382843

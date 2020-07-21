@@ -1,0 +1,20 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,f3cf6899a2c4fbafceb1aea125879e1a53606a22,2017-10-05 11:31:24-07:00,2,938.5,3.6176470588235294,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,4e8775903273f263d60f08c7cb8ff1222ccceaec,2017-11-17 13:41:40-08:00,2,1012.0,3.6,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,79f059c7d22214bed64838634a564c001a4e41fb,2017-11-17 14:24:11-08:00,2,1017.0,3.6,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,8a7350f62f3eba5189ef3cf2a7b0a4f9d0bc8a99,2017-12-12 12:38:21-08:00,2,1017.0,3.6,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,a20500869cb8d088972d7c5478f9aa313f7db696,2018-02-09 20:47:25-08:00,2,1065.0,3.684931506849315,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,85778e644ffb10d4e1d16c93e13048e0dbc35c11,2018-02-12 19:29:33-08:00,2,1065.5,3.6986301369863015,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,652a70c8322ab3c47d2d3beda8dd07515e762a77,2018-03-04 10:33:14-08:00,2,1105.5,3.5316455696202533,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,15e11467909fe37040e57b5007d7e9ce1222ab40,2018-03-26 18:55:31-07:00,2,1205.5,3.4545454545454546,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,ca19b9641b197abb12b775351d18207b4b8caea2,2018-06-25 12:07:44-07:00,2,1217.5,3.5113636363636362,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,a143f5fa3350f2bbcb3403d74904c0da9d73af41,2018-08-01 12:00:40-07:00,2,1217.5,3.5113636363636362,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,d4d8dbbe7b048f5f1cb63f490a63fae04bd3cd6b,2018-09-25 14:34:24-07:00,2,1304.0,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,6bab1ec51f8e047a7cab26c5b3211890c9914823,2019-06-17 13:58:10-07:00,2,1304.0,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,40cb2dd2241f3ffc91fed1ba3be910e29cdb57c1,2019-08-09 19:43:12+08:00,2,1304.0,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,2d781359bef33acf87ca8e44581fa7dadbc91784,2019-08-14 10:40:02+08:00,2,1304.0,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,45b5b8da16af284f460fbdf572cf71f37dd02b42,2019-08-15 11:12:50+08:00,2,1304.0,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,69f0c1bac9b3e13c247ad4b334bc60fb0f0c2d64,2019-09-14 02:12:08+05:18,2,1304.0,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,23cf84d9d1eacc1d3eba640088ce101d0a0d0393,2019-10-18 18:10:17-07:00,2,1304.0,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,5b9f2f32df9cf81d10f4d68be0d7134ab79d4796,2019-10-24 09:22:31-07:00,2,1304.0,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-virtual-network-to-virtual-network-vpn-connection,16154f2a4c20304a02ebb3526cc581e3895ce789,2020-01-14 16:25:50+08:00,2,1311.5,3.802197802197802,0.0

@@ -1,0 +1,2 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/app-service-java-manage-logs-for-web-apps,593bab799bb77149262492e1d67ce8b7734639cd,2020-01-14 16:23:59+08:00,2,1300.5,3.673469387755102,0.0

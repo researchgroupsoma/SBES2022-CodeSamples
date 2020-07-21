@@ -1,0 +1,14 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,ace2e54a661dfd0d895891b8c33d9c1a85696c58,2019-02-26 17:06:29-08:00,0,0,0,0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,3ee6fea9857ec26a8ccc9e61827ba6334c20b62c,2019-02-26 17:06:30-08:00,0,0,0,0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,0c760bc3f50a642aa0faecd197c23f4ec7c4a98e,2019-02-26 17:06:31-08:00,0,0,0,0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,78524e7cddd4aa9d71f4e40d21718d068142783a,2019-02-26 17:06:32-08:00,0,0,0,0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,cf93c8f2751e843c4495b93e25bafbfee38baa3b,2019-02-26 17:06:33-08:00,0,0,0,0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,68b171518c98c115ad7dda4b10769719b09b15c6,2019-02-26 17:06:34-08:00,0,0,0,0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,2acc1668669de591d7b32f1f551107455f26da25,2019-02-27 15:35:28+02:00,2,116.0,3.375,0.0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,373fb3e364446673c7fd01135d0e010a7a420218,2019-03-04 12:28:06+02:00,2,121.0,2.727272727272727,0.0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,3062344edf1ff953671ea8b1b801d569b02ea823,2019-03-04 12:29:53+02:00,2,121.0,2.727272727272727,0.0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,7c15241552cb308054d4450d16c046242d9f831c,2019-03-05 16:16:31+02:00,2,117.0,2.727272727272727,0.0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,83a47364c6ecd88616a1c1104b00788dd8d25e89,2019-03-06 08:27:52+02:00,2,117.5,2.727272727272727,0.0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,d3c6a3c0155fc231577fc57442e68ef35a6f6f0a,2019-07-01 12:13:56+02:00,2,117.5,2.727272727272727,0.0
+aws,aws-samples/aws-cloudhsm-on-aws-lambda-sample,9b0395eda3cc2a1f5da37075759667955c88f37f,2020-03-04 17:14:37-05:00,2,117.5,2.727272727272727,0.0

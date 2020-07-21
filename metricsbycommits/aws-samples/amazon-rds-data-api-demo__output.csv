@@ -1,0 +1,13 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/amazon-rds-data-api-demo,96217c80e1ccf7fb71aee1605cd904a5e9bb2b17,2018-11-21 11:38:57-08:00,0,0,0,0
+aws,aws-samples/amazon-rds-data-api-demo,fae85f8b30a5001c653154173ddb956602d0b1f1,2018-11-21 11:38:58-08:00,0,0,0,0
+aws,aws-samples/amazon-rds-data-api-demo,4ef456e0658cd8f6aee202833ce0f28f378f550c,2018-11-21 11:38:59-08:00,0,0,0,0
+aws,aws-samples/amazon-rds-data-api-demo,6643d3db5e70b6be48cc0fda690bbef3efd536fc,2018-11-21 11:39:00-08:00,0,0,0,0
+aws,aws-samples/amazon-rds-data-api-demo,1215c696625ccf1cf835fec68fb76b4a7c4c6ecb,2018-11-21 11:39:01-08:00,0,0,0,0
+aws,aws-samples/amazon-rds-data-api-demo,d9e5449c5f5e3e9aba81652cb853324b4e675a15,2018-11-21 11:39:01-08:00,0,0,0,0
+aws,aws-samples/amazon-rds-data-api-demo,a79464cd8d49809e2d065c2c1af1fd2aa51b7508,2018-11-23 16:32:51-08:00,3,38.0,1.2857142857142858,0.053974504272143044
+aws,aws-samples/amazon-rds-data-api-demo,ddb6e02744c38e9ab6be2b69c2dd17a4b98933a1,2019-07-09 12:23:28-07:00,3,38.0,1.2857142857142858,0.053974504272143044
+aws,aws-samples/amazon-rds-data-api-demo,1ade9501a246ed27c7be2ff8bf325481995f7b97,2019-07-09 15:50:26-07:00,3,38.0,1.2857142857142858,0.053974504272143044
+aws,aws-samples/amazon-rds-data-api-demo,8f14d63603cedc97db468bfdb372e2ed8c56c44a,2019-07-09 16:27:35-07:00,3,38.0,1.2857142857142858,0.053974504272143044
+aws,aws-samples/amazon-rds-data-api-demo,eed600260759f5cb0ce9c6b6fd27f7e0fd1dfb84,2019-07-10 16:30:18-07:00,3,38.0,1.2857142857142858,0.053974504272143044
+aws,aws-samples/amazon-rds-data-api-demo,1d5e3d0277f92d06e6460afd1b6c0b3be10d9234,2019-08-29 15:19:04-07:00,3,38.0,1.2857142857142858,0.053974504272143044

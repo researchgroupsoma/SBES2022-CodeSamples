@@ -1,0 +1,4 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/iot-edge-sample-java,d1a534b2dfa8c1677ae5aa74ea3f42bbcb7f50b0,2018-09-04 14:24:55+08:00,1,73.0,2.25,0.0
+azure,Azure-Samples/iot-edge-sample-java,32e86652769944883cbe7002795170f73c9cb45e,2018-10-29 16:21:26+08:00,1,73.0,2.25,0.0
+azure,Azure-Samples/iot-edge-sample-java,4b22a091035926ea6d23fdf3245b259074e3e2ef,2018-11-26 14:11:30+08:00,1,73.0,2.25,0.0

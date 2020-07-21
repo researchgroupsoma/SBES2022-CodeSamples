@@ -1,0 +1,10 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/storage-blob-android-photo-uploader,50e26d5aa4a53eab61c5551bd666333e3a6aedce,2016-10-13 11:39:58-03:00,4,61.5,1.36,0.0
+azure,Azure-Samples/storage-blob-android-photo-uploader,775da52f24d6609c1fa1b8cfd621692cb1bf9a0b,2017-12-21 15:49:57-08:00,4,61.5,1.36,0.0
+azure,Azure-Samples/storage-blob-android-photo-uploader,f0a948ab0d913690f9037a95c9c9ff63e7d4537b,2017-12-21 16:50:23-08:00,4,61.5,1.36,0.0
+azure,Azure-Samples/storage-blob-android-photo-uploader,e828feab0bf3d029ea4dd2102dcb7318e5ee082f,2017-12-21 16:51:21-08:00,4,61.5,1.36,0.0
+azure,Azure-Samples/storage-blob-android-photo-uploader,f100c42d12a70b8070c70c389fe59e6f76ef4763,2017-12-21 16:54:42-08:00,4,61.5,1.36,0.0
+azure,Azure-Samples/storage-blob-android-photo-uploader,2abd32afc80dc66524a37dab0b4d3afc6446db97,2017-12-21 17:06:04-08:00,4,61.5,1.36,0.0
+azure,Azure-Samples/storage-blob-android-photo-uploader,e4438be50a23a949ff0ed51bf47a7b07ff927fba,2017-12-21 17:07:11-08:00,4,61.5,1.36,0.0
+azure,Azure-Samples/storage-blob-android-photo-uploader,9ce6880925d0640f4511421346b40ab625fb8049,2017-12-21 17:07:53-08:00,4,61.5,1.36,0.0
+azure,Azure-Samples/storage-blob-android-photo-uploader,5986b71559e71c64054d2169debca174ac054c29,2017-12-21 21:34:37-08:00,4,61.5,1.36,0.0

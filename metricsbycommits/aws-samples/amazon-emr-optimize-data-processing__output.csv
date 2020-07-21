@@ -1,0 +1,11 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/amazon-emr-optimize-data-processing,04bc314ea5f0a863b056c0be970277e9ab4b5a6d,2019-04-09 16:21:02-07:00,0,0,0,0
+aws,aws-samples/amazon-emr-optimize-data-processing,f8d2867cb70b65b68ef2c07b56d583e269927f9f,2019-04-09 16:21:04-07:00,0,0,0,0
+aws,aws-samples/amazon-emr-optimize-data-processing,49b020ca6c0e4a9296a5cf894ca22459dfdeb3e1,2019-04-09 16:21:05-07:00,0,0,0,0
+aws,aws-samples/amazon-emr-optimize-data-processing,373bf10fd769ed6c7949ae73be1921e408cbea47,2019-04-09 16:21:05-07:00,0,0,0,0
+aws,aws-samples/amazon-emr-optimize-data-processing,86f75598bd09e1e87ad0071203991e9f3f9b7693,2019-04-09 16:21:06-07:00,0,0,0,0
+aws,aws-samples/amazon-emr-optimize-data-processing,4192fd1019725ae012791918937151b068f12e47,2019-04-09 16:21:07-07:00,0,0,0,0
+aws,aws-samples/amazon-emr-optimize-data-processing,64b1c966f9b22d3f861fc351d910d100afd240ed,2019-05-05 18:59:39-05:00,14,48.857142857142854,1.32,0.08056717490295082
+aws,aws-samples/amazon-emr-optimize-data-processing,331365d837df0c5a2bc555d40898b2a75bfdd811,2019-05-05 20:39:05-05:00,14,48.857142857142854,1.32,0.08056717490295082
+aws,aws-samples/amazon-emr-optimize-data-processing,0f69f998955a2baa09021635c908264338cd1cb6,2019-05-05 22:22:45-05:00,14,48.92857142857143,1.32,0.08056717490295082
+aws,aws-samples/amazon-emr-optimize-data-processing,41ca1687bf9b08df9a8289ac1a969f0993b6f98b,2019-05-05 22:39:26-05:00,14,48.92857142857143,1.32,0.08056717490295082

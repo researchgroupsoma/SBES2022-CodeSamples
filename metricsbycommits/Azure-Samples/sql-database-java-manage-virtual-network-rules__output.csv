@@ -1,0 +1,12 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,640482a4d9538534547ec2d23d2adca2b738fd88,2018-03-26 18:51:37-07:00,2,1164.0,3.4827586206896552,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,2b3814d09211348f8d927764a6d9aae395c2412c,2018-06-25 12:04:33-07:00,2,1176.0,3.5402298850574714,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,be928dbd76a6923ae123325f63e970237b451a58,2018-08-01 11:57:06-07:00,2,1176.0,3.5402298850574714,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,626e6aa2630adb106799acd444e8278d9395ed26,2018-09-25 14:26:28-07:00,2,1262.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,d56509af2654f1a9262d549f04132817277b5202,2019-06-17 13:54:29-07:00,2,1262.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,c171376a305b332ca20c03e0a1657e7f2b9f7951,2019-08-09 19:39:11+08:00,2,1262.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,f9ea6df2f559e015dd284ce917c47d6bb6faf39d,2019-08-14 10:36:05+08:00,2,1262.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,bb09635e9e283f6f0c555e28905f68a02079ec0c,2019-08-15 11:08:12+08:00,2,1262.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,c1a6ad2700104b5af066c6df6a5a02633d34f53e,2019-09-14 01:39:19+05:18,2,1262.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,c87ca7f32e6238234476c77f392aeb28eb216caa,2019-10-18 18:14:00-07:00,2,1262.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-virtual-network-rules,96046709e2c99aaa179ebbc43d76f2eacd2bdf35,2020-01-14 16:20:37+08:00,2,1270.0,3.8333333333333335,0.0

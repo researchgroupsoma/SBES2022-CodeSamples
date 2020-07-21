@@ -1,0 +1,17 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,7d6e15c29a44f73ab8d959cee9dc04350d626219,2018-02-09 20:40:35-08:00,2,1057.0,3.808219178082192,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,d81a958f3514cf828203329228b76f7c10919fe2,2018-02-12 19:26:34-08:00,2,1057.5,3.8219178082191783,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,0de4d1f0a1da532f8725fade0e2a1d15da065de1,2018-02-13 23:18:32-08:00,2,1056.5,3.8219178082191783,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,fcbfcced9402b54ac05c935a51d96a09dcdb91fa,2018-02-13 23:27:08-08:00,2,1056.5,3.8219178082191783,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,b6f48d288af39ce72c8e383e737b9b960071e21e,2018-03-04 10:30:24-08:00,2,1097.5,3.6455696202531644,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,3cfc71ba540b9a2ec84e91003eaf810be3c9f2ef,2018-03-26 18:52:31-07:00,2,1198.0,3.5568181818181817,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,7b4a4cfb86b018a41ccdd6f0dd2a8d743c15275c,2018-06-25 12:05:36-07:00,2,1210.0,3.6136363636363638,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,bb4a075c040a41185fb0383dbd371398e446b2d2,2018-08-01 11:58:09-07:00,2,1210.0,3.6136363636363638,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,86ba423b731e994772f55a685d7b2ac583ee105e,2018-09-25 14:28:28-07:00,2,1296.5,3.879120879120879,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,87658984fc4d9a37e7762f52aa0a04ee4cad294b,2019-06-17 13:55:24-07:00,2,1296.5,3.879120879120879,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,fc7b985fbd940d49ed591cc11ff8444eb1042b16,2019-08-09 19:40:09+08:00,2,1296.5,3.879120879120879,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,1341387af7f95dc6b55e1277fd1c544925495733,2019-08-14 10:37:03+08:00,2,1296.5,3.879120879120879,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,0c8de2d2a1abd79dabd3f2e5db6fb7541b098b34,2019-08-15 11:09:28+08:00,2,1296.5,3.879120879120879,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,ce6964d902f6616fa64ba7dada53375fd07a6acc,2019-09-14 02:19:33+05:18,2,1296.5,3.879120879120879,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,62f63f6280e6c2f22b6cd01b070776a9ef943851,2019-10-14 17:20:11-07:00,2,1296.5,3.879120879120879,0.0
+azure,Azure-Samples/monitor-java-query-metrics-activitylogs,c8b7133ff43aec512661647b9cdd2609104c4e41,2020-01-14 16:21:52+08:00,2,1304.0,3.901098901098901,0.0

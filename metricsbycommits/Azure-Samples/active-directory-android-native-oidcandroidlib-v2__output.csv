@@ -1,0 +1,19 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,a2fbcf15c1d80e883d0b97b8ce51a5ba533ff9dd,2016-03-02 02:34:16-08:00,3,18.666666666666668,1.1666666666666667,0.4723016781111558
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,a2e088c771eddef79ab65ee21f764fdca27c5499,2016-03-17 16:42:03+00:00,0,0,0,0
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,5a6569874101f3a4944bf707671f2c88f2ab1ba7,2016-03-17 16:01:43-07:00,3,18.666666666666668,1.1666666666666667,0.4723016781111558
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,637a2ab629f145229f790540719f8b45c1f63549,2016-03-17 16:03:07-07:00,7,10.857142857142858,1.1428571428571428,0.7533247114292213
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,8109d8a30f25065631466efc31d20dbbfb30c1d0,2016-06-25 20:54:29-07:00,0,0,0,0
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,e9fc8fd3f7b85120f786a976baf83ef8ae2e440f,2016-06-25 21:02:49-07:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,bf6ead6cae15c9567675a03a5e498093a76ff655,2016-07-15 15:56:51-07:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,92e042736feac85fbfb6298cd0899e03116c3dfd,2016-08-05 22:37:05+00:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,1748eda54d33413f60914613c3feb6abb05b6df4,2016-08-05 22:37:05+00:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,6d9a8aa59d33763ce1280b57dac8f4ac9e051bcb,2016-08-05 22:37:05+00:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,19fc5af533283673e8228bf5ea3f6488a53670f1,2016-10-14 11:37:17-07:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,ec2c3721f20933c00e62d06e0335e02605752cf3,2017-04-03 11:22:11-07:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,914b7acd84833913b9a8ae919a19b5e8bd4c7989,2017-05-23 14:14:28-07:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,22e3776263952a0101c957c66da7e4fe2714266a,2017-05-23 19:13:53-07:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,258722c5686ff32c7846ac431cd6389da3e4dd20,2017-06-20 18:12:42-07:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,f26c0522a663347448d5d1dc929c0da4478105b5,2018-04-11 08:14:24-07:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,99baf8c8e7cc0e6e2b1b78dd63a1a4cdeb1304c3,2018-04-12 17:03:54-07:00,20,115.0,2.0166666666666666,0.21355874752625822
+azure,Azure-Samples/active-directory-android-native-oidcandroidlib-v2,135a2917ac30551642724a10b5f3333c94c483ec,2018-04-13 10:08:03-07:00,20,115.0,2.0166666666666666,0.21355874752625822

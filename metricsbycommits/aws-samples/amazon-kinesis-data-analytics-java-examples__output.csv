@@ -1,0 +1,17 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,0725dcd5c18ebe99f2b6bc796d1f6d0fd4ce1b53,2019-04-22 09:39:37-07:00,0,0,0,0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,760fa4de7ccaf7dbe6032cca73d75a514c00086d,2019-04-22 09:39:38-07:00,0,0,0,0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,378916ffefba3b37e4fc121edbb28832b871b827,2019-04-22 09:39:39-07:00,0,0,0,0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,bc2b96257f0d6eaaefe25a34a01c2d36400f5425,2019-04-22 09:39:40-07:00,0,0,0,0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,b9b52b0bcef2f5a283a25172ffd44615175d9096,2019-04-22 09:39:41-07:00,0,0,0,0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,7ae92081872f78b43144c27785c0b2db246d38b7,2019-04-22 09:39:42-07:00,0,0,0,0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,7c7a19787bbf223eb4a10f6742a089b73c7bb7f1,2019-04-30 21:16:21+00:00,6,58.333333333333336,1.6363636363636365,0.0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,871f465143448878e8fdd46ffbaf9c345ea49fd2,2019-11-25 18:58:08+00:00,7,54.142857142857146,1.56,0.0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,31e75410b56246f6aed52b50c67e77be8f38f4bf,2019-12-17 21:31:11+00:00,18,54.0,1.5,0.0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,290962ccce7a735bc098628f1a300ff98362d4f5,2019-12-18 00:14:11+00:00,18,54.0,1.5,0.0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,f71299fca6532bac9b65a70dd90e98fbaa4725ae,2020-01-21 23:36:58+00:00,18,54.333333333333336,1.5,0.0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,14a5220ac9e2cbfde06946b472ff0e9d5dbe003c,2020-02-18 21:25:57+00:00,9,54.666666666666664,1.5,0.0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,3b5145a42f0232dedec37e037b47a69daec75a84,2020-02-27 21:20:15+00:00,9,54.77777777777778,1.5,0.0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,8cd9ea397e8874126239df32c26dcd8d7b737f96,2020-05-12 18:17:14+00:00,11,59.63636363636363,1.5,0.0
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,d244fa2993481173b26090fefffc4d86962d7b91,2020-05-12 18:47:51+00:00,12,54.5,1.446808510638298,3.7493826918459185e-05
+aws,aws-samples/amazon-kinesis-data-analytics-java-examples,ac970504947b6810369201aaa380de6f2a6115d1,2020-05-12 21:57:08+00:00,12,54.5,1.446808510638298,3.7493826918459185e-05

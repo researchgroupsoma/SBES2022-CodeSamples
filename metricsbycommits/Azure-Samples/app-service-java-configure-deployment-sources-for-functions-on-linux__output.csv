@@ -1,0 +1,2 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/app-service-java-configure-deployment-sources-for-functions-on-linux,e6b830696d108cff6225ae42e30d2b1f714d9534,2020-01-14 16:29:29+08:00,2,1276.5,3.857142857142857,0.0

@@ -1,0 +1,10 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/monitor-java-autoscale-based-on-performance,e00944fda8dfa4303703a43c0e3052d765783666,2018-09-26 15:53:30-07:00,2,1263.5,3.791208791208791,0.0
+azure,Azure-Samples/monitor-java-autoscale-based-on-performance,4ba553278c428f8a2e05a53ea8f6cd9764ce72e3,2019-06-17 13:55:46-07:00,2,1263.5,3.791208791208791,0.0
+azure,Azure-Samples/monitor-java-autoscale-based-on-performance,c687737be47da5d11ecd81c41f5806aa648a580e,2019-08-09 19:40:32+08:00,2,1263.5,3.791208791208791,0.0
+azure,Azure-Samples/monitor-java-autoscale-based-on-performance,ab2808de6ea9b0ba5162ffaf032f659cf5203bdd,2019-08-14 10:37:26+08:00,2,1263.5,3.791208791208791,0.0
+azure,Azure-Samples/monitor-java-autoscale-based-on-performance,4df9f2f58d70fa0bc1656934aa9eb59e6ce751e1,2019-08-15 11:09:54+08:00,2,1263.5,3.791208791208791,0.0
+azure,Azure-Samples/monitor-java-autoscale-based-on-performance,9410f4b099ad2305ba90bb8bb7029232c5794e31,2019-09-14 02:21:00+05:18,2,1263.5,3.791208791208791,0.0
+azure,Azure-Samples/monitor-java-autoscale-based-on-performance,d10ce95a8332f2df093aea7bc85614f4032c2706,2019-10-16 11:20:42-07:00,2,1263.5,3.791208791208791,0.0
+azure,Azure-Samples/monitor-java-autoscale-based-on-performance,6dcec968cbc7cc747805c349317b5d1f641b57d2,2019-10-16 11:21:06-07:00,2,1263.5,3.791208791208791,0.0
+azure,Azure-Samples/monitor-java-autoscale-based-on-performance,d6278534d846e41fee2465462c6fb1ffc3acd2a9,2020-01-14 16:22:17+08:00,2,1271.0,3.8131868131868134,0.0

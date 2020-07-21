@@ -1,0 +1,17 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/locks-java-manage-locks,3bd71badd275acbbd8fc2e42599abdfa5dcf5ab8,2017-11-17 13:42:18-08:00,2,1006.5,3.6,0.0
+azure,Azure-Samples/locks-java-manage-locks,e5830278bba61b9b3afb2c8e969c11f767b4e9a3,2017-12-12 12:38:58-08:00,2,1006.5,3.6,0.0
+azure,Azure-Samples/locks-java-manage-locks,d4d4b9aae343a3d868175618a634f654f9463ab0,2018-02-09 20:49:38-08:00,2,1054.5,3.684931506849315,0.0
+azure,Azure-Samples/locks-java-manage-locks,db917c77d11bc9826c04ebbf503008a8785aaab6,2018-02-12 19:30:18-08:00,2,1055.0,3.6986301369863015,0.0
+azure,Azure-Samples/locks-java-manage-locks,30903fcdfa2d44d1ce669e0451c17d131deb0ad0,2018-03-04 10:33:49-08:00,2,1095.0,3.5316455696202533,0.0
+azure,Azure-Samples/locks-java-manage-locks,4cd4d750474205de05b54703e9cd6271e1e28a1f,2018-03-26 18:56:35-07:00,2,1195.0,3.4545454545454546,0.0
+azure,Azure-Samples/locks-java-manage-locks,02dfe1678605cd3627680207763946134f7ccc2b,2018-06-25 12:08:27-07:00,2,1207.0,3.5113636363636362,0.0
+azure,Azure-Samples/locks-java-manage-locks,7e8f98f5239eeeaca99a1ad2290f8eb3b7d929f8,2018-08-01 12:01:22-07:00,2,1207.0,3.5113636363636362,0.0
+azure,Azure-Samples/locks-java-manage-locks,8284c8620d45c605e25a4a710911ac2f38a832ee,2018-09-25 14:36:20-07:00,2,1293.5,3.78021978021978,0.0
+azure,Azure-Samples/locks-java-manage-locks,5e0f75fba46e9ba5f9683c901b888dabf51f41d4,2019-06-17 13:58:52-07:00,2,1293.5,3.78021978021978,0.0
+azure,Azure-Samples/locks-java-manage-locks,a6c4ade5927b79f29505a8c23bb3e2bffe512583,2019-08-09 19:43:56+08:00,2,1293.5,3.78021978021978,0.0
+azure,Azure-Samples/locks-java-manage-locks,33de919be6e6eba5f4dbd48928abd08fa8df48c9,2019-08-14 10:40:47+08:00,2,1293.5,3.78021978021978,0.0
+azure,Azure-Samples/locks-java-manage-locks,cba4a033e2fc906995143840ab3cf781f7d21e89,2019-08-15 11:13:37+08:00,2,1293.5,3.78021978021978,0.0
+azure,Azure-Samples/locks-java-manage-locks,c2080ed0ea105cb04af4cb8cc8025cac382a12b4,2019-09-14 02:26:21+05:18,2,1293.5,3.78021978021978,0.0
+azure,Azure-Samples/locks-java-manage-locks,f4231e4c13970a8317095a23d0ae3695ed69d5d6,2019-10-14 17:21:55-07:00,2,1293.5,3.78021978021978,0.0
+azure,Azure-Samples/locks-java-manage-locks,018b8de6b99567877c030d946cc324dfe7b7f0f6,2020-01-14 16:26:37+08:00,2,1301.0,3.802197802197802,0.0

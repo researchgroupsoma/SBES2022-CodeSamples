@@ -1,0 +1,7 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/event-hubs-java-storm-sender-jms-receiver,f47579479e6620107eb21bd33bc418381c2343ce,2016-10-27 20:05:53+08:00,5,36.0,1.3076923076923077,0.36719630416482685
+azure,Azure-Samples/event-hubs-java-storm-sender-jms-receiver,c47c0815deeadf02bf6882b25f6a15dabee9bd67,2016-10-27 20:10:29+08:00,5,36.0,1.3076923076923077,0.36719630416482685
+azure,Azure-Samples/event-hubs-java-storm-sender-jms-receiver,e2fb5322060af96c7b347f49db986da8860d88d8,2016-10-27 20:12:20+08:00,5,36.0,1.3076923076923077,0.36719630416482685
+azure,Azure-Samples/event-hubs-java-storm-sender-jms-receiver,f3c810cdd25c29fc77115cc1a10e725d8af9569f,2017-01-23 14:44:35+08:00,5,36.0,1.3076923076923077,0.36719630416482685
+azure,Azure-Samples/event-hubs-java-storm-sender-jms-receiver,7da0732402de2c05ed729bba39302cbcdbd3837e,2017-01-23 15:04:02+08:00,5,36.0,1.3076923076923077,0.36719630416482685
+azure,Azure-Samples/event-hubs-java-storm-sender-jms-receiver,1bfb538661cccdc6b56aad174a6a077199a9e17a,2017-02-16 09:37:30+08:00,5,36.0,1.3076923076923077,0.36719630416482685

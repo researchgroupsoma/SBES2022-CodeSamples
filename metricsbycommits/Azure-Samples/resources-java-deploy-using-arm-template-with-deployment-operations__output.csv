@@ -1,0 +1,2 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/resources-java-deploy-using-arm-template-with-deployment-operations,400889bf51d49cb0535827987fe2cbb8acf52b3a,2020-01-14 16:15:10+08:00,2,1309.0,3.623762376237624,0.0

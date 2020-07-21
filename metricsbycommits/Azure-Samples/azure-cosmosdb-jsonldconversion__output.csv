@@ -1,0 +1,10 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/azure-cosmosdb-jsonldconversion,4fb6c3b25c17aa68d3204baadf65a1fe5be5efee,2019-07-09 16:43:32-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-jsonldconversion,c5bea3fdf70138ffd7bba6e34418d0721bd10d50,2019-07-09 16:43:34-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-jsonldconversion,06c6eca15c076970edbe2de6116d17b09038141a,2019-07-09 16:43:35-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-jsonldconversion,7fc01e8c5a8ce88d303caee6a981779f17d70afd,2019-07-09 16:43:36-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-jsonldconversion,a4e2072d42cf0d4ab34b7fd0b9f3fa9db5de231a,2019-07-09 16:43:37-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-jsonldconversion,99eda8cdbb30f7bea247b322666cf52570123939,2019-07-09 16:43:38-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-jsonldconversion,4236e47da7240de0d5173ac335ed97680f900303,2019-07-09 16:43:39-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-jsonldconversion,c41d3307aae8d29a13f94df035fb4b996499a124,2019-07-09 16:43:40-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-jsonldconversion,34acef0dec5f591e0736b7a8589a8867407f4f6a,2019-07-09 16:51:36-07:00,8,65.75,3.25,0.23203882342204452

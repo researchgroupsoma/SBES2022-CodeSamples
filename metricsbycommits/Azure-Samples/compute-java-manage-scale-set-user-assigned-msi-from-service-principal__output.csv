@@ -1,0 +1,10 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/compute-java-manage-scale-set-user-assigned-msi-from-service-principal,9bb31927e36bf0c9bea17107185f1985d1c45561,2018-09-26 15:53:31-07:00,2,1272.5,3.791208791208791,0.0
+azure,Azure-Samples/compute-java-manage-scale-set-user-assigned-msi-from-service-principal,0107f6ba4d71b45d81d7bd24b2beeef67f40a51e,2019-06-17 13:52:03-07:00,2,1272.5,3.791208791208791,0.0
+azure,Azure-Samples/compute-java-manage-scale-set-user-assigned-msi-from-service-principal,50ad76428860a33ad46924b85a9580058f9881d7,2019-08-09 19:36:35+08:00,2,1272.5,3.791208791208791,0.0
+azure,Azure-Samples/compute-java-manage-scale-set-user-assigned-msi-from-service-principal,b1ec818f0c9b58e531004d7d126ae00239f080f5,2019-08-14 10:33:25+08:00,2,1272.5,3.791208791208791,0.0
+azure,Azure-Samples/compute-java-manage-scale-set-user-assigned-msi-from-service-principal,480710c8adc2a740f12a7186846e6e97f18fcbc7,2019-08-15 11:05:37+08:00,2,1272.5,3.791208791208791,0.0
+azure,Azure-Samples/compute-java-manage-scale-set-user-assigned-msi-from-service-principal,bfb44369a27e4d4651bb8706914faba92f5faa61,2019-09-13 22:06:09+05:18,2,1272.5,3.791208791208791,0.0
+azure,Azure-Samples/compute-java-manage-scale-set-user-assigned-msi-from-service-principal,0171d5cc64e0be417a2dd30f72a354b08b8810f0,2019-10-18 18:42:57-07:00,2,1272.5,3.791208791208791,0.0
+azure,Azure-Samples/compute-java-manage-scale-set-user-assigned-msi-from-service-principal,9319d99a968b4518cb9e8ffa936b54e470c5186a,2019-10-18 18:43:11-07:00,2,1272.5,3.791208791208791,0.0
+azure,Azure-Samples/compute-java-manage-scale-set-user-assigned-msi-from-service-principal,d42563d21ed28d80171ec2eeefd7607336e12674,2020-01-14 16:17:55+08:00,2,1280.0,3.8131868131868134,0.0

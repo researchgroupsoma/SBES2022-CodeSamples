@@ -1,0 +1,7 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/aws-s3-artifact-manager-sample,30019f9bb73ad08ce6a0fa648bcf4d820cca63b9,2016-07-29 09:13:11-07:00,0,0,0,0
+aws,aws-samples/aws-s3-artifact-manager-sample,0c92c6b71d2cd6c8614b2d9b7e0b5806a73236bd,2016-07-30 21:05:09-04:00,4,53.75,1.2142857142857142,0.0
+aws,aws-samples/aws-s3-artifact-manager-sample,bcb378aba5749d0799a0d427d13183962d2f1be0,2016-07-30 21:35:45-04:00,4,55.5,1.2142857142857142,0.0
+aws,aws-samples/aws-s3-artifact-manager-sample,d95d240acfba292d3cfc0c81dc17a52cd3ab1847,2016-07-30 21:41:03-04:00,4,56.25,1.2142857142857142,0.0
+aws,aws-samples/aws-s3-artifact-manager-sample,6cc88b1629b7c406799ac365a663bac2c5c7a349,2016-07-30 22:19:06-04:00,4,56.25,1.2142857142857142,0.0
+aws,aws-samples/aws-s3-artifact-manager-sample,4ab26dd69dc17bdf1634c4e480f9c8623ed935ac,2016-07-30 22:20:44-04:00,4,56.25,1.2142857142857142,0.0

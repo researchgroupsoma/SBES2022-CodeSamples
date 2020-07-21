@@ -1,0 +1,8 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/amazon-cloud-directory-sample,d24e10856bb2a9a55397bd2c4a3bfc66601f5c74,2017-11-13 10:39:25-08:00,0,0,0,0
+aws,aws-samples/amazon-cloud-directory-sample,4d2da071cdafc94740a75207d067857485a11039,2017-11-13 10:39:26-08:00,0,0,0,0
+aws,aws-samples/amazon-cloud-directory-sample,f1b4e9d0599afafd5478ba55b7504755d6031841,2017-11-13 10:39:27-08:00,0,0,0,0
+aws,aws-samples/amazon-cloud-directory-sample,ca0f9014c133778a319ad4c95eaafaa9a05f0fd5,2017-11-13 10:39:27-08:00,0,0,0,0
+aws,aws-samples/amazon-cloud-directory-sample,a9c04bf116d23dea56d25b2d34468f829440ccf0,2017-11-13 10:39:28-08:00,0,0,0,0
+aws,aws-samples/amazon-cloud-directory-sample,c87948137759cb7c4479d9b8a90b848489bae701,2017-11-26 21:33:42-08:00,1,378.0,1.5142857142857142,0.0
+aws,aws-samples/amazon-cloud-directory-sample,521761b884a2878fa4e6155503a1ae3fc645aca2,2017-11-27 11:55:49-08:00,1,378.0,1.5142857142857142,0.0

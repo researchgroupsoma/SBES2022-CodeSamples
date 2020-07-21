@@ -1,0 +1,10 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/active-directory-b2c-android-appauth-ropc,78f0dc70425d52edd6573c3f23e24f50af5eba07,2018-04-29 19:16:15-07:00,0,0,0,0
+azure,Azure-Samples/active-directory-b2c-android-appauth-ropc,8699af4ec4c0167350a6479995578e3a74ad76b2,2018-04-29 19:16:19-07:00,0,0,0,0
+azure,Azure-Samples/active-directory-b2c-android-appauth-ropc,4bd64a3e898b77d8d185df16ffb655aa104c21d1,2018-04-29 19:16:20-07:00,0,0,0,0
+azure,Azure-Samples/active-directory-b2c-android-appauth-ropc,f1de9855cff9fa6fc2145c0b671d5973feae1748,2018-04-29 19:16:21-07:00,0,0,0,0
+azure,Azure-Samples/active-directory-b2c-android-appauth-ropc,320f727ea2bd537d52e14a85a487a3adfb00e7b1,2018-04-29 19:16:22-07:00,0,0,0,0
+azure,Azure-Samples/active-directory-b2c-android-appauth-ropc,c9beb75acfaecb75c2639396ddc92719c286db82,2018-04-29 19:16:23-07:00,0,0,0,0
+azure,Azure-Samples/active-directory-b2c-android-appauth-ropc,7d939b40c1d758472700fbc6679ec6b214640cc6,2018-04-29 19:16:23-07:00,0,0,0,0
+azure,Azure-Samples/active-directory-b2c-android-appauth-ropc,7cd57df60ac76c8237b4c61218c3dee03add23b9,2018-04-29 20:19:11-07:00,0,0,0,0
+azure,Azure-Samples/active-directory-b2c-android-appauth-ropc,2b8fbd0ea7e91139f11767dbb47978ae048b9bf9,2018-04-29 20:20:49-07:00,92,124.94565217391305,1.379638439581351,0.01584724655834219

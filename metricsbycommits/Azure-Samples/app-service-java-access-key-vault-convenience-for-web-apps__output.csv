@@ -1,0 +1,14 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,f140295166f17893145029751a0fe47a274f9382,2018-02-12 20:23:45-08:00,2,1032.5,3.712328767123288,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,6535c4c50d2a103fe58879bd89058571151ace40,2018-03-04 10:31:37-08:00,2,1072.5,3.5443037974683542,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,98ae9c78a370f81ee67b924e1888c6f425253cb2,2018-03-26 18:54:09-07:00,2,1172.5,3.465909090909091,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,87ca54faf107e8526dd4cffe72f632060b184e07,2018-06-25 12:39:03-07:00,2,1184.5,3.522727272727273,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,728d6f655c46b2286b212e63f7196da207bd5f24,2018-08-01 11:59:32-07:00,2,1184.5,3.522727272727273,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,45fcbb0ce0e804518b8cf06c60298d91491532dd,2018-09-25 14:31:27-07:00,2,1271.0,3.791208791208791,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,eac335178d2593443fdf2397dad0800bb050acf8,2019-06-17 13:56:53-07:00,2,1271.0,3.791208791208791,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,b32a2692220ea776259f07d29deedaa8e588d012,2019-08-09 19:41:49+08:00,2,1271.0,3.791208791208791,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,420c5a20ad69d1ff691ccba56f2c55e3ef411365,2019-08-14 10:38:39+08:00,2,1271.0,3.791208791208791,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,4d0fd4c1f3d53b83bdc64c17ede630e894a39dc6,2019-08-15 11:11:10+08:00,2,1271.0,3.791208791208791,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,a9f51d6b34d386340fd2eec12f83ffcfab9ef4c6,2019-09-13 05:40:23+05:18,2,1271.0,3.791208791208791,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,22f018c14fcbdf0767c33e82aae549e0a8d0ebb3,2019-10-16 11:44:04-07:00,2,1271.0,3.791208791208791,0.0
+azure,Azure-Samples/app-service-java-access-key-vault-convenience-for-web-apps,5a6ade256cbc3f97809fbf6679a926fa9c7cff24,2020-01-14 16:23:59+08:00,2,1278.5,3.8131868131868134,0.0

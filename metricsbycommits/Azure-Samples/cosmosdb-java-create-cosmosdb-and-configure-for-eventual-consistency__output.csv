@@ -1,0 +1,2 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/cosmosdb-java-create-cosmosdb-and-configure-for-eventual-consistency,ac061a5c7943d29974f6c9e6d120ff10a809aca0,2020-01-14 16:15:40+08:00,2,1267.0,3.7934782608695654,0.0

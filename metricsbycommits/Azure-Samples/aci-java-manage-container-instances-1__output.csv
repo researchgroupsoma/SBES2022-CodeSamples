@@ -1,0 +1,18 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/aci-java-manage-container-instances-1,f2cec1e11d8acf7a3f3046001d5816a86e98a8bb,2017-10-05 11:31:31-07:00,2,938.5,3.671641791044776,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,3b531da9be3e50a9e7777d6f7ffc7ddc5aa3aca3,2017-11-17 13:43:19-08:00,2,962.5,3.652173913043478,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,99d4a5737980af1a31b6590f78b5f713ce68a20b,2017-12-12 12:40:06-08:00,2,962.5,3.652173913043478,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,0f4b3da553cb6304d1a56ea43f349cc978ab079c,2018-02-09 20:52:41-08:00,2,1010.5,3.736111111111111,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,297fe950e9234bedf6f4e79912b3469b93cb0538,2018-02-12 19:31:22-08:00,2,1011.5,3.75,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,13c3e67ba24ad74ea7f1f5a2074e5af60a4a62f3,2018-03-04 10:35:01-08:00,2,1051.5,3.576923076923077,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,4c7f04a20a6e0bab388540bcac6deedfd77f5a2e,2018-03-26 18:57:51-07:00,2,1151.5,3.4942528735632186,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,bc2d8e12b0eb8f564cc06eb1c8b36049c4446ed0,2018-06-25 12:09:23-07:00,2,1163.5,3.5517241379310347,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,6f8ac6933b6458b08b96c78d92880f0db2e71c16,2018-08-01 12:02:19-07:00,2,1163.5,3.5517241379310347,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,3e6ce4452e9d092b53d69340c44610dffed7f42e,2018-09-25 14:38:37-07:00,2,1250.0,3.8222222222222224,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,aa796c4199934a8a62aad85a21bbcbb121d2f659,2019-06-17 13:59:47-07:00,2,1250.0,3.8222222222222224,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,0a02c5e36e99c76a73055d5094d245ff41d564e7,2019-08-09 19:44:50+08:00,2,1250.0,3.8222222222222224,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,ea0580f41b0f24e05687bfb14f3b6b11ff83a0e4,2019-08-14 10:41:43+08:00,2,1250.0,3.8222222222222224,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,f950c0600dea6ae7f73a360a4871147fc5e0a72c,2019-08-15 11:14:47+08:00,2,1250.0,3.8222222222222224,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,6e4e7caffbf0bc58b1a3215c39f6e960d6753d41,2019-09-13 05:30:04+05:18,2,1250.0,3.8222222222222224,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,66f697095490540ee8a1d47095ce56f0629e61b4,2019-10-01 11:48:11-07:00,2,1250.0,3.8222222222222224,0.0
+azure,Azure-Samples/aci-java-manage-container-instances-1,a6cc13bc4eb99f0b6f11e76613d8d06245ea68f1,2020-01-14 16:27:38+08:00,2,1257.5,3.8444444444444446,0.0

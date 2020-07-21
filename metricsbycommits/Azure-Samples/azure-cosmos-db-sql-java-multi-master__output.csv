@@ -1,0 +1,12 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,f58ae38af96ca52aef2e6879cd48f76f9bc21668,2018-09-17 14:04:47-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,dd603d5dffa06551ff504cd9c5bae5e961eef955,2018-09-17 14:04:51-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,e29769ec382c002791351cc5772c8a71131ba2f2,2018-09-17 14:04:52-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,c8424bb748cd82730fc98c373c4bd4333013ff63,2018-09-17 14:04:53-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,ddbe8db5b0c1db5b2bb5680d07634f52c1fab0d5,2018-09-17 14:04:53-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,ea10b0da9d210b47ea0c4d5fb7b2dc3330f273fa,2018-09-17 14:04:54-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,cc10155fc356e46e6b7c1beb7a335c5be09f5499,2018-09-17 14:04:55-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,079951bfb2d95423b3ee31683dd30b586d333c7f,2018-09-18 15:06:30-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,48112282b0b0c8e515b376e55b671ecd5a5e2a5c,2018-09-18 16:12:42-07:00,6,166.5,2.806451612903226,0.02388460437456767
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,e9389c81dbc83d3ada6969a010e1b23702873b3f,2018-09-18 16:13:45-07:00,6,166.5,2.806451612903226,0.02388460437456767
+azure,Azure-Samples/azure-cosmos-db-sql-java-multi-master,8c5745050390ad6eed4b681fe76c96fad54f0422,2018-09-18 16:41:20-07:00,6,166.5,2.806451612903226,0.02388460437456767

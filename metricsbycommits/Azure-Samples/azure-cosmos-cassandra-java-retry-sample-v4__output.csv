@@ -1,0 +1,9 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/azure-cosmos-cassandra-java-retry-sample-v4,c29b29edb3ccf457e5896b76171710c9a303d129,2020-04-02 14:32:48+00:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-cassandra-java-retry-sample-v4,f21bb725281df41f61849906de9e90c9135a365f,2020-04-02 07:32:51-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-cassandra-java-retry-sample-v4,0212a4d721f438737ff9e4dfc44b72cb84e55143,2020-04-02 07:32:52-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-cassandra-java-retry-sample-v4,6736b868872bd5ad746b724b09a4e3f9aa7b9499,2020-04-02 07:32:53-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-cassandra-java-retry-sample-v4,49931c550cd7d507720bbf74a3e1e141dc27a7fe,2020-04-02 07:32:54-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmos-cassandra-java-retry-sample-v4,b15887571de9abe85c6baeb75e57faa7d3130ccf,2020-04-02 17:23:00+01:00,6,71.33333333333333,1.6486486486486487,0.010536910345156988
+azure,Azure-Samples/azure-cosmos-cassandra-java-retry-sample-v4,45ec72c7887284974357fd7bdc2ee71fa521faee,2020-04-02 17:52:51+01:00,6,71.33333333333333,1.6486486486486487,0.010536910345156988
+azure,Azure-Samples/azure-cosmos-cassandra-java-retry-sample-v4,9172930900e4a1d5968be88b2550512d08ac327f,2020-04-24 18:40:04+01:00,6,71.33333333333333,1.6486486486486487,0.010536910345156988

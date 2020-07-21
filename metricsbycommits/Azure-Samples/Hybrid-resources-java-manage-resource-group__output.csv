@@ -1,0 +1,20 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,fa5530c876905608b84bdc8ff10f67443f60da53,2018-10-04 11:37:56-07:00,0,0,0,0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,c8b0bc100646d27fae00e3eec0665c2e135b4c0e,2018-10-04 11:38:00-07:00,0,0,0,0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,8d87d479d70bd7b3929cb500cd83ddfa6bb6a149,2018-10-04 11:38:01-07:00,0,0,0,0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,2b750ac0cf9d3e4b1bd545a1e3949ff7f748d947,2018-10-04 11:38:02-07:00,0,0,0,0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,60865700108d303efc405b38091aef05ace71bdb,2018-10-04 11:38:02-07:00,0,0,0,0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,264edf406cbf3eb4cf073e1f2e019353622c862b,2018-10-04 11:38:03-07:00,0,0,0,0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,eef41cecb6594934bd6e20eb65123063ddb3e612,2018-10-04 11:38:04-07:00,0,0,0,0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,629de843b9c7f1f26b5617e140a93a913509b276,2018-10-04 12:58:16-07:00,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,1702baf46a3fe0ee2bedfa7760762b105f145d0a,2018-10-04 15:08:19-07:00,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,07370dcb810a408e26ede3a733544f262a537884,2018-10-19 10:33:16-07:00,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,e1b229c973a89252d7b900e80eca09919c7043d9,2018-10-20 21:04:46-07:00,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,4233932195a57e041096755577b2231b949ec938,2018-10-23 14:41:42-07:00,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,5852ad14536a123ee15b5f279a1d5b4940cca3d7,2019-04-15 23:15:45-07:00,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,4bce238d3da196a6ffd0d2e7e40985c5055d3fcb,2019-09-13 04:42:35+05:18,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,eef126dc57ca9c9be634b57c60d49702bec5724b,2019-10-15 11:28:51-07:00,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,a76e56c6d126d19ecc5001b5c4786689bd30a666,2020-03-17 18:01:49-07:00,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,1a26dfa3dcd0ec930843fa00c54d5bc66451aa85,2020-03-18 16:15:26-07:00,5,497.2,3.227722772277228,0.001131005387287587
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,6cc962c22893e9ce928e9c097a4eb5d2a73d69cb,2020-03-18 16:34:49-07:00,2,1185.5,3.5454545454545454,0.0
+azure,Azure-Samples/Hybrid-resources-java-manage-resource-group,77898b25785540e6bd03f735e1ccf881027c9fc3,2020-03-19 11:31:26-07:00,2,1185.5,3.5454545454545454,0.0

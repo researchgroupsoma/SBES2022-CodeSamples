@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,839c87e62d441219df805bf908893a06b759861f,2017-04-11 12:04:08-07:00,0,0,0,0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,86d4b39f3ae2e7ab64ae5ec1eb05758f587c0f1c,2017-04-11 12:04:10-07:00,0,0,0,0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,f528d7e58f0e6431a55bf9b9607de709c8ba4d57,2017-04-11 12:04:11-07:00,0,0,0,0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,762fc632fbfbb85cbca65bee643911f6d19f6aef,2017-04-14 17:59:46-07:00,2,719.0,4.093023255813954,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,dd5d02ef3fff12892290e25d2266bb6d721b4e97,2017-04-14 18:19:58-07:00,2,719.0,4.093023255813954,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,825d0a5bb17c6216a09c136ee8a6355242caf821,2017-06-15 23:58:05-07:00,2,821.0,3.727272727272727,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,9c5ebc380e5ed42b7f66ee819613c8130358b96c,2017-08-29 16:58:48-07:00,2,905.5,3.515625,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,4a4f0ee51fafd3a49d2a486f98bbc9189bf318e0,2017-10-05 11:28:07-07:00,2,960.0,3.7313432835820897,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,849996c5a60dfaa29be4543f7d455a0ce7a3619f,2017-11-17 13:37:16-08:00,2,984.0,3.710144927536232,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,a4a61ae29741a760ffe973866c5bb6c5744b8c17,2017-12-12 12:33:58-08:00,2,984.0,3.710144927536232,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,792c154b6b188e6326f553a5d8030ba321805b0d,2018-02-09 20:35:05-08:00,2,1032.0,3.7916666666666665,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,4449d067433db31278b752e99e969737de0214df,2018-02-12 19:24:28-08:00,2,1032.5,3.8055555555555554,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,ed8e1ad43cdc7c2cbcea8a60b0a256633063f3e7,2018-03-04 10:28:19-08:00,2,1072.5,3.628205128205128,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,57b6f8eacaf762e2b3bb6c53db441251b8c01341,2018-03-26 18:50:03-07:00,2,1172.5,3.5402298850574714,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,365c4ff66b0814b5e1f67a68aa6335b15f642253,2018-06-25 12:03:15-07:00,2,1184.5,3.5977011494252875,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,e32ea1b3309236f21e9290146583bc917e9c5f1f,2018-08-01 11:55:58-07:00,2,1184.5,3.5977011494252875,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,afb2d1d579d5ccae7e390bd2f55f4fe5e8269209,2018-09-25 14:23:14-07:00,2,1271.0,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,d1ed2ad694411da7b5aaa47122d3dffabb8ae1e4,2019-06-17 13:53:14-07:00,2,1271.0,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,c7bfb0875d976331ed4cd9d9cbf650126ec67022,2019-08-09 19:37:43+08:00,2,1271.0,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,6ed67941644e21fa2c55daf4ff51617e090375df,2019-08-14 10:34:40+08:00,2,1271.0,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,ca3108f56bba013e4ec8d8a6267046d20f94b3c3,2019-08-15 11:06:54+08:00,2,1271.0,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,d0dc54f4fff53cb9fa90945d419c059abd434e8f,2019-09-14 01:53:11+05:18,2,1271.0,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,b15b6eb840e116cbcb6cbbdfb582a97591c42b30,2019-10-15 11:34:28-07:00,2,1271.0,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-queue-with-basic-features,3af53ddc68b7a879009306edd509d00c39ab0e60,2020-01-14 16:19:07+08:00,2,1278.5,3.888888888888889,0.0

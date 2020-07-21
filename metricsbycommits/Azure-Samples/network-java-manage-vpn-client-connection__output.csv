@@ -1,0 +1,15 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/network-java-manage-vpn-client-connection,256b215b0209109837cef1d9e667b0e37edad2f6,2018-02-09 20:47:44-08:00,2,1013.5,3.684931506849315,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,6fd2ecbf6d92f98f5b042838f45b84d4aa332c9e,2018-02-12 19:29:37-08:00,2,1014.0,3.6986301369863015,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,fc4a4af2025cba9c75c493cdc4473dcc331add6e,2018-03-04 10:33:18-08:00,2,1054.0,3.5316455696202533,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,4d0673734257af25bd8465a92966f2cf6ac36dd1,2018-03-26 18:55:56-07:00,2,1154.0,3.4545454545454546,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,21066ffb1f73f017d9276bef01e493d45c2caf34,2018-06-25 12:07:46-07:00,2,1166.0,3.5113636363636362,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,bd734f278734aa781c03966aa8f6ff5b687ef92f,2018-08-01 12:00:59-07:00,2,1166.0,3.5113636363636362,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,6335b7d387a499df71b973f395c5363382e3b611,2018-09-25 14:34:24-07:00,2,1252.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,faced268790de8d708dbe4b44b964251557f43e0,2019-06-17 13:58:21-07:00,2,1252.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,7b6c1e567569d5ee0ac2b10023f20d89b53fc743,2019-08-09 19:43:19+08:00,2,1252.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,6ac6609491b0530ee4bd5853ca08bb826ea073b7,2019-08-14 10:40:06+08:00,2,1252.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,b900a2a01bea52bfb792115381557345cc6d1746,2019-08-15 11:13:09+08:00,2,1252.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,1b2a4002107a6380d6cd2df9f01d1892ab76db07,2019-09-14 02:06:16+05:18,2,1252.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,63afa319856249cf56752f7a761b928a817b2019,2019-10-15 11:41:40-07:00,2,1252.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-vpn-client-connection,263f0c2c395344747909dec25f2b4dc29c90adb6,2020-01-14 16:25:53+08:00,2,1260.0,3.802197802197802,0.0

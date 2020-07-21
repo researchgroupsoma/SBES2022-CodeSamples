@@ -1,0 +1,23 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,5931dae6477d71a7373971ddee94b912f07309a1,2017-06-14 14:14:17-07:00,0,0,0,0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,01687aec864b4089639bcd0159342365958c48d6,2017-06-14 14:14:26-07:00,0,0,0,0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,3e69534b244b2803919d39309a828f45441f0f51,2017-06-14 14:14:27-07:00,0,0,0,0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,9fcc948ca931ab92866ae3f5b125582c4a582944,2017-06-15 23:56:07-07:00,2,811.5,3.56140350877193,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,bcc3d97abe413f108daeab7e8d022dbaec77ebe3,2017-06-22 09:31:15-07:00,2,811.5,3.56140350877193,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,2326ea20ed35ee822ba9331ef382b0c4be81a91b,2017-08-29 17:08:45-07:00,2,896.0,3.378787878787879,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,683e0e7b0e2b61bce1a293b273ceeceeb5208034,2017-10-05 11:29:37-07:00,2,950.5,3.5942028985507246,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,70387379b00c632cd37b54b03bfcc3a9d06fa781,2017-11-17 13:34:20-08:00,2,974.5,3.5774647887323945,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,a546bbe7a406a21ee07f327504946a2110c1227f,2017-12-12 12:29:27-08:00,2,974.5,3.5774647887323945,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,c94dea1572c9e017f1554264b32d8c1ea52b8ca7,2018-02-09 20:26:53-08:00,2,1022.5,3.6621621621621623,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,41be004ece99094618267a4d2eb461f332fb4989,2018-02-12 19:21:00-08:00,2,1023.0,3.675675675675676,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,98a19209f482fa7ba8cc34d7c960e2c957a65fbc,2018-03-04 10:24:07-08:00,2,1063.0,3.5125,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,d0fa9b7187bce1a7a3664ae7ad49c3b684df1887,2018-03-26 18:46:04-07:00,2,1163.0,3.438202247191011,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,1184a2256a587c3fc682bc60f03e406891df8da3,2018-06-25 12:00:11-07:00,2,1177.0,3.50561797752809,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,a4ee02a5f45fbc797be770cfe34b923bc39ce66c,2018-08-01 11:52:59-07:00,2,1177.0,3.50561797752809,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,ff14f2f6c18c80c2eebc558ce374987407f145b8,2018-09-25 14:15:52-07:00,2,1263.5,3.7717391304347827,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,d4ac5f8bf1bf29607b17a265f28eb36353cce2b0,2019-06-17 13:49:50-07:00,2,1263.5,3.7717391304347827,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,59a2c9978b60b230b197e03485f24d0ac8178803,2019-08-09 19:34:31+08:00,2,1263.5,3.7717391304347827,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,2f83118c62e6312beaed25f60191c730faecab8e,2019-08-14 10:31:13+08:00,2,1263.5,3.7717391304347827,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,a9359d862aaebc2453e985ec5908118f17eb8753,2019-08-15 11:03:38+08:00,2,1263.5,3.7717391304347827,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,4db7a1d5d78aab2b8008cb99bcaac9e244c1fd9a,2019-09-14 02:32:58+05:18,2,1263.5,3.7717391304347827,0.0
+azure,Azure-Samples/cosmosdb-java-create-documentdb-and-configure-for-high-availability,9029e092e26f07f684a901eab03e0614c1b1b8f6,2019-10-01 11:43:44-07:00,2,1263.5,3.7717391304347827,0.0

@@ -1,0 +1,13 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/diy-code-signing-kms-private-ca,8b444691a6fa98e4a74bf9ea1b739fa3bf6356b3,2020-02-24 09:32:02-08:00,0,0,0,0
+aws,aws-samples/diy-code-signing-kms-private-ca,11b80d55aa96c6143abb058268434065ce27320d,2020-03-08 14:11:50-04:00,5,144.4,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,3226bcf2013a177e3c73e17fe80ace177f19818f,2020-03-10 19:44:44-04:00,5,144.4,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,6875ad32c29990d9c8fe13a9cc5e4f0b48b4dedb,2020-03-10 19:48:45-04:00,5,144.4,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,a06a30e5edda2410729151660a9e9f6063672766,2020-03-10 19:50:16-04:00,5,144.4,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,d1b41b38c1466d4fec183e97fb6222df7552c10d,2020-03-17 22:50:36-04:00,5,147.2,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,3ddf5c84a034d5a8eed0fede82998bb13501540a,2020-03-18 09:41:46-04:00,5,147.2,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,cd947f0b6b10ba032275de18e3e87a7a0d4f6456,2020-03-18 09:42:52-04:00,5,147.2,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,63960ebe6c9800b72ad483d7b7eae277ff2b7f3c,2020-03-18 15:41:03-04:00,5,147.2,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,e92c15aca4a41d80aa598ea2faae099d68f385d5,2020-04-20 14:57:35-04:00,5,147.2,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,549ebb761b64edec8d5b1ced87b08900de5c1e52,2020-04-20 16:17:32-04:00,5,147.2,1.4029850746268657,0.0
+aws,aws-samples/diy-code-signing-kms-private-ca,fea9cac96d57dced333bd1c74dc411b3eec5a0d5,2020-04-20 19:17:01-04:00,5,147.2,1.4029850746268657,0.0

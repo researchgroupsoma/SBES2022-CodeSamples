@@ -1,0 +1,9 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/sagemaker-serverless-anomaly-detection,44a21c83437c3d19e5fae5283d981cbeeccd27f1,2019-02-18 16:52:55-08:00,0,0,0,0
+aws,aws-samples/sagemaker-serverless-anomaly-detection,64661829aa2f09da765556905651ac927dec7fa6,2019-02-18 16:52:56-08:00,0,0,0,0
+aws,aws-samples/sagemaker-serverless-anomaly-detection,71529a93e612f343ef823e2fca5c336d38fdebb0,2019-02-18 16:52:57-08:00,0,0,0,0
+aws,aws-samples/sagemaker-serverless-anomaly-detection,dac17a56d0e789c47c51e4d1f64420ea354d2d64,2019-02-18 16:52:58-08:00,0,0,0,0
+aws,aws-samples/sagemaker-serverless-anomaly-detection,84f69b03bccb1c05338c8b4fff81e95d383d88fa,2019-02-18 16:52:59-08:00,0,0,0,0
+aws,aws-samples/sagemaker-serverless-anomaly-detection,6d04b26705cb00d8d82256e2314b84910dcccb24,2019-02-18 16:53:00-08:00,0,0,0,0
+aws,aws-samples/sagemaker-serverless-anomaly-detection,4767bc6977626b04daf46ba2ee6ef360732f9062,2019-03-29 11:13:58-07:00,24,33.125,1.178082191780822,0.009183732905512443
+aws,aws-samples/sagemaker-serverless-anomaly-detection,dbc9b82d88a7916dfe37e697abd1206bc1b2e8f1,2019-03-29 12:26:17-07:00,24,33.125,1.178082191780822,0.009183732905512443

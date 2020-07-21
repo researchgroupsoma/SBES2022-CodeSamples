@@ -1,0 +1,23 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/hbase-phoenix-connection-pool,640f64b8d537cffd64a415e055b357e739a1bb6a,2017-05-23 14:07:44-07:00,0,0,0,0
+azure,Azure-Samples/hbase-phoenix-connection-pool,65f1dbad9cf15f4f41f73d510ba43b44d579e51c,2017-05-23 14:08:01-07:00,0,0,0,0
+azure,Azure-Samples/hbase-phoenix-connection-pool,2dec2ac6514dd5849de95fd5c3e2126e6cea9145,2017-05-23 14:08:02-07:00,0,0,0,0
+azure,Azure-Samples/hbase-phoenix-connection-pool,27967773ce361fd00bc8658a1147dc259ee426f4,2017-06-15 10:57:16-07:00,0,0,0,0
+azure,Azure-Samples/hbase-phoenix-connection-pool,7e485d41161dd26b734167f7290948d1e7db29a6,2017-06-15 11:02:59-07:00,0,0,0,0
+azure,Azure-Samples/hbase-phoenix-connection-pool,7ce9acc83de14103338912c444f7c0866f133d41,2017-06-15 13:40:55-07:00,0,0,0,0
+azure,Azure-Samples/hbase-phoenix-connection-pool,62cd1d694a2df58886aabf4ee12a6c5542e75500,2017-06-15 13:42:27-07:00,0,0,0,0
+azure,Azure-Samples/hbase-phoenix-connection-pool,becc9739816f8c3511ec91f9ab1cc0fdab3f6f4b,2017-06-15 15:34:16-07:00,0,0,0,0
+azure,Azure-Samples/hbase-phoenix-connection-pool,857d5618c77ec7fd71fb096973cd821795be0c58,2017-06-15 15:35:00-07:00,0,0,0,0
+azure,Azure-Samples/hbase-phoenix-connection-pool,c693cd43090f5c97c1a0aad7531afdf6ce0211a7,2017-06-15 15:36:29-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,aba9d1880b54e124eb81180d2800b75df5a0c6f5,2017-06-15 15:39:58-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,e8821465f55579cd166bc15b63d8cc5bea774394,2017-06-16 10:16:28-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,dacbcaaece1b0977566de66cb8fe2dd37fa6b01e,2017-06-16 10:22:54-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,c8d78665b0e0e9a54aa38f404c4f5f49c8fc843a,2017-06-16 10:32:12-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,6da57a31850c4c6a1e91e9f8b11f618fa79cca8f,2017-06-16 11:00:49-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,3b33919a68aed328fe852034a346660a6bcd7daa,2017-06-16 11:01:00-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,91a05873ed661d22fcbb79605f3a1013bd38a730,2017-06-16 14:28:58-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,9b94c0ccc5547dc0ad6ddc397dd03e08dcd52aa1,2017-06-16 14:31:07-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,c3697eafcd12f183176d66b7a00cf1c4610c6ce6,2017-06-16 14:33:13-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,74a060686b92298fa4474bbfc0cfbd86e7289bfb,2017-06-16 16:45:03-07:00,5,57.8,3.0,6.525210628751665e-05
+azure,Azure-Samples/hbase-phoenix-connection-pool,e0c717708a73632e1db1d794a612f8f8ca2225a5,2017-06-21 15:22:19-07:00,5,59.6,3.0,0.0
+azure,Azure-Samples/hbase-phoenix-connection-pool,4419cec25b25e0bad45c8e4d499305e4a9e55274,2017-06-23 11:36:14-07:00,5,59.6,3.0,0.0

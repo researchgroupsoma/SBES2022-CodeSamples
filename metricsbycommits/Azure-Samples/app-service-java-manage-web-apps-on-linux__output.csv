@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,336e3f4599f55882ddf57b88d921a332f8320e22,2017-04-06 13:23:14-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,bc19d7c207565696d72c4cee6624d478e000428d,2017-04-06 13:23:17-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,e84fded9771f735c91ce37f848b0414dd436fdfc,2017-04-06 13:23:18-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,01f32000a37e1bcbe5f7a4e187fb09b6adea75ef,2017-04-14 17:59:02-07:00,2,715.0,4.046511627906977,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,f37f00f6faf9c2cef1ed95ea7d6b01e74bd2a445,2017-04-14 18:22:19-07:00,2,715.0,4.046511627906977,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,d35f2bf1b62fd114e8f8d1ffc3f4007243c054e8,2017-06-15 23:54:14-07:00,2,817.0,3.690909090909091,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,8d628e53981d23676b8f8ec741a2892a95d1c397,2017-08-29 16:47:41-07:00,2,901.5,3.484375,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,6a6dd840e3d10dcb976fe4c77aceea204099a3bb,2017-10-05 11:25:47-07:00,2,956.0,3.701492537313433,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,cb94c01b54fbc56692c917ecdcabd23d9c823572,2017-11-17 13:39:24-08:00,2,980.0,3.681159420289855,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,c4bdd4ee7bf03445ae69a8c5f7b957238e02c1a2,2017-12-12 12:36:00-08:00,2,980.0,3.681159420289855,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,b3de16d9394fe2496baecb23f0681508ce172ee7,2018-02-09 20:41:11-08:00,2,1028.0,3.763888888888889,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,f2850707a2beb3b2f1ffd455e9c72d6d607aae53,2018-02-12 19:26:38-08:00,2,1028.5,3.7777777777777777,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,adde7ef3225d91ef5316070bfd310b33e22f7a6b,2018-03-04 10:30:30-08:00,2,1068.5,3.6025641025641026,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,7015b1a77ac9a1e24104566ef255b06940df477d,2018-03-26 18:52:56-07:00,2,1168.5,3.5172413793103448,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,cc909934175834488bf764c7e1bf6a7f502459b3,2018-06-25 12:05:47-07:00,2,1180.5,3.574712643678161,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,5ff1bdf3edd1bcc187dc40939b9e67d316cc84bc,2018-08-01 11:58:29-07:00,2,1180.5,3.574712643678161,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,7af4fd15f67a9a833bb89718c14404516724ec75,2018-09-25 14:29:29-07:00,2,1267.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,ccc5e89ac03c1c9d5abde11c49cd2dfbe3d0f854,2019-06-17 13:56:04-07:00,2,1267.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,91aace09fac77ba69e4f436ddddd16b7d1f369fb,2019-08-09 19:40:42+08:00,2,1267.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,70a13749d2b6043e83048b1ca316dc72edfa7bd1,2019-08-14 10:37:43+08:00,2,1267.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,d4b90369f4dd3dae7c44bfe463527cbc0fd5c9b0,2019-08-15 11:10:16+08:00,2,1267.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,0c6d126b4ea0c97905cb2e3c1f3cea17b92cbb07,2019-09-13 21:36:44+05:18,2,1267.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,bfb3dc24bc5cd58fb6f128e35e7be36dabe817e4,2019-10-16 11:18:13-07:00,2,1267.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-web-apps-on-linux,859d66cafc05fd94f10c4e8ec88a2a11c5acfddc,2020-01-14 16:22:32+08:00,2,1274.5,3.8666666666666667,0.0

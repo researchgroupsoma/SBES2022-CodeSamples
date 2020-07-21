@@ -1,0 +1,11 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/aws-mobile-self-paced-labs-samples,7e0dfa607ef4115d395c806ec73aec0140d66b4e,2014-10-15 09:02:45-07:00,0,0,0,0
+aws,aws-samples/aws-mobile-self-paced-labs-samples,ebbcb07fbd656c5fb7cec03853ac12c3687a8f37,2014-10-24 10:33:34-07:00,0,0,0,0
+aws,aws-samples/aws-mobile-self-paced-labs-samples,c2da457f836d66b5cc0d1200182c616b11a3dcbe,2014-10-24 14:29:50-07:00,0,0,0,0
+aws,aws-samples/aws-mobile-self-paced-labs-samples,9fade5f41ae635901ff61f2055009f98e22b2a0a,2014-10-24 14:39:59-07:00,0,0,0,0
+aws,aws-samples/aws-mobile-self-paced-labs-samples,9bc91f304e097a9b721e578b2a47fb628b654671,2014-10-24 14:46:29-07:00,99,144.27272727272728,1.6506165590135056,0.06572220916845106
+aws,aws-samples/aws-mobile-self-paced-labs-samples,e9077b1df5fc417a5476b1c0af6e0042c5667b31,2014-11-07 14:35:55-08:00,99,144.27272727272728,1.6506165590135056,0.06572220916845106
+aws,aws-samples/aws-mobile-self-paced-labs-samples,152e0c6fd8e164e0356475e4907fee685e675c50,2014-11-07 14:37:26-08:00,99,144.27272727272728,1.6506165590135056,0.06572220916845106
+aws,aws-samples/aws-mobile-self-paced-labs-samples,2cd358958d8d1afe9c0f3b5bdd6a469ded4fd98d,2015-02-05 09:10:27-08:00,99,144.27272727272728,1.6506165590135056,0.06572220916845106
+aws,aws-samples/aws-mobile-self-paced-labs-samples,1ced4b6797f2569d0dfd9774b54451a38776a25c,2018-01-25 10:28:30-08:00,99,144.27272727272728,1.6506165590135056,0.06572220916845106
+aws,aws-samples/aws-mobile-self-paced-labs-samples,98bad9697f12b1a147cad0dcf6a237da43e20624,2018-01-25 11:01:49-08:00,99,144.27272727272728,1.6506165590135056,0.06572220916845106

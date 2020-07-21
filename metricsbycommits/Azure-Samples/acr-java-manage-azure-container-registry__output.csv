@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/acr-java-manage-azure-container-registry,a3ce124ef8cd69e2c122ad22dbce0f6d13bee88c,2017-06-12 15:05:01-07:00,0,0,0,0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,c555f0f4dd2bea1da04a0c38d2f6cdb2f639984d,2017-06-12 15:05:08-07:00,0,0,0,0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,2f1a1b3f4928569d050b5b0fef9dd94699428811,2017-06-12 15:05:08-07:00,0,0,0,0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,ec503ef5dc3fdabed3a08ea279c48248b7dfd97e,2017-06-15 23:53:21-07:00,4,550.75,3.5714285714285716,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,0a3b4bcc336fbcd0d4abb9f66e43301fd06eb833,2017-06-22 09:00:51-07:00,4,550.75,3.5714285714285716,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,0dacce5f2351bea8a30898b5005e8fcab2954755,2017-06-22 09:06:51-07:00,4,550.75,3.5714285714285716,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,4738ed06eb8b7d075db21476f9b32969a628136e,2017-08-29 17:05:59-07:00,4,599.5,3.397727272727273,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,e277e2fbff05c87883178e8c0525809a9275fc84,2017-10-05 11:28:52-07:00,4,626.75,3.5604395604395602,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,4949dcb692ae07258abb70e7efc4615d48a6e4d7,2017-11-17 13:42:39-08:00,4,638.75,3.5483870967741935,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,169f8dd8a3a93330942d5f26e55177f33eb3cd8a,2017-12-12 12:39:26-08:00,4,638.75,3.5483870967741935,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,83a90df23fe457f41a35bee3e98346744caeef6e,2018-02-09 20:50:34-08:00,4,662.75,3.6145833333333335,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,35dbdfa2828d753884426e31a923d3c8e387934c,2018-02-12 19:30:32-08:00,4,663.0,3.625,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,4ff698d40feb9a9252434d26efc2fd6b6628dffb,2018-03-04 10:34:10-08:00,4,683.0,3.5,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,4aae02e8b1c809aef7008ddd1f459d522cd78ecb,2018-03-26 18:56:55-07:00,4,733.0,3.4414414414414414,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,78ec82d7051f2e34f3c80e71b6ce121dff1c9255,2018-06-25 12:08:39-07:00,4,739.0,3.4864864864864864,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,6aefa0fff9c52b29212c09b182552b5c9fd0ef05,2018-08-01 12:01:43-07:00,4,739.0,3.4864864864864864,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,c6730e2a82da455c9bb05e2d28fff2d95ba6861c,2018-09-25 14:36:23-07:00,4,782.25,3.7017543859649122,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,5edb3ab2b86035edf1a4b986ace884fac08d7c3e,2019-06-17 13:59:11-07:00,4,782.5,3.7017543859649122,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,1dbce3e52e1cb837316c129f7459df2b6ba3c9d5,2019-08-09 19:44:21+08:00,4,782.5,3.7017543859649122,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,1034651d14868fe316c7995d160a468f1d4ffea6,2019-08-14 10:41:08+08:00,4,782.5,3.7017543859649122,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,9b85f56f33bdb63383f3ac0838e232a1c16c5358,2019-08-15 11:14:01+08:00,4,782.5,3.7017543859649122,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,7b62b48948951f5edaa4c1318277ec0f01b67706,2019-09-13 05:32:43+05:18,4,782.5,3.7017543859649122,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,7441db211b49176266a51b17be1cd3b98cdc06a2,2019-10-24 10:02:22-07:00,4,782.5,3.7017543859649122,0.0
+azure,Azure-Samples/acr-java-manage-azure-container-registry,3de960a4709ee4ffbb48cf2fffb81644ec0b7894,2020-01-14 16:26:54+08:00,4,786.25,3.719298245614035,0.0

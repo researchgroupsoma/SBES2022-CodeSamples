@@ -1,0 +1,7 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/azure-cosmosdb-cassandra-counters,84e519309f26daf7a48581590a69593659799a67,2019-07-26 11:26:07-07:00,5,49.2,1.2857142857142858,0.014501357078552246
+azure,Azure-Samples/azure-cosmosdb-cassandra-counters,01f977353d03edfaf48720156ae8b42068b199f6,2019-07-26 11:59:12-07:00,5,46.0,1.3333333333333333,0.014501357078552246
+azure,Azure-Samples/azure-cosmosdb-cassandra-counters,a4092a3d25823c0e239ef0218b9f154e90381053,2019-07-30 15:42:09-07:00,5,46.0,1.3333333333333333,0.014501357078552246
+azure,Azure-Samples/azure-cosmosdb-cassandra-counters,7842c1d4b033ebb35bd79036fdf7f548aa7e7a74,2019-07-30 15:44:20-07:00,5,46.0,1.3333333333333333,0.014501357078552246
+azure,Azure-Samples/azure-cosmosdb-cassandra-counters,61d10f3cdecbbc45d9ffcbce8a2aa09a3ee80ec1,2019-07-31 10:20:05-07:00,5,46.0,1.3333333333333333,0.014501357078552246
+azure,Azure-Samples/azure-cosmosdb-cassandra-counters,e7c1e93929f2f860d8ea8f8bd713169ff987cf07,2019-07-31 10:20:55-07:00,5,46.0,1.3333333333333333,0.014501357078552246

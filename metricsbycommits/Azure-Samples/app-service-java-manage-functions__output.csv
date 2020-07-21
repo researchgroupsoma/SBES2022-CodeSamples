@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/app-service-java-manage-functions,0397efd3911fc4f0e9ed6199a9aaef63d0cc7f32,2017-04-11 11:59:19-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-manage-functions,649a1437a0c42a82f52d34016090a8814438d30c,2017-04-11 11:59:21-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-manage-functions,6140c210f50a7b27068b5b72fa604aab1fd5fc3e,2017-04-11 11:59:22-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-manage-functions,ef23009743d805fb3d6182e70742e37aa0f200c8,2017-04-14 17:59:28-07:00,2,709.0,4.046511627906977,0.0
+azure,Azure-Samples/app-service-java-manage-functions,3da685830ec4257deef58a819901e2848c00df55,2017-04-14 18:20:32-07:00,2,709.0,4.046511627906977,0.0
+azure,Azure-Samples/app-service-java-manage-functions,dc8dfc02281ff98b75be44fcfbae2a75dfa633c7,2017-06-15 23:53:54-07:00,2,811.0,3.690909090909091,0.0
+azure,Azure-Samples/app-service-java-manage-functions,3a29d8656b38136c9c58c7056c41952beafacbd4,2017-08-29 16:50:06-07:00,2,895.5,3.484375,0.0
+azure,Azure-Samples/app-service-java-manage-functions,857ee8e3e0b5945b5f6157cda363332ccd605136,2017-10-05 11:26:49-07:00,2,950.0,3.701492537313433,0.0
+azure,Azure-Samples/app-service-java-manage-functions,9c239fba1a4e2817adbbb01423a9560d4d7f13a4,2017-11-17 13:39:57-08:00,2,974.0,3.681159420289855,0.0
+azure,Azure-Samples/app-service-java-manage-functions,8eb2eb5c5ef47f6a37a0e5b82827e92366af555b,2017-12-12 12:36:33-08:00,2,974.0,3.681159420289855,0.0
+azure,Azure-Samples/app-service-java-manage-functions,f385b8daa599a9d64c8c92adb10b8408e253b29f,2018-02-09 20:42:44-08:00,2,1022.0,3.763888888888889,0.0
+azure,Azure-Samples/app-service-java-manage-functions,cf236525ed0dfe0db62ba4aa5554ba0403f6ca1a,2018-02-12 19:27:26-08:00,2,1022.5,3.7777777777777777,0.0
+azure,Azure-Samples/app-service-java-manage-functions,ff06b5759f45bc0b0c2beed0836ded7b6fea75be,2018-03-04 10:31:11-08:00,2,1062.5,3.6025641025641026,0.0
+azure,Azure-Samples/app-service-java-manage-functions,aac2bb9545b12c29e90babdee1b797cd228c016d,2018-03-26 18:53:35-07:00,2,1162.5,3.5172413793103448,0.0
+azure,Azure-Samples/app-service-java-manage-functions,1d7dbf231c1c0ae17e9e60dd89650ad76bf52799,2018-06-25 12:06:16-07:00,2,1174.5,3.574712643678161,0.0
+azure,Azure-Samples/app-service-java-manage-functions,20bbdb2263b9d5f1ba390787006f3479adbae77c,2018-08-01 11:58:53-07:00,2,1174.5,3.574712643678161,0.0
+azure,Azure-Samples/app-service-java-manage-functions,c46072aaaf3eef1c74f120ba6baba5e6c0b5309f,2018-09-25 14:30:29-07:00,2,1261.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-functions,046f906c56a005a8909feeca2ccee9ba5a1bd554,2019-06-17 13:56:28-07:00,2,1261.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-functions,5d6832dc2e7ab1a55049511ae95a0b4eb1f00dd6,2019-08-09 19:41:20+08:00,2,1261.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-functions,3b76f9763ee2c2c0030521ba84c937a1fde4e2c8,2019-08-14 10:38:11+08:00,2,1261.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-functions,1e0e5cef0b0884fe4100ac0bea7d4c5d188b255e,2019-08-15 11:10:45+08:00,2,1261.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-functions,f47cd3d629fe128ee2e88db72e62a1423ac042db,2019-09-13 21:32:20+05:18,2,1261.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-functions,26baa83470b2a7ecc7bc67583d313e50256e99a6,2019-10-23 09:49:11-07:00,2,1261.0,3.8444444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-functions,ff9e99f53e187aea7dc8f0fe586a11351b1f66df,2020-01-14 16:23:12+08:00,2,1268.5,3.8666666666666667,0.0

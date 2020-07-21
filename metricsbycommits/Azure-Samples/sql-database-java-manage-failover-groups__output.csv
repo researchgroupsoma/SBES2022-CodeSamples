@@ -1,0 +1,12 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/sql-database-java-manage-failover-groups,6b71665fe86c6359252d3d23afbbf9c6c29ec754,2018-03-26 18:51:19-07:00,2,1170.0,3.4827586206896552,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,078961a8cedf6028d7549aa91c33de82df3999c9,2018-06-25 12:04:22-07:00,2,1182.0,3.5402298850574714,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,33e84531633104ba8539aab5c62783c666d497d8,2018-08-01 11:57:04-07:00,2,1182.0,3.5402298850574714,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,0386a2c400e1c335c92ea177ce938036bfecfd8f,2018-09-25 14:25:23-07:00,2,1268.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,05553cb12693c3a99e071aab1624e0fcfd3d9a87,2019-06-17 13:54:18-07:00,2,1269.0,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,24a3361ccab5e7305eaec44317a724840f0914f4,2019-08-09 19:38:49+08:00,2,1269.0,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,caffea9653ec80267db74803c932792e62a67a72,2019-08-14 10:35:50+08:00,2,1269.0,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,13619b4c7fc62955ecf91a20bd4c8b4bf127e4c7,2019-08-15 11:08:08+08:00,2,1269.0,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,fcba8b4dbdb5dc7b91889daace6cac1398304fb0,2019-09-14 01:48:19+05:18,2,1269.0,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,490b9f22f913911715996b3921032c73051eb037,2019-10-24 09:30:36-07:00,2,1269.0,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-failover-groups,a2b2be5f2f360520d2e747d06669b2a8b8b1a5cb,2020-01-14 16:20:21+08:00,2,1276.5,3.8333333333333335,0.0

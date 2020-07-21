@@ -1,0 +1,10 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/aws-lambda-java-oracle-starter-kit,b136fb19d1c3c5c5189050028c00565cfa3cc158,2019-12-07 18:34:42-08:00,0,0,0,0
+aws,aws-samples/aws-lambda-java-oracle-starter-kit,7aaba94c5eb4a00af87d54001ee8e891b6e87d3e,2019-12-07 21:13:57-06:00,5,56.4,2.4,0.0031908805016428233
+aws,aws-samples/aws-lambda-java-oracle-starter-kit,96e11a7e597a06ab0eb84cf201a26f236f7f5ca7,2019-12-07 21:17:30-06:00,5,56.4,2.4,0.0031908805016428233
+aws,aws-samples/aws-lambda-java-oracle-starter-kit,aea4eaa0a928190e9c6318f9025347ecd5b28d75,2019-12-09 14:29:57-06:00,5,56.4,2.4,0.003029481181874871
+aws,aws-samples/aws-lambda-java-oracle-starter-kit,fe12dd0b84eac96f7a958f1d4aeb30dacb5bed47,2019-12-09 14:55:29-06:00,5,56.4,2.4,0.003029481181874871
+aws,aws-samples/aws-lambda-java-oracle-starter-kit,6eacf5b9c4fa3d8a12f72a469d4dddfa39e7e377,2019-12-09 14:55:39-06:00,5,56.4,2.4,0.003029481181874871
+aws,aws-samples/aws-lambda-java-oracle-starter-kit,cc8ce7d2223ba8e27e619028a5d7186ed4f7cf8e,2019-12-09 14:56:55-06:00,5,56.4,2.4,0.003029481181874871
+aws,aws-samples/aws-lambda-java-oracle-starter-kit,722edd10b3be998b3094b7a3e6868e9b9a8bf510,2019-12-09 16:31:22-06:00,5,56.4,2.4,0.003029481181874871
+aws,aws-samples/aws-lambda-java-oracle-starter-kit,4b65d0954ce350c9501736e00c99b87f4ff21453,2019-12-09 16:37:10-06:00,5,56.4,2.4,0.003029481181874871

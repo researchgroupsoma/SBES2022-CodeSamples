@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,f2d43c3becfad439b91ea95802bf8887b4119d50,2017-04-11 12:04:37-07:00,0,0,0,0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,ef11b24e881c5a152c8eb91763d582168c2aa548,2017-04-11 12:04:44-07:00,0,0,0,0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,98aa23370163c10728141d5e5021ba04c2a6cc38,2017-04-11 12:04:45-07:00,0,0,0,0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,873ad44685ef3deb29aad5c617b011845c2120cd,2017-04-14 17:59:51-07:00,2,720.5,4.093023255813954,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,0b312ffac06c7cb6b7e11571034df1c73e4b7460,2017-04-14 18:19:47-07:00,2,720.5,4.093023255813954,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,8b5cd5162bd2684e8bcc15cced897e9ff93bfb5c,2017-06-15 23:57:55-07:00,2,822.5,3.727272727272727,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,1aa8b8f173ea559de69caeb1af4cc6be7038b5fd,2017-08-29 17:02:09-07:00,2,907.0,3.515625,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,d2f3e2ab98b86f29ecfa8ed67b7d5da2e28cde38,2017-10-05 11:28:11-07:00,2,961.5,3.7313432835820897,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,dfa0b7c5b550dd124dee3c70cbd2c89d6b17e575,2017-11-17 13:37:28-08:00,2,985.5,3.710144927536232,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,8269d2232998217343997d83671b5d9af4a0887f,2017-12-12 12:34:09-08:00,2,985.5,3.710144927536232,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,fbdda4288bc93f3e9c0e82ecb651aaf1885ca7cd,2018-02-09 20:35:23-08:00,2,1033.5,3.7916666666666665,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,ccdf82abc30d1a6e7841ef5b57a3ccb5e1f72913,2018-02-12 19:24:30-08:00,2,1034.0,3.8055555555555554,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,c697f110523b8a9490b01897be704fb235f2120b,2018-03-04 10:28:24-08:00,2,1074.0,3.628205128205128,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,e4718a825e8fcfe58e5921770ff8084da67ccd89,2018-03-26 18:50:07-07:00,2,1174.0,3.5402298850574714,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,cb388b81bd48fd66bee038902c825f5014ada491,2018-06-25 12:03:23-07:00,2,1186.0,3.5977011494252875,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,49d601711909872ea860e77b39e35a6b4c26803a,2018-08-01 11:55:58-07:00,2,1186.0,3.5977011494252875,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,bb1e26da49329f2a2a321f2218560d0d47056998,2018-09-25 14:23:14-07:00,2,1272.5,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,4e3baa7f045a990187b44405f3caa69103bcd008,2019-06-17 13:53:14-07:00,2,1272.5,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,e238e26353ed713bed71ce9c962e63ad46b71464,2019-08-09 19:37:46+08:00,2,1272.5,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,f22eb742f54bc0fb60cc3b7a16b26d0f93d75fe4,2019-08-14 10:34:41+08:00,2,1272.5,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,376ba38df6f7dd5cfe5c73410602f3042607a986,2019-08-15 11:06:54+08:00,2,1272.5,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,ab891c41a2efbb9e8d76a1512918ae80b77403db,2019-09-14 01:54:15+05:18,2,1272.5,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,264765613b0752d5afd6eec54511a96f38838499,2019-10-24 09:24:56-07:00,2,1272.5,3.8666666666666667,0.0
+azure,Azure-Samples/service-bus-java-manage-publish-subscribe-with-basic-features,5084064676d896f6c1c746125f8635f58deab06d,2020-01-14 16:19:08+08:00,2,1280.0,3.888888888888889,0.0

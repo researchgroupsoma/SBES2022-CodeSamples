@@ -1,0 +1,18 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/network-java-manage-express-route,2214a7d5ceda45e27f000cf2589c71cfcecca7ee,2017-11-17 13:41:51-08:00,2,968.5,3.6,0.0
+azure,Azure-Samples/network-java-manage-express-route,28fd53c13713b4b7ce0facb18bbafa8cd6ee6294,2017-12-12 12:38:31-08:00,2,968.5,3.6,0.0
+azure,Azure-Samples/network-java-manage-express-route,0e9d6c9a144ff5200d5347d33967cde9cd23a003,2018-02-09 20:48:02-08:00,2,1016.5,3.684931506849315,0.0
+azure,Azure-Samples/network-java-manage-express-route,2c1f6e45c1ccd6df274eb8660173bba908c96b7d,2018-02-12 19:29:38-08:00,2,1017.0,3.6986301369863015,0.0
+azure,Azure-Samples/network-java-manage-express-route,2fe6732ae4bae7743e5e4979193b83d959810438,2018-03-04 10:33:20-08:00,2,1057.0,3.5316455696202533,0.0
+azure,Azure-Samples/network-java-manage-express-route,1148d047b14784b855308e3bc28a5a2ea6ce2e9b,2018-03-26 18:55:55-07:00,2,1157.0,3.4545454545454546,0.0
+azure,Azure-Samples/network-java-manage-express-route,32211c5d6750edd70f67bb526e1d607b1493c15d,2018-06-25 12:07:54-07:00,2,1169.0,3.5113636363636362,0.0
+azure,Azure-Samples/network-java-manage-express-route,8433f171e7cc41547080c4617e6f48598e462126,2018-08-01 12:00:59-07:00,2,1169.0,3.5113636363636362,0.0
+azure,Azure-Samples/network-java-manage-express-route,b04de0560103052cca19caf216d9668f126d6b5c,2018-09-25 14:34:24-07:00,2,1255.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-express-route,ffb59622308d3a043f5189bf9bea42654965a8d6,2019-06-17 13:58:23-07:00,2,1255.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-express-route,165b0af880d8c8bf3a32525dd06caeefa69eb10a,2019-08-09 19:43:21+08:00,2,1255.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-express-route,92899e8f13dfdcc8f5a9551528d8041183ec035d,2019-08-14 10:40:16+08:00,2,1255.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-express-route,ce49c4f6fc3eb05573f77526c21ff525f59bb5a5,2019-08-15 11:13:08+08:00,2,1255.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-express-route,d3537de5db823880fcf974e78256c232624fa8cd,2019-09-14 02:17:43+05:18,2,1255.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-express-route,55bca5093637b5b894c5a6730c787a98d9178cc7,2019-10-18 18:18:11-07:00,2,1255.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-express-route,1c0bfc8f6f3e008ae4f23c31f83f86bd41b3b2c5,2019-10-18 18:18:27-07:00,2,1255.5,3.78021978021978,0.0
+azure,Azure-Samples/network-java-manage-express-route,6aa5406f1040c86f1b05dd3e372a721eae600553,2020-01-14 16:25:55+08:00,2,1263.0,3.802197802197802,0.0

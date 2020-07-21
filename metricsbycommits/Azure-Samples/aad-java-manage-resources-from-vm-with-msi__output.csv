@@ -1,0 +1,26 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,5cb57c014af4d5044ffd99b0bd4a574ff41a865a,2017-08-22 08:56:34-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,89461c4b38b507b87a877125bad92e3612af0aba,2017-08-22 08:56:38-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,67d86a3a4dbde5b8cb1cd3685dc56ead7b5f6797,2017-08-22 08:56:39-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,bf354f7c926a1a6bc19a5753913242a3c400c397,2017-08-22 08:56:40-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,7aa81b434fe5649fcdc0588f34cd3e07362f5fd2,2017-08-22 08:56:40-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,dfcb5e956431a5a59892e11dd1db30dbb94412c6,2017-08-22 08:56:41-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,a36375bebf026c16bfa7b0e3fe94239c44c71fb1,2017-08-22 08:56:42-07:00,0,0,0,0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,69420b225e6036325d7a9e5a10ff47c0a2cfc6c1,2017-10-12 14:22:22-07:00,2,946.0,3.6176470588235294,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,8192d14a271b7a0ebe1dd56cbcaad2604748d9bc,2017-10-12 15:33:44-07:00,2,946.0,3.6176470588235294,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,d604907055f3c1d42d4a3be413bd147fcd7bdb68,2017-11-17 13:36:49-08:00,2,970.0,3.6,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,b0da28f09be335d055a2d0c8f3eec1a055f7ced4,2017-12-12 12:33:33-08:00,2,970.0,3.6,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,25d193b746910e7b4fca83a77822031b56d1e1d7,2018-02-09 20:32:54-08:00,2,1018.0,3.684931506849315,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,c8b1722ac87c130c75b1a01dbaf8a5a65ff37bd2,2018-02-12 19:23:39-08:00,2,1018.5,3.6986301369863015,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,c32b6bfb75381d78b6c5de5f84040e00989a77d6,2018-03-04 10:27:16-08:00,2,1058.5,3.5316455696202533,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,c069685029086f2cb10048e32aecf3d2c77148f0,2018-03-26 18:48:53-07:00,2,1158.5,3.4545454545454546,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,9fa7aea0baeb4a4c0b41762f859fec9f0a3bc2f6,2018-06-25 12:02:14-07:00,2,1170.5,3.5113636363636362,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,e7884b4a819f1b50e1a912bb0cdc954e7f731180,2018-08-01 11:54:55-07:00,2,1170.5,3.5113636363636362,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,9b02c0260d3bf45a844d8c44d833dc50a61e4ef4,2018-09-25 14:21:12-07:00,2,1257.0,3.78021978021978,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,866770dc1fdb270d72cc47e41d3cc7846146519b,2019-06-17 13:52:26-07:00,2,1257.0,3.78021978021978,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,d8936c8818fbc4cfe013b57e19d0c0be48207ba0,2019-08-09 19:36:53+08:00,2,1257.0,3.78021978021978,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,7e85f59d344e6bb72c54684243e93e9d02f6f375,2019-08-14 10:33:50+08:00,2,1257.0,3.78021978021978,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,a4cfcf146fc7891724b1c67693079a394893f526,2019-08-15 11:05:52+08:00,2,1257.0,3.78021978021978,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,1461b6478151814ec2d1e37a890995c711bd434d,2019-09-13 05:27:04+05:18,2,1257.0,3.78021978021978,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,869f8aeab069bf5033a708cc03ed7231b563e948,2019-10-24 09:32:01-07:00,2,1257.0,3.78021978021978,0.0
+azure,Azure-Samples/aad-java-manage-resources-from-vm-with-msi,2e92e8cbda5b6c9d328b3006447debba37e1cacd,2020-01-14 16:18:15+08:00,2,1264.5,3.802197802197802,0.0

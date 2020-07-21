@@ -1,0 +1,2 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/compute-java-manage-virtual-machine-with-disks,7177cb14bc75182bfb58404b13679e904ca3444d,2020-01-14 16:28:21+08:00,2,1282.5,3.8241758241758244,0.0

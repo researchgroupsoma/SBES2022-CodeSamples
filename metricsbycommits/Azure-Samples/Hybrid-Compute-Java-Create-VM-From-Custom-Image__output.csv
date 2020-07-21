@@ -1,0 +1,13 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,d1736b478481e92665fe3710d9df9467782eac22,2018-12-03 10:45:42-08:00,0,0,0,0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,de1e09db479f2dade732cad0a0b4befd3102e92d,2018-12-03 10:45:48-08:00,0,0,0,0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,435d6156ae4c38f28a0dcba21adbfb00ea0c335f,2018-12-03 10:45:49-08:00,0,0,0,0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,2363624dbcb4e99d5aa22e29ab47e421e73c4010,2018-12-03 10:45:50-08:00,0,0,0,0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,3795ad9d4481affe54da82c1512e0bc3add0e06c,2018-12-03 10:45:51-08:00,0,0,0,0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,744d951897abeb2f3e7cce542aaf7e58172b8232,2018-12-03 10:45:52-08:00,0,0,0,0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,70f76bd131bc186fc6f1a457674e4210aee9815c,2018-12-03 10:45:53-08:00,0,0,0,0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,42690535a0d9668414eb1b6ae642e192f18ed7c0,2018-12-03 13:36:27-08:00,2,1230.5,3.4831460674157304,0.0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,faca9d1462a66cb97e37b93ff0a315287e34631f,2019-09-13 05:02:33+05:18,2,1230.5,3.4831460674157304,0.0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,9a15244ddff9e7979c703ebd726ca3483f8f3643,2019-09-23 16:14:59-07:00,2,1230.5,3.4831460674157304,0.0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,edd0214270334fcf1e0d489431bd1e859fc6db8e,2019-10-24 10:12:07-07:00,2,1230.5,3.4831460674157304,0.0
+azure,Azure-Samples/Hybrid-Compute-Java-Create-VM-From-Custom-Image,904cf3d10de00fa010969ad8e831b68c562fb234,2019-10-24 10:12:25-07:00,2,1230.5,3.4831460674157304,0.0

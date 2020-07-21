@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,7caacef800f9a2635be498f02dbd7545c6b665ef,2017-04-11 12:05:05-07:00,0,0,0,0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,3dd31ef98a85cb7acc20f95ecd0da35c623ab415,2017-04-11 12:05:07-07:00,0,0,0,0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,75d6e9b49c6f6c3884bb4d76ee01fa1c50286488,2017-04-11 12:05:10-07:00,0,0,0,0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,7c013e2c46c2b313bdefbd3e8712c0f4e32fc287,2017-04-14 17:59:56-07:00,2,711.5,4.046511627906977,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,2f724fdd9f46f74beab7e281667b2544245918f9,2017-04-14 18:19:23-07:00,2,711.5,4.046511627906977,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,f7234ce271e886908b5bf6f6c5b254ec3a3c868e,2017-06-15 23:58:10-07:00,2,813.5,3.690909090909091,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,f7ae85e114a130f2ab969da12e557eb46c26dd92,2017-08-29 17:02:46-07:00,2,898.0,3.484375,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,ef880f6c6dc597b461eeec768daea15c3bda9f63,2017-10-05 11:28:14-07:00,2,952.5,3.701492537313433,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,ca789133fca58782125c77c917916e6f1605134e,2017-11-17 13:37:35-08:00,2,976.5,3.681159420289855,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,eec8330b06192aaa8645df847996c73876c71484,2017-12-12 12:34:15-08:00,2,976.5,3.681159420289855,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,a46a19a7165a82ea0ecfcf22ec153bac9af5d0af,2018-02-09 20:35:41-08:00,2,1024.5,3.763888888888889,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,de002066b75b07eebcb680d620fb3a6933c8d880,2018-02-12 19:24:44-08:00,2,1025.0,3.7777777777777777,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,e073ad8e889682752db302c078c32d4bb73afd35,2018-03-04 10:28:28-08:00,2,1065.0,3.6025641025641026,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,f5910066ff27030243ae07afaf1f497c39274aec,2018-03-26 18:50:07-07:00,2,1165.0,3.5172413793103448,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,47dc0cd0ea48761c325e9e6b2d9c6e6b9506ffc0,2018-06-25 12:03:23-07:00,2,1177.0,3.574712643678161,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,8cab1bfcfd17892c5710ad6618550cc09d131c2a,2018-08-01 11:55:59-07:00,2,1177.0,3.574712643678161,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,cb3ad3910c968b88205ab9c65c2e666e27de96bd,2018-09-25 14:23:14-07:00,2,1263.5,3.8444444444444446,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,99629c18c342e40e31e6b39c968287d3bdf1b838,2019-06-17 13:53:15-07:00,2,1263.5,3.8444444444444446,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,5e277d4a6036dbc3270ccc2827690aa6db8c8414,2019-08-09 19:37:48+08:00,2,1263.5,3.8444444444444446,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,d249226ef1a643472a7a28e5e68f68afac164e7c,2019-08-14 10:34:42+08:00,2,1263.5,3.8444444444444446,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,6f533af2c81e8991002baf63c3da62a4e144e4a5,2019-08-15 11:06:54+08:00,2,1263.5,3.8444444444444446,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,ecdbd834d2a7d733c2912bfbaa4652d789e3d95c,2019-09-14 01:52:35+05:18,2,1263.5,3.8444444444444446,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,7033a774caeb8ea62134c559304f74ea4d853d9d,2019-10-23 15:16:56-07:00,2,1263.5,3.8444444444444446,0.0
+azure,Azure-Samples/service-bus-java-manage-with-claims-based-authorization,be239906f7ef79e453943d4ecf01a66635ba1d01,2020-01-14 16:19:21+08:00,2,1271.0,3.8666666666666667,0.0

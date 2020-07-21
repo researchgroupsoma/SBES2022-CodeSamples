@@ -1,0 +1,11 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,cad5da59939d81a3adac536bb3d52809d77eae00,2018-11-16 14:12:51-08:00,0,0,0,0
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,cb15cc8adf56d33f47a2e9407a5cbea4ba510f10,2018-11-16 14:12:52-08:00,0,0,0,0
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,78b94b3719464197f9d8e59ff1552b018cda1968,2018-11-16 14:12:53-08:00,0,0,0,0
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,e7393f3fdfbbf22983cc21b4a8b011a9c1a84755,2018-11-16 14:12:54-08:00,0,0,0,0
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,a097cfdc40c627a2da13180bdc47b03338394113,2018-11-16 14:12:55-08:00,0,0,0,0
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,dc44a51c27f14035495f22edef3ec5227de4a5d6,2018-11-16 14:12:55-08:00,0,0,0,0
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,1e833a8652495c31b6c5a3fe794c6e9e88d5dab3,2018-11-16 14:12:57-08:00,0,0,0,0
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,c049eec7732628b100916c07b0ae0aa73a2c49af,2018-11-28 09:36:29-08:00,12,45.166666666666664,1.75,0.06326286634430289
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,69f1c8db8d29854676bb148c601211697c7c4621,2019-07-24 22:54:48-07:00,12,45.916666666666664,1.75,0.06200699112378061
+aws,aws-samples/amazon-sqs-java-temporary-queues-client-samples,135cce8305db93e2be7c8a003c65d1877cadf75f,2019-03-11 09:47:06-07:00,15,41.333333333333336,1.7708333333333333,0.06748544847165855

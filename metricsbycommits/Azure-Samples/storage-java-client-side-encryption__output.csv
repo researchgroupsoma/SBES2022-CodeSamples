@@ -1,0 +1,4 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/storage-java-client-side-encryption,c87be38e571aaf1ca69919b2771d6c9f29262034,2016-12-14 14:59:50-08:00,5,57.6,2.0,0.00023581610003020614
+azure,Azure-Samples/storage-java-client-side-encryption,6fb25fd91135c88c2a4c1840d289e5bb5e584423,2016-12-14 15:09:35-08:00,5,57.6,2.0,0.00023581610003020614
+azure,Azure-Samples/storage-java-client-side-encryption,a7f1cb6c46ca994c130f719dc7d48dca0c7e79da,2016-12-14 15:10:37-08:00,5,57.6,2.0,0.00023581610003020614

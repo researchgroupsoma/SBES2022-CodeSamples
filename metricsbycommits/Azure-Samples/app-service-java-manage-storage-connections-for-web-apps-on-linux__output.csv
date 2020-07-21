@@ -1,0 +1,25 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,2a13fa4e7da3e44b107e0dd0d2f24be18fb04f7c,2017-04-11 11:58:02-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,255aa9ba0d949b783a6d364f083c355bc7da808e,2017-04-11 11:58:09-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,55b4b09c181ea01a8ffc0a92f137f8a01d3b5ae3,2017-04-11 11:58:11-07:00,0,0,0,0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,ea02d87aaa635da95034dce7ecbeeb06386ab1ad,2017-04-14 17:59:19-07:00,2,723.0,3.847826086956522,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,ca05beeb0acbb881c1de9261d8e46a3439a9aa6e,2017-04-14 18:21:11-07:00,2,723.0,3.847826086956522,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,91174d85c116a9acc2ec2ecdb2a33cdac69637a2,2017-06-15 23:54:08-07:00,2,825.0,3.5517241379310347,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,7c9acbdcf5b442b6b756146d41f27491db0c523a,2017-08-29 16:50:24-07:00,2,909.5,3.373134328358209,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,453363dde9d66f11c0c59b15322fcec583506942,2017-10-05 11:26:21-07:00,2,964.0,3.585714285714286,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,0ea929959585347f1c7c8a4ec310f71157104554,2017-11-17 13:39:50-08:00,2,988.0,3.5694444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,5e13b3fe1aeb99da6f4e4ee691b68e03cedfba30,2017-12-12 12:36:25-08:00,2,988.0,3.5694444444444446,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,a6e7baf4d8eae92fc650bd4b000ce4a5ccf399b4,2018-02-09 20:42:08-08:00,2,1036.0,3.6533333333333333,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,7e9db7497a40020cba35684656137fc7a2a802fb,2018-02-12 19:27:05-08:00,2,1036.5,3.6666666666666665,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,6689cd03b07689e1823f9c0cac32424af65860b9,2018-03-04 10:30:54-08:00,2,1076.5,3.506172839506173,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,1858a3d7721b2394f6299c604caf7f2343d9897b,2018-03-26 18:53:22-07:00,2,1176.5,3.433333333333333,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,e81599c05bc87d31ee831ea413c371871db3dc93,2018-06-25 12:06:02-07:00,2,1188.5,3.488888888888889,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,058f17f2da0f5b6548bb28f46fbab195ff9b6bab,2018-08-01 11:58:50-07:00,2,1188.5,3.488888888888889,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,dbebf554e4d9ff7fe267e27f3e854804153b12a5,2018-09-25 14:30:29-07:00,2,1275.0,3.752688172043011,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,243bca574a8e29d53db6897b565044937d12bb13,2019-06-17 13:56:25-07:00,2,1275.0,3.752688172043011,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,eb6b6ee8779ab96ef919ff74ba558c59c89a8447,2019-08-09 19:41:03+08:00,2,1275.0,3.752688172043011,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,e4e256709e5a5e605e7df58cb1b4a040df034e9e,2019-08-14 10:38:05+08:00,2,1275.0,3.752688172043011,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,cbe03879c587b9053e3e83816a8a1412836f037f,2019-08-15 11:10:39+08:00,2,1275.0,3.752688172043011,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,b888fef1a8bb3907aac7a1858ecc53fa3c08080c,2019-09-13 21:34:31+05:18,2,1275.0,3.752688172043011,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,d6e54d786d2e7c20ae5f634549288238f7144395,2019-10-14 17:10:42-07:00,2,1275.0,3.752688172043011,0.0
+azure,Azure-Samples/app-service-java-manage-storage-connections-for-web-apps-on-linux,a35b0403d2dd5fe6920b78608419ef3298111d2e,2020-01-14 16:23:06+08:00,2,1282.5,3.774193548387097,0.0

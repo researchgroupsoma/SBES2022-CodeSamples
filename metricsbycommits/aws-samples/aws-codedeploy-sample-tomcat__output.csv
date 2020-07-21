@@ -1,0 +1,21 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/aws-codedeploy-sample-tomcat,3a74117df0cbb3da61985cb1acdcce53b8da1ffa,2015-12-15 10:26:23-08:00,0,0,0,0
+aws,aws-samples/aws-codedeploy-sample-tomcat,2a4178ba9c2d183af02b44b0f6eabaf9070bfeb5,2016-03-07 20:52:51+00:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,e5535b6e0ef25e6d2e5883ceffebf8c0696e4fd4,2016-03-09 17:16:24-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,b5bdba52026200a9c9d2eca4edc119d95ad1f53c,2016-03-09 17:16:45-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,287becf9344fceb38b9b5f35d94abdf58980ce22,2016-03-09 17:24:04-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,7f28b8302e05a54b9ff43100386500fdc5848d08,2016-03-09 15:20:22-08:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,9aa722d58cc7d6fbd7c839b544ae8e7719843bc8,2016-04-19 11:40:25-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,4a35cb55d83535188a44cfaf138df43c1b97d07c,2016-05-02 08:40:18-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,2847e7cefb9c3af3083569dd67cc199e56618797,2016-05-25 16:54:21-07:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,bae11ec29ef6a8ac8a7c365d93a56fc33512c280,2016-07-06 11:32:59-04:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,9ea8c908fd8c94f32b85bbdfecb60f17f4c7ce95,2016-09-27 10:41:16-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,be3b3a6dd7ccb7434d03d049868ffde4e18b100a,2016-09-27 10:41:37-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,b607a8b0c077f6b6364fa403635c487c9bd6d081,2016-10-04 14:47:46-04:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,fc9ddc4f937defe81f82af3f808d527c4f0b112b,2017-01-19 23:50:04-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,bba931dc4166658d3de9075c4025599e9afdcee7,2017-01-20 00:00:18-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,0e357dd225c5d614f65d9ae067e45fb697e04ab1,2017-01-30 18:10:02-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,e86f11fdf3a5811b1c1066a53df64a7996f8f330,2017-01-30 18:17:52-05:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,6f320c486c103cd046eec61b74c71c1a15184035,2017-04-18 23:05:11-04:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,2101947c33b79e53b1331834c62260ce1cde05f8,2018-01-25 10:27:47-08:00,2,91.0,2.2222222222222223,0.0
+aws,aws-samples/aws-codedeploy-sample-tomcat,c8f91e9a4c466d592d26fbd45dab03572379a8a0,2018-01-25 10:43:28-08:00,2,91.0,2.2222222222222223,0.0

@@ -1,0 +1,26 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,1864ff578a6c84fd32f2d3e078094071eda7ea71,2017-02-06 12:32:39-08:00,0,0,0,0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,9eb235ea61bdd42a6cf5e9d551233c3ba8d879c4,2017-02-07 09:45:58-08:00,3,814.3333333333334,4.7164179104477615,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,cfe2834cb11bc4addc1ab5937d486b05f71fc52d,2017-02-07 10:41:31-08:00,3,464.6666666666667,4.2926829268292686,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,068e2ca04bd13c8271ff38136361a2d47d4448a6,2017-02-07 11:57:51-08:00,3,464.6666666666667,4.2926829268292686,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,ef939762d031e2caa91c14ec9c88040786952f9d,2017-04-14 17:56:33-07:00,3,524.0,3.78,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,7bb197fba14b76e6567fd56a6d15d66f22e67244,2017-04-14 18:26:51-07:00,3,524.0,3.78,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,203376de69d26f9af0029bf0e9334bdfbec287b3,2017-06-15 23:56:45-07:00,3,592.0,3.5161290322580645,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,ab74112c2c93a155ea318c177789e0b6cfca1579,2017-08-29 16:45:23-07:00,2,930.5,3.476923076923077,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,e2473651ed01036f0ebdfdd8093522e465804738,2017-10-05 11:25:04-07:00,2,985.0,3.6911764705882355,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,193cce78a4df009a1254395f64c98ed4f1a62d5c,2017-11-17 13:36:17-08:00,2,1009.0,3.6714285714285713,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,c3051ac2e87365eae7cfc4648c7ca56668120829,2017-12-12 12:32:28-08:00,2,1009.0,3.6714285714285713,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,a102712d8dd6bf9f799aedc4473cce79d6815dae,2018-02-09 20:31:06-08:00,2,1057.0,3.7534246575342465,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,780b03a3f93e3a51acbfa1be0d8cd9fd7c4aebf0,2018-02-12 19:23:09-08:00,2,1057.5,3.767123287671233,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,849f268a8857f7751905ca48415d1e5a5c295fd2,2018-03-04 10:26:47-08:00,2,1097.5,3.5949367088607596,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,0d71b2bb1cfe297153c70e15ae0a195ba65aa6aa,2018-03-26 18:48:22-07:00,2,1197.5,3.5113636363636362,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,d5bab86a297f0dea799aa211949d7d4403242eff,2018-06-25 12:01:50-07:00,2,1209.5,3.5681818181818183,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,1cad64dd31cf1f8f39e2ea92a7eb020756103c33,2018-08-01 11:54:32-07:00,2,1209.5,3.5681818181818183,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,fb895860121674754bdcb153fd1d107c7f1e5ee8,2018-09-25 14:20:00-07:00,2,1296.0,3.8351648351648353,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,b322c3aa51c1e9bce525363c4f715e0ad40f7b34,2019-06-17 13:51:40-07:00,2,1296.0,3.8351648351648353,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,36da930a388aae5db20763eb0dc899231653fc3f,2019-08-09 19:36:10+08:00,2,1296.0,3.8351648351648353,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,a7157bfd0915e0155dd34075679cc6baeb485f1d,2019-08-14 10:32:59+08:00,2,1296.0,3.8351648351648353,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,09dc21dcbd669c939cb702992ac8a1d12021a8d8,2019-08-15 11:05:13+08:00,2,1296.0,3.8351648351648353,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,f1374e3a45fb697592fa0ea50017b6858ba3f03f,2019-09-14 02:23:14+05:18,2,1296.0,3.8351648351648353,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,ef0fa09e5a4bc76fbf351d59b0478302d00d066b,2019-10-16 11:48:05-07:00,2,1296.0,3.8351648351648353,0.0
+azure,Azure-Samples/managed-disk-java-create-virtual-machine-using-specialized-disk-from-snapshot,9b6b699afacd550f82c374dd8bde37a5357db3a0,2020-01-14 16:17:30+08:00,2,1303.5,3.857142857142857,0.0

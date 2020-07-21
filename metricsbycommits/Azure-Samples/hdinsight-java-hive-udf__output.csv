@@ -1,0 +1,17 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/hdinsight-java-hive-udf,90b1381bc8109209d9c6637e40bcedaf3d6bff32,2016-06-28 16:08:37+00:00,0,0,0,0
+azure,Azure-Samples/hdinsight-java-hive-udf,9c8e4689003b19f934a1448811849eacc7e44618,2016-06-28 16:08:38+00:00,0,0,0,0
+azure,Azure-Samples/hdinsight-java-hive-udf,b05db5fb4ed3983e9e8bc5a1dc751708709274e0,2016-06-28 16:08:38+00:00,0,0,0,0
+azure,Azure-Samples/hdinsight-java-hive-udf,76ef0f044af375893e9956bb2c560c367b0f9b33,2016-06-28 16:08:38+00:00,0,0,0,0
+azure,Azure-Samples/hdinsight-java-hive-udf,750235842c4345b1a0a5b621eeb698d67b7c129d,2016-08-22 18:16:29-07:00,2,149.5,5.666666666666667,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,b7ea02068f0ea6dcaf2a1c3b0ce5720c31660dd7,2016-08-23 12:10:06-07:00,2,149.5,5.666666666666667,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,ff6a422e6b73f2f7d8ab70be60fcd49020037895,2016-08-23 13:41:35-07:00,2,133.5,5.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,8d96890fb3385c23e36a66115a0675665761e5aa,2016-08-23 13:43:20-07:00,2,133.5,5.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,00ec3bb07842269bf74706794064488810ee0a2d,2016-08-24 08:56:06-04:00,2,133.5,5.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,3df8351a3ca1162a62065f79f624c5d87850fbc9,2016-08-24 08:56:17-04:00,2,133.5,5.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,3fc06b9bcd5965ed43e78df13253cd4d47c78fb0,2016-08-24 14:31:20-04:00,2,133.5,5.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,cd9fdb737b663e9dace9425f48e31347628a5866,2017-11-07 14:15:04-05:00,2,133.5,5.0,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,f55e77b5993ebc13288f3eec5c02cd669d452617,2018-07-06 12:37:20-03:00,2,143.0,4.8,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,d2e2efcf04ab305e61a1baaede13aed4f0f4bb0d,2018-07-10 11:01:56-04:00,2,143.0,4.8,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,57a8464ace5676d2b4518e6ef43b003eb295fb88,2018-11-21 18:05:33-08:00,2,143.0,4.8,0.0
+azure,Azure-Samples/hdinsight-java-hive-udf,c4a2779414d4240a6f4f05025d3e8c5040e60f61,2019-07-17 14:30:52-07:00,2,143.0,4.8,0.0

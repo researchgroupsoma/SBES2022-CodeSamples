@@ -1,0 +1,17 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,7eb85cb2ab6232a4a07623fdfdf09f2c94a9c2e3,2018-12-14 12:24:13-08:00,0,0,0,0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,c05e2f0228a844331e8a858aee73d92c92161faa,2018-12-14 12:24:16-08:00,0,0,0,0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,5660af19c8ae8e9e757d4a2ecdfb547c1ce3eb1c,2018-12-14 12:24:17-08:00,0,0,0,0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,57e397bd4791b06f20cf01a2cb2d77a2c77bc538,2018-12-14 12:24:18-08:00,0,0,0,0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,99c31eb158227408cb7c49b3a5ffec9cb5ef20eb,2018-12-14 12:24:19-08:00,0,0,0,0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,4826d96adf1b28d0406f628af1a911cd7b718da4,2018-12-14 12:24:20-08:00,0,0,0,0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,930523e2c10260ec921cb23232c8d190e12f7031,2018-12-14 12:24:21-08:00,0,0,0,0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,1334f543a95c3d84463eb02d6a9cc70aa9be64ce,2018-12-17 13:37:17-08:00,1,176.0,4.0,0.0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,92583265fdb7622fb17999e9168c18f2a2bbc677,2018-12-17 13:40:56-08:00,1,176.0,4.0,0.0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,e566d0c6ef9157f2adb300f3fe42b8d4491f1e94,2018-12-17 14:42:16-08:00,1,176.0,4.0,0.0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,c826bd917c2c19294ae95b1c40386ce9b46c07e5,2018-12-17 15:07:01-08:00,1,176.0,4.0,0.0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,32ec357bdc22ac509f619e650748e1e9b55c3f14,2019-01-02 09:36:05-08:00,1,176.0,4.0,0.0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,cb8da2a2623159c4b88278c82a66ff7ca9a55e25,2019-01-02 12:31:09-08:00,1,176.0,4.0,0.0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,88a2fe4079cbb5a752b5a6577fcb6ef05408e833,2019-01-02 12:31:40-08:00,1,176.0,4.0,0.0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,adf22cce7337a8ee7361484e26b77c168566f3c3,2019-01-02 13:56:41-08:00,1,176.0,4.0,0.0
+azure,Azure-Samples/storage-java-V10-ha-ra-grs,f73c04742f3274955e4129c20f0612acefcb670a,2019-02-25 11:59:55-08:00,1,176.0,4.0,0.0

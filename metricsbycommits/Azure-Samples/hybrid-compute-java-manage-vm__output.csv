@@ -1,0 +1,21 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/hybrid-compute-java-manage-vm,e4ecc02c0b2e21098e9d112edf05c585495065d1,2018-10-08 11:21:54-07:00,0,0,0,0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,5a4b5d860972c87f57cbedd8fbac31dbc8acd06c,2018-10-08 11:21:57-07:00,0,0,0,0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,a311c7a80076f9451a81a616e8cd947e85cda92f,2018-10-08 11:21:59-07:00,0,0,0,0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,ffd257663e94609dc03531e65e078c6da30d49a4,2018-10-08 11:21:59-07:00,0,0,0,0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,6376aab20176bd7b6b9b3638cee54e60ec2f3f11,2018-10-08 11:22:00-07:00,0,0,0,0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,c65862c8564d9af6422dc5c73d83c1724775faa6,2018-10-08 11:22:02-07:00,0,0,0,0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,351f8408c7b6e4c58415b55d86f854d11a5693a4,2018-10-08 11:22:03-07:00,0,0,0,0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,d5ee0145eba49e35cdce82becd9d3a9c7dc3ce5b,2018-10-08 13:30:36-07:00,2,1247.5,3.4831460674157304,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,89d82d742705aabeb4f56945e04d2162165693ae,2018-10-08 14:21:15-07:00,2,1247.5,3.4831460674157304,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,6014899c9ef4980d432fd47e0c648591e2225ecd,2018-10-08 14:24:25-07:00,2,1247.5,3.4831460674157304,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,02286c9068f532fab45d404c4b7bcb1eb45a880f,2018-10-19 10:31:11-07:00,2,1247.5,3.4831460674157304,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,1e3d17a1c960ca952cb0feac0d8d98d84e5960b4,2018-10-20 21:03:59-07:00,2,1247.5,3.4831460674157304,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,91abc6d9fd19a64b5610668a98f1bf9ac2082b32,2018-10-23 14:45:36-07:00,2,1247.5,3.4831460674157304,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,d04026ee70cf7c908456ce56e8d97b31490b63bc,2019-04-15 22:13:20-07:00,2,1247.5,3.4831460674157304,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,7b338684cf33271d6bb8e93ac608fa04b91c1334,2019-06-17 14:20:28-07:00,2,1238.0,3.393258426966292,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,19dfc20bed6572da3e39047b278f6af9a6762d27,2019-09-13 05:01:15+05:18,2,1238.0,3.393258426966292,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,ae2940ecb2478b7d73e76a3957a9141f4005d06b,2019-10-14 17:42:11-07:00,2,1238.0,3.393258426966292,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,a21cb1f27e90096c0f0f699d27997aa2eb026be8,2020-03-17 18:09:30-07:00,2,1238.0,3.393258426966292,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,0670973b5ab533c796c63ea9d8c4cbbfd4fde2a2,2020-03-18 16:14:56-07:00,2,1238.0,3.393258426966292,0.0
+azure,Azure-Samples/hybrid-compute-java-manage-vm,07c59f36fb2ada0ffb404410d6efcfeaa137cdc3,2020-03-18 16:20:35-07:00,2,1238.0,3.393258426966292,0.0

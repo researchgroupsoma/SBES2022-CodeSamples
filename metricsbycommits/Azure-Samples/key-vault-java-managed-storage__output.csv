@@ -1,0 +1,19 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/key-vault-java-managed-storage,7a4541b7354ad5c1134b2511cb2d43aab37b7bf9,2018-04-26 15:20:24-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-managed-storage,aede9159c281aec21363448d95f7ad3faa994b91,2018-04-26 15:20:27-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-managed-storage,d1fe312caee74ff021a7100b1bc0c10a7043f42f,2018-04-26 15:20:28-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-managed-storage,bd4db3b73ffbb18f42b56a6e836fe0519680f7e8,2018-04-26 15:20:28-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-managed-storage,4e566aef3b98a05d32dec8918509925c2c7330e1,2018-04-26 15:20:29-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-managed-storage,8de803a7d33d2b451bdecde203fa1b5bcfcde0f7,2018-04-26 15:20:30-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-managed-storage,889175a75add8e41e2f4e1c6524127c438209900,2018-04-26 15:20:31-07:00,0,0,0,0
+azure,Azure-Samples/key-vault-java-managed-storage,2daf7f8b6fd3da2ebc49d7cfc1bc28fe1b6c4676,2018-05-23 16:21:29-07:00,5,72.4,1.736842105263158,0.022836733877193184
+azure,Azure-Samples/key-vault-java-managed-storage,e8197cfd0d6b2ec6b3b0b37fb20e15e045b41066,2018-05-23 16:37:28-07:00,5,72.2,1.736842105263158,0.02282887170149479
+azure,Azure-Samples/key-vault-java-managed-storage,59ac1de844d9c1e2c67b4b49441e6829265648b4,2018-05-23 16:58:31-07:00,5,72.2,1.736842105263158,0.02282887170149479
+azure,Azure-Samples/key-vault-java-managed-storage,ba8f378cf96c5033d1788804ef24a405c4ba868a,2018-05-23 16:58:45-07:00,5,72.4,1.736842105263158,0.022836733877193184
+azure,Azure-Samples/key-vault-java-managed-storage,d4e4b389977036b7581c03c1d4fa419edf99c5d9,2018-05-23 16:58:54-07:00,5,72.2,1.736842105263158,0.02282887170149479
+azure,Azure-Samples/key-vault-java-managed-storage,c4edbc6edb8a6deead5cb7dadbdda4d4db3e1187,2018-05-24 14:19:42-07:00,5,71.8,1.736842105263158,0.02282887170149479
+azure,Azure-Samples/key-vault-java-managed-storage,4a075c3c990a081c070bba583c477ca0a1539ce0,2018-05-25 13:30:31-07:00,5,72.0,1.8421052631578947,0.00030926493054721503
+azure,Azure-Samples/key-vault-java-managed-storage,9885017cbd11e65718fd2d4acd753e6a8a72e40b,2018-05-25 17:22:33-07:00,5,72.0,1.8421052631578947,0.00030926493054721503
+azure,Azure-Samples/key-vault-java-managed-storage,e2e696aad190900d82a7a0a09c5d7675ac192c2a,2018-05-25 17:29:37-07:00,5,72.0,1.8421052631578947,0.00030926493054721503
+azure,Azure-Samples/key-vault-java-managed-storage,b98e899ed5c03bd78dcf6ae4fcdf7fa7999094ad,2018-06-29 12:14:42-07:00,5,72.0,1.8421052631578947,0.00030926493054721503
+azure,Azure-Samples/key-vault-java-managed-storage,8bd3d9edf8d8727153f4c89d22a3546ccb290a5b,2018-06-29 15:16:11-07:00,5,72.0,1.8421052631578947,0.00030926493054721503

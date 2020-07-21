@@ -1,0 +1,19 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,1b68d396324040bc4c20810c4aba4403c226138c,2017-11-17 13:43:45-08:00,4,686.75,3.6451612903225805,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,cc5cee43169a1281adee236617de58b556a5d417,2017-12-12 12:40:36-08:00,4,686.75,3.6451612903225805,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,38690e3eb1cc091e78b8013e81e1e92cd4f44973,2018-02-09 20:53:36-08:00,4,710.75,3.7083333333333335,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,28fd107ddcaf200ac7d29d42fac0d8b4e22743bf,2018-02-12 19:31:48-08:00,4,711.25,3.71875,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,0704f3055a01b97b92c672f75bceb622d5c78a7e,2018-03-04 10:35:28-08:00,4,732.25,3.5980392156862746,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,7cdce84ea3a5c558ef7b5e7491ac873371c16757,2018-03-26 18:57:58-07:00,4,782.25,3.5315315315315314,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,f067917e3f979fb6ef1364dfe42262e47f419a56,2018-06-25 12:09:40-07:00,4,788.25,3.5765765765765765,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,0903b0184364e2e569169c17ffb4589574561539,2018-08-01 12:02:39-07:00,4,788.25,3.5765765765765765,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,b5a59e680bccbeefd832b808ecffd07d07ef08d7,2018-09-25 14:38:37-07:00,4,831.5,3.789473684210526,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,e64e7daeb2502ca2f2b32de3cc509c7fb224dd0c,2019-06-17 14:00:05-07:00,4,831.75,3.789473684210526,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,cbd7b82db038a7bce2c79f394bd34249d58c2a06,2019-08-09 19:45:13+08:00,4,831.75,3.789473684210526,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,09eae6f5d5d345375d91f490d0f5f17d0f934b3f,2019-08-14 10:41:59+08:00,4,831.75,3.789473684210526,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,36e7ccffdd5f243c84d21f90085b4445222fbad6,2019-08-15 11:15:11+08:00,4,831.75,3.789473684210526,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,37288444de771045757e9801e1dd5ca67e0e746c,2019-09-13 05:31:25+05:18,4,831.75,3.789473684210526,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,dfe673feb5f3f5d61245611a5c0da165dc5ad8aa,2019-09-24 11:20:33-07:00,4,831.75,3.789473684210526,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,52122794f29d1600a7dadfc383658157535bffc3,2019-10-16 10:50:40-07:00,4,831.75,3.789473684210526,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,b0159ff636eeaece10b4dbdbe32a9e079f4055cb,2019-10-16 10:50:55-07:00,4,831.75,3.789473684210526,0.0
+azure,Azure-Samples/aci-java-scale-up-containers-using-acs,f4f75c4fd05285ac3ea315a2863ebaf508eacc80,2020-01-14 16:27:59+08:00,4,835.5,3.807017543859649,0.0

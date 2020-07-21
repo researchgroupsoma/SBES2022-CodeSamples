@@ -1,0 +1,13 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/eventhub-java-manage-event-hub,32653b569ff1d30a03128ab9ba6d9bcd73e2bc85,2018-03-04 10:28:10-08:00,2,1069.5,3.6025641025641026,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,e42cc924021d66788ed0f00ca58c33f457d93bb0,2018-03-26 18:49:43-07:00,2,1169.5,3.5172413793103448,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,67db6de3388e3e8770d6c403bf4a2564a865805c,2018-06-25 12:03:01-07:00,2,1181.5,3.574712643678161,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,7015522d55d6798beb58f4b11ab6565615e555dc,2018-08-01 11:55:37-07:00,2,1181.5,3.574712643678161,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,10a5b923213575b31be62f2667a2ab946358af10,2018-09-25 14:23:14-07:00,2,1268.0,3.8444444444444446,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,08a090a681881c3f7655ce23d31e6c469201a5cd,2019-06-17 13:52:50-07:00,2,1268.0,3.8444444444444446,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,31436224fbac82670f44cbe8de3dde2fb42b27eb,2019-08-09 19:37:23+08:00,2,1268.0,3.8444444444444446,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,8bac18b2f3add6b6d3d6257e1ed0275a8c0972eb,2019-08-14 10:34:17+08:00,2,1268.0,3.8444444444444446,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,1aba63b9fe451df1cc17ae3221bcd7703acbc8fc,2019-08-15 11:06:28+08:00,2,1268.0,3.8444444444444446,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,8caa9517b4fe4ac8bab098c62ec034a727dbb32a,2019-09-14 02:27:27+05:18,2,1268.0,3.8444444444444446,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,087e755ed6528e7e316c57b4c4154c0582f0f0c5,2019-10-16 11:55:03-07:00,2,1268.0,3.8444444444444446,0.0
+azure,Azure-Samples/eventhub-java-manage-event-hub,8450669411bd3da5bc3997f0254b4118c7eab706,2020-01-14 16:18:57+08:00,2,1275.5,3.8666666666666667,0.0

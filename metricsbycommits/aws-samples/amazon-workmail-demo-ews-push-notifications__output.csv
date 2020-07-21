@@ -1,0 +1,11 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,4891448aaab2d8a1628264b1fef5d732d81658e0,2018-02-06 11:13:07-08:00,0,0,0,0
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,97fb49af14a9f153b2dee752a3179c35627ff4d3,2018-02-06 11:13:09-08:00,0,0,0,0
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,ba764d9f3bc805fffa4c597be1f0ae785d9a3879,2018-02-06 11:13:09-08:00,0,0,0,0
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,f4eb9dcaae889d66d62b6c68d589f638bc3d27fb,2018-02-06 11:13:10-08:00,0,0,0,0
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,69f4e5b278b3b6d3b74e52537e9a31ee5e95281b,2018-02-06 11:13:11-08:00,0,0,0,0
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,9767dffec323b95dedc5c607fc4a1800c3cd748f,2018-02-06 11:13:12-08:00,0,0,0,0
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,ee18c7b50cb0a57a63bca06e9a39b6b585bb318a,2018-02-06 11:13:13-08:00,0,0,0,0
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,6707be9c5ea4eaf63b342666abb02303ab802c31,2018-02-07 12:55:59+00:00,7,42.285714285714285,1.9090909090909092,0.0442608328802245
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,88decd5f6694489785f86f26ce374dac1f2ad91a,2018-02-07 13:01:59+00:00,7,42.285714285714285,1.9090909090909092,0.0442608328802245
+aws,aws-samples/amazon-workmail-demo-ews-push-notifications,6fed9896cd06bf4ff88722b6800917b4bd210a83,2018-02-09 12:59:47+00:00,7,42.285714285714285,1.9090909090909092,0.0442608328802245

@@ -1,0 +1,12 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/bootiful-azure,198e91f1d2191bd919a2f685e383302f97cdedc6,2018-11-27 18:08:55-08:00,0,0,0,0
+azure,Azure-Samples/bootiful-azure,9df0461fd01a6f3862263ad6bcf5b9617aa4796f,2018-11-27 18:08:57-08:00,0,0,0,0
+azure,Azure-Samples/bootiful-azure,8b38785a492d6e2a15161b59e171cbc9b10866aa,2018-11-27 18:08:57-08:00,0,0,0,0
+azure,Azure-Samples/bootiful-azure,877a3feb9f4bc67c1407609fb7af5e496dd76072,2018-11-27 18:08:58-08:00,0,0,0,0
+azure,Azure-Samples/bootiful-azure,4acfc88bcafc3531564cc0fe0be6b7441ed82d3e,2018-11-27 18:08:59-08:00,0,0,0,0
+azure,Azure-Samples/bootiful-azure,612db6c4784bad0ca3c836cebbbb6f8a449c7a34,2018-11-27 18:09:00-08:00,0,0,0,0
+azure,Azure-Samples/bootiful-azure,eeb1c29d2e9d76bd8092752cc58fe734668f3aa1,2018-11-27 18:09:01-08:00,0,0,0,0
+azure,Azure-Samples/bootiful-azure,d6c78c1a61538efd3ecc681c2d2baf808a44a8be,2018-11-28 03:19:25+01:00,2,80.5,1.0769230769230769,0.08030766993761063
+azure,Azure-Samples/bootiful-azure,a0fa4841f5d68bf7fc90dfd354c12378341c0eff,2018-11-28 04:55:20+01:00,2,76.5,1.1538461538461537,0.08030766993761063
+azure,Azure-Samples/bootiful-azure,33b29ba271d03988008ab3a4e34f12aa7898741b,2018-11-28 04:58:32+01:00,2,76.5,1.1538461538461537,0.08030766993761063
+azure,Azure-Samples/bootiful-azure,f66f7ec16eb185a07b41c3165c468a28aa61cc9c,2018-11-28 08:45:14+00:00,2,76.5,1.1538461538461537,0.08030766993761063

@@ -1,0 +1,2 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/azure-cosmos-db-mongodb-java-changestream,e234c2af11ae6aba31cab04a5f20dea2d65ca330,2020-05-15 13:06:36+05:18,1,78.0,6.0,0.0

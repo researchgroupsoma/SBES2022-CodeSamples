@@ -1,0 +1,14 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,0f98ba4e737693f24f42476946bb42950e9e9b6c,2018-02-13 23:48:20-08:00,2,1048.5,3.55,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,12ebfb5a2f4e1513d12fd10403be90fb2e496d88,2018-03-04 10:31:36-08:00,2,1088.5,3.4069767441860463,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,3ff422206198de2577d3dae13ce1e8981c0b14f7,2018-03-26 18:54:03-07:00,2,1188.5,3.3473684210526318,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,334be0d045f962db15135ddd0d18c44c8efd6bbf,2018-06-25 12:59:39-07:00,2,1200.5,3.4,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,074e5be9005b682a3c556ef6810866b6752fabe0,2018-08-01 11:59:14-07:00,2,1200.5,3.4,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,1563fe1644210d7164433375d13593956e3e8cfb,2018-09-25 14:31:28-07:00,2,1287.0,3.6530612244897958,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,d0b0442f7329487824dd91d844568d8bbf16f6e2,2019-06-17 15:26:55-07:00,2,1289.5,3.6530612244897958,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,af4cc3554a10468a3a6b46624770d5c8c49aef07,2019-08-09 19:41:43+08:00,2,1289.5,3.6530612244897958,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,9256de494711d6d6846933452f830af9f49ea812,2019-08-14 10:38:34+08:00,2,1289.5,3.6530612244897958,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,b70f64255de893c6f6a52774ae6bab79c7bba920,2019-08-15 11:11:10+08:00,2,1289.5,3.6530612244897958,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,b60ff6a9f806701cc501f47d6dae219cd9564b06,2019-09-13 21:33:26+05:18,2,1289.5,3.6530612244897958,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,8a1df32ca525fa973dcc0feb928f842bd2904560,2019-10-23 11:08:54-07:00,2,1289.5,3.6530612244897958,0.0
+azure,Azure-Samples/app-service-java-manage-logs-for-function-apps,73afdca5be3fd506b5e458b2a0c3101967ffc901,2020-01-14 16:23:39+08:00,2,1297.0,3.673469387755102,0.0

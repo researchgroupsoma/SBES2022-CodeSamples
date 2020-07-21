@@ -1,0 +1,14 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/sql-database-java-manage-import-export-db,1ddc000cd2157293c162829e86f43ce16f88e96a,2018-03-04 10:29:13-08:00,2,1072.0,3.5641025641025643,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,b030cc9109635729c2ee50141ce4641cc445b62f,2018-03-26 18:50:56-07:00,2,1172.0,3.4827586206896552,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,f1fbe4eb4a7f895ee43fbc23a6ccf3ba4274ad28,2018-06-25 12:04:08-07:00,2,1184.0,3.5402298850574714,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,09a89f6ecbfb6ed4d45aae8a3a83dd60d250906c,2018-08-01 11:56:42-07:00,2,1184.0,3.5402298850574714,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,91e950db8f5afa081c66f33fd6c1df934f3f9d08,2018-09-25 14:25:23-07:00,2,1270.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,c6e7f82de9ec2d20cdb4470717de1f1213c42c21,2019-06-17 13:53:56-07:00,2,1270.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,d323f3c51b9358f3505bfb25448cf5a39e29e722,2019-08-09 19:38:33+08:00,2,1270.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,2eca1af0ad72a23bbe2b61da2e9edc8c8cd423fa,2019-08-14 10:35:28+08:00,2,1270.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,4316026612b31b8f8d7680091c5ce290f117128f,2019-08-15 11:07:43+08:00,2,1270.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,8f9c6b24f8ee80f31e8c980ef3ba2d1a660509d6,2019-09-14 01:47:06+05:18,2,1270.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,71410be336421ebaf10aa3e9ef3fb08bb1656853,2019-10-01 10:30:30-07:00,2,1270.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,ea99de03fee35d87e4983cfd59698b731a51f806,2019-10-01 15:24:11-07:00,2,1270.5,3.811111111111111,0.0
+azure,Azure-Samples/sql-database-java-manage-import-export-db,e5c15b0ae78210bb8bc53fc7fec5fbf34bafc374,2020-01-14 16:19:56+08:00,2,1278.0,3.8333333333333335,0.0

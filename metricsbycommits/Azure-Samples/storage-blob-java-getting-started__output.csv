@@ -1,0 +1,15 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/storage-blob-java-getting-started,c917c0ea7f0fe402f36df62b550248ed61d7a3f3,2015-09-15 15:21:08-07:00,0,0,0,0
+azure,Azure-Samples/storage-blob-java-getting-started,315e31f40683a82ea42325efce5294e6eb89d102,2015-09-15 15:21:50-07:00,2,40.0,2.0,0.4208740293979645
+azure,Azure-Samples/storage-blob-java-getting-started,897844f5b46bcdd3e6787c9887bd114502924308,2015-09-15 15:28:41-07:00,1,60.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,aa8a3a9602307636995a4799378cf596239ba055,2015-09-15 16:43:33-07:00,1,53.0,3.0,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,2961e16f8e350cbe2f43d83f0ce3d6580fe10f61,2015-09-18 10:29:57-07:00,1,63.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,19ef0b3a654d47dc92972dd7899123257288df3b,2015-09-18 11:46:34-07:00,1,63.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,e7ffdf9c84160cf99368756e3d9fb9006af9b53e,2015-09-18 11:48:55-07:00,1,63.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,34602cfbc9a6438fd13ed6ada98d0add1b4d4a35,2015-09-21 11:00:14-07:00,1,63.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,e2a8b64aad19b5cb01b00b2a1fd29701158b75a9,2015-09-21 11:11:41-07:00,1,63.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,58b99db76d45d2835d35bca150c38c6f2f3c01ad,2015-09-21 11:11:42-07:00,1,63.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,b5d8a23a451e5341dc187e674665585ae71a85f8,2015-09-21 11:16:42-07:00,1,63.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,34dcc35363e307528e670ddd37312e756c9b166c,2015-09-21 11:16:43-07:00,1,63.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,cb68225ba10cf3e83cc359a57f5b768c8a90ead7,2015-09-22 13:13:26-07:00,1,63.0,3.5,0.0
+azure,Azure-Samples/storage-blob-java-getting-started,d4c7429bb251eeb512cf5dd34eaec297fd0feed2,2015-09-22 13:13:27-07:00,1,63.0,3.5,0.0

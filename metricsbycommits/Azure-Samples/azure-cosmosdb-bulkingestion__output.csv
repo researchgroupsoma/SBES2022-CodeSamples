@@ -1,0 +1,12 @@
+framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,71be09db6d9c451925efe032c7745c2232a3e3cb,2019-07-09 11:28:27-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,2605d8b7c0218165c36f968af7671bf95b07a3ee,2019-07-09 11:28:30-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,321f593f11162b5f84f626ea12645e769692b438,2019-07-09 11:28:31-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,01ec0f9dd8d9a75d2b715df54f92054d3dfab647,2019-07-09 11:28:32-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,694295c2b32d6b58f8bedfd50bacced329814bfe,2019-07-09 11:28:33-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,09d4bd3adda82f6130e121bd8b760be755390ad0,2019-07-09 11:28:34-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,c2393baf09d6f7099e82089a37a0eb6fffccb03d,2019-07-09 11:28:34-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,8dbf46b27f67404c3cab8f39421ee2257f29d3b5,2019-07-09 11:28:35-07:00,0,0,0,0
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,83a87d56470376ca608b885ae1c77fb82827e104,2019-07-09 11:31:41-07:00,27,85.29629629629629,1.8160919540229885,0.0342458034062508
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,6187980dafdae5f6a5d99490c4ecde3568327581,2019-07-09 11:45:14-07:00,27,85.29629629629629,1.8160919540229885,0.0342458034062508
+azure,Azure-Samples/azure-cosmosdb-bulkingestion,ddfbba473c405a0c5444e61d32c398aa768cfef7,2019-09-13 05:22:18+05:18,27,85.29629629629629,1.8160919540229885,0.0342458034062508
