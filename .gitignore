@@ -207,3 +207,5 @@ understandmetrics/understand
 /understandmetrics/spring-guides/
 /understandmetrics/googlesamples/
 /generalprojects/repositories/
+
+*./.ipynb_checkpoints
