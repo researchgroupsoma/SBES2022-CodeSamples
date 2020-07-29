@@ -1,7 +1,7 @@
-class UnderstandMetrics(object):
-	"""docstring for UnderstandMetrics"""
+class UndMetrics(object):
+	"""docstring for UndMetrics"""
 	def __init__(self, metrics):
-		super(UnderstandMetrics, self).__init__()
+		super(UndMetrics, self).__init__()
 		self.framework = metrics[0]
 		self.sample = metrics[1]
 		self.avgCyclomatic = metrics[2]
