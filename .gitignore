@@ -208,4 +208,4 @@ understandmetrics/understand
 /understandmetrics/googlesamples/
 /generalprojects/repositories/
 
-*./.ipynb_checkpoints
+.ipynb_checkpoints
