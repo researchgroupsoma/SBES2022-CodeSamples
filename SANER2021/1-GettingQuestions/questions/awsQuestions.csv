@@ -1,0 +1,15 @@
+framework,path,id,creationDate,ownerUserId,postTypeId,acceptedAnswerId
+aws,aws-samples/amazon-kinesis-learning,62915663,2020-07-15T13:10:04.770,253986,1,
+aws,aws-samples/alexa-web-information-service-api-samples,56782949,2019-06-27T02:00:10.257,5873616,1,56953134
+aws,aws-samples/aws-cognito-java-desktop-app,51162584,2018-07-03T20:43:27.213,5586040,1,
+aws,aws-samples/aws-cognito-java-desktop-app,56637042,2019-06-17T18:36:44.990,6657172,1,56812530
+aws,aws-samples/aws-cognito-java-desktop-app,56813312,2019-06-28T21:23:06.187,6657172,1,
+aws,aws-samples/aws-cognito-java-desktop-app,57658757,2019-08-26T13:20:48.383,806407,1,57669766
+aws,aws-samples/aws-cloudhsm-jce-examples,53394842,2018-11-20T14:08:03.233,3813183,1,
+aws,aws-samples/aws-cloudhsm-jce-examples,57189318,2019-07-24T18:39:03.213,5302431,1,
+aws,aws-samples/aws-cloudhsm-jce-examples,57963517,2019-09-16T19:48:18.350,2145133,1,
+aws,aws-samples/amazon-ecs-java-microservices,57786244,2019-09-04T10:12:02.990,4120269,1,57789139
+aws,aws-samples/aws-dynamodb-examples,61346821,2020-04-21T15:10:27.450,2693135,1,61352705
+aws,aws-samples/aws-transcribe-streaming-example-java,53743785,2018-12-12T13:09:40.347,671580,1,
+aws,aws-samples/aws-transcribe-streaming-example-java,55073003,2019-03-09T01:06:06.370,9194674,1,
+aws,aws-samples/aws-device-farm-appium-cucumber-tests-for-sample-app,54282521,2019-01-21T01:31:35.477,3002733,1,
