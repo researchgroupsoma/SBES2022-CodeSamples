@@ -1,0 +1,64 @@
+,trend,p
+AvgCyclomatic,increasing,0.00000000001656230708
+AvgCyclomaticModified,increasing,0.00000000001127031801
+AvgCyclomaticStrict,increasing,0.00000000001822675344
+AvgEssential,increasing,0.00000000000178013160
+AvgLine,increasing,0.00000000001434097285
+AvgLineBlank,increasing,0.00000000000000288658
+AvgLineCode,increasing,0.00000000002797961862
+AvgLineComment,increasing,0.00000000000002309264
+CountClassBase,increasing,0.00000000004484235205
+CountClassCoupled,increasing,0.00000000000165156777
+CountClassCoupledModified,increasing,0.00000000008220535364
+CountClassDerived,increasing,0.00000000000120992105
+CountDeclClass,no trend,1.00000000000000000000
+CountDeclClassMethod,increasing,0.00000000000000022204
+CountDeclClassVariable,increasing,0.00000000000099764641
+CountDeclExecutableUnit,no trend,1.00000000000000000000
+CountDeclFile,no trend,1.00000000000000000000
+CountDeclFunction,no trend,1.00000000000000000000
+CountDeclInstanceMethod,increasing,0.00000000002103495156
+CountDeclInstanceVariable,increasing,0.00000000000173661086
+CountDeclMethod,increasing,0.00000000000258926214
+CountDeclMethodAll,increasing,0.00000000000222977192
+CountDeclMethodDefault,increasing,0.00970721235238181102
+CountDeclMethodPrivate,increasing,0.00000000002899613882
+CountDeclMethodProtected,increasing,0.00000010462973820680
+CountDeclMethodPublic,increasing,0.00000000000002309264
+CountInput,no trend,1.00000000000000000000
+CountLine,increasing,0.00000000001822675344
+CountLineBlank,increasing,0.00000000000018274271
+CountLineCode,increasing,0.00000000003715339147
+CountLineCodeDecl,increasing,0.00000000000884647910
+CountLineCodeExe,increasing,0.00000000004925038155
+CountLineComment,increasing,0.00000000003715339147
+CountOutput,no trend,1.00000000000000000000
+CountPath,no trend,1.00000000000000000000
+CountPathLog,no trend,1.00000000000000000000
+CountSemicolon,increasing,0.00000000003224864820
+CountStmt,increasing,0.00000000004178057900
+CountStmtDecl,increasing,0.00000000002426525647
+CountStmtExe,increasing,0.00000000004484235205
+Cyclomatic,no trend,1.00000000000000000000
+CyclomaticModified,no trend,1.00000000000000000000
+CyclomaticStrict,no trend,1.00000000000000000000
+Essential,no trend,1.00000000000000000000
+Knots,no trend,1.00000000000000000000
+MaxCyclomatic,increasing,0.00000000001504685265
+MaxCyclomaticModified,increasing,0.00000000001504685265
+MaxCyclomaticStrict,increasing,0.00000000002668354426
+MaxEssential,increasing,0.00000000000002420286
+MaxEssentialKnots,no trend,1.00000000000000000000
+MaxInheritanceTree,increasing,0.00000000007492606535
+MaxNesting,increasing,0.00000000016378209899
+MinEssentialKnots,no trend,1.00000000000000000000
+PercentLackOfCohesion,increasing,0.00000000000285993451
+PercentLackOfCohesionModified,increasing,0.00000000000285993451
+RatioCommentToCode,increasing,0.00000000003380873359
+SumCyclomatic,increasing,0.00000000001073852118
+SumCyclomaticModified,increasing,0.00000000000764566188
+SumCyclomaticStrict,increasing,0.00000000001434097285
+SumEssential,increasing,0.00000000000024980018
+numberJavaFiles,increasing,0.00000000000110400578
+readability,decreasing,0.00000048361142401809
+questions,increasing,0.03555873256491803858
