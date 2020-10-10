@@ -1,2 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/sql-database-java-manage-sql-server-security-alert-policy,3d2ea7720887c582a17709f2aa53443daabd3a1e,2020-01-14 16:20:43+08:00,2,1265.5,3.8222222222222224,0.0

@@ -1,6 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/java-meme-generator-sample,e10d15ec942516d21ae1cb7573064664de13b42c,2012-12-07 17:08:19-08:00,0,0,0,0
-aws,aws-samples/java-meme-generator-sample,2a0200bb722ace364877f4d74b19fce5d88a17b7,2012-12-13 18:56:09-08:00,6,79.5,1.7272727272727273,0.0
-aws,aws-samples/java-meme-generator-sample,39437392507d4591c82c6ff226e3e6bcdef4e0f7,2013-09-23 14:46:56-07:00,5,75.8,1.6875,0.0
-aws,aws-samples/java-meme-generator-sample,c8eebd327e93832da9c08bc0f5ddf1ddd687d3f5,2018-01-25 10:29:13-08:00,5,75.8,1.6875,0.0
-aws,aws-samples/java-meme-generator-sample,8fadaf29b66ac0e2136b6f12eb9d4623935b3e5d,2018-01-25 11:02:02-08:00,5,75.8,1.6875,0.0

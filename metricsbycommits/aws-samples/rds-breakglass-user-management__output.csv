@@ -1,4 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/rds-breakglass-user-management,d258a0f0d8120d91ebcae608cca4adac85cb4805,2019-10-08 08:11:24-07:00,0,0,0,0
-aws,aws-samples/rds-breakglass-user-management,3330a400cb45f179cb9cf09320fb8c849078d621,2019-10-08 16:33:01+01:00,9,69.0,1.2857142857142858,0.006062169352339374
-aws,aws-samples/rds-breakglass-user-management,3779e7e8aa004fcafcad685aa8f8b9546d97a9c5,2019-10-08 16:33:31+01:00,9,69.0,1.2857142857142858,0.006062169352339374

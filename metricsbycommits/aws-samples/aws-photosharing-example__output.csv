@@ -1,6 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/aws-photosharing-example,4b27e577a033b41b24dead6808826e386e886e9b,2017-03-23 10:43:10-07:00,0,0,0,0
-aws,aws-samples/aws-photosharing-example,da8d8ed862efe9ade2903abe548425eeaa89cd4d,2017-03-26 19:59:27+02:00,0,0,0,0
-aws,aws-samples/aws-photosharing-example,da4246793c04983a3d495b7582e97a63edda1892,2017-03-26 19:59:44+02:00,0,0,0,0
-aws,aws-samples/aws-photosharing-example,61d0e681170bc7c97d298de9778160e5ab5d871f,2017-03-26 20:08:10+02:00,76,67.0657894736842,1.4662162162162162,0.007945558049055092
-aws,aws-samples/aws-photosharing-example,16584ca363ed870baa04fe32e2f8c9f8c7e43c20,2017-04-06 22:06:28+02:00,76,67.0657894736842,1.4662162162162162,0.00804890323275973

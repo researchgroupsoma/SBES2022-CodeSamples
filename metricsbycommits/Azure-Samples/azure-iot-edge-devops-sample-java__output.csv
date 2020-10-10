@@ -1,8 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/azure-iot-edge-devops-sample-java,39f1e7946de2c25c7468ff691f7714f612e2624d,2019-05-30 02:34:22+00:00,3,66.66666666666667,1.6666666666666667,0.0
-azure,Azure-Samples/azure-iot-edge-devops-sample-java,5a4134babf6cc78bd71173e2e871c64792f23f21,2019-05-30 04:59:04+00:00,3,66.66666666666667,1.6666666666666667,0.0
-azure,Azure-Samples/azure-iot-edge-devops-sample-java,06e7b48826d1cf18f41aa74b4f8cf5e4292aa359,2019-06-03 01:41:09+00:00,3,66.66666666666667,1.6666666666666667,0.0
-azure,Azure-Samples/azure-iot-edge-devops-sample-java,1c3081a409d0bf05259214be6ee2ce7bdc521684,2019-06-13 10:14:05+08:00,3,66.66666666666667,1.6666666666666667,0.0
-azure,Azure-Samples/azure-iot-edge-devops-sample-java,cca599d065b4af31c6e8e003ece4d81e31f36d84,2019-07-15 10:48:40+08:00,3,66.66666666666667,1.6666666666666667,0.0
-azure,Azure-Samples/azure-iot-edge-devops-sample-java,f32af93495b833fb61ab0f8fd2fbba5e69c6ba5d,2020-03-30 13:13:37+08:00,3,66.66666666666667,1.6666666666666667,0.0
-azure,Azure-Samples/azure-iot-edge-devops-sample-java,6fe888e4612c302d5ccd82148e9f764a1738a199,2020-04-01 10:43:49+08:00,3,66.66666666666667,1.6666666666666667,0.0

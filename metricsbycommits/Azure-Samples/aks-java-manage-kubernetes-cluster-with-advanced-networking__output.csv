@@ -1,2 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/aks-java-manage-kubernetes-cluster-with-advanced-networking,c4bf430d7b0c0fa1f61219e3f574e9acd4c5e793,2020-01-14 16:27:09+08:00,3,924.6666666666666,3.6448598130841123,0.0

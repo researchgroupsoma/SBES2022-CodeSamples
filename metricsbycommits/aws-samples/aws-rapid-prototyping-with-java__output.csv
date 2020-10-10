@@ -1,3 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/aws-rapid-prototyping-with-java,492eb6796c679607301238c77a6c67fab95a6658,2020-04-30 18:30:17-07:00,0,0,0,0
-aws,aws-samples/aws-rapid-prototyping-with-java,d40c9c2fd59b32f68217d9cbff38d4d958121c1d,2020-05-01 11:39:33+09:00,10,50.9,1.6071428571428572,0.09328032894991338

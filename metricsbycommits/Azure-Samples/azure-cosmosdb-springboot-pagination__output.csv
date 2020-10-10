@@ -1,9 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/azure-cosmosdb-springboot-pagination,27fb94edda0492d381dbaffc9f1c938a007c51e4,2019-08-01 12:53:48-07:00,0,0,0,0
-azure,Azure-Samples/azure-cosmosdb-springboot-pagination,24b6220b7b17d700ae0c641167c6a7f0bbedd786,2019-08-01 12:53:52-07:00,0,0,0,0
-azure,Azure-Samples/azure-cosmosdb-springboot-pagination,ec98be2b09b7b9d6e8912107eefbed7dfd241356,2019-08-01 12:53:53-07:00,0,0,0,0
-azure,Azure-Samples/azure-cosmosdb-springboot-pagination,309a48fb5b0422174bf4ef63b170930b5f33d445,2019-08-01 12:53:54-07:00,0,0,0,0
-azure,Azure-Samples/azure-cosmosdb-springboot-pagination,dd8115e5cc92e05317e0924b62553839a325c05a,2019-08-01 13:01:26-07:00,9,21.444444444444443,1.5,0.21696873840927663
-azure,Azure-Samples/azure-cosmosdb-springboot-pagination,52d45e2bd2fa7f2d82bfa612e867d15cd877d836,2019-09-23 14:51:16-07:00,9,21.444444444444443,1.5,0.21696873840927663
-azure,Azure-Samples/azure-cosmosdb-springboot-pagination,03d50ab0a2d962f7a89c08b8ca43ee7ca4247444,2019-09-23 15:55:34-07:00,9,21.444444444444443,1.5,0.21696873840927663
-azure,Azure-Samples/azure-cosmosdb-springboot-pagination,3f4dc00f3e11e909a81b6ca0257202f3f548dd39,2019-09-24 09:42:59-07:00,9,21.444444444444443,1.5,0.21696873840927663

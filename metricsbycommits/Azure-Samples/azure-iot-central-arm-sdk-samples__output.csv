@@ -1,8 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/azure-iot-central-arm-sdk-samples,d0ec9d76b968c3b553c9bf20c579c5ee03f39b30,2020-05-15 14:09:54+00:00,0,0,0,0
-azure,Azure-Samples/azure-iot-central-arm-sdk-samples,9f9aa4b750141590c0f5b669fbf310807ad05d94,2020-05-15 07:09:59-07:00,0,0,0,0
-azure,Azure-Samples/azure-iot-central-arm-sdk-samples,5255e01e3e0184d742a681f1c7f5d5fc6a3332d6,2020-05-15 07:10:00-07:00,0,0,0,0
-azure,Azure-Samples/azure-iot-central-arm-sdk-samples,96b0d59bbec2a89d2b7d2d82a884d8e12763e16e,2020-05-15 07:10:01-07:00,0,0,0,0
-azure,Azure-Samples/azure-iot-central-arm-sdk-samples,e0ccbfb38f6dc90249b4e35f45ef7a2d2cdcd1ec,2020-05-15 07:10:02-07:00,0,0,0,0
-azure,Azure-Samples/azure-iot-central-arm-sdk-samples,a648cf373b2fbe0b3f0e6679fd66f7b5d93f98b7,2020-05-18 11:42:59+01:00,1,63.0,3.0,0.0
-azure,Azure-Samples/azure-iot-central-arm-sdk-samples,42744187c3a729ee91a8f0a10ea4ab7bd920ed48,2020-05-18 17:04:03+01:00,1,63.0,3.0,0.0

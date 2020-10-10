@@ -1,1 +1,0 @@
-from .maintainers import maintainers

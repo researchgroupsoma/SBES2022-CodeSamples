@@ -1,2 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/traffic-manager-java-manage-simple-profiles,7210cfef4c4dec03d9044df0ae47625976e065dd,2020-01-14 16:16:27+08:00,2,1272.0,3.8351648351648353,0.0

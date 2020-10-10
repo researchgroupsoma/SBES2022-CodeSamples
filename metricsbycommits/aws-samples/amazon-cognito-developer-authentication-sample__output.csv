@@ -1,8 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/amazon-cognito-developer-authentication-sample,c24b536e86b76595303fcfac4c6906bcb5b4f33a,2015-01-07 13:52:11-08:00,0,0,0,0
-aws,aws-samples/amazon-cognito-developer-authentication-sample,5259ced13493bb0cf5e05495afa5fd17f2491165,2015-02-17 17:12:55-08:00,17,62.0,1.8021978021978022,0.011227678413407001
-aws,aws-samples/amazon-cognito-developer-authentication-sample,1982926d65e502d8daebe7dff4ad011fe5240b9f,2015-02-18 11:55:30-08:00,17,62.0,1.8021978021978022,0.011227678413407001
-aws,aws-samples/amazon-cognito-developer-authentication-sample,9cde86736ba77ad2c32b8f973efea76984e9f020,2015-05-15 16:47:23-07:00,17,62.11764705882353,1.8021978021978022,0.011227678413407001
-aws,aws-samples/amazon-cognito-developer-authentication-sample,a65cace66314fef8dcaa69d0b2f67428abab0404,2015-05-15 16:51:50-07:00,17,62.11764705882353,1.8021978021978022,0.011227678413407001
-aws,aws-samples/amazon-cognito-developer-authentication-sample,72d7e9ff29296d408dfdb0891ff2bdab6344a505,2015-05-15 16:57:43-07:00,17,62.11764705882353,1.8021978021978022,0.011227678413407001
-aws,aws-samples/amazon-cognito-developer-authentication-sample,60092af89ca250c6a480e9e2924bc4745bcb0ee9,2015-09-22 18:08:03-07:00,17,62.11764705882353,1.8021978021978022,0.011227678413407001

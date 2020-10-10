@@ -1,5 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-android,googlesamples/android-SimpleMediaPlayer,53fbbbafc9ab14d51041fc52ced2a6926484c274,2017-08-17 13:00:18-07:00,4,91.0,1.3673469387755102,0.08187977969646454
-android,googlesamples/android-SimpleMediaPlayer,2df505059f05d6c88ecae5156a56c759fa4d6d44,2017-08-22 09:57:55-07:00,4,91.0,1.3673469387755102,0.08187977969646454
-android,googlesamples/android-SimpleMediaPlayer,80a123e90073eae0a6ce8ca4548d84cb01508567,2017-08-22 11:07:59-07:00,4,91.0,1.3673469387755102,0.08187977969646454
-android,googlesamples/android-SimpleMediaPlayer,b33953390d4240c803aab524835ca4e99a88ea85,2019-10-08 10:30:11-07:00,4,91.0,1.3673469387755102,0.08187977969646454

@@ -1,2 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/cosmosdb-java-create-cosmosdb-table-with-virtual-network-rule,8543ee70d048566b2348393ed76f1f310dd9b3f7,2020-01-14 16:16:08+08:00,2,1266.0,3.8666666666666667,0.0

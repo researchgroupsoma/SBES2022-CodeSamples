@@ -1,7 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/functions-docs-java,7571372d3384eecb0105e4320ee33ac127ec096d,2020-01-22 18:57:10+00:00,0,0,0,0
-azure,Azure-Samples/functions-docs-java,0d82befb7c713ab14555f47242d88162b79d6aeb,2020-01-22 10:57:16-08:00,0,0,0,0
-azure,Azure-Samples/functions-docs-java,aeade22f3462e72116d2003a3e51aa1668a80192,2020-01-22 10:57:17-08:00,0,0,0,0
-azure,Azure-Samples/functions-docs-java,996836e6e55ef72bed5196d9fb96c7ecc5cb0a96,2020-01-22 10:57:18-08:00,0,0,0,0
-azure,Azure-Samples/functions-docs-java,df15332c4950d700f65d6b7f5870f90d2e0839b8,2020-01-22 10:57:19-08:00,0,0,0,0
-azure,Azure-Samples/functions-docs-java,e7c315826e2b88803dac499d86fbd6a1e3fa004a,2020-02-11 09:41:29-05:00,7,20.428571428571427,1.1428571428571428,0.03751777405185359

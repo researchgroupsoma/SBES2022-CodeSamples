@@ -1,9 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/hdinsight-java-deploy-storm-topology,a66c0b4693b26b5ecb13bc222bc24d4ac05ffa25,2016-06-22 15:59:42+00:00,0,0,0,0
-azure,Azure-Samples/hdinsight-java-deploy-storm-topology,ed6041c7d0c1e531a3f83ec8cb1392d0cd403dba,2016-06-22 15:59:43+00:00,0,0,0,0
-azure,Azure-Samples/hdinsight-java-deploy-storm-topology,c0312d268d0865a13dbac6a18387736e331fd60b,2016-06-22 15:59:43+00:00,0,0,0,0
-azure,Azure-Samples/hdinsight-java-deploy-storm-topology,5c19694b3cb865b9dc0d65246768e7585fa84619,2016-06-22 15:59:43+00:00,0,0,0,0
-azure,Azure-Samples/hdinsight-java-deploy-storm-topology,456f89ebaa99242949472a45e1c881ec04f51de8,2016-06-22 14:55:44-04:00,0,0,0,0
-azure,Azure-Samples/hdinsight-java-deploy-storm-topology,4b2ef0cc5766c5cf4d29547c47740c38e9078fd9,2016-06-22 14:55:54-04:00,1,57.0,6.0,0.0
-azure,Azure-Samples/hdinsight-java-deploy-storm-topology,c2f3b83e73207b8f2e7598b30a3e6d92c0aedb90,2016-06-23 07:47:36-04:00,1,57.0,6.0,0.0
-azure,Azure-Samples/hdinsight-java-deploy-storm-topology,22db4695d5a0464c85e206ecf10d4e7a3199c2a8,2018-10-30 23:48:11-07:00,1,57.0,6.0,0.0

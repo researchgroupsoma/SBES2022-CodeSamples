@@ -1,4 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/aws-ingesting-click-logs-using-terraform,9cb41d0436679f71a2c874b8471c01e294625c0a,2020-05-14 11:32:01-07:00,0,0,0,0
-aws,aws-samples/aws-ingesting-click-logs-using-terraform,a5def9d37ccf0de77ba93654fa39e1bffb84db22,2020-05-14 13:47:09-05:00,11,75.0909090909091,1.4883720930232558,0.0009225386873533188
-aws,aws-samples/aws-ingesting-click-logs-using-terraform,504e90b4000ef0a9696a901d2d32263818cef648,2020-05-15 12:40:08-05:00,11,75.0909090909091,1.4883720930232558,0.0009225386873533188

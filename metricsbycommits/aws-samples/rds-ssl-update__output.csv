@@ -1,4 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/rds-ssl-update,3ce8e2684f4271d62b4939cdca8d861becfaf8f7,2020-01-21 11:53:20-08:00,0,0,0,0
-aws,aws-samples/rds-ssl-update,3d24eecdf601c36194718e77fbc513dd7ca81301,2020-01-21 15:17:18-05:00,0,0,0,0
-aws,aws-samples/rds-ssl-update,4e4450926fd4a5a8fe7aecddd0786a2dccbab13c,2020-01-21 15:40:26-05:00,1,188.0,5.75,0.0

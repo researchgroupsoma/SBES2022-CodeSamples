@@ -1,5 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/spring-data-cassandra-on-azure,c84fc4171b56b4f028de3f9e3ce8493e60055f84,2018-12-06 01:12:02-08:00,0,0,0,0
-azure,Azure-Samples/spring-data-cassandra-on-azure,785bcb7f9863805f570dde6cd22966e0906ea450,2018-12-07 15:31:59+08:00,4,20.75,1.0,0.4238604445999954
-azure,Azure-Samples/spring-data-cassandra-on-azure,98299a96340996fca8ef8feea85923d8157394ac,2018-12-10 09:45:29+08:00,4,20.75,1.0,0.4238604445999954
-azure,Azure-Samples/spring-data-cassandra-on-azure,1bf0e78b7c0ed9e9c0ddd28cd0a0ba9f2d0e758a,2019-09-13 04:32:33+05:18,4,20.75,1.0,0.4238604445999954

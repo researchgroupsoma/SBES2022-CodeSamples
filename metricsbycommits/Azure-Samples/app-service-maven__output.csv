@@ -1,8 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/app-service-maven,d3ce34cf82a9a8ff60993315243dc52a95b7bee5,2017-06-13 11:43:15-07:00,0,0,0,0
-azure,Azure-Samples/app-service-maven,48dacc540573346fc8ae158a501a21246c91066c,2017-06-13 11:43:21-07:00,0,0,0,0
-azure,Azure-Samples/app-service-maven,d67bb6ad407259970bc2893d39306131a514439c,2017-06-13 11:43:22-07:00,0,0,0,0
-azure,Azure-Samples/app-service-maven,f85c380d4c88ab8fac2850b61ff4997279702279,2017-06-13 11:53:17-07:00,0,0,0,0
-azure,Azure-Samples/app-service-maven,e3521905dbeb2cc4d77033e762d1bd85e1832394,2017-06-13 11:58:58-07:00,0,0,0,0
-azure,Azure-Samples/app-service-maven,746929c2ae37ee87d4d63a2460e5db3f333491d3,2017-06-13 12:01:42-07:00,0,0,0,0
-azure,Azure-Samples/app-service-maven,3009a8984c9fb845344250ec7bb857f09d4e972c,2017-06-13 12:04:18-07:00,0,0,0,0

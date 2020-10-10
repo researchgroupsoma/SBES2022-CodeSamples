@@ -1,5 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/spring-data-jdbc-on-azure,fca8489995745b6c4401548b36e56c64ae1e7cdb,2018-12-05 19:19:07-08:00,0,0,0,0
-azure,Azure-Samples/spring-data-jdbc-on-azure,ad25b6c292c23a667af4f56e3beb47e47591146c,2018-12-06 16:51:53+08:00,4,28.0,1.0625,0.20991660724394023
-azure,Azure-Samples/spring-data-jdbc-on-azure,078d4389c63d4af3fff8e49674ad73ff326fd7ae,2018-12-10 09:44:09+08:00,4,28.0,1.0625,0.20991660724394023
-azure,Azure-Samples/spring-data-jdbc-on-azure,af9485b045df4c2f0eecc4f1cfdbcea9ca677097,2019-09-13 04:31:40+05:18,4,28.0,1.0625,0.20991660724394023

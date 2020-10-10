@@ -1,7 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/aws-codeguru-profiler-demo-application,ab57a0af7090db735e9dcf6334dfa7532e2318e2,2020-03-23 03:53:43-07:00,0,0,0,0
-aws,aws-samples/aws-codeguru-profiler-demo-application,0648cf06a0d97f0bc87f73c34798dde11ecb61bc,2020-03-24 15:28:20+00:00,5,67.4,2.076923076923077,0.0023430343717336655
-aws,aws-samples/aws-codeguru-profiler-demo-application,585a658a6b40b754b90c7ee8f0b086b11265898c,2020-03-24 16:57:24+00:00,5,67.4,2.076923076923077,0.0023430343717336655
-aws,aws-samples/aws-codeguru-profiler-demo-application,07884b2d6f0cf92a0a57ed2a69eb7f11faff1a63,2020-03-25 11:16:12+00:00,5,67.4,2.076923076923077,0.0023430343717336655
-aws,aws-samples/aws-codeguru-profiler-demo-application,1309a1725d24761f62efa9d77eff553066106a26,2020-05-11 13:03:27+03:00,5,67.4,2.076923076923077,0.0023430343717336655
-aws,aws-samples/aws-codeguru-profiler-demo-application,136348899ee07b34f8e39e439874619853fd2735,2020-05-11 11:06:39+01:00,5,67.4,2.076923076923077,0.0023430343717336655

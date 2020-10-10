@@ -1,2 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/cosmosdb-java-create-cosmosdb-and-configure-for-high-availability,a7137c0160663695e73dd11742502c0e10cc5e96,2020-01-14 16:15:40+08:00,2,1271.0,3.7934782608695654,0.0

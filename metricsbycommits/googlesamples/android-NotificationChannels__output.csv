@@ -1,7 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-android,googlesamples/android-NotificationChannels,c44115de37b6a6414577c0d2ca6deb23ba99a336,2017-03-21 10:30:11-07:00,2,84.0,1.4285714285714286,0.0
-android,googlesamples/android-NotificationChannels,5756993f04645d7d91d1c02bf72819711a1a3d79,2017-05-17 13:34:13-07:00,2,84.0,1.4285714285714286,0.0
-android,googlesamples/android-NotificationChannels,bac82ab84580374aa18e28e0b5df631b176c4cd8,2017-06-08 09:35:17-07:00,2,84.0,1.4285714285714286,0.0
-android,googlesamples/android-NotificationChannels,c4081cf601a30e25d3f26ec9ee477d3d19c7531d,2017-10-10 17:53:57-07:00,2,84.0,1.4285714285714286,0.0
-android,googlesamples/android-NotificationChannels,93b64ec7c98f8328c594c81325a42900cad6e3a6,2018-02-15 16:37:30-08:00,2,84.0,1.4285714285714286,0.0
-android,googlesamples/android-NotificationChannels,a1eedcb9f9ba065c675d1f79c0571699ff988463,2019-10-08 09:11:31-07:00,2,84.0,1.4285714285714286,0.0

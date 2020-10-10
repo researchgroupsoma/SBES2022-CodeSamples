@@ -1,7 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/cosmos-changefeed-cassandra-java,6a2c5bb6e466886702d558efd6952bcf957fe96d,2020-04-24 11:05:54+00:00,0,0,0,0
-azure,Azure-Samples/cosmos-changefeed-cassandra-java,d409257d460018c617daa24cbbcd65966f2c300f,2020-04-24 04:05:57-07:00,0,0,0,0
-azure,Azure-Samples/cosmos-changefeed-cassandra-java,284042e4831826082a5f2d1acf5f71aab2da03f8,2020-04-24 04:05:58-07:00,0,0,0,0
-azure,Azure-Samples/cosmos-changefeed-cassandra-java,66f7c6fb3eb0f75a915a513b3b6954b323b31531,2020-04-24 04:05:59-07:00,0,0,0,0
-azure,Azure-Samples/cosmos-changefeed-cassandra-java,2392bca89fb90c5990dd4035089c2523b6ba5026,2020-04-24 04:06:00-07:00,0,0,0,0
-azure,Azure-Samples/cosmos-changefeed-cassandra-java,d36d8e586dda03243edfd0ea94b422c4ecd14c08,2020-04-24 17:03:20+05:18,4,45.0,1.625,0.018162610303988913

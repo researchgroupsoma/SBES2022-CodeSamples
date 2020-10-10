@@ -1,8 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/azure-springaop-appconfig,5c4af3c3fadcfeec79bd1f2528825b1cc94e8da1,2019-07-31 15:34:24-07:00,0,0,0,0
-azure,Azure-Samples/azure-springaop-appconfig,7eddb213e40ff2d4f01b3ebad2af4e2bc5310cf6,2019-07-31 15:34:28-07:00,0,0,0,0
-azure,Azure-Samples/azure-springaop-appconfig,028ab6c7006cf7fb643b86145bdddcfa8ef9f3af,2019-07-31 15:34:29-07:00,0,0,0,0
-azure,Azure-Samples/azure-springaop-appconfig,af5dbd57ac3c78fc7f3a59056fa1d39d3b41d8bf,2019-07-31 15:34:30-07:00,0,0,0,0
-azure,Azure-Samples/azure-springaop-appconfig,82375eaf081eb0552101e5ece2c6da3b1c1a755d,2019-07-31 15:42:03-07:00,4,26.25,1.0,0.1059407644206658
-azure,Azure-Samples/azure-springaop-appconfig,69c8a2b968af5ff7fa6c45df32d4569c54868bd4,2019-09-02 17:38:24-07:00,4,26.75,1.0,0.1058690493227914
-azure,Azure-Samples/azure-springaop-appconfig,71ad98768ea6eb2a43bc8ecf8c075c7124bcf6a6,2019-09-02 17:41:43-07:00,4,26.75,1.0,0.1058690493227914

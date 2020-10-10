@@ -1,4 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-android,googlesamples/account-transfer-api,7411e99dad72be9cedc34229cbcfbe52a8c8cd0f,2017-08-10 12:12:05-07:00,7,53.142857142857146,1.5714285714285714,0.004467847291380167
-android,googlesamples/account-transfer-api,50c0c7ad7abdd507d63040ea58cc0f427effcf0c,2017-08-28 14:45:20-07:00,7,60.142857142857146,1.5806451612903225,0.003755894614317055
-android,googlesamples/account-transfer-api,263e68f98529bd645365b29edcff4d99f84694ef,2019-09-18 13:53:30-07:00,7,60.142857142857146,1.5806451612903225,0.003755894614317055

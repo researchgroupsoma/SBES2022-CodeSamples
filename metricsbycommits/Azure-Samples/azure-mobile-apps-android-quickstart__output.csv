@@ -1,5 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/azure-mobile-apps-android-quickstart,9be670dcd0df9dbf50b84a4872bb77b2e7867751,2017-03-29 15:14:01-07:00,0,0,0,0
-azure,Azure-Samples/azure-mobile-apps-android-quickstart,4708cfd3eb443a669eabe32efc0c71912536a40f,2017-03-29 15:14:05-07:00,0,0,0,0
-azure,Azure-Samples/azure-mobile-apps-android-quickstart,0782cde8290dca1064eea23c94e1c05cdb877d4e,2017-03-29 15:14:06-07:00,0,0,0,0
-azure,Azure-Samples/azure-mobile-apps-android-quickstart,a58178a0abc9c76ee74a69c03af5cd215045c884,2017-04-03 16:25:50-07:00,3,115.33333333333333,1.4878048780487805,0.0032490144949406385

@@ -1,8 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-azure,Azure-Samples/spring-data-jpa-on-azure,c7b858b34ae27300149c7c92a333e419d08c992d,2018-12-03 18:48:48-08:00,0,0,0,0
-azure,Azure-Samples/spring-data-jpa-on-azure,4884744953f1b78896205c1282afaf4f89817fb5,2018-12-06 11:07:44+08:00,4,20.25,1.0,0.418092584121041
-azure,Azure-Samples/spring-data-jpa-on-azure,8882ce4ddc32bf5a8d7f71e0bc9bf2bfd7349066,2019-07-03 21:25:40-07:00,4,20.25,1.0,0.418092584121041
-azure,Azure-Samples/spring-data-jpa-on-azure,fe1d04573900abab5914bc4276376ecddae75886,2019-07-03 21:27:20-07:00,4,20.25,1.0,0.418092584121041
-azure,Azure-Samples/spring-data-jpa-on-azure,21b1fc015ca058859716f2cd97f5582cd6ecc757,2019-07-03 21:38:42-07:00,4,20.25,1.0,0.418092584121041
-azure,Azure-Samples/spring-data-jpa-on-azure,23ea59523e63a309bb4c8832cb5a4e24bc08ef62,2019-07-03 21:58:49-07:00,4,20.25,1.0,0.418092584121041
-azure,Azure-Samples/spring-data-jpa-on-azure,a6f4663860d1826511a216acb07ea0ee2068017a,2019-07-30 20:08:29-07:00,4,20.25,1.0,0.418092584121041

@@ -1,8 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/amazon-athena-train-amazon-sagemaker,1fc4457bedf926995312a38c875427bbacc1eb3c,2020-01-27 10:39:32-08:00,0,0,0,0
-aws,aws-samples/amazon-athena-train-amazon-sagemaker,c3c6d5c7bd8de232951ff7ea439f90c8d27f3b4d,2020-03-03 10:50:35-05:00,0,0,0,0
-aws,aws-samples/amazon-athena-train-amazon-sagemaker,f9a3fb898780654065918e6b8c6f7d2faa7df4fc,2020-03-19 14:09:23+00:00,166,87.17469879518072,1.738404452690167,0.017736425727133496
-aws,aws-samples/amazon-athena-train-amazon-sagemaker,27d49aae566c105e09dbc78cb00bc1577598d332,2020-03-21 15:26:16-04:00,166,87.17469879518072,1.738404452690167,0.017736425727133496
-aws,aws-samples/amazon-athena-train-amazon-sagemaker,e32f98d44e6be2b930559027811ca3c1e953fdca,2020-03-21 15:27:01-04:00,166,87.17469879518072,1.738404452690167,0.017736425727133496
-aws,aws-samples/amazon-athena-train-amazon-sagemaker,6908ff58e70c9b8a1b730badd72b666748cf67c1,2020-03-21 15:32:49-04:00,166,87.17469879518072,1.738404452690167,0.017736425727133496
-aws,aws-samples/amazon-athena-train-amazon-sagemaker,2f81784b451159da5d17b73f5b84f4964c28903a,2020-03-21 15:33:54-04:00,166,87.17469879518072,1.738404452690167,0.017736425727133496

@@ -1,7 +1,0 @@
-framework,path,commits,date,numberOfJavaFiles,countLineCode/numberOfJavaFiles,SumCyclomaticStrict/CountDeclMethod,readability
-aws,aws-samples/blog-multi-region-serverless-service,565eabdb9f7017aa98a037e9c120069f4be696c3,2017-11-03 12:47:23-07:00,0,0,0,0
-aws,aws-samples/blog-multi-region-serverless-service,597870d7ba84ccf3251c88b40849af5d64a1c3a3,2017-11-03 12:47:24-07:00,0,0,0,0
-aws,aws-samples/blog-multi-region-serverless-service,fcecc55ef15794725a897989dbf1dd3321422414,2017-11-03 12:47:25-07:00,0,0,0,0
-aws,aws-samples/blog-multi-region-serverless-service,c6332e0dcae3402fbddad2adc308941b1a6be123,2017-11-03 12:47:26-07:00,0,0,0,0
-aws,aws-samples/blog-multi-region-serverless-service,412c692033d6ff3562a65e19fc0481413618fdcc,2017-11-03 12:47:27-07:00,0,0,0,0
-aws,aws-samples/blog-multi-region-serverless-service,0438eb383281502fdb62d533eba6c2384a54e449,2017-11-03 16:19:19-04:00,1,26.0,3.0,0.01268149632960558
