@@ -1,0 +1,48 @@
+full_name,created_at,description,forks_count,language,open_issues_count,size,stargazers_count,subscribers_count,updated_at,watchers_count
+spring-cloud-samples/cloudfoundry-service-broker,2014-04-16 17:09:10,Sample project for Spring Cloud - Cloud Foundry Service Broker,93,Java,3,132,42,14,2021-07-13 14:22:53,42
+spring-cloud-samples/configserver,2014-07-20 16:20:55,,365,Java,5,111,343,26,2021-08-11 03:01:50,343
+spring-cloud-samples/eureka,2014-07-20 16:23:11,,397,Java,7,875,437,38,2021-07-28 05:56:55,437
+spring-cloud-samples/customers-stores,2014-07-23 14:57:16,Two microservices for customers and stores,278,Java,16,2042,390,47,2021-08-07 11:52:18,390
+spring-cloud-samples/hystrix-dashboard,2014-07-30 23:39:41,,107,Java,4,117,96,15,2021-06-11 01:20:32,96
+spring-cloud-samples/turbine,2014-08-01 19:14:04,,32,Java,7,34,36,9,2021-04-26 15:03:36,36
+spring-cloud-samples/locks,2014-08-04 18:09:55,Global lock server demo,23,Java,4,80,35,6,2021-04-26 15:14:53,35
+spring-cloud-samples/processor,2014-08-19 14:16:20,Processor demo app (ratpack/mongo/reactor combo),12,Java,1,2043,15,9,2021-03-25 17:58:48,15
+spring-cloud-samples/aws-refapp,2014-10-27 14:35:42,Refernce app for spring-cloud-aws,94,Java,17,236,125,16,2021-08-01 04:59:18,125
+spring-cloud-samples/authserver,2014-11-05 09:04:04,,181,Java,9,70,303,38,2021-08-11 08:25:37,303
+spring-cloud-samples/sso,2014-11-05 09:25:43,,153,Java,4,80,228,28,2021-08-01 13:43:50,228
+spring-cloud-samples/zuul-server,2014-11-25 06:34:15,,61,Java,4,10,60,17,2021-04-26 15:06:11,60
+spring-cloud-samples/feign-eureka,2015-01-07 19:43:47,Example of using feign with eureka,133,Java,10,66,181,16,2021-05-23 04:09:54,181
+spring-cloud-samples/svn-config-server,2015-03-17 17:01:12,Sample Config Server and Config Client.  The Config Server is configured to use Subversion rather than git,19,Java,2,6,17,11,2021-04-26 15:10:41,17
+spring-cloud-samples/springbox-cloud,2015-04-20 20:40:50,Spring Cloud Reference Application,65,Java,9,163,110,27,2021-04-26 15:23:43,110
+spring-cloud-samples/fortune-teller,2015-05-21 04:31:15,Yet another great Spring Cloud sample app...,93,Java,17,740,62,13,2021-04-26 15:13:48,62
+spring-cloud-samples/brewery,2015-12-07 14:58:06,Brewing beer with Spring Cloud has never been that easy...,107,Java,8,36802,337,24,2021-08-16 02:52:57,337
+spring-cloud-samples/spring-cloud-atlas-sample,2015-12-16 22:07:39,,9,Java,2,50,7,3,2021-04-26 15:16:16,7
+spring-cloud-samples/zero-downtime-deployment,2016-05-31 07:18:35,Code backing up the article about zero downtime deployment,37,Java,1,1673,97,12,2021-06-25 16:51:24,97
+spring-cloud-samples/github-eureka,2016-10-12 09:42:57,Eureka used for tests with Github Analytics / Github Webhook apps. Used by the deployment pipeline,45,Java,1,82,10,5,2021-04-26 15:07:21,10
+spring-cloud-samples/github-analytics,2016-10-12 09:48:03,GitHub Analytics app. Analyses GitHub messages received from Github Webhook app. Part of the deployment pipeline example,203,Java,0,239,14,2,2021-04-26 15:07:23,14
+spring-cloud-samples/github-analytics-stub-runner-boot,2016-10-12 09:51:52,Spring Cloud Contract Stub Runner Boot used for tests with Github Analytics for the deployment pipeline. Registers stubs in Eureka.,32,Java,2,98,1,2,2021-04-26 15:06:54,1
+spring-cloud-samples/spring-cloud-contract-samples,2016-11-09 12:30:56,Samples for Spring Cloud Contract project,290,Java,16,22023,306,23,2021-08-09 08:39:36,306
+spring-cloud-samples/stub-runner-boot,2017-01-18 10:42:21,Repo containing an example of a simple setup of Stub Runner Boot,7,Java,0,63,3,4,2021-04-26 15:06:56,3
+spring-cloud-samples/sample-zuul-filters,2017-03-22 19:57:24,Samples of custom Zuul 1 filters for use in Spring Cloud Netflix,89,Java,11,64,208,23,2021-08-09 10:14:59,208
+spring-cloud-samples/github-analytics-stub-runner-boot-no-eureka,2017-03-23 07:35:07,Spring Cloud Contract Stub Runner Boot used for tests with Github Analytics for the deployment pipeline.,7,Java,1,54,0,2,2021-04-26 15:07:05,0
+spring-cloud-samples/github-analytics-stub-runner-boot-no-eureka-classpath-stubs,2017-06-08 10:48:29,Spring Cloud Contract Stub Runner Boot used for tests with Github Analytics for the deployment pipeline. Doesn't use Eureka and takes stubs from classpath,7,Java,1,54,0,2,2021-04-26 15:07:09,0
+spring-cloud-samples/github-analytics-stub-runner-boot-classpath-stubs,2017-06-08 10:59:21,Spring Cloud Contract Stub Runner Boot used for tests with Github Analytics for the deployment pipeline. Uses Eureka and takes stubs from classpath,9,Java,1,54,0,2,2021-04-26 15:06:58,0
+spring-cloud-samples/github-analytics-stub-runner-boot-classpath-stubs-kubernetes,2017-09-08 09:32:15,Spring Cloud Contract Stub Runner Boot used for tests with Github Analytics for the deployment pipeline. Uses Eureka and takes stubs from classpath. Includes Kubernetes starter,3,Java,1,9,1,2,2021-04-26 15:07:01,1
+spring-cloud-samples/github-analytics-kubernetes,2017-09-13 09:05:32,GitHub Analytics app. Analyses GitHub messages received from Github Webhook app. Part of the deployment pipeline example for Kubernetes,49,Java,2,222,1,2,2021-04-26 15:07:34,1
+spring-cloud-samples/spring-cloud-gateway-sample,2017-10-13 16:41:13,Sample Spring Cloud Gateway Application,173,Java,13,77,285,14,2021-08-17 01:46:21,285
+spring-cloud-samples/cloudfoundry-stub-runner-boot,2017-11-28 11:42:06,Spring Cloud Contract Stub Runner Boot used for tests with https://github.com/ciberkleid/cna-demo-setup ,13,Java,3,109,0,2,2021-04-26 15:13:16,0
+spring-cloud-samples/bookstore-service-broker,2017-12-27 22:38:55,Sample application for Spring Cloud Open Service Broker,53,Java,10,401,62,10,2021-06-24 02:07:36,62
+spring-cloud-samples/spring-cloud-contract-nodejs-external-contracts,2018-03-15 15:42:55,External contracts for the Spring Cloud Contract NodeJS sample,3,Java,1,60,1,2,2021-04-26 15:04:54,1
+spring-cloud-samples/messaging-application,2018-04-04 13:59:32,Sample application used for the presentation showing different test types for an event driven application,21,Java,3,103,40,9,2021-04-26 15:07:41,40
+spring-cloud-samples/sleuth-issues,2018-04-20 15:04:26,Samples for Sleuth that replicate issues,4,Java,5,616,1,6,2021-07-28 18:25:25,1
+spring-cloud-samples/sc-contract-car-rental,2018-10-26 09:33:34,Sample setup used for the Why Contract Tests Matter? presentation,6,Java,0,315,1,5,2021-07-30 23:12:55,1
+spring-cloud-samples/the-legacy-app,2018-10-26 09:33:57,[S1P 2017] the legacy app that calls the mainframe,2,Java,0,206,0,5,2021-07-12 12:24:19,0
+spring-cloud-samples/spring-cloud-config-vault,2018-10-29 23:17:57,Sample application demonstrating how to use Hashicorp Vault as a backend for a Spring Cloud Config server,11,Java,1,66,9,3,2021-04-26 15:09:21,9
+spring-cloud-samples/scdf-for-pcf-samples,2018-12-04 21:43:20,,2,Java,1,58,0,2,2021-04-26 15:22:44,0
+spring-cloud-samples/sample-gateway-oauth2login,2018-12-19 20:43:44,Sample application integrating Spring Cloud Gateway and Spring Security OAuth2,91,Java,8,79,184,14,2021-08-01 13:52:25,184
+spring-cloud-samples/spring-cloud-circuitbreaker-demo,2019-02-15 15:21:16,Samples demonstrating how to using Spring Cloud Circuitbreaker,30,Java,4,180,32,7,2021-08-11 05:51:07,32
+spring-cloud-samples/spring-cloud-app-broker-samples,2019-12-16 16:09:14,Sample apps for https://github.com/spring-cloud/spring-cloud-app-broker,1,Java,0,15288,9,1,2021-04-26 15:21:19,9
+spring-cloud-samples/spring-cloud-intro-demo,2020-08-24 13:10:46,Demo project for Spring Cloud Intro presentation,17,Java,1,228,19,3,2021-06-01 14:35:15,19
+spring-cloud-samples/spring-cloud-sleuth-samples,2021-03-12 08:43:20,Contains isolated samples of Spring Cloud Sleuth,1,Java,2,416,5,2,2021-08-12 15:52:49,5
+spring-cloud-samples/spring-cloud-square-retrofit-web,2021-04-07 10:19:16,Demo project for Spring Cloud Square Retrofit Web,0,Java,0,62,2,3,2021-04-20 06:20:16,2
+spring-cloud-samples/spring-cloud-square-retrofit-webclient,2021-04-07 11:18:28,,0,Java,1,61,0,3,2021-04-08 10:51:42,0
