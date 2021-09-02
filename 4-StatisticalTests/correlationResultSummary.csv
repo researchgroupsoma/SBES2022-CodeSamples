@@ -1,0 +1,32 @@
+metric,positive correlation,negative correlation,inconclusive
+Buse Readability pvalue,3,0,184
+Java pvalue,97,0,90
+Classes pvalue,112,0,75
+Packages pvalue,76,0,111
+LOC pvalue,119,0,68
+PL pvalue,123,0,64
+RFC pvalue,108,0,79
+CLOC pvalue,118,0,69
+CBO pvalue,121,0,66
+NOC pvalue,33,0,154
+LCOM pvalue,103,0,84
+WMC pvalue,123,0,64
+DIT pvalue,79,0,108
+Class Variables pvalue,91,0,96
+Class Methods pvalue,101,0,86
+NIM pvalue,107,0,80
+NIV pvalue,104,0,83
+Local Methods pvalue,108,0,79
+Methods pvalue,108,0,79
+Default Methods pvalue,63,0,124
+Private Methods pvalue,91,0,96
+Protected Methods pvalue,67,0,120
+Public Methods pvalue,107,0,80
+BLOC pvalue,121,0,66
+Declarative Line of Code pvalue,124,0,63
+Executable Line of Code pvalue,123,0,64
+Statements pvalue,122,0,65
+Declarative Statements pvalue,116,0,71
+Executable Statements pvalue,126,0,61
+Comment to Code Ratio pvalue,109,0,78
+questions pvalue,186,0,1

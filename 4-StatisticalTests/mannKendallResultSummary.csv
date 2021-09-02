@@ -1,0 +1,31 @@
+metric,no trend,increasing,decreasing
+Buse Readability trend,4,2,1
+Java trend,79,86,22
+Classes trend,68,99,20
+Packages trend,102,67,18
+LOC trend,53,98,36
+PL trend,50,100,37
+RFC trend,65,76,46
+CLOC trend,60,83,44
+CBO trend,60,88,39
+NOC trend,154,18,15
+LCOM trend,69,58,60
+WMC trend,55,89,43
+DIT trend,98,31,58
+Class Variables trend,88,61,38
+Class Methods trend,77,56,54
+NIM trend,74,64,49
+NIV trend,72,64,51
+Local Methods trend,69,71,47
+Methods trend,65,76,46
+Default Methods trend,123,45,19
+Private Methods trend,91,65,31
+Protected Methods trend,114,33,40
+Public Methods trend,68,65,54
+BLOC trend,57,90,40
+Declarative Line of Code trend,56,88,43
+Executable Line of Code trend,53,98,36
+Statements trend,52,88,47
+Declarative Statements trend,58,84,45
+Executable Statements trend,51,88,48
+Comment to Code Ratio trend,62,54,71
