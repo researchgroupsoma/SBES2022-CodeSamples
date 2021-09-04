@@ -1,0 +1,32 @@
+metric,positive correlation,negative correlation,inconclusive
+Buse Readability,3,0,184
+Java,77,20,90
+Classes,91,21,75
+Packages,63,13,111
+LOC,87,32,68
+PL,88,35,64
+RFC,67,41,79
+CLOC,77,41,69
+CBO,79,42,66
+NOC,18,15,154
+LCOM,50,53,84
+WMC,83,40,64
+DIT,29,50,108
+Class Variables,57,34,96
+Class Methods,51,50,86
+NIM,62,45,80
+NIV,59,45,83
+Local Methods,65,43,79
+Methods,67,41,79
+Default Methods,43,20,124
+Private Methods,64,27,96
+Protected Methods,32,35,120
+Public Methods,57,50,80
+BLOC,83,38,66
+Declarative Line of Code,81,43,63
+Executable Line of Code,87,36,64
+Statements,79,43,65
+Declarative Statements,74,42,71
+Executable Statements,81,45,61
+Comment to Code Ratio,49,60,78
+questions,186,0,1

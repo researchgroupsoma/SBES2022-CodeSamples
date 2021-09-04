@@ -1,0 +1,31 @@
+metric,no trend,increasing,decreasing
+Buse Readability,4,2,1
+Java,79,86,22
+Classes,68,99,20
+Packages,102,67,18
+LOC,53,98,36
+PL,50,100,37
+RFC,65,76,46
+CLOC,60,83,44
+CBO,60,88,39
+NOC,154,18,15
+LCOM,69,58,60
+WMC,55,89,43
+DIT,98,31,58
+Class Variables,88,61,38
+Class Methods,77,56,54
+NIM,74,64,49
+NIV,72,64,51
+Local Methods,69,71,47
+Methods,65,76,46
+Default Methods,123,45,19
+Private Methods,91,65,31
+Protected Methods,114,33,40
+Public Methods,68,65,54
+BLOC,57,90,40
+Declarative Line of Code,56,88,43
+Executable Line of Code,53,98,36
+Statements,52,88,47
+Declarative Statements,58,84,45
+Executable Statements,51,88,48
+Comment to Code Ratio,62,54,71
