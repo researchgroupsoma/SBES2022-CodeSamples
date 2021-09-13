@@ -1,31 +1,35 @@
 metric,no trend,increasing,decreasing
-Buse Readability,4,2,1
-Java,79,86,22
-Classes,68,99,20
-Packages,102,67,18
-LOC,53,98,36
-PL,50,100,37
-RFC,65,76,46
-CLOC,60,83,44
-CBO,60,88,39
-NOC,154,18,15
-LCOM,69,58,60
-WMC,55,89,43
-DIT,98,31,58
-Class Variables,88,61,38
-Class Methods,77,56,54
-NIM,74,64,49
+Buse Readability,87,56,44
+Scalabrino Readability,44,49,94
+FANIN,58,51,78
+FANOUT,63,57,67
+CC,54,51,82
+CCM,55,50,82
+CCS,57,50,80
+EC,60,39,88
+KNTS,84,45,58
+NPATH,47,61,79
+NPLOG,92,41,54
+PL,48,102,37
+LOC,56,97,34
+DLOC,59,87,41
+Executable Line of Code,51,99,37
+CLOC,63,82,42
+BL,57,92,38
+NV,89,58,40
+AM,66,76,45
+NPRM,70,62,55
+NPM,88,68,31
+PM,111,34,42
+LM,70,71,46
+STMT,51,89,47
+DSTMT,58,84,45
+ESTMT,52,88,47
+CCR,61,59,67
+WMC,55,90,42
+NOC,152,19,16
+DIT,95,32,60
+LCOM,77,50,60
+CBO,58,88,41
+RFC,66,76,45
 NIV,72,64,51
-Local Methods,69,71,47
-Methods,65,76,46
-Default Methods,123,45,19
-Private Methods,91,65,31
-Protected Methods,114,33,40
-Public Methods,68,65,54
-BLOC,57,90,40
-Declarative Line of Code,56,88,43
-Executable Line of Code,53,98,36
-Statements,52,88,47
-Declarative Statements,58,84,45
-Executable Statements,51,88,48
-Comment to Code Ratio,62,54,71
